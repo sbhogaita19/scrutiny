@@ -4,8 +4,8 @@ Scrutiny news builder.
 
 Fetches curated RSS/Atom feeds, tags every story against the AQA A-level
 Politics (7152) sections, groups stories that several outlets are covering,
-and (optionally) writes a daily "Commentator's Briefing" using GitHub Models
-(free inside GitHub Actions via the built-in GITHUB_TOKEN).
+and (optionally) writes a daily "Commentator's Briefing" using a free AI API:
+Groq first (GROQ_API_KEY), OpenRouter as a backup (OPENROUTER_API_KEY).
 
 Standard library only, so it runs anywhere with Python 3.9+.
 
@@ -44,10 +44,22 @@ MAX_PER_SOURCE_FETCH = 40
 SUMMARY_CHARS = 320
 
 BRIEFING_MAX_AGE_HOURS = float(os.environ.get("BRIEFING_MAX_AGE_HOURS", "5"))
-MODEL_CANDIDATES = [m for m in os.environ.get(
-    "BRIEFING_MODELS", "openai/gpt-4.1-mini,openai/gpt-4o-mini,openai/gpt-4.1,openai/gpt-4o"
-).split(",") if m.strip()]
-MODELS_ENDPOINT = os.environ.get("MODELS_ENDPOINT", "https://models.github.ai/inference/chat/completions")
+def _models(env, default):
+    return [m.strip() for m in os.environ.get(env, default).split(",") if m.strip()]
+
+
+# Free AI providers, tried in order. Each needs its key saved as a repository secret.
+PROVIDERS = [
+    {"name": "groq", "key_env": "GROQ_API_KEY",
+     "endpoint": "https://api.groq.com/openai/v1/chat/completions",
+     "models": _models("GROQ_MODELS", "openai/gpt-oss-120b,openai/gpt-oss-20b"),
+     "json_mode": True},
+    {"name": "openrouter", "key_env": "OPENROUTER_API_KEY",
+     "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+     "models": _models("OPENROUTER_MODELS", "openrouter/free"),
+     "json_mode": False},
+]
+BRIEFING_MAX_TOKENS = int(os.environ.get("BRIEFING_MAX_TOKENS", "4000"))
 
 
 # --------------------------------------------------------------------------- helpers
@@ -310,7 +322,7 @@ def cluster(items):
             items[m]["cluster"] = cid
 
 
-# --------------------------------------------------------------------------- AI briefing (GitHub Models)
+# --------------------------------------------------------------------------- AI briefing (Groq / OpenRouter)
 
 SYSTEM_PROMPT = """You are a world-class political commentator writing a daily briefing for a sixth-form student \
 studying AQA A-level Politics (7152) in England: UK Government, UK Politics, US Politics (with comparison) and Political Ideas.
@@ -349,7 +361,7 @@ Write 5 or 6 stories. Include at least one UK Government, one UK Politics and on
 Each story needs 2 or 3 perspectives."""
 
 
-def pick_briefing_inputs(items, tax, limit=36):
+def pick_briefing_inputs(items, tax, limit=24):
     cutoff = NOW - dt.timedelta(hours=36)
     recent = [it for it in items if parse_iso(it["date"]) >= cutoff and it["tags"]]
     if len(recent) < 15:
@@ -382,49 +394,90 @@ def pick_briefing_inputs(items, tax, limit=36):
     return chosen
 
 
-def call_models(token, messages):
-    last_err = None
-    for model in MODEL_CANDIDATES:
-        for use_json_mode in (True, False):
-            body = {"model": model.strip(), "messages": messages, "temperature": 0.3, "max_tokens": 3500}
-            if use_json_mode:
-                body["response_format"] = {"type": "json_object"}
-            req = urllib.request.Request(MODELS_ENDPOINT, data=json.dumps(body).encode(), method="POST", headers={
-                "Authorization": f"Bearer {token}",
-                "Content-Type": "application/json",
-                "Accept": "application/json",
-                "X-GitHub-Api-Version": "2022-11-28",
-            })
-            try:
-                with urllib.request.urlopen(req, timeout=120) as r:
-                    data = json.loads(r.read())
-                content = data["choices"][0]["message"]["content"]
-                return model.strip(), content
-            except urllib.error.HTTPError as e:
-                detail = e.read().decode("utf-8", "replace")[:300]
-                last_err = f"{model} HTTP {e.code}: {detail}"
-                log("  model error:", last_err)
-                if e.code == 400 and use_json_mode:
-                    continue  # retry same model without JSON mode
-                break  # try next model
-            except Exception as e:  # noqa: BLE001
-                last_err = f"{model}: {e}"
-                log("  model error:", last_err)
+def _post(url, key, body, extra_headers=None):
+    headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json",
+               "Accept": "application/json", "User-Agent": UA}
+    headers.update(extra_headers or {})
+    req = urllib.request.Request(url, data=json.dumps(body).encode(), method="POST", headers=headers)
+    with urllib.request.urlopen(req, timeout=150) as r:
+        raw = r.read().decode("utf-8", "replace")
+    try:
+        return json.loads(raw)
+    except ValueError:
+        raise RuntimeError(f"non-JSON reply: {raw[:200]!r}")
+
+
+def call_models(messages):
+    """Try each configured provider/model until one returns text. Returns (label, content)."""
+    last_err, tried = None, 0
+    for p in PROVIDERS:
+        key = os.environ.get(p["key_env"], "").strip()
+        if not key:
+            log(f"  {p['name']}: no {p['key_env']} secret, skipping")
+            continue
+        extra = {"HTTP-Referer": "https://sbhogaita19.github.io/scrutiny/", "X-Title": "Scrutiny"} \
+            if p["name"] == "openrouter" else None
+        bad_key = False
+        for model in p["models"]:
+            if bad_key:
                 break
+            modes = (True, False) if p["json_mode"] else (False,)
+            for use_json in modes:
+                tried += 1
+                body = {"model": model, "messages": messages, "temperature": 0.3,
+                        "max_tokens": BRIEFING_MAX_TOKENS}
+                if use_json:
+                    body["response_format"] = {"type": "json_object"}
+                if p["name"] == "groq" and "gpt-oss" in model:
+                    body["reasoning_effort"] = "low"   # keep thinking short so the answer fits
+                label = f"{p['name']}:{model}"
+                try:
+                    data = _post(p["endpoint"], key, body, extra)
+                    if data.get("error"):
+                        raise RuntimeError(str(data["error"])[:300])
+                    content = (data["choices"][0]["message"].get("content") or "").strip()
+                    if not content:
+                        raise RuntimeError("empty reply")
+                    return label, content
+                except urllib.error.HTTPError as e:
+                    detail = e.read().decode("utf-8", "replace")[:300]
+                    last_err = f"{label} HTTP {e.code}: {detail}"
+                    log("  model error:", last_err)
+                    if e.code == 400 and use_json:
+                        continue          # retry same model without JSON mode
+                    bad_key = e.code in (401, 403)
+                    break                 # otherwise try the next model
+                except Exception as e:  # noqa: BLE001
+                    last_err = f"{label}: {e}"
+                    log("  model error:", last_err)
+                    break
+    if not tried:
+        raise RuntimeError("no AI key configured (add GROQ_API_KEY or OPENROUTER_API_KEY as a repository secret)")
     raise RuntimeError(last_err or "no model available")
 
 
 def extract_json(text):
-    text = text.strip()
-    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text)
+    text = re.sub(r"<think>.*?</think>", "", text, flags=re.S).strip()
+    text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text).strip()
     start, end = text.find("{"), text.rfind("}")
-    return json.loads(text[start:end + 1])
+    if start < 0 or end <= start:
+        raise ValueError(f"no JSON object in reply: {text[:200]!r}")
+    chunk = text[start:end + 1]
+    try:
+        return json.loads(chunk)
+    except ValueError:
+        return json.loads(re.sub(r",\s*([}\]])", r"\1", chunk))   # tolerate trailing commas
+
+
+def _ids(v):
+    if isinstance(v, (str, int)):
+        v = [v]
+    return [str(x).strip().strip("[]").strip() for x in (v or [])]
 
 
 def build_briefing(items, tax, force=False):
-    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("MODELS_TOKEN")
-    if not token:
-        log("No GITHUB_TOKEN: skipping AI briefing.")
+    if not any(os.environ.get(p["key_env"], "").strip() for p in PROVIDERS):
+        log("No AI key (GROQ_API_KEY / OPENROUTER_API_KEY): skipping AI briefing.")
         return
     if BRIEFING_FILE.exists() and not force:
         try:
@@ -445,12 +498,12 @@ def build_briefing(items, tax, force=False):
     lines = []
     for it in chosen:
         lines.append(f'[{it["id"]}] {it["sourceName"]} ({it["lean"]}) | {it["date"][:16]} | tags: {",".join(it["tags"][:3])}\n'
-                     f'  {it["title"]}\n  {it["summary"][:230]}')
+                     f'  {it["title"]}\n  {it["summary"][:180]}')
     user = (f"Today is {NOW.strftime('%A %d %B %Y')}.\nTopic ids: {'; '.join(topics)}\n\n"
             f"Stories (id, outlet and its broad lean, time, tags, headline, summary):\n\n" + "\n".join(lines))
     messages = [{"role": "system", "content": SYSTEM_PROMPT}, {"role": "user", "content": user}]
     try:
-        model, content = call_models(token, messages)
+        model, content = call_models(messages)
         b = extract_json(content)
     except Exception as e:  # noqa: BLE001
         log("Briefing failed, keeping previous one:", e)
@@ -458,12 +511,14 @@ def build_briefing(items, tax, force=False):
 
     # Validate: keep only stories grounded in supplied items
     stories = []
-    for s in b.get("stories", []):
-        srcs = [x for x in s.get("sources", []) if x in valid_ids]
+    for s in b.get("stories", []) if isinstance(b.get("stories"), list) else []:
+        if not isinstance(s, dict):
+            continue
+        srcs = [x for x in _ids(s.get("sources")) if x in valid_ids]
         if not srcs or not s.get("title"):
             continue
         s["sources"] = srcs
-        s["perspectives"] = [p for p in s.get("perspectives", []) if p.get("text")][:3]
+        s["perspectives"] = [p for p in (s.get("perspectives") or []) if isinstance(p, dict) and p.get("text")][:3]
         stories.append(s)
     if len(stories) < 3:
         log("Briefing had too few grounded stories; keeping previous one.")
@@ -471,7 +526,7 @@ def build_briefing(items, tax, force=False):
     b["stories"] = stories
     for k in ("compare", "ideas_lens"):
         if isinstance(b.get(k), dict):
-            b[k]["sources"] = [x for x in b[k].get("sources", []) if x in valid_ids]
+            b[k]["sources"] = [x for x in _ids(b[k].get("sources")) if x in valid_ids]
     by_id = {it["id"]: it for it in chosen}
     refs = {}
     for s in stories + [b.get("compare") or {}, b.get("ideas_lens") or {}]:
