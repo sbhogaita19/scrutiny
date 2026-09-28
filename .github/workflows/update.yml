@@ -19,7 +19,6 @@ permissions:
   contents: write   # commit refreshed data/ back to the repo
   pages: write      # publish to GitHub Pages
   id-token: write   # required by deploy-pages
-  models: read      # free GitHub Models access for the AI briefing
 
 concurrency:
   group: pages
@@ -40,7 +39,8 @@ jobs:
 
       - name: Fetch news, tag for AQA, write briefing
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           if [ "${{ github.event.inputs.force_briefing }}" = "true" ]; then
             python scripts/build_news.py --force-briefing
