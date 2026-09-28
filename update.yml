@@ -1,0 +1,72 @@
+name: Update news and publish
+
+on:
+  schedule:
+    # Every 2 hours, 05:17–23:17 UTC (roughly 6am–midnight UK time)
+    - cron: "17 5-23/2 * * *"
+  workflow_dispatch:
+    inputs:
+      force_briefing:
+        description: "Write a fresh Commentator's Briefing now"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths-ignore:
+      - "data/**"
+
+permissions:
+  contents: write   # commit refreshed data/ back to the repo
+  pages: write      # publish to GitHub Pages
+  id-token: write   # required by deploy-pages
+  models: read      # free GitHub Models access for the AI briefing
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch news, tag for AQA, write briefing
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event.inputs.force_briefing }}" = "true" ]; then
+            python scripts/build_news.py --force-briefing
+          else
+            python scripts/build_news.py
+          fi
+
+      - name: Save refreshed data to the repo
+        run: |
+          git config user.name "scrutiny-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update news $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash || true
+            git push
+          fi
+
+      - name: Stamp service worker version
+        run: sed -i "s/__BUILD__/$(date -u +%Y%m%d%H%M)/" sw.js
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - id: deploy
+        uses: actions/deploy-pages@v4
