@@ -1,25 +1,60 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Scrutiny</title>
-<style>
-  html, body { height: 100%; margin: 0; }
-  body {
-    background: #0a0a0a;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  }
-  h1 { color: #ffffff; font-size: 4rem; margin: 0 0 1rem; font-weight: 600; }
-  p { color: #8a8a8a; font-size: 1rem; margin: 0; }
-</style>
+<meta name="description" content="Balanced politics news for AQA A-level Politics students, sorted by the course.">
+<meta name="theme-color" content="#f6f4ef" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0e0f12" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Scrutiny">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Scrutiny</h1>
-  <p>Politics, weighed properly.</p>
+  <header class="topbar">
+    <button class="brand" data-action="go" data-route="today" aria-label="Scrutiny home">
+      <span class="brand-mark" aria-hidden="true">S</span><span class="brand-name">Scrutiny</span>
+    </button>
+    <div class="topbar-actions">
+      <button class="icon-btn" data-action="search" aria-label="Search stories">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5"/><path d="M20 20l-4.2-4.2"/></svg>
+      </button>
+      <button class="icon-btn" data-action="refresh" aria-label="Refresh news">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg>
+      </button>
+      <button class="icon-btn" data-action="settings" aria-label="Settings and sources">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2.5v3M12 18.5v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M2.5 12h3M18.5 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1" aria-live="polite">
+    <div class="loading"><div class="spinner" aria-hidden="true"></div><p>Loading the latest politics…</p></div>
+  </main>
+
+  <nav class="tabbar" aria-label="Sections">
+    <button data-action="go" data-route="today"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="4" width="16" height="16" rx="2"/><path d="M8 9h8M8 13h8M8 17h5"/></svg><span>Today</span></button>
+    <button data-action="go" data-route="ukgov"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10l9-6 9 6"/><path d="M5 10v8M9.5 10v8M14.5 10v8M19 10v8M3 20h18"/></svg><span>UK Gov</span></button>
+    <button data-action="go" data-route="ukpol"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 10V5h10v5"/><rect x="4" y="10" width="16" height="10" rx="2"/><path d="M10 7h4"/></svg><span>UK Pol</span></button>
+    <button data-action="go" data-route="us"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 21V4"/><path d="M5 4h13l-2.5 4L18 12H5"/></svg><span>US</span></button>
+    <button data-action="go" data-route="ideas"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/></svg><span>Ideas</span></button>
+    <button data-action="go" data-route="compare"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18M5 21h14"/><path d="M5 7h14"/><path d="M5 7l-3 7a3 3 0 0 0 6 0L5 7zM19 7l-3 7a3 3 0 0 0 6 0l-3-7z"/></svg><span>Compare</span></button>
+  </nav>
+
+  <div class="sheet-backdrop" data-action="close-sheet" hidden></div>
+  <section class="sheet" role="dialog" aria-modal="true" aria-labelledby="sheet-title" hidden>
+    <div class="sheet-handle" aria-hidden="true"></div>
+    <div class="sheet-body"></div>
+  </section>
+
+  <div class="toast" role="status" aria-live="polite" hidden></div>
+
+  <script src="app.js" defer></script>
 </body>
 </html>
