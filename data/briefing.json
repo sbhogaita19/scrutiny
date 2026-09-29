@@ -1,180 +1,191 @@
 {
- "generated_at": "2026-09-29T11:22:30Z",
+ "generated_at": "2026-09-29T18:38:46Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK Labour pushes electoral reform as US Senate passes college sports bill",
-  "overview": "Today's headlines show Labour leader Andy Burnham outlining plans for proportional representation while the US Senate moves a bipartisan college‑sports bill. Both illustrate how parties shape policy agendas in Westminster and Washington.",
+  "headline": "Burnham pushes electoral reform as US Senate passes college sports bill",
+  "overview": "Labour leader Andy Burnham announced a move towards proportional representation at his conference, while the US Senate approved the Protect College Sports Act. Both events highlight debates over representation and fairness in democratic systems.",
   "stories": [
    {
-    "title": "Burnham to unveil electoral reform plan",
+    "title": "Burnham calls for electoral reform",
     "section": "ukpol",
     "topic": "elections",
-    "what_happened": "Andy Burnham said he will propose a shift to proportional representation at the Labour conference. The proposal follows Labour’s recent poll surge and aims to attract smaller parties.",
-    "why_it_matters": "The story links to the A‑level focus on how parties influence electoral systems and voter representation. It illustrates the concept of electoral reform as a party strategy.",
+    "what_happened": "Andy Burnham said Labour will launch a national commission to consider replacing first‑past‑the‑post with proportional representation. The pledge was made in his first speech as party leader at the Labour conference.",
+    "why_it_matters": "The proposal directly relates to the AQA topic of elections and the principle of representative democracy. It raises questions about how electoral systems affect party competition and voter choice.",
     "perspectives": [
      {
-      "label": "Labour supporters argue",
-      "text": "Proportional representation would make elections fairer and give voters a stronger voice."
+      "label": "Supporters argue",
+      "text": "Proportional representation would give smaller parties a fairer chance and better reflect voter preferences."
      },
      {
-      "label": "Conservative critics argue",
-      "text": "The change could destabilise government by encouraging fragmented parliaments."
+      "label": "Critics argue",
+      "text": "First‑past‑the‑post provides stable governments and clear accountability, which could be weakened by PR."
      },
      {
       "label": "From the left",
-      "text": "Smaller progressive parties see it as a chance to break the two‑party dominance."
+      "text": "Labour’s move is seen as a step towards a more inclusive and democratic system."
      }
     ],
     "key_term": {
      "term": "Proportional representation",
-     "definition": "An electoral system where seats are allocated to parties in proportion to their share of the vote."
+     "definition": "An electoral system where seats are allocated to parties in proportion to the votes they receive."
     },
-    "exam_use": "Use as evidence in an essay on the impact of party strategies on electoral systems.",
+    "exam_use": "Use as evidence in an essay evaluating the advantages and disadvantages of different electoral systems.",
     "sources": [
+     "f977ec93c0fc",
      "6855d15bf72b"
+    ]
+   },
+   {
+    "title": "UK energy grid investment announced",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Andy Burnham announced a public body will invest in the electricity grid to reduce energy costs. The statement was made during his conference speech.",
+    "why_it_matters": "Links to the AQA topic of the executive and its role in policy implementation, showing how the cabinet directs public spending.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Investment will modernise infrastructure and lower bills for consumers."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Spending may increase public debt and interfere with market competition."
+     },
+     {
+      "label": "From the right",
+      "text": "Calls for private sector solutions over state‑led investment."
+     }
+    ],
+    "key_term": {
+     "term": "Public body",
+     "definition": "An organisation set up by the government to carry out specific functions, often funded by public money."
+    },
+    "exam_use": "Cite when discussing the executive’s use of public bodies to achieve policy goals.",
+    "sources": [
+     "469223badc70"
     ]
    },
    {
     "title": "Senate passes Protect College Sports Act",
     "section": "us",
     "topic": "congress",
-    "what_happened": "The US Senate approved the Protect College Sports Act with a bipartisan majority. The bill seeks to set uniform rules for gender‑based participation in college athletics.",
-    "why_it_matters": "The legislation illustrates how US parties can cooperate on policy despite broader polarization, a key point for studying party behaviour and legislative processes.",
+    "what_happened": "The US Senate approved the Protect College Sports Act with a bipartisan vote, aiming to address fairness and equity in college athletics. The bill now moves to the House for consideration.",
+    "why_it_matters": "Relevant to the AQA unit on US Congress and the legislative process, illustrating bipartisan cooperation and policy making.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The act ensures fairness and safety for all student‑athletes."
+      "text": "The act will ensure student‑athletes receive equal treatment and protect their rights."
      },
      {
       "label": "Critics argue",
-      "text": "It may undermine transgender athletes’ rights and equal treatment."
+      "text": "It may increase federal regulation of college sports, infringing on institutional autonomy."
      },
      {
-      "label": "From the right",
-      "text": "Bipartisan support shows conservative concerns about competitive equity."
+      "label": "From the left",
+      "text": "Seen as a step towards greater social justice for student athletes."
      }
     ],
     "key_term": {
      "term": "Bipartisan",
      "definition": "Involving cooperation between two major political parties."
     },
-    "exam_use": "Cite in an essay comparing party collaboration in the US Congress versus the UK Parliament.",
+    "exam_use": "Use as a case study of how a bill passes through the Senate and the role of party politics.",
     "sources": [
      "08e38c583f7a"
     ]
    },
    {
-    "title": "Fact‑check on alleged No 10 policy chief",
-    "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "Full Fact reported that social media claims about former MP Josh Simons becoming head of the No 10 policy unit are false. He has not been appointed to any Downing Street role.",
-    "why_it_matters": "The story highlights the role of the media and fact‑checking in holding government accountable, linking to the A‑level theme of parliamentary scrutiny and transparency.",
-    "perspectives": [
-     {
-      "label": "Government supporters argue",
-      "text": "The clarification prevents misinformation about ministerial appointments."
-     },
-     {
-      "label": "Opposition critics argue",
-      "text": "It shows the government’s reluctance to be transparent about staffing."
-     },
-     {
-      "label": "From the left",
-      "text": "Accurate information is essential for democratic participation."
-     }
-    ],
-    "key_term": {
-     "term": "Fact‑checking",
-     "definition": "The process of verifying factual claims made in public discourse."
-    },
-    "exam_use": "Use as evidence when discussing mechanisms of parliamentary accountability.",
-    "sources": [
-     "e51113af88c8"
-    ]
-   },
-   {
-    "title": "Greek minister urges rapid return of rejected asylum‑seekers",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Greece’s migration minister announced a pilot scheme to deport asylum‑seekers denied EU protection to designated third countries by early next year. The plan is part of broader EU migration management.",
-    "why_it_matters": "The initiative shows how executive decisions on immigration intersect with EU obligations, relevant to studying the UK’s own executive powers and devolution debates.",
+    "title": "Trump admin asks Supreme Court to block transgender inmate policy",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The Trump administration petitioned the Supreme Court to halt a lower‑court order that barred the Federal Bureau of Prisons from enforcing a policy on transgender inmates. The request was filed on Monday morning.",
+    "why_it_matters": "Illustrates the interaction between the executive and the judiciary, a key AQA topic on the US Constitution and separation of powers.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Quick returns deter illegal migration and protect borders."
+      "text": "The administration claims the policy exceeds executive authority and infringes on prison security."
      },
      {
-      "label": "Human‑rights critics argue",
-      "text": "Deportations may breach international protection standards."
+      "label": "Critics argue",
+      "text": "Blocking the order would undermine transgender rights and set a harmful precedent."
      },
      {
       "label": "From the right",
-      "text": "Strong border control is necessary for national security."
+      "text": "Emphasises deference to traditional interpretations of prison management."
      }
     ],
     "key_term": {
-     "term": "Executive power",
-     "definition": "Authority exercised by the prime minister and cabinet to implement policy."
+     "term": "Petition for certiorari",
+     "definition": "A request that the Supreme Court review a lower court's decision."
     },
-    "exam_use": "Reference when analysing executive discretion in immigration policy.",
+    "exam_use": "Reference when discussing judicial review and executive attempts to influence court rulings.",
     "sources": [
-     "7b326228dc8f"
+     "d45d77d9ad28"
     ]
    },
    {
-    "title": "Peace activists oppose new arms factories in Wales",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "Campaigners criticised two Labour MPs for supporting increased arms manufacturing in the South Wales Valleys. They called for an end to the projects, citing peace concerns.",
-    "why_it_matters": "The protest illustrates the influence of pressure groups on party policy and parliamentary decisions, a core topic in the A‑level syllabus.",
+    "title": "Plaid Cymru urges more powers for Wales",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Plaid Cymru challenged Prime Minister Burnham to match his ‘new politics’ promise with increased devolved powers for Wales. The demand was made at the Labour conference.",
+    "why_it_matters": "Connects to the AQA topic of devolution and the balance of power between Westminster and the nations.",
     "perspectives": [
      {
-      "label": "Activists argue",
-      "text": "Arms production escalates conflict and harms local communities."
+      "label": "Supporters argue",
+      "text": "Greater powers would allow Wales to address local needs more effectively."
      },
      {
-      "label": "Labour supporters argue",
-      "text": "The factories create jobs and boost the regional economy."
+      "label": "Critics argue",
+      "text": "Further devolution could weaken the unity of the UK."
      },
      {
       "label": "From the left",
-      "text": "Peace movements challenge militarisation policies."
+      "text": "Seen as advancing democratic self‑determination for Wales."
      }
     ],
     "key_term": {
-     "term": "Pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the central government to regional bodies."
     },
-    "exam_use": "Use as a case study of interest‑group impact on legislative outcomes.",
+    "exam_use": "Use as evidence when evaluating arguments for and against further devolution in the UK.",
     "sources": [
-     "63c949d5cbb8"
+     "afc5cc7603cc"
     ]
    }
   ],
   "compare": {
-   "theme": "parties",
-   "uk": "In the UK, Labour’s push for proportional representation shows a party using policy proposals to reshape the electoral system and attract voters.",
-   "us": "In the US, the bipartisan passage of the Protect College Sports Act demonstrates parties cooperating on specific legislation despite overall polarization.",
-   "insight": "The contrast highlights how party dynamics differ: UK parties may compete to change system rules, while US parties can unite on narrow issues.",
+   "theme": "elections",
+   "uk": "Burnham proposes moving to proportional representation, arguing it will better reflect voter preferences.",
+   "us": "The US Senate passed the Protect College Sports Act, showing how a specific policy can gain bipartisan support within the legislative process.",
+   "insight": "The contrast shows the UK debate focuses on changing the electoral system itself, while the US example highlights policy passage within an existing majoritarian system.",
    "sources": [
-    "6855d15bf72b",
+    "f977ec93c0fc",
     "08e38c583f7a"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The Protect College Sports Act reflects liberal ideas of individual rights and equal treatment under the law, echoing John Stuart Mill’s emphasis on personal liberty. Critics warn it may conflict with liberal commitments to minority protections.",
+   "text": "Burnham’s electoral reform push reflects liberal ideas of expanding individual political rights and fair representation, echoing John Stuart Mill’s advocacy for broader participation. The Protect College Sports Act aligns with liberal principles of equality and protecting minority rights in institutions.",
    "sources": [
+    "f977ec93c0fc",
     "08e38c583f7a"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party strategies influence electoral reform proposals in the UK and legislative cooperation in the US.",
-   "section": "ukpol | us",
-   "tip": "Compare Labour’s push for proportional representation with the bipartisan Senate support for the college‑sports bill, using specific examples."
+   "question": "Assess the arguments for and against changing the UK electoral system to proportional representation.",
+   "section": "ukpol",
+   "tip": "Structure your answer by defining PR, presenting advantages and disadvantages, and using current examples such as Burnham’s proposal."
   }
  },
  "refs": {
+  "f977ec93c0fc": {
+   "id": "f977ec93c0fc",
+   "title": "Burnham to fight next election on pledge to change voting system",
+   "link": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-09-29T15:55:34Z"
+  },
   "6855d15bf72b": {
    "id": "6855d15bf72b",
    "title": "Andy Burnham expected to say he will push ahead with electoral reform plans",
@@ -183,6 +194,15 @@
    "sourceName": "The Guardian",
    "lean": "centre-left",
    "date": "2026-09-29T09:19:40Z"
+  },
+  "469223badc70": {
+   "id": "469223badc70",
+   "title": "Burnham says public body will invest in electricity grid",
+   "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-09-29T15:14:39Z"
   },
   "08e38c583f7a": {
    "id": "08e38c583f7a",
@@ -193,32 +213,23 @@
    "lean": "centre",
    "date": "2026-09-29T02:08:17Z"
   },
-  "e51113af88c8": {
-   "id": "e51113af88c8",
-   "title": "Facebook posts wrong to claim former Makerfield MP is new head of No 10 policy unit",
-   "link": "https://fullfact.org/politics/claims-josh-simons-head-no-10-policy-unit-false/",
-   "source": "fullfact",
-   "sourceName": "Full Fact",
+  "d45d77d9ad28": {
+   "id": "d45d77d9ad28",
+   "title": "Trump administration asks justices to block lower court order on transgender inmate policy",
+   "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-block-lower-court-order-on-transgender-inmate-policy/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
    "lean": "non-partisan",
-   "date": "2026-09-28T13:32:10Z"
+   "date": "2026-09-28T16:40:04Z"
   },
-  "7b326228dc8f": {
-   "id": "7b326228dc8f",
-   "title": "Send rejected asylum-seekers out of EU ASAP, urges Greek minister",
-   "link": "https://www.politico.eu/article/send-rejected-asylum-seekers-out-of-eu-asap-urges-greek-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-09-29T02:00:00Z"
-  },
-  "63c949d5cbb8": {
-   "id": "63c949d5cbb8",
-   "title": "‘Stop building arms factories in the Valleys’ say peace activists",
-   "link": "https://nation.cymru/news/stop-building-arms-factories-in-the-valleys-say-peace-activists/",
+  "afc5cc7603cc": {
+   "id": "afc5cc7603cc",
+   "title": "Plaid tells Burnham ‘new politics’ must mean more powers for Wales",
+   "link": "https://nation.cymru/news/plaid-tells-burnham-new-politics-must-mean-more-powers-for-wales/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-09-29T10:56:42Z"
+   "date": "2026-09-29T16:31:11Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
