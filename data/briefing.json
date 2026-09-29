@@ -1,197 +1,188 @@
 {
- "generated_at": "2026-09-29T02:34:40Z",
+ "generated_at": "2026-09-29T11:22:30Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Parliamentary reforms, EU tensions and US legislative moves dominate",
-  "overview": "Labour leader Burnham proposes a new electricity‑grid body while Welsh parties debate devolution. In the US the Senate passes a college‑sports bill and the Trump administration seeks a Supreme Court stay on transgender inmate policy.",
+  "headline": "UK Labour pushes electoral reform as US Senate passes college sports bill",
+  "overview": "Today's headlines show Labour leader Andy Burnham outlining plans for proportional representation while the US Senate moves a bipartisan college‑sports bill. Both illustrate how parties shape policy agendas in Westminster and Washington.",
   "stories": [
    {
-    "title": "Burnham to launch electricity‑grid investment body",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Keir Burnham announced a public body to invest in the national electricity grid. The aim is to lower energy costs ahead of the next general election.",
-    "why_it_matters": "The proposal illustrates executive power to shape policy through new institutions, a key point in the AQA study of the Prime Minister and Cabinet. It also raises questions about parliamentary scrutiny of such bodies.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Labour supporters say the body will modernise infrastructure and protect living standards."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opposition MPs warn it could bypass parliamentary oversight and increase public spending."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators claim the move risks expanding state intervention in the market."
-     }
-    ],
-    "key_term": {
-     "term": "public body",
-     "definition": "An organisation created by the government to carry out specific functions, often with a degree of operational independence."
-    },
-    "exam_use": "Use as evidence when discussing the limits of executive authority and the role of parliamentary scrutiny in an essay on the UK executive.",
-    "sources": [
-     "469223badc70"
-    ]
-   },
-   {
-    "title": "Petition urges Senedd members to resign on party defection",
+    "title": "Burnham to unveil electoral reform plan",
     "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "A petition signed by over 3,000 people calls for Welsh Senedd members who switch parties to give up their seats. It was launched by activist Christopher Blackwood.",
-    "why_it_matters": "The issue touches on democratic accountability and the principle of representative legitimacy, both central to the AQA unit on democracy and participation.",
+    "topic": "elections",
+    "what_happened": "Andy Burnham said he will propose a shift to proportional representation at the Labour conference. The proposal follows Labour’s recent poll surge and aims to attract smaller parties.",
+    "why_it_matters": "The story links to the A‑level focus on how parties influence electoral systems and voter representation. It illustrates the concept of electoral reform as a party strategy.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Pro‑petition advocates claim defections betray voters and should trigger a by‑election."
+      "label": "Labour supporters argue",
+      "text": "Proportional representation would make elections fairer and give voters a stronger voice."
      },
      {
-      "label": "Critics argue",
-      "text": "Opponents say forced resignations undermine the freedom of elected representatives to act on conscience."
+      "label": "Conservative critics argue",
+      "text": "The change could destabilise government by encouraging fragmented parliaments."
      },
      {
       "label": "From the left",
-      "text": "Labour‑aligned groups view the petition as a tool to protect progressive representation."
+      "text": "Smaller progressive parties see it as a chance to break the two‑party dominance."
      }
     ],
     "key_term": {
-     "term": "defection",
-     "definition": "When an elected representative changes party affiliation while in office."
+     "term": "Proportional representation",
+     "definition": "An electoral system where seats are allocated to parties in proportion to their share of the vote."
     },
-    "exam_use": "Cite when evaluating arguments about party discipline versus individual conscience in a politics essay.",
+    "exam_use": "Use as evidence in an essay on the impact of party strategies on electoral systems.",
     "sources": [
-     "a4a40c7420e0"
+     "6855d15bf72b"
     ]
    },
    {
     "title": "Senate passes Protect College Sports Act",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "The US Senate approved bipartisan legislation aimed at ensuring fairness in college athletics. The bill passed with a sweeping bipartisan vote.",
-    "why_it_matters": "The act demonstrates how Congress can enact policy on cultural issues, illustrating the legislative process and party cooperation examined in the US Congress unit.",
+    "topic": "congress",
+    "what_happened": "The US Senate approved the Protect College Sports Act with a bipartisan majority. The bill seeks to set uniform rules for gender‑based participation in college athletics.",
+    "why_it_matters": "The legislation illustrates how US parties can cooperate on policy despite broader polarization, a key point for studying party behaviour and legislative processes.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "College‑sports advocates say the law will promote equity for student‑athletes."
+      "text": "The act ensures fairness and safety for all student‑athletes."
      },
      {
       "label": "Critics argue",
-      "text": "Some conservatives warn it could increase federal regulation of private institutions."
+      "text": "It may undermine transgender athletes’ rights and equal treatment."
      },
      {
-      "label": "From the left",
-      "text": "Progressive groups view it as a step toward broader social justice in education."
+      "label": "From the right",
+      "text": "Bipartisan support shows conservative concerns about competitive equity."
      }
     ],
     "key_term": {
-     "term": "bipartisan",
-     "definition": "Supported by members of both major political parties."
+     "term": "Bipartisan",
+     "definition": "Involving cooperation between two major political parties."
     },
-    "exam_use": "Use as a case study of congressional action on social policy in an essay on US legislative behaviour.",
+    "exam_use": "Cite in an essay comparing party collaboration in the US Congress versus the UK Parliament.",
     "sources": [
      "08e38c583f7a"
     ]
    },
    {
-    "title": "Trump administration seeks Supreme Court stay on transgender inmate policy",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The Trump administration asked the Supreme Court to block a lower‑court order that barred the Federal Bureau of Prisons from enforcing a transgender inmate policy. The request was filed on Monday.",
-    "why_it_matters": "The case highlights the role of the US courts in interpreting civil‑rights protections, a core topic in the AQA unit on the US courts and civil rights.",
+    "title": "Fact‑check on alleged No 10 policy chief",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "Full Fact reported that social media claims about former MP Josh Simons becoming head of the No 10 policy unit are false. He has not been appointed to any Downing Street role.",
+    "why_it_matters": "The story highlights the role of the media and fact‑checking in holding government accountable, linking to the A‑level theme of parliamentary scrutiny and transparency.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The administration says the policy oversteps executive authority and threatens prison safety."
+      "label": "Government supporters argue",
+      "text": "The clarification prevents misinformation about ministerial appointments."
      },
      {
-      "label": "Critics argue",
-      "text": "Civil‑rights groups argue the policy protects vulnerable inmates and should be upheld."
+      "label": "Opposition critics argue",
+      "text": "It shows the government’s reluctance to be transparent about staffing."
      },
      {
       "label": "From the left",
-      "text": "Progressive commentators view the request as an attack on transgender rights."
+      "text": "Accurate information is essential for democratic participation."
      }
     ],
     "key_term": {
-     "term": "stay",
-     "definition": "A court order that temporarily suspends the enforcement of a lower‑court ruling."
+     "term": "Fact‑checking",
+     "definition": "The process of verifying factual claims made in public discourse."
     },
-    "exam_use": "Reference when discussing judicial review and the balance of powers in a US courts essay.",
+    "exam_use": "Use as evidence when discussing mechanisms of parliamentary accountability.",
     "sources": [
-     "d45d77d9ad28"
+     "e51113af88c8"
     ]
    },
    {
-    "title": "Public opinion shows strong support for closer EU ties",
-    "section": "ukpol",
-    "topic": "eu",
-    "what_happened": "Public First research found that 70% of voters would welcome tighter ties with the EU, including many former Brexit‑Party supporters. The poll was released on 29 September.",
-    "why_it_matters": "The data illustrates shifting public attitudes toward the EU, relevant to the AQA study of the UK’s relationship with Europe and party positions on Brexit.",
+    "title": "Greek minister urges rapid return of rejected asylum‑seekers",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Greece’s migration minister announced a pilot scheme to deport asylum‑seekers denied EU protection to designated third countries by early next year. The plan is part of broader EU migration management.",
+    "why_it_matters": "The initiative shows how executive decisions on immigration intersect with EU obligations, relevant to studying the UK’s own executive powers and devolution debates.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Labour sees the poll as evidence for a pro‑EU agenda."
+      "text": "Quick returns deter illegal migration and protect borders."
      },
      {
-      "label": "Critics argue",
-      "text": "Skeptics warn the figures may be temporary and not reflect deeper Eurosceptic sentiment."
+      "label": "Human‑rights critics argue",
+      "text": "Deportations may breach international protection standards."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators caution against abandoning the post‑Brexit settlement."
+      "text": "Strong border control is necessary for national security."
      }
     ],
     "key_term": {
-     "term": "public opinion poll",
-     "definition": "A survey that measures the attitudes or preferences of a population on a particular issue."
+     "term": "Executive power",
+     "definition": "Authority exercised by the prime minister and cabinet to implement policy."
     },
-    "exam_use": "Use to illustrate how parties use polling data to shape policy positions in an essay on UK parties.",
+    "exam_use": "Reference when analysing executive discretion in immigration policy.",
     "sources": [
-     "1d1a142fdee7"
+     "7b326228dc8f"
+    ]
+   },
+   {
+    "title": "Peace activists oppose new arms factories in Wales",
+    "section": "ukpol",
+    "topic": "pressure",
+    "what_happened": "Campaigners criticised two Labour MPs for supporting increased arms manufacturing in the South Wales Valleys. They called for an end to the projects, citing peace concerns.",
+    "why_it_matters": "The protest illustrates the influence of pressure groups on party policy and parliamentary decisions, a core topic in the A‑level syllabus.",
+    "perspectives": [
+     {
+      "label": "Activists argue",
+      "text": "Arms production escalates conflict and harms local communities."
+     },
+     {
+      "label": "Labour supporters argue",
+      "text": "The factories create jobs and boost the regional economy."
+     },
+     {
+      "label": "From the left",
+      "text": "Peace movements challenge militarisation policies."
+     }
+    ],
+    "key_term": {
+     "term": "Pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+    },
+    "exam_use": "Use as a case study of interest‑group impact on legislative outcomes.",
+    "sources": [
+     "63c949d5cbb8"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "Public First polling shows Labour’s perceived electability ahead of the next general election, influencing campaign strategy.",
-   "us": "New polls indicate Democrats are leading in Senate battlegrounds, boosting hopes of controlling both chambers in November.",
-   "insight": "Both cases show how parties interpret favourable polling to shape narratives and mobilise supporters, highlighting the strategic use of public opinion in different electoral systems.",
+   "theme": "parties",
+   "uk": "In the UK, Labour’s push for proportional representation shows a party using policy proposals to reshape the electoral system and attract voters.",
+   "us": "In the US, the bipartisan passage of the Protect College Sports Act demonstrates parties cooperating on specific legislation despite overall polarization.",
+   "insight": "The contrast highlights how party dynamics differ: UK parties may compete to change system rules, while US parties can unite on narrow issues.",
    "sources": [
-    "b9f7a3ea0e3e",
-    "7fe2a5fddeb3"
+    "6855d15bf72b",
+    "08e38c583f7a"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The Protect College Sports Act reflects liberal ideas of individual rights and equal opportunity, echoing John Stuart Mill’s emphasis on personal liberty and fairness in society.",
+   "text": "The Protect College Sports Act reflects liberal ideas of individual rights and equal treatment under the law, echoing John Stuart Mill’s emphasis on personal liberty. Critics warn it may conflict with liberal commitments to minority protections.",
    "sources": [
     "08e38c583f7a"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive initiatives can bypass parliamentary scrutiny in the UK, using recent proposals by the Prime Minister as evidence.",
-   "section": "ukgov",
-   "tip": "Structure your answer by defining executive power, analysing the specific proposal, and weighing arguments for and against parliamentary oversight."
+   "question": "Assess the extent to which party strategies influence electoral reform proposals in the UK and legislative cooperation in the US.",
+   "section": "ukpol | us",
+   "tip": "Compare Labour’s push for proportional representation with the bipartisan Senate support for the college‑sports bill, using specific examples."
   }
  },
  "refs": {
-  "469223badc70": {
-   "id": "469223badc70",
-   "title": "Burnham to unveil public body to invest in electricity grid",
-   "link": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-09-29T00:40:29Z"
-  },
-  "a4a40c7420e0": {
-   "id": "a4a40c7420e0",
-   "title": "Over 3000 people sign petition demanding MSs give up their seats if they defect",
-   "link": "https://nation.cymru/news/over-3000-people-sign-petition-demanding-mss-give-up-their-seats-if-they-defect/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "6855d15bf72b": {
+   "id": "6855d15bf72b",
+   "title": "Andy Burnham expected to say he will push ahead with electoral reform plans",
+   "link": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-push-ahead-electoral-reform-plans",
+   "source": "guardian",
+   "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-09-28T20:38:43Z"
+   "date": "2026-09-29T09:19:40Z"
   },
   "08e38c583f7a": {
    "id": "08e38c583f7a",
@@ -202,41 +193,32 @@
    "lean": "centre",
    "date": "2026-09-29T02:08:17Z"
   },
-  "d45d77d9ad28": {
-   "id": "d45d77d9ad28",
-   "title": "Trump administration asks justices to block lower court order on transgender inmate policy",
-   "link": "https://www.scotusblog.com/2026/09/trump-administration-asks-justices-to-block-lower-court-order-on-transgender-inmate-policy/",
-   "source": "scotusblog",
-   "sourceName": "SCOTUSblog",
+  "e51113af88c8": {
+   "id": "e51113af88c8",
+   "title": "Facebook posts wrong to claim former Makerfield MP is new head of No 10 policy unit",
+   "link": "https://fullfact.org/politics/claims-josh-simons-head-no-10-policy-unit-false/",
+   "source": "fullfact",
+   "sourceName": "Full Fact",
    "lean": "non-partisan",
-   "date": "2026-09-28T16:40:04Z"
+   "date": "2026-09-28T13:32:10Z"
   },
-  "1d1a142fdee7": {
-   "id": "1d1a142fdee7",
-   "title": "Britons want to get closer to the EU — and even Farage’s voters agree",
-   "link": "https://www.politico.eu/article/the-politico-poll-britons-want-to-get-closer-to-the-eu-and-even-farages-voters-agree/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+  "7b326228dc8f": {
+   "id": "7b326228dc8f",
+   "title": "Send rejected asylum-seekers out of EU ASAP, urges Greek minister",
+   "link": "https://www.politico.eu/article/send-rejected-asylum-seekers-out-of-eu-asap-urges-greek-minister/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "source": "politicoeu",
    "sourceName": "Politico Europe",
    "lean": "centre",
-   "date": "2026-09-29T02:21:43Z"
+   "date": "2026-09-29T02:00:00Z"
   },
-  "b9f7a3ea0e3e": {
-   "id": "b9f7a3ea0e3e",
-   "title": "UK voters believe Burnham can win the next election",
-   "link": "https://www.politico.eu/article/the-politico-poll-uk-voters-believe-burnham-can-win-the-next-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-09-28T11:00:00Z"
-  },
-  "7fe2a5fddeb3": {
-   "id": "7fe2a5fddeb3",
-   "title": "New polls have Democrats thinking big on Senate",
-   "link": "https://thehill.com/homenews/senate/6116296-democrats-may-flip-senate-polls/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-09-28T22:40:24Z"
+  "63c949d5cbb8": {
+   "id": "63c949d5cbb8",
+   "title": "‘Stop building arms factories in the Valleys’ say peace activists",
+   "link": "https://nation.cymru/news/stop-building-arms-factories-in-the-valleys-say-peace-activists/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-09-29T10:56:42Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
