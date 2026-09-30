@@ -1,206 +1,208 @@
 {
- "generated_at": "2026-09-30T02:07:51Z",
+ "generated_at": "2026-09-30T11:10:27Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Burnham pushes electoral reform as US Senate passes college sports bill",
-  "overview": "Labour leader Andy Burnham pledges a move to proportional representation ahead of the next UK election, while the US Senate approves the Protect College Sports Act. Both actions spark debate over democratic representation and fairness.",
+  "headline": "Burnham pushes electoral reform as US courts weigh deportations",
+  "overview": "Prime Minister Andy Burnham outlined plans for proportional representation and a national care service at the Labour conference. In the US, the Supreme Court allowed the Trump administration to continue deportations while Congress debates election reforms.",
   "stories": [
    {
-    "title": "Burnham vows voting system overhaul",
+    "title": "Burnham proposes proportional representation",
     "section": "ukpol",
     "topic": "elections",
-    "what_happened": "At the Labour conference Burnham said he will launch a national commission to consider replacing first‑past‑the‑post with proportional representation. He framed the change as a way to give smaller parties a fairer chance.",
-    "why_it_matters": "The proposal links to A‑level study of electoral systems and their impact on party politics. It illustrates how parties can use reform promises to broaden support.",
+    "what_happened": "At the Labour Party conference Burnham announced a national commission to consider replacing first‑past‑the‑post with proportional representation. He linked the change to making Parliament more representative of voters.",
+    "why_it_matters": "The proposal touches on the AQA topic of electoral systems and how they shape party competition. It illustrates the political debate over fairness versus stability in voting.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proportional representation would reduce wasted votes and encourage coalition‑building."
+      "text": "Proportional representation would give smaller parties a fairer share of seats, reducing wasted votes."
      },
      {
       "label": "Critics argue",
-      "text": "First‑past‑the‑post provides stable governments and clear accountability."
+      "text": "Opponents warn it could lead to fragmented parliaments and unstable coalition governments."
      },
      {
       "label": "From the right",
-      "text": "Conservatives warn that PR could empower extremist parties."
+      "text": "Conservative commentators stress the need for decisive government, which they say first‑past‑the‑post provides."
      }
     ],
     "key_term": {
      "term": "Proportional representation",
-     "definition": "An electoral system where seats are allocated in line with each party's share of the vote."
+     "definition": "An electoral system where parties gain seats in proportion to their share of the vote."
     },
-    "exam_use": "Use as evidence in an essay comparing the merits of different electoral systems in the UK.",
+    "exam_use": "Use as evidence in an essay comparing the merits of different electoral systems.",
     "sources": [
-     "f977ec93c0fc"
+     "6855d15bf72b"
     ]
    },
    {
-    "title": "Wales funding for national care service secured",
+    "title": "National Care Service funding details",
     "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Welsh Secretary Stephen Kinnock announced that Wales will receive funding for a national care service regardless of which party forms the UK government. The pledge was made at the Labour conference.",
-    "why_it_matters": "Shows how devolution allows the UK government to allocate resources to constituent nations, a key point in the AQA Constitution and Devolution topics.",
+    "topic": "pm-cabinet",
+    "what_happened": "Burnham outlined a timetable for a National Care Service and suggested reforms to fund it, including possible changes to the pension triple lock. He said the service would be universal and publicly funded.",
+    "why_it_matters": "Links to the AQA focus on the executive’s role in policy making and public service reform. Shows how the Prime Minister uses the cabinet to set a legislative agenda.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Funding demonstrates commitment to social care across the UK."
+      "text": "A universal service would ensure consistent care for all adults, reducing inequality."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say it may increase central control over Welsh policy."
+      "text": "Funding changes could jeopardise pensioners’ incomes and increase taxes."
      },
      {
       "label": "From the left",
-      "text": "Labour sees it as a step towards greater equality in public services."
+      "text": "Labour members stress the need for robust public funding to avoid market failures."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
+     "term": "Triple lock",
+     "definition": "A policy guaranteeing pension increases based on the highest of inflation, earnings growth, or a set percentage."
     },
-    "exam_use": "Cite when discussing the balance of power between Westminster and devolved administrations.",
+    "exam_use": "Cite when discussing the executive’s influence on welfare policy.",
     "sources": [
-     "0a4521a20a9a"
+     "10945a0c579a",
+     "47c52f2942d6"
     ]
    },
    {
-    "title": "US Senate passes Protect College Sports Act",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "The Senate approved bipartisan legislation aimed at ensuring fairness and equity in college athletics, including measures on athlete compensation and scholarship transparency.",
-    "why_it_matters": "Illustrates how US parties can cooperate on policy, relevant to the AQA study of Congress and party dynamics.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The act protects student‑athletes’ rights and promotes fairness."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Some say it could commercialise college sports further."
-     },
-     {
-      "label": "From the right",
-      "text": "Republicans view it as a limited government intervention."
-     }
-    ],
-    "key_term": {
-     "term": "Bipartisan",
-     "definition": "Involving cooperation between two major political parties."
-    },
-    "exam_use": "Use as a case study of bipartisan legislation in a US government essay.",
-    "sources": [
-     "08e38c583f7a"
-    ]
-   },
-   {
-    "title": "Supreme Court allows Trump deportations to proceed",
+    "title": "Supreme Court allows Trump deportations to continue",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "The US Supreme Court issued a temporary order permitting the Trump administration to continue deporting migrants to third countries while lower‑court rulings are reviewed.",
-    "why_it_matters": "Highlights the role of the judiciary in checking executive actions, a core element of the US Constitution unit.",
+    "what_happened": "The US Supreme Court issued an order permitting the Trump administration to keep deporting migrants to third countries while legal challenges proceed. The decision was temporary pending further review.",
+    "why_it_matters": "Illustrates the US judiciary’s power to check executive immigration policy, a key point in the AQA constitution unit. Highlights separation of powers.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The decision upholds the executive’s authority on immigration enforcement."
+      "text": "The ruling upholds the executive’s duty to enforce immigration laws."
      },
      {
       "label": "Critics argue",
-      "text": "Civil‑rights groups say it endangers vulnerable migrants."
+      "text": "Civil‑rights groups say it risks violating migrants’ human‑rights protections."
      },
      {
       "label": "From the left",
-      "text": "Liberals view it as a setback for due process protections."
+      "text": "Progressive commentators view it as an overreach of executive authority."
      }
     ],
     "key_term": {
      "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of government actions."
+     "definition": "The process by which courts examine the legality of executive actions."
     },
-    "exam_use": "Reference when analysing checks and balances in the US system.",
+    "exam_use": "Use as a case study of judicial review in a constitutional essay.",
     "sources": [
      "9b7a4b575b9b"
     ]
    },
    {
-    "title": "Dog rescue charity rebuts ‘fat‑cat lobbyist’ claim",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "A Welsh animal‑welfare charity wrote to a Senedd member after he labelled rescue groups as “fat‑cat lobbyists”, defending its role in campaigning for better animal protection laws.",
-    "why_it_matters": "Provides an example of pressure‑group tactics and government responses, linking to the AQA Pressure Groups topic.",
+    "title": "Senate passes Protect College Sports Act",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "The US Senate voted overwhelmingly bipartisan to pass legislation aimed at ensuring fairness in college athletics, addressing gender equity and athlete compensation. The bill now moves to the House.",
+    "why_it_matters": "Shows how US parties can cooperate on policy, relevant to the AQA study of party politics and legislative processes. Demonstrates bipartisan coalition‑building.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pressure groups give a voice to specialised interests."
+      "text": "The act will protect student‑athletes’ rights and promote gender equality."
      },
      {
       "label": "Critics argue",
-      "text": "They can wield disproportionate influence over policy."
+      "text": "Some conservatives worry it expands federal involvement in college sports."
      },
      {
-      "label": "From the left",
-      "text": "Progressives see them as essential for social change."
+      "label": "From the right",
+      "text": "Republicans stress the need for market‑based solutions rather than regulation."
      }
     ],
     "key_term": {
-     "term": "Pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking election."
+     "term": "Bipartisan",
+     "definition": "Support or cooperation from members of two major political parties."
     },
-    "exam_use": "Use as evidence when evaluating the impact of pressure groups on UK policy.",
+    "exam_use": "Reference when analysing party cooperation in US Congress.",
     "sources": [
-     "eff979f0ae6e"
+     "08e38c583f7a"
+    ]
+   },
+   {
+    "title": "Reform councillors question asylum‑seeker plan in Wales",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Two Reform UK councillors wrote to the UK government urging a review of plans to house asylum seekers in a north‑Wales site. They cited local concerns over capacity and services.",
+    "why_it_matters": "Highlights tensions between central government and devolved administrations, a key AQA theme on devolution and intergovernmental relations. Shows pressure‑group influence at local level.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Local scrutiny ensures resources are not overstretched."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Delays could undermine the UK’s international asylum obligations."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive groups stress the humanitarian duty to accommodate asylum seekers."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from central government to regional bodies."
+    },
+    "exam_use": "Use as evidence of devolution challenges in a UK government essay.",
+    "sources": [
+     "9185df418265"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "Burnham’s push for proportional representation aims to change how votes translate into seats, potentially increasing party diversity.",
-   "us": "The US Senate’s bipartisan passage of the Protect College Sports Act shows how legislation can succeed despite differing electoral systems.",
-   "insight": "The contrast shows that electoral system design (majoritarian vs. proportional) shapes party strategies and coalition‑building.",
+   "uk": "Burnham is pushing a national commission to consider moving from first‑past‑the‑post to proportional representation, arguing it will make Parliament more representative.",
+   "us": "Democrats aim to regain the House in the 2026 midterms, emphasizing affordability and accountability as campaign themes.",
+   "insight": "The contrast shows the UK debating systemic change to the voting method, while the US focuses on party competition within the existing winner‑takes‑all system.",
    "sources": [
-    "f977ec93c0fc",
-    "08e38c583f7a"
+    "6855d15bf72b",
+    "33e7dd504fb4"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Burnham’s electoral‑reform pledge reflects liberal ideas of political equality and individual voter empowerment, echoing John Stuart Mill’s advocacy for broader representation.",
+   "text": "Burnham’s proposals for a universal care service and electoral reform reflect liberal ideas of equality and individual rights, echoing thinkers like John Stuart Mill who argued for broader participation and social welfare.",
    "sources": [
-    "f977ec93c0fc"
+    "10945a0c579a",
+    "6855d15bf72b"
    ]
   },
   "exam_question": {
-   "question": "Assess the arguments for and against changing the UK voting system to proportional representation.",
+   "question": "Evaluate the arguments for and against changing the UK electoral system to proportional representation.",
    "section": "ukpol",
-   "tip": "Structure your answer by outlining the current system, presenting liberal and conservative viewpoints, and using recent party statements as evidence."
+   "tip": "Structure your answer by outlining the current system, presenting liberal and conservative perspectives, and assessing impact on party politics."
   }
  },
  "refs": {
-  "f977ec93c0fc": {
-   "id": "f977ec93c0fc",
-   "title": "Burnham to fight next election on pledge to change voting system",
-   "link": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-09-29T21:32:31Z"
-  },
-  "0a4521a20a9a": {
-   "id": "0a4521a20a9a",
-   "title": "Kinnock promises Wales funding for national care service",
-   "link": "https://nation.cymru/news/kinnock-promises-wales-funding-for-national-care-service/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "6855d15bf72b": {
+   "id": "6855d15bf72b",
+   "title": "Andy Burnham expected to say he will push ahead with electoral reform plans",
+   "link": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-push-ahead-electoral-reform-plans",
+   "source": "guardian",
+   "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-09-29T21:47:40Z"
+   "date": "2026-09-29T09:19:40Z"
   },
-  "08e38c583f7a": {
-   "id": "08e38c583f7a",
-   "title": "Senate passes ‘Protect College Sports Act’ with sweeping bipartisan vote",
-   "link": "https://thehill.com/homenews/senate/6115892-senate-passes-protect-college-sports-act/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-09-29T02:08:17Z"
+  "10945a0c579a": {
+   "id": "10945a0c579a",
+   "title": "How will Burnham’s national care service work – and how will it be funded?",
+   "link": "https://www.theguardian.com/society/2026/sep/29/what-are-labours-plans-overhaul-social-care-explainer-andy-burnham",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-09-30T10:17:03Z"
+  },
+  "47c52f2942d6": {
+   "id": "47c52f2942d6",
+   "title": "Hope at last for social care reform?",
+   "link": "https://blogs.lse.ac.uk/politicsandpolicy/hope-at-last-for-social-care-reform/",
+   "source": "lse",
+   "sourceName": "LSE British Politics",
+   "lean": "non-partisan",
+   "date": "2026-09-30T10:18:16Z"
   },
   "9b7a4b575b9b": {
    "id": "9b7a4b575b9b",
@@ -211,14 +213,32 @@
    "lean": "centre",
    "date": "2026-09-29T22:45:07Z"
   },
-  "eff979f0ae6e": {
-   "id": "eff979f0ae6e",
-   "title": "Dog rescue charity hits back after Reform MS calls animal welfare groups ‘fat-cat lobbyists’",
-   "link": "https://nation.cymru/news/dog-rescue-charity-hits-back-after-reform-ms-calls-animal-welfare-groups-fat-cat-lobbyists/",
+  "08e38c583f7a": {
+   "id": "08e38c583f7a",
+   "title": "Senate passes ‘Protect College Sports Act’ with sweeping bipartisan vote",
+   "link": "https://thehill.com/homenews/senate/6115892-senate-passes-protect-college-sports-act/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-09-29T02:08:17Z"
+  },
+  "9185df418265": {
+   "id": "9185df418265",
+   "title": "Reform councillors write to minister over asylum seeker plans",
+   "link": "https://nation.cymru/news/reform-councillors-write-to-minister-over-asylum-seeker-plans/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-09-29T20:20:02Z"
+   "date": "2026-09-30T10:47:38Z"
+  },
+  "33e7dd504fb4": {
+   "id": "33e7dd504fb4",
+   "title": "Affordability and accountability top priorities if Democrats take House, Jeffries says",
+   "link": "https://www.pbs.org/newshour/show/affordability-and-accountability-top-priorities-if-democrats-take-house-jeffries-says",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-09-29T22:35:55Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
