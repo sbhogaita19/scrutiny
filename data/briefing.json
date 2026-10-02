@@ -1,151 +1,148 @@
 {
- "generated_at": "2026-10-02T11:07:49Z",
- "model": "groq:openai/gpt-oss-20b",
+ "generated_at": "2026-10-02T16:38:21Z",
+ "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK and US political headlines clash on courts, elections and policy",
-  "overview": "In the UK, the PM’s comments on Manchester City and the Lib Dem triple‑lock debate dominate the day, while in the US the courts and mid‑term elections shape the political landscape. Both sides see power struggles and policy disputes at the centre of current events.",
+  "headline": "Burnham’s devolution push, US court case, and party battles dominate",
+  "overview": "The UK government faces pressure from Wales for more powers as Andy Burnham’s Labour leadership tests devolution. In the US, a D.C. judge dismissed a high‑profile case linked to former President Trump. Meanwhile, UK parties grapple with internal disputes ahead of possible elections.",
   "stories": [
    {
-    "title": "PM defends Manchester City stance",
+    "title": "Wales seeks new devolution deal",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister said he would be concerned if Manchester City owners sold the club after Premier League rule breaches. The comments followed backlash over the club’s ownership and league rules.",
-    "why_it_matters": "Shows the executive’s role in regulating sport and the intersection of politics and business. It illustrates the principle of executive accountability in the UK.",
+    "what_happened": "First Minister Rhun ap Iorwerth asked Prime Minister Andy Burnham to devolve policing, justice and welfare powers to Wales. The demand was made at a Plaid Cymru conference on 2 Oct 2026.",
+    "why_it_matters": "The request tests the limits of the UK’s uncodified constitution and the balance of power between central and devolved governments, a key AQA topic. It also illustrates the political dynamics of devolution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "They say the PM is upholding the rule of law and protecting the integrity of the league."
+      "text": "Plaid Cymru says equal powers with Scotland will strengthen Welsh democracy."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim the PM is overstepping and politicising football."
+      "text": "Labour ministers warn it could undermine UK-wide policy coherence."
      },
      {
-      "label": "From the left",
-      "text": "Left‑leaning MPs view the move as a safeguard against corporate influence."
+      "label": "From the right",
+      "text": "Conservatives caution that further devolution may fuel separatism."
      }
     ],
     "key_term": {
-     "term": "Executive accountability",
-     "definition": "The requirement that government officials act within the law and can be held responsible for their actions."
+     "term": "Devolution",
+     "definition": "The transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Use as evidence of executive power checks in an essay on the UK constitution.",
+    "exam_use": "Use as evidence of constitutional change in an essay on the flexibility of the UK constitution.",
     "sources": [
-     "939795b0a57e"
+     "3530ad4ba4d7",
+     "a24ff47ca343"
     ]
    },
    {
-    "title": "Lib Dem triple‑lock debate heats up",
+    "title": "Liberal Democrat triple‑lock revolt",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "An internal Liberal Democrat document outlining the pros and cons of the triple lock was leaked to Sky News, sparking angry MPs to challenge the party’s position.",
-    "why_it_matters": "Highlights intra‑party conflict and the role of policy platforms in party politics. Relates to the AQA theme of political parties and their policy development.",
+    "what_happened": "A leaked internal document revealed Liberal Democrat MPs debating the party’s stance on the pension triple lock. Discontented MPs seized the leak to push for policy change.",
+    "why_it_matters": "Shows intra‑party pressure groups influencing party policy, linking to the AQA focus on political parties and internal democracy.",
     "perspectives": [
      {
-      "label": "From the right",
-      "text": "Right‑leaning commentators see the triple lock as fiscally irresponsible."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning voices defend it as essential for pension security."
+      "label": "Supporters argue",
+      "text": "Pro‑triple‑lock MPs claim it protects retirees from inflation."
      },
      {
       "label": "Critics argue",
-      "text": "Some MPs argue the policy is outdated and should be re‑examined."
+      "text": "Opponents say it is fiscally unsustainable and limits policy flexibility."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive members view the lock as a tool for social justice."
      }
     ],
     "key_term": {
-     "term": "Triple lock",
-     "definition": "A policy guaranteeing that UK state pension increases each year by the highest of inflation, average earnings or 2.5%."
+     "term": "Pressure group",
+     "definition": "An organised group that tries to influence public policy without seeking election."
     },
-    "exam_use": "Cite to discuss party policy formation and internal dissent in a party politics essay.",
+    "exam_use": "Cite as example of party‑level pressure influencing policy positions in a comparative parties essay.",
     "sources": [
      "97c05bca0101"
     ]
    },
    {
-    "title": "US Senate race in Ohio turns to union voters",
-    "section": "us",
-    "topic": "congress",
-    "what_happened": "Ohio Senator Sherrod Brown, after losing his seat in 2024, is now targeting union voters to regain support for the 2026 mid‑term election.",
-    "why_it_matters": "Illustrates the importance of demographic shifts and party strategy in US elections. Connects to the AQA topic of elections and representation.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "Republican strategists view the move as a concession to working‑class voters."
-     },
-     {
-      "label": "From the left",
-      "text": "Democratic campaigners see it as a necessary outreach to maintain base support."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Some analysts question whether union focus will translate into votes."
-     }
-    ],
-    "key_term": {
-     "term": "Working‑class vote",
-     "definition": "The electoral support of traditionally industrial and blue‑collar voters."
-    },
-    "exam_use": "Use to analyse how parties target specific demographics in an essay on electoral strategy.",
-    "sources": [
-     "f52e8ac1d161"
-    ]
-   },
-   {
-    "title": "Judge dismisses Trump reflecting pool charges",
+    "title": "Judge dismisses Trump‑related case",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "A federal judge dismissed charges against Donald Trump related to the reflecting pool incident, ruling the case was dismissed with prejudice.",
-    "why_it_matters": "Shows the interaction between the judiciary and political figures, a key constitutional issue. Relevant to the AQA theme of the US constitution and courts.",
+    "what_happened": "A D.C. judge dismissed the Reflecting Pool charges against a Trump associate with prejudice on 1 Oct 2026. The ruling ended the case without appeal.",
+    "why_it_matters": "Illustrates the role of the US judiciary in checking political actions, relevant to the AQA unit on the US Constitution and separation of powers.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "They claim the dismissal protects Trump from political persecution."
+      "text": "Conservatives see the dismissal as evidence of a fair legal system."
      },
      {
       "label": "Critics argue",
-      "text": "They say the ruling undermines accountability for former presidents."
+      "text": "Progressives claim it shows courts failing to hold powerful figures accountable."
      },
      {
-      "label": "From the left",
-      "text": "Left‑leaning commentators view it as a sign of judicial bias."
+      "label": "From the right",
+      "text": "Legal scholars note the precedent limits future politically motivated prosecutions."
      }
     ],
     "key_term": {
-     "term": "Dismissal with prejudice",
-     "definition": "A court ruling that permanently bars the plaintiff from bringing the same claim again."
+     "term": "Judicial review",
+     "definition": "The process by which courts examine the legality of actions by the executive or legislature."
     },
-    "exam_use": "Cite to discuss judicial independence and political accountability in an essay on the US constitution.",
+    "exam_use": "Use to discuss judicial independence in an essay on US checks and balances.",
     "sources": [
      "3daed1464f55"
     ]
    },
    {
-    "title": "ICE lawsuit over Minneapolis incident",
-    "section": "us",
-    "topic": "civil-rights",
-    "what_happened": "The family of a woman killed by an ICE agent filed a lawsuit against former Trump officials, alleging they created an environment of state‑sponsored violence.",
-    "why_it_matters": "Highlights civil‑rights concerns and the role of executive agencies. Connects to the AQA theme of civil rights and state power.",
+    "title": "Tories prepare for possible early election",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Kemi Badenoch told Conservative staff to ready the party for a potential early general election, focusing on the economy and welfare, on 2 Oct 2026.",
+    "why_it_matters": "Highlights strategic party planning and the impact of election timing on policy agendas, a core AQA theme.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "They say the lawsuit is a necessary check on immigration enforcement."
+      "text": "Party insiders say early election could capitalise on current economic confidence."
      },
      {
       "label": "Critics argue",
-      "text": "They claim it is politically motivated and unfairly targets officials."
+      "text": "Opponents warn it may be a tactic to avoid scrutiny over recent scandals."
      },
      {
       "label": "From the left",
-      "text": "Left‑leaning voices see it as a defense of vulnerable communities."
+      "text": "Labour commentators view it as a gamble that could backfire for the Conservatives."
      }
     ],
     "key_term": {
-     "term": "State‑sponsored violence",
-     "definition": "Violence carried out by government agents or in support of government policy."
+     "term": "General election",
+     "definition": "A nationwide vote to elect all members of the House of Commons."
     },
-    "exam_use": "Use to illustrate civil‑rights issues in an essay on state power and accountability.",
+    "exam_use": "Reference when analysing how parties use election timing to shape political outcomes.",
+    "sources": [
+     "bb90fa0dbf24"
+    ]
+   },
+   {
+    "title": "Family sues over ICE‑related death",
+    "section": "ideas",
+    "topic": "civil-rights",
+    "what_happened": "The family of Renee Good, killed by an ICE agent, filed a lawsuit against former Trump officials alleging state‑sponsored violence on 1 Oct 2026.",
+    "why_it_matters": "Connects to liberalist ideas of individual rights and state responsibility, linking to the AQA political ideas specification.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Human‑rights groups say the case underscores the need for legal safeguards against abuse."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Some conservatives argue the lawsuit politicises immigration enforcement."
+     }
+    ],
+    "key_term": {
+     "term": "Liberalism",
+     "definition": "A political ideology that prioritises individual liberty, rule of law and limited government interference."
+    },
+    "exam_use": "Use as contemporary evidence of liberalism’s emphasis on civil liberties in a political ideas essay.",
     "sources": [
      "4ba8a61147c7"
     ]
@@ -153,36 +150,45 @@
   ],
   "compare": {
    "theme": "executives",
-   "uk": "The UK Prime Minister can influence policy through statements and regulatory actions, as seen in the Manchester City case.",
-   "us": "The US President’s influence is exercised through executive orders and judicial appointments, illustrated by the Trump court case.",
-   "insight": "Both systems show executive power exercised within legal frameworks, but the UK relies more on parliamentary accountability while the US relies on judicial review.",
+   "uk": "The UK Prime Minister can influence devolution policy, as seen in Burnham’s negotiations with Wales.",
+   "us": "The US President, while campaigning, does not control judicial outcomes, illustrated by the judge’s dismissal of a Trump‑linked case.",
+   "insight": "The contrast shows the UK executive’s direct role in constitutional change versus the US executive’s limited formal power over the judiciary.",
    "sources": [
-    "939795b0a57e",
+    "3530ad4ba4d7",
     "3daed1464f55"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "The Manchester City comments reflect conservative emphasis on rule of law and market regulation, echoing thinkers like Edmund Burke who valued tradition and orderly governance.",
+   "ideology": "liberalism",
+   "text": "The lawsuit over Renee Good’s death reflects liberalism’s core belief in protecting individual rights against state overreach, echoing John Stuart Mill’s arguments for personal liberty.",
    "sources": [
-    "939795b0a57e"
+    "4ba8a61147c7"
    ]
   },
   "exam_question": {
-   "question": "Explain how the UK and US executives use different mechanisms to maintain accountability in the political system.",
+   "question": "Assess the extent to which the UK executive can shape constitutional arrangements compared with the US executive’s influence over the judiciary.",
    "section": "ukgov",
-   "tip": "Identify key examples of executive action and the corresponding checks in each country."
+   "tip": "Structure your answer by defining executive power in each system, then use the Wales devolution case and the US court dismissal as evidence."
   }
  },
  "refs": {
-  "939795b0a57e": {
-   "id": "939795b0a57e",
-   "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-   "link": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "3530ad4ba4d7": {
+   "id": "3530ad4ba4d7",
+   "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
+   "link": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-10-02T00:50:49Z"
+   "date": "2026-10-02T15:40:31Z"
+  },
+  "a24ff47ca343": {
+   "id": "a24ff47ca343",
+   "title": "Welsh first minister calls on Burnham to deliver ‘new deal’ on devolution",
+   "link": "https://www.theguardian.com/politics/2026/oct/02/welsh-first-minister-rhun-ap-iorwerth-andy-burnham-devolution-wales-plaid-cymru",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-02T15:06:47Z"
   },
   "97c05bca0101": {
    "id": "97c05bca0101",
@@ -193,15 +199,6 @@
    "lean": "centre",
    "date": "2026-10-02T07:41:00Z"
   },
-  "f52e8ac1d161": {
-   "id": "f52e8ac1d161",
-   "title": "The U.S. Senate is up for grabs. Can this Ohio Democrat win back working class votes?",
-   "link": "https://www.npr.org/2026/10/02/nx-s1-5981096/ohio-senate-sherrod-brown-labor-workers",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-10-02T09:00:00Z"
-  },
   "3daed1464f55": {
    "id": "3daed1464f55",
    "title": "D.C. Judge Dismisses Reflecting Pool Charges — with Prejudice",
@@ -210,6 +207,15 @@
    "sourceName": "National Review",
    "lean": "centre-right",
    "date": "2026-10-01T20:51:14Z"
+  },
+  "bb90fa0dbf24": {
+   "id": "bb90fa0dbf24",
+   "title": "Tories aim to be election-ready ahead of party conference",
+   "link": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-02T14:09:25Z"
   },
   "4ba8a61147c7": {
    "id": "4ba8a61147c7",
