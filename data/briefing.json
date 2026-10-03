@@ -1,192 +1,177 @@
 {
- "generated_at": "2026-10-03T01:57:05Z",
+ "generated_at": "2026-10-03T10:24:48Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Mid‑term US races, UK devolution push and climate court cases dominate",
-  "overview": "US parties scramble for Senate control ahead of the 2026 mid‑terms while the UK government faces pressure to extend devolved powers to Wales. In the US Supreme Court, climate‑change cases signal a new judicial battleground.",
+  "headline": "Midterms, EU talks and devolution debates dominate politics today",
+  "overview": "In the US, Senate Republicans shift campaign funds ahead of the 2026 midterms. In the UK, Labour‑led polls show strong support for re‑joining the EU, while Plaid Cymru pushes for devolved equalities legislation. These developments highlight electoral strategy, constitutional change and pressure‑group influence.",
   "stories": [
    {
-    "title": "Senate Republicans shift cash to Kansas",
+    "title": "Republicans shift Senate cash to Kansas",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Senate Republicans moved campaign funds from North Carolina to Kansas as the Senate map changed before the mid‑term elections. The shift reflects strategic targeting of vulnerable seats.",
-    "why_it_matters": "It illustrates how US parties allocate resources in a winner‑takes‑all electoral system, a key concept in the AQA elections syllabus. It also shows the role of party organisations in influencing electoral outcomes.",
+    "topic": "us-constitution",
+    "what_happened": "Senate Republicans moved campaign money from North Carolina to Kansas as the Senate map tightened before the midterm elections. The move signals a strategic focus on key swing states.",
+    "why_it_matters": "The shift illustrates how parties allocate resources under the US constitutional system of separate legislative chambers. It shows the importance of electoral geography in determining congressional control.",
     "perspectives": [
      {
-      "label": "Republican strategists argue",
-      "text": "The reallocation maximises chances of retaining a majority by focusing on winnable districts."
+      "label": "Supporters argue",
+      "text": "The reallocation targets competitive districts, maximising chances to retain a Senate majority."
      },
      {
-      "label": "Democratic critics argue",
-      "text": "Moving money away from North Carolina abandons voters who need representation against Republican dominance."
+      "label": "Critics argue",
+      "text": "Moving funds away from North Carolina may neglect voters there and undermine local campaign autonomy."
+     },
+     {
+      "label": "From the right",
+      "text": "Emphasises the need to protect conservative seats in the heartland."
      }
     ],
     "key_term": {
-     "term": "Targeted campaigning",
-     "definition": "Focusing resources on specific constituencies to win elections."
+     "term": "midterm elections",
+     "definition": "National elections held halfway through a president's term, typically for Congress."
     },
-    "exam_use": "Use as evidence of party strategy in an essay on how parties influence electoral results in the US.",
+    "exam_use": "Use as evidence of party strategy in a essay on how electoral systems shape campaign behaviour.",
     "sources": [
      "2096b1e4df04"
     ]
    },
    {
-    "title": "Trump rallies Alabama voters",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Former President Donald Trump held a rally in Alabama, urging support for Republican candidates ahead of the mid‑terms. The event came as GOP Senate prospects appeared uncertain.",
-    "why_it_matters": "The rally demonstrates personalisation of politics and the impact of charismatic leaders on party mobilisation, relevant to the AQA study of party politics and electoral behaviour.",
+    "title": "Burnham to scrap pension triple lock",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "Manchester Mayor Andy Burnham announced plans to repeal the state pension triple‑lock before the next general election. The government says the guarantee will stay until 2030 but will be voted on in this parliament.",
+    "why_it_matters": "The proposal tests the executive’s use of parliamentary time to enact fiscal policy, linking to the A‑level focus on the relationship between the cabinet and Parliament.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s presence energises the base and boosts voter turnout for the GOP."
+      "text": "Removing the triple lock will give the Treasury flexibility to manage public finances."
      },
      {
       "label": "Critics argue",
-      "text": "His polarising style may alienate moderate voters and harm Republican chances."
+      "text": "Abolishing the lock could reduce pensioners’ living standards and breach the social contract."
+     },
+     {
+      "label": "From the left",
+      "text": "Views the move as an attack on welfare provisions."
      }
     ],
     "key_term": {
-     "term": "Personalisation",
-     "definition": "When political attention focuses on individual leaders rather than parties or policies."
+     "term": "triple lock",
+     "definition": "A pension policy guaranteeing annual increases based on the highest of earnings growth, inflation, or 2.5%."
     },
-    "exam_use": "Cite in an essay on the role of leadership in US party politics.",
+    "exam_use": "Cite in an essay on executive‑legislative relations and fiscal policy making.",
     "sources": [
-     "dede4d458581"
+     "a1b7acf36957"
     ]
    },
    {
-    "title": "Supreme Court to hear climate and immigration cases",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The US Supreme Court announced five cases on climate change, immigration, gun rights and religious liberty for its new term. These include a challenge to federal climate regulations.",
-    "why_it_matters": "The cases highlight judicial review and the courts’ power to shape policy, a core topic in the AQA constitution and courts unit. They also show how courts can become arenas for ideological conflict.",
+    "title": "Plaid Cymru seeks devolved equalities law",
+    "section": "ukpol",
+    "topic": "devolution",
+    "what_happened": "Plaid Cymru activists proposed a motion to devolve equalities legislation to Wales to enhance trans rights. The motion will be debated at the party’s annual conference.",
+    "why_it_matters": "The push illustrates how pressure groups use devolution to influence policy areas traditionally reserved to Westminster, a key theme in UK politics.",
     "perspectives": [
      {
-      "label": "Progressive observers argue",
-      "text": "The Court can enforce environmental protections that legislatures have stalled."
+      "label": "Supporters argue",
+      "text": "Devolution would allow Wales to tailor equalities law to local needs."
      },
      {
-      "label": "Conservative observers argue",
-      "text": "Judicial activism threatens democratic decision‑making by overturning elected bodies."
+      "label": "Critics argue",
+      "text": "Splitting equalities legislation could create a patchwork of rights across the UK."
+     },
+     {
+      "label": "From the left",
+      "text": "Sees devolution as a tool for progressive social change."
      }
     ],
     "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of government actions."
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from the central government to regional bodies."
     },
-    "exam_use": "Use as contemporary evidence when discussing the balance of power between courts and government in the US.",
+    "exam_use": "Use as evidence when discussing the impact of devolution on policy variation.",
+    "sources": [
+     "9482a9b53242"
+    ]
+   },
+   {
+    "title": "US Supreme Court to hear climate and immigration cases",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court’s new term will include cases on climate change, immigration, gun rights and religious liberty. These issues are set to be argued in the coming weeks.",
+    "why_it_matters": "The cases show the judiciary’s role in shaping policy on rights and environmental regulation, linking to the A‑level focus on courts as a constitutional branch.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Court intervention is needed to protect environmental standards."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Judicial activism may overstep democratic decision‑making."
+     },
+     {
+      "label": "From the liberal perspective",
+      "text": "Emphasises protecting individual rights against majoritarian politics."
+     }
+    ],
+    "key_term": {
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of legislative and executive actions."
+    },
+    "exam_use": "Reference in an essay on the balance of power between courts and elected bodies.",
     "sources": [
      "60338614e8ab"
     ]
    },
    {
-    "title": "Wales seeks new devolution deal",
+    "title": "Poll shows half of UK backs EU re‑entry",
     "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "First Minister Rhun ap Iorwerth asked Prime Minister Andy Burnham to devolve policing, justice and welfare powers to Wales. He framed the request as making Wales equal to Scotland.",
-    "why_it_matters": "The demand tests the UK’s uncodified constitution and the balance of power between Westminster and devolved administrations, a key AQA topic on devolution.",
+    "topic": "eu",
+    "what_happened": "A new poll found that 50% of UK respondents support re‑joining the EU, a figure that could boost Labour’s vote share. Some senior officials remain cautious about negotiations.",
+    "why_it_matters": "The data links public opinion to party strategy and the constitutional question of the UK’s international relations post‑Brexit.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Devolving more powers will improve local accountability and policy fit."
-     },
-     {
-      "label": "Opponents argue",
-      "text": "Further devolution could fragment the UK and weaken national cohesion."
-     },
-     {
-      "label": "From the right",
-      "text": "Centralised control ensures uniform standards across the UK."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from central government to regional bodies."
-    },
-    "exam_use": "Reference in an essay comparing devolution in the UK with federalism in the US.",
-    "sources": [
-     "3530ad4ba4d7",
-     "a24ff47ca343"
-    ]
-   },
-   {
-    "title": "Liberal Democrats split over triple lock",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "A leaked internal Liberal Democrat document outlined arguments for and against the state pension triple lock, prompting MPs to demand a party policy change. The leak intensified internal debate.",
-    "why_it_matters": "The episode illustrates intra‑party pressure groups and policy formation, linking to the AQA study of political parties and their internal dynamics.",
-    "perspectives": [
-     {
-      "label": "Pro‑triple lock MPs argue",
-      "text": "The lock protects pensioners from inflation and maintains public trust."
-     },
-     {
-      "label": "Anti‑triple lock MPs argue",
-      "text": "It is fiscally unsustainable and limits budget flexibility."
-     },
-     {
-      "label": "From the left",
-      "text": "The policy reflects social welfare commitments essential to a fair society."
-     }
-    ],
-    "key_term": {
-     "term": "Policy coalition",
-     "definition": "A group within a party that unites around a specific policy stance."
-    },
-    "exam_use": "Use as evidence of party internal conflict in an essay on how parties develop policy positions.",
-    "sources": [
-     "97c05bca0101"
-    ]
-   },
-   {
-    "title": "Green leader urges Labour to stay on course",
-    "section": "ideas",
-    "topic": "socialism",
-    "what_happened": "Green Party leader Zack Polanski argued his party can keep Labour from moving to the right, claiming the Greens hold Labour’s “worst instincts” in check. He made the claim at a conference speech.",
-    "why_it_matters": "The statement reflects socialist ideas about coalition building and the role of smaller parties in shaping progressive agendas, relevant to the AQA socialism unit.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The Greens provide a necessary left‑wing pressure to prevent Labour from abandoning social justice."
+      "text": "Re‑joining would restore trade benefits and workers’ rights."
      },
      {
       "label": "Critics argue",
-      "text": "Fragmenting the left vote could enable Conservative victories."
+      "text": "It could undermine UK sovereignty and existing trade deals."
+     },
+     {
+      "label": "From the right",
+      "text": "Warns of loss of control over immigration and laws."
      }
     ],
     "key_term": {
-     "term": "Pressure group",
-     "definition": "An organisation that seeks to influence public policy without seeking office."
+     "term": "re‑membership",
+     "definition": "The process of a state re‑joining an international organisation it previously left."
     },
-    "exam_use": "Cite when discussing the impact of minor parties on major party policy in a comparative politics essay.",
+    "exam_use": "Use to discuss how public opinion influences foreign policy decisions.",
     "sources": [
-     "be1a036fefd2"
+     "0bb7ff149c0c"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parties use internal policy debates, like the Liberal Democrat triple lock revolt, to shape electoral platforms before the next general election.",
-   "us": "US parties shift campaign funds and rely on high‑profile rallies, as seen with Republican cash moves and Trump’s Alabama rally, to influence mid‑term outcomes.",
-   "insight": "Both systems show parties adapting strategies to maximise votes, but the UK’s proportional‑type pressures differ from the US’s winner‑takes‑all, fund‑driven tactics.",
+   "uk": "Burnham’s pension reform will be debated in Parliament before the next general election, showing how policy proposals are timed to electoral cycles.",
+   "us": "Republicans are shifting campaign funds ahead of the 2026 midterms, highlighting strategic resource allocation in a separate‑chamber system.",
+   "insight": "Both illustrate how electoral timing drives political decision‑making, but the UK’s parliamentary system ties legislation directly to a single election, whereas the US system involves distinct legislative and executive campaigns.",
    "sources": [
-    "97c05bca0101",
-    "2096b1e4df04",
-    "dede4d458581"
+    "a1b7acf36957",
+    "2096b1e4df04"
    ]
   },
   "ideas_lens": {
-   "ideology": "ecologism",
-   "text": "The Supreme Court’s climate cases embody ecologism’s call for systemic change to protect the environment, echoing thinkers like Rachel Carson who argue that legal frameworks must enforce ecological limits.",
+   "ideology": "liberalism",
+   "text": "The Supreme Court climate cases reflect liberalism’s emphasis on protecting individual rights and the environment, echoing thinkers like John Stuart Mill who argued for limiting state power to safeguard liberty.",
    "sources": [
     "60338614e8ab"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution and federalism shape the relationship between central and regional governments in the UK and the US.",
-   "section": "ukgov",
-   "tip": "Compare the Welsh devolution request with US federal structures, using recent examples to illustrate similarities and differences."
+   "question": "Assess how electoral considerations influence policy decisions in the UK and the US.",
+   "section": "ukgov | us",
+   "tip": "Compare the timing of Burnham’s pension reform with Republican fund‑shifting before the US midterms, linking each to the respective electoral system."
   }
  },
  "refs": {
@@ -199,14 +184,23 @@
    "lean": "centre",
    "date": "2026-10-02T17:28:25Z"
   },
-  "dede4d458581": {
-   "id": "dede4d458581",
-   "title": "Watch live: Trump rallies Alabama voters amid GOP midterm crunch",
-   "link": "https://thehill.com/video-clips/6126570-watch-live-donald-trump-alabama-rally-2026-midterms/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-02T22:00:00Z"
+  "a1b7acf36957": {
+   "id": "a1b7acf36957",
+   "title": "Burnham to pass law scrapping pension triple lock before next election",
+   "link": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-02T16:39:11Z"
+  },
+  "9482a9b53242": {
+   "id": "9482a9b53242",
+   "title": "Plaid Cymru activists want devolution of equalities law to increase trans rights",
+   "link": "https://nation.cymru/news/plaid-cymru-activists-want-devolution-of-equalities-law-to-increase-trans-rights/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-03T10:01:37Z"
   },
   "60338614e8ab": {
    "id": "60338614e8ab",
@@ -217,41 +211,14 @@
    "lean": "centre",
    "date": "2026-10-02T21:45:09Z"
   },
-  "3530ad4ba4d7": {
-   "id": "3530ad4ba4d7",
-   "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal to Scotland",
-   "link": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-10-02T15:40:31Z"
-  },
-  "a24ff47ca343": {
-   "id": "a24ff47ca343",
-   "title": "Welsh first minister calls on Burnham to deliver ‘new deal’ on devolution",
-   "link": "https://www.theguardian.com/politics/2026/oct/02/welsh-first-minister-rhun-ap-iorwerth-andy-burnham-devolution-wales-plaid-cymru",
+  "0bb7ff149c0c": {
+   "id": "0bb7ff149c0c",
+   "title": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
+   "link": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-10-02T15:06:47Z"
-  },
-  "97c05bca0101": {
-   "id": "97c05bca0101",
-   "title": "Lib Dem triple lock revolt deepens as leak to Sky News seized on by disgruntled MPs",
-   "link": "https://news.sky.com/story/lib-dem-triple-lock-revolt-deepens-as-internal-document-seen-by-sky-news-seized-on-by-disgruntled-mps-13594253",
-   "source": "sky",
-   "sourceName": "Sky News",
-   "lean": "centre",
-   "date": "2026-10-02T07:41:00Z"
-  },
-  "be1a036fefd2": {
-   "id": "be1a036fefd2",
-   "title": "Zack Polanski: The Greens can change the government",
-   "link": "https://www.newstatesman.com/politics/uk-politics/2026/10/zack-polanski-the-greens-can-change-the-government",
-   "source": "newstatesman",
-   "sourceName": "New Statesman",
-   "lean": "centre-left",
-   "date": "2026-10-02T14:39:48Z"
+   "date": "2026-10-03T05:00:52Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
