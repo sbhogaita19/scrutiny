@@ -1,205 +1,188 @@
 {
- "generated_at": "2026-10-04T11:07:18Z",
+ "generated_at": "2026-10-04T20:11:03Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, devolution debates and UK election dynamics dominate politics",
-  "overview": "US mid‑term races see heavy spending and policy debates, while in the UK parties clash over devolution and EU re‑entry. Both sides of the political spectrum are positioning themselves for upcoming elections.",
+  "headline": "Midterms, Welsh polls and devolution debates dominate politics today",
+  "overview": "US midterm campaigning intensifies as President Trump defends data centres. In Wales, Plaid Cymru leads the latest Senedd poll while the Welsh Conservative leader attacks the First Minister’s independence push. These stories illustrate electoral competition and devolution tensions.",
   "stories": [
    {
-    "title": "Trump backs Ohio data centres amid Senate race",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "President Trump defended new AI data centres in Ohio at a campaign rally, arguing the US must keep pace with global AI competition. The rally took place in Vandalia during the tight Senate contest.",
-    "why_it_matters": "The story illustrates how economic policy is used to mobilise voters in US mid‑term elections, a key topic in the A‑level syllabus on elections and party competition. It also shows the President’s role in influencing congressional races.",
+    "title": "Welsh Tory leader challenges First Minister’s independence agenda",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Welsh Conservative leader Darren Millar criticised First Minister Rhun ap Iorwerth for failing to improve public services and for prioritising independence. Millar urged the First Minister to \"get on with the day job\".",
+    "why_it_matters": "The clash highlights the role of the Welsh cabinet in devolved governance and the political tension over independence. It links to A-level study of the UK constitution and devolution arrangements.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Trump’s supporters say the data centres will create jobs and keep the US at the forefront of AI technology."
+      "label": "Conservatives argue",
+      "text": "The Conservatives claim the First Minister is neglecting economic responsibilities in favour of nationalist goals."
      },
      {
-      "label": "Critics argue",
-      "text": "Opponents warn the projects could divert public funds and raise privacy concerns."
-     }
-    ],
-    "key_term": {
-     "term": "mid‑term election",
-     "definition": "A general election held halfway through a president’s four‑year term, mainly for Congress."
-    },
-    "exam_use": "Use as evidence of how executive rhetoric can shape congressional campaigns in an essay on the US electoral system.",
-    "sources": [
-     "818c16899789"
-    ]
-   },
-   {
-    "title": "Trump super‑PAC pours cash into key House and Senate races",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Trump‑aligned super‑PACs injected tens of millions of dollars into pivotal Senate and House contests a month before Election Day. The spending targets swing districts where control of Congress is at stake.",
-    "why_it_matters": "Highlights the influence of money on US party politics and the role of external actors, linking to the A‑level focus on party competition and campaign finance.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "Conservatives argue the funds help defend Republican seats against a hostile Democratic agenda."
+      "label": "Plaid Cymru respond",
+      "text": "Plaid Cymru argues that pursuing independence is essential for Welsh self‑determination and long‑term prosperity."
      },
      {
       "label": "From the left",
-      "text": "Progressives contend the spending entrenches incumbency and undermines democratic fairness."
+      "text": "Left‑leaning commentators warn that focusing on independence distracts from urgent public‑service reforms."
      }
     ],
     "key_term": {
-     "term": "super‑PAC",
-     "definition": "An independent political committee that can raise unlimited sums for electioneering."
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the UK Parliament to regional bodies such as the Welsh Senedd."
     },
-    "exam_use": "Cite when discussing the impact of financial resources on party success in US elections.",
+    "exam_use": "Use as evidence in an essay on the strengths and weaknesses of devolution within the UK constitution.",
     "sources": [
-     "d43e1a770077"
+     "eff3278c59d4"
     ]
    },
    {
-    "title": "Plaid Cymru leads Senedd poll as Labour rebounds",
+    "title": "Plaid Cymru retains lead in Senedd poll",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "A new poll shows Plaid Cymru ahead of Reform UK by five points, while Labour has gained seven points since its May defeat. The poll reflects shifting voter sentiment in Wales.",
-    "why_it_matters": "Demonstrates party competition and regional political dynamics, core to the A‑level study of parties and elections in the UK.",
+    "what_happened": "A new poll shows Plaid Cymru ahead of Reform UK by five points, while Labour has recovered seven points since its May defeat. The poll reflects shifting voter attitudes in Wales.",
+    "why_it_matters": "Party support trends are central to understanding democratic participation and electoral behaviour in the AQA syllabus. The data illustrate how regional parties compete within a devolved system.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Plaid supporters claim the lead reflects demand for stronger Welsh autonomy."
+      "label": "Plaid supporters argue",
+      "text": "Plaid sees the poll as validation of its independence platform and policy record."
+     },
+     {
+      "label": "Labour critics argue",
+      "text": "Labour suggests the recovery shows voters are returning to a centre‑left alternative after the Conservative government."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators warn that a focus on devolution could fragment the UK."
+      "text": "Conservative commentators warn that a strong Plaid could destabilise the Union and harm economic stability."
      }
     ],
     "key_term": {
-     "term": "Senedd",
-     "definition": "The Welsh Parliament, responsible for devolved matters in Wales."
+     "term": "Electoral support",
+     "definition": "The level of public backing a political party receives, often measured through opinion polls."
     },
-    "exam_use": "Use as evidence of how devolution influences party fortunes in a UK politics essay.",
+    "exam_use": "Cite as evidence when evaluating the impact of party competition on Welsh devolution.",
     "sources": [
      "f1b626e5e278"
     ]
    },
    {
-    "title": "Welsh Tory leader attacks First Minister’s independence push",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Welsh Conservative leader Darren Millar criticised First Minister Rhun ap Iorwerth for failing to improve services, accusing him of prioritising independence over public needs. The comment was made during a press briefing.",
-    "why_it_matters": "Shows intra‑government conflict over devolution powers, linking to the A‑level focus on the UK constitution and the balance between central and devolved authorities.",
+    "title": "Trump backs data centres in Ohio amid Senate race",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "President Trump defended data‑centre projects in Ohio at a campaign rally, arguing that restricting them would hurt US competitiveness in artificial‑intelligence. The remarks came as the Senate race in Ohio tightened.",
+    "why_it_matters": "The statement links economic policy to electoral strategy, illustrating how US candidates use issue framing to influence voters, a key concept in the AQA US politics specification.",
+    "perspectives": [
+     {
+      "label": "Trump supporters argue",
+      "text": "Supporters say protecting tech investment is vital for US global leadership."
+     },
+     {
+      "label": "Democratic critics argue",
+      "text": "Democrats contend the projects could raise privacy concerns and benefit corporate interests."
+     },
+     {
+      "label": "From the centre",
+      "text": "Political analysts note the rhetoric reflects a broader trend of tying economic growth to election messaging."
+     }
+    ],
+    "key_term": {
+     "term": "Issue framing",
+     "definition": "The way politicians present an issue to shape public perception and voter behaviour."
+    },
+    "exam_use": "Use to discuss how US candidates frame economic issues during midterm campaigns.",
+    "sources": [
+     "818c16899789"
+    ]
+   },
+   {
+    "title": "Emanuel urges Democrats to focus on ethics reform",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Former Chicago mayor Rahm Emanuel called on Democrats to prioritise ethics reform over a third impeachment of President Trump if they regain congressional control. He stressed the need for legislative credibility.",
+    "why_it_matters": "The call highlights intra‑party strategy and the balance between accountability and policy priorities, relevant to AQA topics on US parties and congressional behaviour.",
+    "perspectives": [
+     {
+      "label": "Democratic supporters argue",
+      "text": "They view ethics reform as essential to restoring public trust in Congress."
+     },
+     {
+      "label": "Republican critics argue",
+      "text": "Republicans claim the focus distracts from holding the President accountable."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive voices warn ethics reform may be insufficient without broader systemic change."
+     }
+    ],
+    "key_term": {
+     "term": "Legislative agenda",
+     "definition": "The set of priorities a party or legislature chooses to pursue."
+    },
+    "exam_use": "Reference when analysing party strategy and legislative priorities in US Congress.",
+    "sources": [
+     "0e8529ae7d17"
+    ]
+   },
+   {
+    "title": "Greens define Zionism as racism in party policy vote",
+    "section": "ideas",
+    "topic": "socialism",
+    "what_happened": "Members of the Green Party voted to define Zionism as racism, a decision that was not attended by party leader Zack Polanski. The policy reflects a shift in the party’s stance on international issues.",
+    "why_it_matters": "The move illustrates how political ideas, such as socialism and anti‑imperialism, influence party policy formation, a core component of the AQA political ideas syllabus.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Millar’s supporters say the First Minister must deliver tangible services before pursuing constitutional change."
+      "text": "They see the definition as a stand against oppression and colonialism."
      },
      {
       "label": "Critics argue",
-      "text": "Plaid supporters argue the criticism distracts from the democratic right to self‑determination."
-     }
-    ],
-    "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional bodies."
-    },
-    "exam_use": "Reference when analysing tensions between UK government and devolved administrations.",
-    "sources": [
-     "eff3278c59d4",
-     "eab79a4abd04"
-    ]
-   },
-   {
-    "title": "Labour seeks safeguards for new regional spending powers",
-    "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "Labour ministers are consulting on measures to ensure mayors and council leaders in England are accountable for additional revenue powers being devolved. The proposal aims to prevent misuse of funds.",
-    "why_it_matters": "Relates to the A‑level theme of parliamentary oversight and the evolving constitutional arrangement of the UK.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Labour argues safeguards protect public money and democratic accountability."
+      "text": "Opponents claim it conflates criticism of Israel with anti‑Jewish sentiment."
      },
      {
       "label": "From the right",
-      "text": "Conservatives warn extra controls could stifle local innovation."
+      "text": "Right‑leaning commentators warn it could alienate voters and fuel division."
      }
     ],
     "key_term": {
-     "term": "accountability",
-     "definition": "The requirement that public officials answer for their actions and use of resources."
+     "term": "Political ideology",
+     "definition": "A set of beliefs about how society should be organised and governed."
     },
-    "exam_use": "Use to illustrate parliamentary mechanisms for controlling devolved powers in an essay on the UK constitution.",
+    "exam_use": "Use as a case study of how ideological shifts affect party policy.",
     "sources": [
-     "9b660e92a91d"
-    ]
-   },
-   {
-    "title": "Democrats edge Republicans in five key Senate races",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Recent polls show Democratic candidates leading or tied with Republican rivals in five competitive Senate contests. The races are viewed as bellwethers for control of the Senate.",
-    "why_it_matters": "Provides a snapshot of electoral competition and voter trends, essential for understanding the US electoral system and party dynamics.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Democrats see the leads as evidence of voter backlash against Republican policies."
-     },
-     {
-      "label": "From the right",
-      "text": "Republicans argue the polls underestimate their ground‑game and voter enthusiasm."
-     }
-    ],
-    "key_term": {
-     "term": "bellwether",
-     "definition": "A constituency or race that is seen as indicative of broader electoral outcomes."
-    },
-    "exam_use": "Cite when discussing factors that influence Senate control in a US politics essay.",
-    "sources": [
-     "08028b5acd2b"
+     "f4f5ce5a22e8"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parties are gauging voter sentiment ahead of the next general election, with devolution and EU re‑entry shaping campaign messages.",
-   "us": "US mid‑term races feature heavy financial inputs and close Senate polls, highlighting the role of money and swing states.",
-   "insight": "The contrast shows the UK’s focus on constitutional issues within party competition, whereas US contests centre on campaign finance and marginal seats.",
+   "uk": "Plaid Cymru’s poll lead shows how regional parties can dominate devolved elections, influencing policy on Welsh autonomy.",
+   "us": "Trump’s Ohio rally demonstrates how national leaders use issue framing to sway voters in tightly contested Senate races.",
+   "insight": "The contrast reveals that while UK elections often centre on party identity within a devolved framework, US elections heavily rely on individual candidate messaging to shape voter decisions.",
    "sources": [
     "f1b626e5e278",
-    "818c16899789",
-    "d43e1a770077",
-    "08028b5acd2b"
+    "818c16899789"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Trump’s data‑centre pitch reflects a liberal‑market belief that private investment drives technological progress, echoing Adam Smith’s ideas on competition. Critics invoke liberal democratic concerns about privacy and public oversight.",
+   "text": "The data‑centre debate reflects liberalism’s emphasis on free‑market innovation and individual enterprise, echoing thinkers like John Stuart Mill who championed economic freedom as a driver of progress.",
    "sources": [
     "818c16899789"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution influences party competition in the UK and the United States.",
-   "section": "ukpol | us",
-   "tip": "Compare the Welsh devolution debate with US state‑level electoral dynamics, using recent poll and policy examples."
+   "question": "Assess the extent to which devolution has altered party competition in Wales, using recent poll data and political statements.",
+   "section": "ukpol",
+   "tip": "Structure your answer by first explaining devolution, then analysing the poll and statements, and finally evaluating their impact on party dynamics."
   }
  },
  "refs": {
-  "818c16899789": {
-   "id": "818c16899789",
-   "title": "Trump backs data centers in Ohio amid tight Senate race",
-   "link": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "eff3278c59d4": {
+   "id": "eff3278c59d4",
+   "title": "'Get on with the day job' - Welsh Tory leader attacks first minister's independence push",
+   "link": "https://www.bbc.co.uk/news/articles/cwjdmkgemmd4o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-10-04T02:39:12Z"
-  },
-  "d43e1a770077": {
-   "id": "d43e1a770077",
-   "title": "Trump funnels millions from massive war chest into key House, Senate races: Here's where",
-   "link": "https://thehill.com/homenews/campaign/6126950-trump-funnels-millions-from-massive-war-chest-into-key-house-senate-races-heres-where/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-04T10:00:00Z"
+   "date": "2026-10-04T15:23:36Z"
   },
   "f1b626e5e278": {
    "id": "f1b626e5e278",
@@ -210,41 +193,32 @@
    "lean": "centre-left",
    "date": "2026-10-04T10:00:27Z"
   },
-  "eff3278c59d4": {
-   "id": "eff3278c59d4",
-   "title": "'Get on with the day job' - Welsh Tory leader attacks first minister's independence push",
-   "link": "https://www.bbc.co.uk/news/articles/cwjdmkgemmd4o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-10-04T08:03:21Z"
-  },
-  "eab79a4abd04": {
-   "id": "eab79a4abd04",
-   "title": "Darren Millar accuses Plaid of putting independence before public services",
-   "link": "https://nation.cymru/news/darren-millar-accuses-plaid-of-putting-independence-before-public-services/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-04T09:32:06Z"
-  },
-  "9b660e92a91d": {
-   "id": "9b660e92a91d",
-   "title": "Ministers explore how to stop regional leaders misusing planned new spending powers",
-   "link": "https://www.theguardian.com/politics/2026/oct/04/ministers-regional-leaders-spending-powers-devolution",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-04T06:00:19Z"
-  },
-  "08028b5acd2b": {
-   "id": "08028b5acd2b",
-   "title": "Democrats edge out, neck and neck with Republicans in 5 key Senate races: Polls",
-   "link": "https://thehill.com/homenews/campaign/6127564-senate-polls-democrats-midterm-elections/",
+  "818c16899789": {
+   "id": "818c16899789",
+   "title": "Trump backs data centers in Ohio amid tight Senate race",
+   "link": "https://thehill.com/homenews/campaign/6127929-trump-defends-ohio-data-centers/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-03T15:59:26Z"
+   "date": "2026-10-04T02:39:12Z"
+  },
+  "0e8529ae7d17": {
+   "id": "0e8529ae7d17",
+   "title": "Emanuel urges Democrats to prioritize ethics reform over potential third Trump impeachment",
+   "link": "https://thehill.com/homenews/campaign/6128366-emanuel-pushes-democrats-ethics-reform/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-04T18:09:38Z"
+  },
+  "f4f5ce5a22e8": {
+   "id": "f4f5ce5a22e8",
+   "title": "Greens make ‘Zionism is racism’ party policy as Polanski skips vote",
+   "link": "https://nation.cymru/news/greens-make-zionism-is-racism-party-policy-as-polanski-skips-vote/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-04T15:00:32Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
