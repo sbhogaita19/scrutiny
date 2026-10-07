@@ -1,183 +1,192 @@
 {
- "generated_at": "2026-10-07T11:47:28Z",
+ "generated_at": "2026-10-07T19:20:40Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Political turbulence spans Wales, US courts and US elections",
-  "overview": "Welsh Greens face internal split over a Zionism motion, US courts hear a broadcast‑license case involving the Trump administration, and Republican candidates grapple with Trump’s influence ahead of the 2026 midterms.",
+  "headline": "Tories push inheritance tax cut as Welsh Greens split over Zionism motion",
+  "overview": "The Conservative Party promotes a tax plan aimed at wealthier voters while Welsh Green leaders clash over a controversial motion. In the US, Senate races and court battles highlight partisan divides.",
   "stories": [
    {
-    "title": "Welsh Greens split over Zionism motion",
+    "title": "Conservatives propose inheritance tax abolition",
     "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The former deputy leader of the Welsh Greens resigned after the party adopted a motion declaring “Zionism is racism”. First Minister Rhun ap Iorwerth criticised the motion as ill‑judged.",
-    "why_it_matters": "The episode illustrates party cohesion challenges and the impact of internal disputes on party image, a key issue in the AQA study of political parties. It also touches on devolution, showing how Welsh parties operate within the UK’s devolved system.",
+    "topic": "elections",
+    "what_happened": "Kemi Badenoch announced the Conservatives would scrap inheritance tax on family homes if they win the next election. The proposal is presented as a way to attract affluent middle‑class voters.",
+    "why_it_matters": "The policy illustrates how parties use fiscal promises to shape voter appeal, a key concept in the AQA study of elections and party competition. It also raises questions about equity and the role of taxation in redistribution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the motion highlights concerns about human‑rights abuses linked to Israeli policies."
+      "text": "The plan will encourage savings and investment, helping the economy grow."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim the motion alienates Jewish communities and harms the party’s electoral prospects."
+      "text": "Abolishing the tax favours the wealthy and widens inequality."
      },
      {
-      "label": "From the left",
-      "text": "Left‑leaning commentators view the motion as a legitimate stand against oppression."
+      "label": "From the right",
+      "text": "Tax cuts are essential for personal freedom and economic dynamism."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the UK Parliament to regional bodies such as the Welsh Senedd."
+     "term": "inheritance tax",
+     "definition": "A levy on the value of property inherited after someone dies."
     },
-    "exam_use": "Use as evidence in an essay on how internal party disputes can affect party performance and public perception.",
+    "exam_use": "Use as evidence in an essay on how parties tailor fiscal policies to win elections.",
     "sources": [
-     "231c8ae19b9d",
-     "2d22c883d2fe"
+     "ef7d6d200529"
     ]
    },
    {
-    "title": "ABC seeks court block of Trump FCC review",
+    "title": "Welsh Greens deputy resigns over Zionism motion",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Emily Price reports that the former deputy leader of the Welsh Greens quit after a motion to label Zionism as racism was adopted. The party also faces calls to split from the Welsh Assembly.",
+    "why_it_matters": "The incident shows tensions between devolved parties and broader UK politics, relevant to the AQA topic of devolution and party dynamics. It also highlights how internal party disputes can affect public perception.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The motion condemns discrimination and aligns with human‑rights values."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Labeling Zionism as racism is seen as unfairly targeting a specific community."
+     },
+     {
+      "label": "From the left",
+      "text": "The move reflects progressive concerns about oppression."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The transfer of powers from the central UK government to regional bodies such as the Welsh Senedd."
+    },
+    "exam_use": "Cite as a case study of intra‑party conflict within a devolved party for an essay on devolution and party politics.",
+    "sources": [
+     "231c8ae19b9d"
+    ]
+   },
+   {
+    "title": "Maine Senate debate highlights split with Trump",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "Republican Sen. Susan Collins distanced herself from former President Donald Trump during her first Senate debate in Maine, emphasizing her independent record. Democrat Troy Jackson criticised Trump’s influence on the GOP.",
+    "why_it_matters": "The debate illustrates factionalism within US parties, a core AQA theme under Congress and party politics. It also shows how individual legislators navigate party loyalty versus constituency expectations.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Collins’ stance shows principled independence from a polarising leader."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Distancing from Trump may alienate the party’s base."
+     },
+     {
+      "label": "From the left",
+      "text": "The episode underscores the need for moderate voices in a polarized system."
+     }
+    ],
+    "key_term": {
+     "term": "factionalism",
+     "definition": "Division within a political party into groups with differing views."
+    },
+    "exam_use": "Use as evidence when discussing intra‑party divisions in the US Congress.",
+    "sources": [
+     "ed08d38e674d"
+    ]
+   },
+   {
+    "title": "Justice Alito under scrutiny as Colorado cases rise",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "ABC asked a federal judge to stop the Trump administration’s early review of its broadcast licences, arguing it threatens free speech. The case raises jurisdiction questions between the FCC and the courts.",
-    "why_it_matters": "The case demonstrates judicial review of executive action, a core concept in the US Constitution unit. It also shows how media regulation can become a political battleground.",
+    "what_happened": "SCOTUSblog notes that Justice Samuel Alito is in the spotlight and that many major Supreme Court cases now originate in Colorado. The article links the state’s legal environment to national jurisprudence.",
+    "why_it_matters": "The focus on a Supreme Court justice connects to the AQA study of the US courts and their role in shaping policy. Colorado’s case pipeline illustrates how state courts can influence federal law.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "ABC claims the review is an unlawful political interference with press freedom."
+      "text": "Alito’s conservative record reflects a strict interpretation of the Constitution."
      },
      {
       "label": "Critics argue",
-      "text": "The administration says the review is a lawful exercise of regulatory authority."
+      "text": "His decisions are seen as rolling back civil liberties."
      },
      {
       "label": "From the right",
-      "text": "Conservatives often view FCC oversight as overreach that stifles free speech."
+      "text": "Alito protects traditional values against activist judges."
      }
     ],
     "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of actions taken by the executive or legislature."
+     "term": "judicial activism",
+     "definition": "When judges are perceived to create new policy through their rulings rather than merely interpret law."
     },
-    "exam_use": "Cite in an essay comparing checks and balances in the US system with those in the UK.",
+    "exam_use": "Reference in an essay on the impact of the US Supreme Court on civil rights.",
     "sources": [
-     "c19feb2b8f24"
+     "1c9d46c5a81b"
     ]
    },
    {
-    "title": "Republicans weigh Trump’s influence in 2026 races",
+    "title": "Lawmakers seek answers on AAU sex‑abuse scandal",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Republican candidates are deciding whether to distance themselves from former President Trump, whose popularity remains high but is also a source of controversy. The decision is shaping campaign strategies for the upcoming midterms.",
-    "why_it_matters": "The story highlights intra‑party dynamics and the role of party leaders in elections, linking to the AQA focus on parties and elections in the US. It also reflects how personal politics can affect party cohesion.",
+    "topic": "us-pressure",
+    "what_happened": "A bipartisan group of US Congress members wrote to the Amateur Athletic Union demanding explanations for its handling of sexual‑abuse allegations. The letter reflects growing pressure for accountability.",
+    "why_it_matters": "The story exemplifies how pressure groups and legislative oversight interact, a key AQA theme under US pressure groups and congressional action. It also raises issues of civil rights protection.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Some candidates see aligning with Trump as essential to win primary voters."
+      "text": "Congressional scrutiny is necessary to protect athletes."
      },
      {
       "label": "Critics argue",
-      "text": "Others warn that Trump’s polarising image could cost them general‑election votes."
+      "text": "Political interference could undermine private organisations."
      },
      {
       "label": "From the left",
-      "text": "Progressives view the dilemma as evidence of the GOP’s struggle to move beyond Trumpism."
+      "text": "The case highlights systemic failures to safeguard vulnerable groups."
      }
     ],
     "key_term": {
-     "term": "Primary election",
-     "definition": "An election in which party members select their candidate for the general election."
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking election."
     },
-    "exam_use": "Use as a case study in an essay on how party leadership influences electoral outcomes.",
+    "exam_use": "Use as a contemporary example of legislative pressure on a private body in a civil‑rights essay.",
     "sources": [
-     "638381cafb79",
-     "8ffc0beb6070"
-    ]
-   },
-   {
-    "title": "Conservative Party conference fundraising focus",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "At the Conservative Party conference, Kemi Badenoch faced questions about donor contributions and the party’s financial strategy ahead of upcoming elections. Analysts discussed the impact of donor money on policy direction.",
-    "why_it_matters": "Funding and donor influence relate to the AQA topic of the executive’s relationship with interest groups and the party system. It also touches on the role of the Prime Minister in managing party resources.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Party officials claim donor money is vital for campaigning and policy development."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents warn that heavy donor influence can undermine democratic accountability."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives often argue that private funding is a legitimate part of a free‑market political system."
-     }
-    ],
-    "key_term": {
-     "term": "Donor funding",
-     "definition": "Financial contributions to a political party from individuals or organisations."
-    },
-    "exam_use": "Reference when discussing the influence of money on UK party politics and policy making.",
-    "sources": [
-     "f8b91b335326"
-    ]
-   },
-   {
-    "title": "London Tory mayoral candidates shortlisted",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The Conservative Party closed applications for its London mayoral candidate, leaving four hopefuls to compete for the nomination. The selection process is being closely watched as the party seeks to regain the mayoralty.",
-    "why_it_matters": "Candidate selection processes illustrate internal party democracy, a key AQA theme under political parties. It also shows how parties strategise for local elections within the broader UK political system.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The party argues the shortlist ensures a merit‑based, competitive selection."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Some claim the process favours establishment figures and limits grassroots input."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour supporters view the selection as an attempt by the Tories to re‑brand after recent defeats."
-     }
-    ],
-    "key_term": {
-     "term": "Candidate selection",
-     "definition": "The method by which a political party chooses its representatives for elections."
-    },
-    "exam_use": "Use as evidence when evaluating how parties manage candidate selection and its impact on electoral success.",
-    "sources": [
-     "f4b3f09e766b"
+     "0367f3a4de14"
     ]
    }
   ],
   "compare": {
    "theme": "parties",
-   "uk": "Welsh parties are dealing with internal ideological disputes that affect their standing within a devolved legislature.",
-   "us": "US parties are navigating the influence of a former president on candidate positioning ahead of midterm elections.",
-   "insight": "Both systems show that party cohesion and leadership influence are crucial, but the UK’s proportional and devolved context allows regional parties more distinct identity, whereas US parties operate within a two‑party, winner‑takes‑all framework.",
+   "uk": "UK Conservatives are using tax policy to court wealthy voters, while devolved parties face internal splits over identity politics.",
+   "us": "US Republicans show internal division over Trump’s influence, and the Supreme Court’s composition is a focal point of partisan debate.",
+   "insight": "Both systems reveal how party cohesion is challenged by ideological fault lines, affecting electoral strategy and policy focus.",
    "sources": [
+    "ef7d6d200529",
     "231c8ae19b9d",
-    "638381cafb79"
+    "ed08d38e674d",
+    "1c9d46c5a81b"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The ABC court case invokes liberal principles of free speech and limited government interference, echoing John Stuart Mill’s arguments for individual liberty. Liberalism also underpins the Welsh Greens’ emphasis on human‑rights concerns.",
+   "ideology": "conservatism",
+   "text": "Badenoch’s inheritance‑tax proposal reflects conservative emphasis on low taxation and individual wealth accumulation, echoing ideas from thinkers like Adam Smith. The US Republican split over Trump illustrates conservatism’s tension between traditional fiscal restraint and populist nationalism.",
    "sources": [
-    "c19feb2b8f24",
-    "231c8ae19b9d"
+    "ef7d6d200529",
+    "ed08d38e674d"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which internal party disputes affect electoral performance in the UK and the US.",
+   "question": "Assess the extent to which internal party divisions influence policy proposals in the UK and US.",
    "section": "ukpol | us",
-   "tip": "Compare a UK regional party case (Welsh Greens) with a US national party case (Republican candidates’ stance on Trump), using evidence of leadership decisions and voter reactions."
+   "tip": "Structure your answer by comparing a UK party’s fiscal policy with a US party’s stance on a leader, using specific recent examples."
   }
  },
  "refs": {
+  "ef7d6d200529": {
+   "id": "ef7d6d200529",
+   "title": "Tories accused of prioritising rich voters as Badenoch lays out inheritance tax cut plan",
+   "link": "https://www.theguardian.com/politics/2026/oct/07/tories-prioritising-rich-voters-inheritance-tax-cut-badenoch-conference-speech",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-07T17:58:59Z"
+  },
   "231c8ae19b9d": {
    "id": "231c8ae19b9d",
    "title": "Welsh Greens’ former deputy leader quits over ‘Zionism is racism’ motion",
@@ -187,59 +196,32 @@
    "lean": "centre-left",
    "date": "2026-10-07T11:00:11Z"
   },
-  "2d22c883d2fe": {
-   "id": "2d22c883d2fe",
-   "title": "Welsh first minister says Green Party Zionist motion was ill-judged",
-   "link": "https://www.bbc.co.uk/news/articles/cxg5j70rmj3po?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-10-06T21:33:43Z"
-  },
-  "c19feb2b8f24": {
-   "id": "c19feb2b8f24",
-   "title": "ABC and Trump's FCC battle in federal court over free speech and jurisdiction issues",
-   "link": "https://www.pbs.org/newshour/politics/abc-and-trumps-fcc-battle-in-federal-court-over-free-speech-and-jurisdiction-issues",
+  "ed08d38e674d": {
+   "id": "ed08d38e674d",
+   "title": "What happened in the first Maine Senate debate between Collins and Jackson",
+   "link": "https://www.pbs.org/newshour/politics/what-happened-in-the-first-maine-senate-debate-between-collins-and-jackson",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-10-06T23:51:58Z"
+   "date": "2026-10-07T14:13:29Z"
   },
-  "638381cafb79": {
-   "id": "638381cafb79",
-   "title": "The Republican candidates walking a Trump tightrope",
-   "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-10-07T05:00:21Z"
+  "1c9d46c5a81b": {
+   "id": "1c9d46c5a81b",
+   "title": "Justice Alito in the spotlight",
+   "link": "https://www.scotusblog.com/2026/10/justice-alito-in-the-spotlight/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-10-07T13:00:00Z"
   },
-  "8ffc0beb6070": {
-   "id": "8ffc0beb6070",
-   "title": "Trump heads to Texas as GOP worries mount over Paxton, Talarico",
-   "link": "https://thehill.com/homenews/campaign/6131875-trump-visits-texas-paxton-talarico-senate/",
+  "0367f3a4de14": {
+   "id": "0367f3a4de14",
+   "title": "Lawmakers demand answers on Amateur Athletic Union sex abuse scandal",
+   "link": "https://thehill.com/policy/sports-gaming/6134523-lawmakers-probe-sex-abuse-aau/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-07T10:00:00Z"
-  },
-  "f8b91b335326": {
-   "id": "f8b91b335326",
-   "title": "Will Tory donors splash the cash?",
-   "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-tory-donors-splash-the-cash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-10-07T08:41:29Z"
-  },
-  "f4b3f09e766b": {
-   "id": "f4b3f09e766b",
-   "title": "The candidates hoping to be London's second Tory mayor",
-   "link": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-10-07T08:40:14Z"
+   "date": "2026-10-07T19:09:52Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
