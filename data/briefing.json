@@ -1,173 +1,209 @@
 {
- "generated_at": "2026-10-06T18:54:41Z",
+ "generated_at": "2026-10-07T02:23:43Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Climate courts, party splits and devolution drama dominate politics",
-  "overview": "Supreme Court hears a climate liability case while UK parties wrestle over cooperation. In Stormont a no‑confidence vote fails, and US midterms heat up.",
+  "headline": "Midterms, climate court, and party splits dominate politics",
+  "overview": "US midterm strategies and a Supreme Court climate case highlight electoral and judicial battles. In the UK, party realignments and devolution tensions shape government and opposition dynamics.",
   "stories": [
-   {
-    "title": "Supreme Court hears climate liability case",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "Justices heard arguments on whether energy firms can be held liable for climate change impacts in Boulder, Colorado. The case could set precedent for community lawsuits against industry.",
-    "why_it_matters": "The case illustrates judicial power to shape policy, a key point in A‑level study of the US Constitution and courts. It also raises questions about the balance of powers.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Holding companies accountable would force faster emissions cuts and protect vulnerable communities."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Judges should not create policy; Parliament should legislate on climate issues."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "Courts examining the legality of actions by the other branches of government."
-    },
-    "exam_use": "Use as evidence when discussing the role of the US judiciary in policy making in a Constitution essay.",
-    "sources": [
-     "3dc6469238e3"
-    ]
-   },
    {
     "title": "Labour rules out coalition with Greens",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Senior Labour figures said a partnership with the Green Party is unlikely after the Greens voted that \"Zionism is racism\". Both parties dismissed the idea of formal cooperation.",
-    "why_it_matters": "Shows party strategy and the impact of ideological disputes on coalition possibilities, relevant to the AQA topic of political parties and coalition building.",
+    "what_happened": "Senior Labour figures said a partnership with the Green Party is highly unlikely after the Greens voted that ‘Zionism is racism’. Labour ministers said they could not see parties cooperating.",
+    "why_it_matters": "The story illustrates party competition and coalition possibilities, key to the AQA topic of Political parties. It shows how policy disagreements can block alliances.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Labour sees the Greens' stance as incompatible with its own anti‑racism commitments."
+      "label": "Labour supporters argue",
+      "text": "Cooperating with the Greens would damage Labour’s electoral appeal among moderate voters."
+     },
+     {
+      "label": "Green supporters argue",
+      "text": "The Greens view the vote as a principled stand on human rights, even if it limits coalition options."
      },
      {
       "label": "From the right",
-      "text": "Critics say Labour is missing an opportunity to unite progressive forces against the Conservatives."
-     },
-     {
-      "label": "Supporters argue",
-      "text": "Maintaining clear party identities protects voter trust."
+      "text": "Conservative commentators claim the split shows left‑wing fragmentation weakening opposition to the government."
      }
     ],
     "key_term": {
-     "term": "Coalition",
-     "definition": "An alliance of two or more parties to form a government or achieve common goals."
+     "term": "coalition",
+     "definition": "An agreement between two or more parties to share power."
     },
-    "exam_use": "Cite when evaluating why parties may choose to cooperate or stay separate in an essay on party politics.",
+    "exam_use": "Use as evidence in an essay on why parties may or may not form coalitions in the UK.",
     "sources": [
      "fe33e590b3ca"
     ]
    },
    {
-    "title": "Stormont no‑confidence motion fails",
+    "title": "Wales First Minister condemns Green Zionism motion",
     "section": "ukgov",
     "topic": "devolution",
-    "what_happened": "A motion of no confidence in Northern Ireland's agriculture minister was defeated, with 38 against and 32 in favour. The vote kept the minister in post.",
-    "why_it_matters": "Illustrates how devolved assemblies can hold ministers to account, linking to the AQA focus on devolution and parliamentary scrutiny.",
+    "what_happened": "First Minister Rhun ap Iorwerth said the Green Party’s motion labeling Zionism as racism was ‘ill‑judged’ and pledged support for Jewish communities in Wales.",
+    "why_it_matters": "The incident highlights tensions between devolved administrations and parties over foreign policy statements, relevant to the AQA focus on devolution and its limits.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The result shows stability in Stormont and confidence in the minister's performance."
+      "label": "Welsh Labour perspective",
+      "text": "The motion undermines community cohesion in Wales."
      },
      {
-      "label": "Critics argue",
-      "text": "The close vote indicates significant dissent and a need for stronger oversight."
+      "label": "Green Party perspective",
+      "text": "The motion reflects a commitment to anti‑racism principles."
+     },
+     {
+      "label": "From the left",
+      "text": "Critics argue the backlash suppresses legitimate criticism of Israeli policy."
      }
     ],
     "key_term": {
-     "term": "No‑confidence motion",
-     "definition": "A parliamentary vote that can remove a minister or government if a majority opposes them."
+     "term": "devolution",
+     "definition": "The transfer of powers from central government to regional bodies."
     },
-    "exam_use": "Use as a case study of devolution mechanisms in a short‑answer question on the powers of the Northern Ireland Assembly.",
+    "exam_use": "Cite when discussing the scope and political challenges of devolved powers in Wales.",
     "sources": [
-     "2c48d48e010e"
+     "2d22c883d2fe"
     ]
    },
    {
-    "title": "Democrats face hurdles ahead of 2026 midterms",
+    "title": "Supreme Court hears climate liability case",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "NPR reported that while Democrats feel optimistic, they must contend with fundraising gaps, candidate recruitment and voter fatigue before the November midterms. Experts warn of potential losses in swing districts.",
-    "why_it_matters": "Highlights electoral strategy, campaign finance and voter behaviour – core themes in the AQA elections and direct democracy unit.",
+    "topic": "us-courts",
+    "what_happened": "Justices heard arguments on whether energy companies can be held liable for climate‑change damages in a Boulder, Colorado lawsuit.",
+    "why_it_matters": "The case tests judicial willingness to intervene in environmental policy, linking to AQA themes of courts and their role in policy making.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Progressive policies could energise the base and offset structural disadvantages."
+      "label": "Environmental advocates argue",
+      "text": "Holding companies accountable is essential for climate justice."
+     },
+     {
+      "label": "Industry supporters argue",
+      "text": "Litigation threatens economic stability and oversteps judicial bounds."
+     },
+     {
+      "label": "From the centre",
+      "text": "Some judges see the case as an opportunity to clarify legal standards for corporate liability."
+     }
+    ],
+    "key_term": {
+     "term": "judicial review",
+     "definition": "A process by which courts examine the lawfulness of governmental actions."
+    },
+    "exam_use": "Use as evidence in an essay on the influence of courts on public policy in the US.",
+    "sources": [
+     "3dc6469238e3"
+    ]
+   },
+   {
+    "title": "ABC challenges Trump administration’s FCC review",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "ABC asked a federal judge to stop the Trump administration’s early review of its broadcast licences, arguing it threatens free speech.",
+    "why_it_matters": "The dispute raises questions about executive power, regulatory jurisdiction and First‑Amendment rights, all covered in the AQA Constitution and courts unit.",
+    "perspectives": [
+     {
+      "label": "Free‑speech advocates argue",
+      "text": "The early review is an unlawful attempt to silence dissenting media."
+     },
+     {
+      "label": "Administration supporters argue",
+      "text": "The review is a lawful exercise of regulatory authority to ensure compliance."
      },
      {
       "label": "From the right",
-      "text": "Republicans argue Democratic complacency will cost them seats."
+      "text": "Critics claim the lawsuit is a partisan attack on the President’s prerogative."
      }
     ],
     "key_term": {
-     "term": "Midterm elections",
-     "definition": "US elections held halfway through a president's four‑year term, usually for Congress."
+     "term": "first amendment",
+     "definition": "The US constitutional protection of freedom of speech and press."
     },
-    "exam_use": "Reference when analysing factors that influence electoral outcomes in a comparative elections essay.",
+    "exam_use": "Reference when analysing the balance of powers between the executive and the judiciary.",
     "sources": [
-     "fde2b735fc5d"
+     "c19feb2b8f24"
     ]
    },
    {
-    "title": "Tory plan to cut energy‑efficiency rule criticised",
-    "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "The Institute for Government reported that a Conservative proposal to relax building‑energy standards could add £1,000 a year to new‑home owners’ costs. The think‑tank warned of climate and consumer impacts.",
-    "why_it_matters": "Connects parliamentary policy‑making with environmental regulation, relevant to the AQA study of Parliament’s role in legislation and scrutiny.",
+    "title": "Tories eye next general election",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "Conservative MP Kemi Badenoch said she is more popular than the party and that her appeal could help the Tories win the next election.",
+    "why_it_matters": "The statement reflects party strategy and leadership influence on electoral prospects, a core part of the AQA Elections & Referendums topic.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Easing rules will reduce construction costs and boost housing supply."
+      "label": "Conservative supporters argue",
+      "text": "Badenoch’s popularity signals a fresh direction that can attract voters."
      },
      {
-      "label": "Critics argue",
-      "text": "Weakening standards undermines climate targets and harms buyers."
+      "label": "Labour critics argue",
+      "text": "Relying on a single figure ignores broader policy failures."
+     },
+     {
+      "label": "From the centre",
+      "text": "Analysts note that personal popularity does not guarantee electoral success."
      }
     ],
     "key_term": {
-     "term": "Regulation",
-     "definition": "A rule made by a government authority to control behaviour."
+     "term": "general election",
+     "definition": "A nationwide vote to elect all members of the House of Commons."
     },
-    "exam_use": "Use as evidence of how parliamentary decisions affect policy areas such as the environment in a policy‑impact essay.",
+    "exam_use": "Use to illustrate how party leaders influence election campaigning in the UK.",
     "sources": [
-     "8267d442ff47"
+     "23de6014f16c"
+    ]
+   },
+   {
+    "title": "Republicans push tough‑on‑crime message",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Republican candidates emphasized law‑and‑order themes ahead of the 2026 midterm elections, though the effectiveness of this strategy remains uncertain.",
+    "why_it_matters": "The focus on crime ties into voter behaviour and party positioning, relevant to the AQA study of US elections and party competition.",
+    "perspectives": [
+     {
+      "label": "Republican viewpoint",
+      "text": "A tough‑on‑crime stance will attract swing voters concerned about safety."
+     },
+     {
+      "label": "Democratic viewpoint",
+      "text": "The message may alienate minority voters and overlook systemic issues."
+     },
+     {
+      "label": "From the left",
+      "text": "Critics argue the rhetoric inflames social divisions for political gain."
+     }
+    ],
+    "key_term": {
+     "term": "midterm elections",
+     "definition": "US elections held halfway through a president’s four‑year term to elect Congress members."
+    },
+    "exam_use": "Cite when discussing how parties tailor messages to win US elections.",
+    "sources": [
+     "95433b178ac9"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "Kemi Badenoch’s popularity is being used by the Conservatives to project confidence ahead of the 2028 mayoral election (source 87014f88b6f1).",
-   "us": "US midterms are shaping party strategies as Democrats grapple with fundraising and candidate recruitment (source fde2b735fc5d).",
-   "insight": "Both systems show how parties use individual leaders or electoral cycles to mobilise support, but the UK relies on a single high‑profile figure while the US focuses on broader campaign infrastructure.",
+   "uk": "UK parties focus on leader popularity (Badenoch) to shape voter appeal ahead of the next general election.",
+   "us": "US parties emphasise issue‑based messaging (tough‑on‑crime) for the 2026 midterms.",
+   "insight": "The contrast shows the UK’s leader‑centric campaign style versus the US’s issue‑driven electoral strategies.",
    "sources": [
-    "87014f88b6f1",
-    "fde2b735fc5d"
+    "23de6014f16c",
+    "95433b178ac9"
    ]
   },
   "ideas_lens": {
-   "ideology": "ecologism",
-   "text": "The Supreme Court climate case reflects ecologism’s core belief that environmental protection should be enforced through strong institutions; thinkers like Rachel Carson argue that legal mechanisms are essential to curb corporate harm.",
+   "ideology": "liberalism",
+   "text": "The ABC case invokes liberalism’s core idea of protecting individual freedoms, echoing John Stuart Mill’s defence of free speech against state interference.",
    "sources": [
-    "3dc6469238e3"
+    "c19feb2b8f24"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which judicial decisions can influence climate policy in the United States, using recent Supreme Court cases as examples.",
-   "section": "us",
-   "tip": "Structure your answer by explaining judicial power, outlining the case facts, and evaluating arguments from both supporters and critics."
+   "question": "Assess the extent to which courts can influence public policy in the UK and the US, using recent cases as examples.",
+   "section": "ideas",
+   "tip": "Structure your answer by comparing the judicial role in each country, then evaluate the impact of the selected cases."
   }
  },
  "refs": {
-  "3dc6469238e3": {
-   "id": "3dc6469238e3",
-   "title": "Supreme Court hears case on holding energy companies liable for climate change",
-   "link": "https://www.pbs.org/newshour/show/supreme-court-hears-case-on-holding-energy-companies-liable-for-climate-change",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-05T22:55:51Z"
-  },
   "fe33e590b3ca": {
    "id": "fe33e590b3ca",
    "title": "Labour figures rule out working with Greens after ‘Zionism is racism’ vote",
@@ -177,41 +213,50 @@
    "lean": "centre-left",
    "date": "2026-10-06T18:26:29Z"
   },
-  "2c48d48e010e": {
-   "id": "2c48d48e010e",
-   "title": "Stormont no-confidence motion in agriculture minister fails",
-   "link": "https://www.bbc.co.uk/news/articles/cqpvgzk0kkkpo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcni",
-   "sourceName": "BBC Northern Ireland",
+  "2d22c883d2fe": {
+   "id": "2d22c883d2fe",
+   "title": "Wales' First Minister says Green Party Zionist motion was 'ill-judged'",
+   "link": "https://www.bbc.co.uk/news/articles/cxg5j70rmj3po?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-10-06T14:58:34Z"
+   "date": "2026-10-06T21:33:43Z"
   },
-  "fde2b735fc5d": {
-   "id": "fde2b735fc5d",
-   "title": "What challenges lie ahead for the Democratic Party as midterms approach",
-   "link": "https://www.npr.org/2026/10/06/nx-s1-5991646/what-challenges-lie-ahead-for-the-democratic-party-as-midterms-approach",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-10-06T10:53:02Z"
+  "3dc6469238e3": {
+   "id": "3dc6469238e3",
+   "title": "Supreme Court hears case on holding energy companies liable for climate change",
+   "link": "https://www.pbs.org/newshour/show/supreme-court-hears-case-on-holding-energy-companies-liable-for-climate-change",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-05T22:55:51Z"
   },
-  "8267d442ff47": {
-   "id": "8267d442ff47",
-   "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
-   "link": "https://www.instituteforgovernment.org.uk/ifg-news/tory-plan-cut-energy-efficiency-rule-builders-will-cost-new",
-   "source": "ifg",
-   "sourceName": "Institute for Government",
-   "lean": "non-partisan",
-   "date": "2026-10-06T09:42:20Z"
+  "c19feb2b8f24": {
+   "id": "c19feb2b8f24",
+   "title": "ABC and Trump's FCC battle in federal court over free speech and jurisdiction issues",
+   "link": "https://www.pbs.org/newshour/politics/abc-and-trumps-fcc-battle-in-federal-court-over-free-speech-and-jurisdiction-issues",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-06T23:51:58Z"
   },
-  "87014f88b6f1": {
-   "id": "87014f88b6f1",
-   "title": "Why Tories are talking about winning the next election",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
+  "23de6014f16c": {
+   "id": "23de6014f16c",
+   "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+   "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-06T16:49:05Z"
+   "date": "2026-10-06T21:18:45Z"
+  },
+  "95433b178ac9": {
+   "id": "95433b178ac9",
+   "title": "Republicans focus on tough-on-crime message before difficult midterm elections",
+   "link": "https://www.pbs.org/newshour/politics/republicans-focus-on-tough-on-crime-message-before-difficult-midterm-elections",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-06T19:52:44Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
