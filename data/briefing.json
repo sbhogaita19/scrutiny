@@ -1,235 +1,200 @@
 {
- "generated_at": "2026-10-07T02:23:43Z",
+ "generated_at": "2026-10-07T11:47:28Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, climate court, and party splits dominate politics",
-  "overview": "US midterm strategies and a Supreme Court climate case highlight electoral and judicial battles. In the UK, party realignments and devolution tensions shape government and opposition dynamics.",
+  "headline": "Political turbulence spans Wales, US courts and US elections",
+  "overview": "Welsh Greens face internal split over a Zionism motion, US courts hear a broadcast‑license case involving the Trump administration, and Republican candidates grapple with Trump’s influence ahead of the 2026 midterms.",
   "stories": [
    {
-    "title": "Labour rules out coalition with Greens",
+    "title": "Welsh Greens split over Zionism motion",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Senior Labour figures said a partnership with the Green Party is highly unlikely after the Greens voted that ‘Zionism is racism’. Labour ministers said they could not see parties cooperating.",
-    "why_it_matters": "The story illustrates party competition and coalition possibilities, key to the AQA topic of Political parties. It shows how policy disagreements can block alliances.",
+    "what_happened": "The former deputy leader of the Welsh Greens resigned after the party adopted a motion declaring “Zionism is racism”. First Minister Rhun ap Iorwerth criticised the motion as ill‑judged.",
+    "why_it_matters": "The episode illustrates party cohesion challenges and the impact of internal disputes on party image, a key issue in the AQA study of political parties. It also touches on devolution, showing how Welsh parties operate within the UK’s devolved system.",
     "perspectives": [
      {
-      "label": "Labour supporters argue",
-      "text": "Cooperating with the Greens would damage Labour’s electoral appeal among moderate voters."
+      "label": "Supporters argue",
+      "text": "Proponents say the motion highlights concerns about human‑rights abuses linked to Israeli policies."
      },
      {
-      "label": "Green supporters argue",
-      "text": "The Greens view the vote as a principled stand on human rights, even if it limits coalition options."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators claim the split shows left‑wing fragmentation weakening opposition to the government."
-     }
-    ],
-    "key_term": {
-     "term": "coalition",
-     "definition": "An agreement between two or more parties to share power."
-    },
-    "exam_use": "Use as evidence in an essay on why parties may or may not form coalitions in the UK.",
-    "sources": [
-     "fe33e590b3ca"
-    ]
-   },
-   {
-    "title": "Wales First Minister condemns Green Zionism motion",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "First Minister Rhun ap Iorwerth said the Green Party’s motion labeling Zionism as racism was ‘ill‑judged’ and pledged support for Jewish communities in Wales.",
-    "why_it_matters": "The incident highlights tensions between devolved administrations and parties over foreign policy statements, relevant to the AQA focus on devolution and its limits.",
-    "perspectives": [
-     {
-      "label": "Welsh Labour perspective",
-      "text": "The motion undermines community cohesion in Wales."
-     },
-     {
-      "label": "Green Party perspective",
-      "text": "The motion reflects a commitment to anti‑racism principles."
+      "label": "Critics argue",
+      "text": "Opponents claim the motion alienates Jewish communities and harms the party’s electoral prospects."
      },
      {
       "label": "From the left",
-      "text": "Critics argue the backlash suppresses legitimate criticism of Israeli policy."
+      "text": "Left‑leaning commentators view the motion as a legitimate stand against oppression."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The transfer of powers from central government to regional bodies."
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the UK Parliament to regional bodies such as the Welsh Senedd."
     },
-    "exam_use": "Cite when discussing the scope and political challenges of devolved powers in Wales.",
+    "exam_use": "Use as evidence in an essay on how internal party disputes can affect party performance and public perception.",
     "sources": [
+     "231c8ae19b9d",
      "2d22c883d2fe"
     ]
    },
    {
-    "title": "Supreme Court hears climate liability case",
+    "title": "ABC seeks court block of Trump FCC review",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "Justices heard arguments on whether energy companies can be held liable for climate‑change damages in a Boulder, Colorado lawsuit.",
-    "why_it_matters": "The case tests judicial willingness to intervene in environmental policy, linking to AQA themes of courts and their role in policy making.",
+    "what_happened": "ABC asked a federal judge to stop the Trump administration’s early review of its broadcast licences, arguing it threatens free speech. The case raises jurisdiction questions between the FCC and the courts.",
+    "why_it_matters": "The case demonstrates judicial review of executive action, a core concept in the US Constitution unit. It also shows how media regulation can become a political battleground.",
     "perspectives": [
      {
-      "label": "Environmental advocates argue",
-      "text": "Holding companies accountable is essential for climate justice."
+      "label": "Supporters argue",
+      "text": "ABC claims the review is an unlawful political interference with press freedom."
      },
      {
-      "label": "Industry supporters argue",
-      "text": "Litigation threatens economic stability and oversteps judicial bounds."
-     },
-     {
-      "label": "From the centre",
-      "text": "Some judges see the case as an opportunity to clarify legal standards for corporate liability."
-     }
-    ],
-    "key_term": {
-     "term": "judicial review",
-     "definition": "A process by which courts examine the lawfulness of governmental actions."
-    },
-    "exam_use": "Use as evidence in an essay on the influence of courts on public policy in the US.",
-    "sources": [
-     "3dc6469238e3"
-    ]
-   },
-   {
-    "title": "ABC challenges Trump administration’s FCC review",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "ABC asked a federal judge to stop the Trump administration’s early review of its broadcast licences, arguing it threatens free speech.",
-    "why_it_matters": "The dispute raises questions about executive power, regulatory jurisdiction and First‑Amendment rights, all covered in the AQA Constitution and courts unit.",
-    "perspectives": [
-     {
-      "label": "Free‑speech advocates argue",
-      "text": "The early review is an unlawful attempt to silence dissenting media."
-     },
-     {
-      "label": "Administration supporters argue",
-      "text": "The review is a lawful exercise of regulatory authority to ensure compliance."
+      "label": "Critics argue",
+      "text": "The administration says the review is a lawful exercise of regulatory authority."
      },
      {
       "label": "From the right",
-      "text": "Critics claim the lawsuit is a partisan attack on the President’s prerogative."
+      "text": "Conservatives often view FCC oversight as overreach that stifles free speech."
      }
     ],
     "key_term": {
-     "term": "first amendment",
-     "definition": "The US constitutional protection of freedom of speech and press."
+     "term": "Judicial review",
+     "definition": "The power of courts to assess the legality of actions taken by the executive or legislature."
     },
-    "exam_use": "Reference when analysing the balance of powers between the executive and the judiciary.",
+    "exam_use": "Cite in an essay comparing checks and balances in the US system with those in the UK.",
     "sources": [
      "c19feb2b8f24"
     ]
    },
    {
-    "title": "Tories eye next general election",
-    "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "Conservative MP Kemi Badenoch said she is more popular than the party and that her appeal could help the Tories win the next election.",
-    "why_it_matters": "The statement reflects party strategy and leadership influence on electoral prospects, a core part of the AQA Elections & Referendums topic.",
-    "perspectives": [
-     {
-      "label": "Conservative supporters argue",
-      "text": "Badenoch’s popularity signals a fresh direction that can attract voters."
-     },
-     {
-      "label": "Labour critics argue",
-      "text": "Relying on a single figure ignores broader policy failures."
-     },
-     {
-      "label": "From the centre",
-      "text": "Analysts note that personal popularity does not guarantee electoral success."
-     }
-    ],
-    "key_term": {
-     "term": "general election",
-     "definition": "A nationwide vote to elect all members of the House of Commons."
-    },
-    "exam_use": "Use to illustrate how party leaders influence election campaigning in the UK.",
-    "sources": [
-     "23de6014f16c"
-    ]
-   },
-   {
-    "title": "Republicans push tough‑on‑crime message",
+    "title": "Republicans weigh Trump’s influence in 2026 races",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Republican candidates emphasized law‑and‑order themes ahead of the 2026 midterm elections, though the effectiveness of this strategy remains uncertain.",
-    "why_it_matters": "The focus on crime ties into voter behaviour and party positioning, relevant to the AQA study of US elections and party competition.",
+    "what_happened": "Republican candidates are deciding whether to distance themselves from former President Trump, whose popularity remains high but is also a source of controversy. The decision is shaping campaign strategies for the upcoming midterms.",
+    "why_it_matters": "The story highlights intra‑party dynamics and the role of party leaders in elections, linking to the AQA focus on parties and elections in the US. It also reflects how personal politics can affect party cohesion.",
     "perspectives": [
      {
-      "label": "Republican viewpoint",
-      "text": "A tough‑on‑crime stance will attract swing voters concerned about safety."
+      "label": "Supporters argue",
+      "text": "Some candidates see aligning with Trump as essential to win primary voters."
      },
      {
-      "label": "Democratic viewpoint",
-      "text": "The message may alienate minority voters and overlook systemic issues."
+      "label": "Critics argue",
+      "text": "Others warn that Trump’s polarising image could cost them general‑election votes."
      },
      {
       "label": "From the left",
-      "text": "Critics argue the rhetoric inflames social divisions for political gain."
+      "text": "Progressives view the dilemma as evidence of the GOP’s struggle to move beyond Trumpism."
      }
     ],
     "key_term": {
-     "term": "midterm elections",
-     "definition": "US elections held halfway through a president’s four‑year term to elect Congress members."
+     "term": "Primary election",
+     "definition": "An election in which party members select their candidate for the general election."
     },
-    "exam_use": "Cite when discussing how parties tailor messages to win US elections.",
+    "exam_use": "Use as a case study in an essay on how party leadership influences electoral outcomes.",
     "sources": [
-     "95433b178ac9"
+     "638381cafb79",
+     "8ffc0beb6070"
+    ]
+   },
+   {
+    "title": "Conservative Party conference fundraising focus",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "At the Conservative Party conference, Kemi Badenoch faced questions about donor contributions and the party’s financial strategy ahead of upcoming elections. Analysts discussed the impact of donor money on policy direction.",
+    "why_it_matters": "Funding and donor influence relate to the AQA topic of the executive’s relationship with interest groups and the party system. It also touches on the role of the Prime Minister in managing party resources.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Party officials claim donor money is vital for campaigning and policy development."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warn that heavy donor influence can undermine democratic accountability."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservatives often argue that private funding is a legitimate part of a free‑market political system."
+     }
+    ],
+    "key_term": {
+     "term": "Donor funding",
+     "definition": "Financial contributions to a political party from individuals or organisations."
+    },
+    "exam_use": "Reference when discussing the influence of money on UK party politics and policy making.",
+    "sources": [
+     "f8b91b335326"
+    ]
+   },
+   {
+    "title": "London Tory mayoral candidates shortlisted",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "The Conservative Party closed applications for its London mayoral candidate, leaving four hopefuls to compete for the nomination. The selection process is being closely watched as the party seeks to regain the mayoralty.",
+    "why_it_matters": "Candidate selection processes illustrate internal party democracy, a key AQA theme under political parties. It also shows how parties strategise for local elections within the broader UK political system.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The party argues the shortlist ensures a merit‑based, competitive selection."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Some claim the process favours establishment figures and limits grassroots input."
+     },
+     {
+      "label": "From the left",
+      "text": "Labour supporters view the selection as an attempt by the Tories to re‑brand after recent defeats."
+     }
+    ],
+    "key_term": {
+     "term": "Candidate selection",
+     "definition": "The method by which a political party chooses its representatives for elections."
+    },
+    "exam_use": "Use as evidence when evaluating how parties manage candidate selection and its impact on electoral success.",
+    "sources": [
+     "f4b3f09e766b"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK parties focus on leader popularity (Badenoch) to shape voter appeal ahead of the next general election.",
-   "us": "US parties emphasise issue‑based messaging (tough‑on‑crime) for the 2026 midterms.",
-   "insight": "The contrast shows the UK’s leader‑centric campaign style versus the US’s issue‑driven electoral strategies.",
+   "theme": "parties",
+   "uk": "Welsh parties are dealing with internal ideological disputes that affect their standing within a devolved legislature.",
+   "us": "US parties are navigating the influence of a former president on candidate positioning ahead of midterm elections.",
+   "insight": "Both systems show that party cohesion and leadership influence are crucial, but the UK’s proportional and devolved context allows regional parties more distinct identity, whereas US parties operate within a two‑party, winner‑takes‑all framework.",
    "sources": [
-    "23de6014f16c",
-    "95433b178ac9"
+    "231c8ae19b9d",
+    "638381cafb79"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The ABC case invokes liberalism’s core idea of protecting individual freedoms, echoing John Stuart Mill’s defence of free speech against state interference.",
+   "text": "The ABC court case invokes liberal principles of free speech and limited government interference, echoing John Stuart Mill’s arguments for individual liberty. Liberalism also underpins the Welsh Greens’ emphasis on human‑rights concerns.",
    "sources": [
-    "c19feb2b8f24"
+    "c19feb2b8f24",
+    "231c8ae19b9d"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which courts can influence public policy in the UK and the US, using recent cases as examples.",
-   "section": "ideas",
-   "tip": "Structure your answer by comparing the judicial role in each country, then evaluate the impact of the selected cases."
+   "question": "Assess the extent to which internal party disputes affect electoral performance in the UK and the US.",
+   "section": "ukpol | us",
+   "tip": "Compare a UK regional party case (Welsh Greens) with a US national party case (Republican candidates’ stance on Trump), using evidence of leadership decisions and voter reactions."
   }
  },
  "refs": {
-  "fe33e590b3ca": {
-   "id": "fe33e590b3ca",
-   "title": "Labour figures rule out working with Greens after ‘Zionism is racism’ vote",
-   "link": "https://www.theguardian.com/politics/2026/oct/06/labour-figures-rule-out-working-with-greens-after-zionism-is-racism-vote",
-   "source": "guardian",
-   "sourceName": "The Guardian",
+  "231c8ae19b9d": {
+   "id": "231c8ae19b9d",
+   "title": "Welsh Greens’ former deputy leader quits over ‘Zionism is racism’ motion",
+   "link": "https://nation.cymru/news/welsh-greens-former-deputy-leader-quits-over-zionism-is-racism-motion/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-06T18:26:29Z"
+   "date": "2026-10-07T11:00:11Z"
   },
   "2d22c883d2fe": {
    "id": "2d22c883d2fe",
-   "title": "Wales' First Minister says Green Party Zionist motion was 'ill-judged'",
+   "title": "Welsh first minister says Green Party Zionist motion was ill-judged",
    "link": "https://www.bbc.co.uk/news/articles/cxg5j70rmj3po?at_medium=RSS&at_campaign=rss",
    "source": "bbcwales",
    "sourceName": "BBC Wales",
    "lean": "centre",
    "date": "2026-10-06T21:33:43Z"
-  },
-  "3dc6469238e3": {
-   "id": "3dc6469238e3",
-   "title": "Supreme Court hears case on holding energy companies liable for climate change",
-   "link": "https://www.pbs.org/newshour/show/supreme-court-hears-case-on-holding-energy-companies-liable-for-climate-change",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-05T22:55:51Z"
   },
   "c19feb2b8f24": {
    "id": "c19feb2b8f24",
@@ -240,23 +205,41 @@
    "lean": "centre",
    "date": "2026-10-06T23:51:58Z"
   },
-  "23de6014f16c": {
-   "id": "23de6014f16c",
-   "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-   "link": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+  "638381cafb79": {
+   "id": "638381cafb79",
+   "title": "The Republican candidates walking a Trump tightrope",
+   "link": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-10-07T05:00:21Z"
+  },
+  "8ffc0beb6070": {
+   "id": "8ffc0beb6070",
+   "title": "Trump heads to Texas as GOP worries mount over Paxton, Talarico",
+   "link": "https://thehill.com/homenews/campaign/6131875-trump-visits-texas-paxton-talarico-senate/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-07T10:00:00Z"
+  },
+  "f8b91b335326": {
+   "id": "f8b91b335326",
+   "title": "Will Tory donors splash the cash?",
+   "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/will-tory-donors-splash-the-cash/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
+   "lean": "centre",
+   "date": "2026-10-07T08:41:29Z"
+  },
+  "f4b3f09e766b": {
+   "id": "f4b3f09e766b",
+   "title": "The candidates hoping to be London's second Tory mayor",
+   "link": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-06T21:18:45Z"
-  },
-  "95433b178ac9": {
-   "id": "95433b178ac9",
-   "title": "Republicans focus on tough-on-crime message before difficult midterm elections",
-   "link": "https://www.pbs.org/newshour/politics/republicans-focus-on-tough-on-crime-message-before-difficult-midterm-elections",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-06T19:52:44Z"
+   "date": "2026-10-07T08:40:14Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
