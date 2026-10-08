@@ -1,180 +1,177 @@
 {
- "generated_at": "2026-10-07T19:20:40Z",
+ "generated_at": "2026-10-08T01:00:45Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Tories push inheritance tax cut as Welsh Greens split over Zionism motion",
-  "overview": "The Conservative Party promotes a tax plan aimed at wealthier voters while Welsh Green leaders clash over a controversial motion. In the US, Senate races and court battles highlight partisan divides.",
+  "headline": "Tories push tax cut, Wales debates funding, US courts hear Guam case",
+  "overview": "The Conservatives unveil an inheritance‑tax cut to woo affluent voters. In Wales a finance minister’s mistake sparks debate over fair funding. The US Supreme Court considers a procedural fight over Air Force tests on Guam.",
   "stories": [
    {
-    "title": "Conservatives propose inheritance tax abolition",
+    "title": "Conservatives propose inheritance‑tax cut",
     "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "Kemi Badenoch announced the Conservatives would scrap inheritance tax on family homes if they win the next election. The proposal is presented as a way to attract affluent middle‑class voters.",
-    "why_it_matters": "The policy illustrates how parties use fiscal promises to shape voter appeal, a key concept in the AQA study of elections and party competition. It also raises questions about equity and the role of taxation in redistribution.",
+    "topic": "parties",
+    "what_happened": "Kemi Badenoch announced the Conservative Party would abolish inheritance tax on family homes if elected. The move is aimed at attracting middle‑class and wealthy voters ahead of the next general election.",
+    "why_it_matters": "The proposal illustrates how parties shape policy to win votes, a key idea in the AQA study of political parties and elections. It also raises questions about fiscal fairness and voter targeting.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The plan will encourage savings and investment, helping the economy grow."
+      "text": "The cut will encourage savings and investment, helping the economy grow."
      },
      {
       "label": "Critics argue",
-      "text": "Abolishing the tax favours the wealthy and widens inequality."
+      "text": "It favours the rich and reduces revenue needed for public services."
      },
      {
-      "label": "From the right",
-      "text": "Tax cuts are essential for personal freedom and economic dynamism."
+      "label": "From the left",
+      "text": "Labour says the policy deepens inequality and betrays progressive taxation."
      }
     ],
     "key_term": {
-     "term": "inheritance tax",
-     "definition": "A levy on the value of property inherited after someone dies."
+     "term": "electoral strategy",
+     "definition": "A party’s plan to win votes by tailoring policies to target groups."
     },
-    "exam_use": "Use as evidence in an essay on how parties tailor fiscal policies to win elections.",
+    "exam_use": "Use as evidence in an essay on how parties adapt policies to appeal to specific voter blocs.",
     "sources": [
      "ef7d6d200529"
     ]
    },
    {
-    "title": "Welsh Greens deputy resigns over Zionism motion",
+    "title": "Welsh finance minister votes against fair‑funding motion",
     "section": "ukgov",
     "topic": "devolution",
-    "what_happened": "Emily Price reports that the former deputy leader of the Welsh Greens quit after a motion to label Zionism as racism was adopted. The party also faces calls to split from the Welsh Assembly.",
-    "why_it_matters": "The incident shows tensions between devolved parties and broader UK politics, relevant to the AQA topic of devolution and party dynamics. It also highlights how internal party disputes can affect public perception.",
+    "what_happened": "Wales’ finance minister accidentally voted against a Plaid Cymru motion calling for fair funding from Westminster. The error highlighted tensions over the distribution of UK central funds.",
+    "why_it_matters": "The incident shows the practical challenges of devolution and the ongoing debate about fiscal autonomy, a core part of the UK Constitution syllabus.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The motion condemns discrimination and aligns with human‑rights values."
+      "label": "Plaid Cymru view",
+      "text": "The vote proves Westminster’s reluctance to grant Wales a fair share."
      },
      {
-      "label": "Critics argue",
-      "text": "Labeling Zionism as racism is seen as unfairly targeting a specific community."
+      "label": "UK Government view",
+      "text": "The mistake was procedural, not a policy stance, and will be corrected."
      },
      {
-      "label": "From the left",
-      "text": "The move reflects progressive concerns about oppression."
+      "label": "From the right",
+      "text": "Some argue Wales should rely less on central grants and more on private investment."
      }
     ],
     "key_term": {
      "term": "devolution",
-     "definition": "The transfer of powers from the central UK government to regional bodies such as the Welsh Senedd."
+     "definition": "The transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Cite as a case study of intra‑party conflict within a devolved party for an essay on devolution and party politics.",
+    "exam_use": "Cite when discussing the limits of devolved fiscal powers and inter‑governmental relations.",
     "sources": [
-     "231c8ae19b9d"
+     "17da0b59a186"
     ]
    },
    {
-    "title": "Maine Senate debate highlights split with Trump",
+    "title": "Supreme Court hears Guam munition case",
     "section": "us",
-    "topic": "congress",
-    "what_happened": "Republican Sen. Susan Collins distanced herself from former President Donald Trump during her first Senate debate in Maine, emphasizing her independent record. Democrat Troy Jackson criticised Trump’s influence on the GOP.",
-    "why_it_matters": "The debate illustrates factionalism within US parties, a core AQA theme under Congress and party politics. It also shows how individual legislators navigate party loyalty versus constituency expectations.",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court examined a procedural dispute in a lawsuit against the Air Force over munition detonations on Guam. The case involves environmental and cultural concerns raised by local groups.",
+    "why_it_matters": "The case illustrates judicial review of executive actions, linking to the US Constitution’s separation of powers and the courts’ role in checking the military.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Collins’ stance shows principled independence from a polarising leader."
+      "label": "Environmental groups argue",
+      "text": "The detonations threaten Guam’s ecosystem and heritage."
      },
      {
-      "label": "Critics argue",
-      "text": "Distancing from Trump may alienate the party’s base."
+      "label": "Military argue",
+      "text": "The tests are essential for national security and follow legal protocols."
      },
      {
       "label": "From the left",
-      "text": "The episode underscores the need for moderate voices in a polarized system."
+      "text": "Critics say the government prioritises defence over indigenous rights."
      }
     ],
     "key_term": {
-     "term": "factionalism",
-     "definition": "Division within a political party into groups with differing views."
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
     },
-    "exam_use": "Use as evidence when discussing intra‑party divisions in the US Congress.",
+    "exam_use": "Use as a case study when comparing the US courts’ power to the UK judiciary.",
     "sources": [
-     "ed08d38e674d"
+     "d6f7e8df29d8"
     ]
    },
    {
-    "title": "Justice Alito under scrutiny as Colorado cases rise",
+    "title": "DNC sues over Trump‑funded political ads",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "SCOTUSblog notes that Justice Samuel Alito is in the spotlight and that many major Supreme Court cases now originate in Colorado. The article links the state’s legal environment to national jurisprudence.",
-    "why_it_matters": "The focus on a Supreme Court justice connects to the AQA study of the US courts and their role in shaping policy. Colorado’s case pipeline illustrates how state courts can influence federal law.",
+    "what_happened": "The Democratic National Committee filed a lawsuit claiming the Trump administration illegally used taxpayer money for political advertising. The suit seeks an injunction to stop the ads.",
+    "why_it_matters": "The case raises issues of separation of powers and the use of public funds for partisan purposes, relevant to the US Constitution and checks on executive power.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Alito’s conservative record reflects a strict interpretation of the Constitution."
+      "label": "Democrats argue",
+      "text": "Using public money for campaign ads breaches the Constitution’s impartiality clause."
      },
      {
-      "label": "Critics argue",
-      "text": "His decisions are seen as rolling back civil liberties."
+      "label": "Republicans argue",
+      "text": "The ads are part of lawful government communication about policy."
+     },
+     {
+      "label": "From the centre",
+      "text": "Legal scholars note the case will test limits of executive discretion."
+     }
+    ],
+    "key_term": {
+     "term": "appropriations",
+     "definition": "Parliamentary (Congressional) authorisation of government spending."
+    },
+    "exam_use": "Reference when discussing US executive‑legislative relations and court intervention.",
+    "sources": [
+     "c114a9c66d0b"
+    ]
+   },
+   {
+    "title": "Burnham’s Berlin security talks",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Rishi Burnham travelled to Berlin for talks with the German chancellor on cooperation against hybrid threats from Russia. The visit marks his first official foreign trip.",
+    "why_it_matters": "The meeting highlights the Prime Minister’s role in foreign policy and the cabinet’s coordination on national security, linking to the AQA focus on the executive.",
+    "perspectives": [
+     {
+      "label": "Government view",
+      "text": "Strengthening alliances is vital to counter Russian aggression."
+     },
+     {
+      "label": "Opposition view",
+      "text": "Resources should focus on domestic issues rather than overseas security."
      },
      {
       "label": "From the right",
-      "text": "Alito protects traditional values against activist judges."
+      "text": "A strong defence posture is essential for Britain’s sovereignty."
      }
     ],
     "key_term": {
-     "term": "judicial activism",
-     "definition": "When judges are perceived to create new policy through their rulings rather than merely interpret law."
+     "term": "foreign policy",
+     "definition": "The strategies a government uses to interact with other states."
     },
-    "exam_use": "Reference in an essay on the impact of the US Supreme Court on civil rights.",
+    "exam_use": "Use as evidence of the Prime Minister’s constitutional powers in foreign affairs.",
     "sources": [
-     "1c9d46c5a81b"
-    ]
-   },
-   {
-    "title": "Lawmakers seek answers on AAU sex‑abuse scandal",
-    "section": "us",
-    "topic": "us-pressure",
-    "what_happened": "A bipartisan group of US Congress members wrote to the Amateur Athletic Union demanding explanations for its handling of sexual‑abuse allegations. The letter reflects growing pressure for accountability.",
-    "why_it_matters": "The story exemplifies how pressure groups and legislative oversight interact, a key AQA theme under US pressure groups and congressional action. It also raises issues of civil rights protection.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Congressional scrutiny is necessary to protect athletes."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Political interference could undermine private organisations."
-     },
-     {
-      "label": "From the left",
-      "text": "The case highlights systemic failures to safeguard vulnerable groups."
-     }
-    ],
-    "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking election."
-    },
-    "exam_use": "Use as a contemporary example of legislative pressure on a private body in a civil‑rights essay.",
-    "sources": [
-     "0367f3a4de14"
+     "d49a8fb19568"
     ]
    }
   ],
   "compare": {
-   "theme": "parties",
-   "uk": "UK Conservatives are using tax policy to court wealthy voters, while devolved parties face internal splits over identity politics.",
-   "us": "US Republicans show internal division over Trump’s influence, and the Supreme Court’s composition is a focal point of partisan debate.",
-   "insight": "Both systems reveal how party cohesion is challenged by ideological fault lines, affecting electoral strategy and policy focus.",
+   "theme": "elections",
+   "uk": "The Tories’ inheritance‑tax proposal is a tactical move to win middle‑class votes ahead of the next general election.",
+   "us": "Republican and Democratic strategists are focusing on closing messages as the 2026 midterms approach, with Republicans holding a financial edge.",
+   "insight": "Both systems show parties tailoring messages to voter groups, but the US emphasises fundraising advantages while the UK highlights policy promises.",
    "sources": [
     "ef7d6d200529",
-    "231c8ae19b9d",
-    "ed08d38e674d",
-    "1c9d46c5a81b"
+    "5f69ca161f75"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Badenoch’s inheritance‑tax proposal reflects conservative emphasis on low taxation and individual wealth accumulation, echoing ideas from thinkers like Adam Smith. The US Republican split over Trump illustrates conservatism’s tension between traditional fiscal restraint and populist nationalism.",
+   "ideology": "liberalism",
+   "text": "Badenoch’s inheritance‑tax cut reflects liberal ideas of individual property rights and limited state intervention, echoing John Locke’s emphasis on private ownership. Critics counter that liberalism also demands equal opportunity, which they argue the cut undermines.",
    "sources": [
-    "ef7d6d200529",
-    "ed08d38e674d"
+    "ef7d6d200529"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which internal party divisions influence policy proposals in the UK and US.",
+   "question": "Assess the extent to which political parties in the UK and US use policy proposals to target specific voter groups.",
    "section": "ukpol | us",
-   "tip": "Structure your answer by comparing a UK party’s fiscal policy with a US party’s stance on a leader, using specific recent examples."
+   "tip": "Compare the Conservative inheritance‑tax pledge with US party campaign strategies, analysing motivations, expected benefits and democratic implications."
   }
  },
  "refs": {
@@ -187,41 +184,50 @@
    "lean": "centre-left",
    "date": "2026-10-07T17:58:59Z"
   },
-  "231c8ae19b9d": {
-   "id": "231c8ae19b9d",
-   "title": "Welsh Greens’ former deputy leader quits over ‘Zionism is racism’ motion",
-   "link": "https://nation.cymru/news/welsh-greens-former-deputy-leader-quits-over-zionism-is-racism-motion/",
+  "17da0b59a186": {
+   "id": "17da0b59a186",
+   "title": "Finance minister votes against Plaid motion calling for fair funding from Westminster",
+   "link": "https://nation.cymru/news/finance-minister-votes-against-plaid-motion-calling-for-fair-funding-from-westminster/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-07T11:00:11Z"
+   "date": "2026-10-07T20:00:57Z"
   },
-  "ed08d38e674d": {
-   "id": "ed08d38e674d",
-   "title": "What happened in the first Maine Senate debate between Collins and Jackson",
-   "link": "https://www.pbs.org/newshour/politics/what-happened-in-the-first-maine-senate-debate-between-collins-and-jackson",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-07T14:13:29Z"
-  },
-  "1c9d46c5a81b": {
-   "id": "1c9d46c5a81b",
-   "title": "Justice Alito in the spotlight",
-   "link": "https://www.scotusblog.com/2026/10/justice-alito-in-the-spotlight/",
+  "d6f7e8df29d8": {
+   "id": "d6f7e8df29d8",
+   "title": "Justices wrestle with procedural dispute over Air Force’s munition detonations in Guam",
+   "link": "https://www.scotusblog.com/2026/10/justices-wrestle-with-procedural-dispute-over-air-forces-munition-detonations-in-guam/",
    "source": "scotusblog",
    "sourceName": "SCOTUSblog",
    "lean": "non-partisan",
-   "date": "2026-10-07T13:00:00Z"
+   "date": "2026-10-07T20:57:49Z"
   },
-  "0367f3a4de14": {
-   "id": "0367f3a4de14",
-   "title": "Lawmakers demand answers on Amateur Athletic Union sex abuse scandal",
-   "link": "https://thehill.com/policy/sports-gaming/6134523-lawmakers-probe-sex-abuse-aau/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "c114a9c66d0b": {
+   "id": "c114a9c66d0b",
+   "title": "Summit to help shape new skills strategy for Wales",
+   "link": "https://nation.cymru/news/summit-to-help-shape-new-skills-strategy-for-wales/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-07T19:30:28Z"
+  },
+  "d49a8fb19568": {
+   "id": "d49a8fb19568",
+   "title": "Burnham to hold security talks with German chancellor in Berlin",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-07T19:09:52Z"
+   "date": "2026-10-07T23:01:31Z"
+  },
+  "5f69ca161f75": {
+   "id": "5f69ca161f75",
+   "title": "Republican and Democratic strategists on closing messages and where they expect to win",
+   "link": "https://www.pbs.org/newshour/show/republican-and-democratic-strategists-on-closing-messages-and-where-they-expect-to-win",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-07T22:35:48Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
