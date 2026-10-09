@@ -1,208 +1,227 @@
 {
- "generated_at": "2026-10-09T11:54:11Z",
+ "generated_at": "2026-10-09T18:49:04Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Labour wins Holborn by‑election as US midterms heat up",
-  "overview": "Labour held the Holborn and St Pancras seat, beating the Green Party leader. In the US, midterm battles intensify around foreign policy and party leadership.",
+  "headline": "By‑elections, party turmoil and US midterm flashpoints dominate Friday",
+  "overview": "Voters in London rejected the Greens, while the Liberal Democrats face internal revolt. In the US, Senate races and a renewed focus on Iran shape the midterm narrative.",
   "stories": [
    {
-    "title": "Labour defeats Green leader in Holborn by‑election",
+    "title": "Holborn and St Pancras by‑election rejects Greens",
     "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Labour candidate Sagal Abdi‑Wali won the Holborn and St Pancras by‑election, defeating Green Party leader Zack Polanski. The result keeps the seat under Labour control.",
-    "why_it_matters": "The outcome shows how party competition operates in a first‑past‑the‑post system, a key concept in the AQA elections syllabus. It also highlights the impact of minor parties on mainstream party strategy.",
+    "topic": "elections",
+    "what_happened": "Polling in the Holborn and St Pancras constituency showed voters chose Labour over the Green Party, citing a desire not to weaken the Labour government. The result widened Labour’s lead to 15 points ahead of the Greens.",
+    "why_it_matters": "The outcome illustrates how voter behaviour can be influenced by strategic voting, a key concept in the AQA study of elections and party competition. It also highlights the impact of party positioning on the left‑right spectrum.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Labour supporters say the win confirms public confidence in the party’s policies after recent national polls."
+      "text": "Labour supporters claim the win proves the party is regaining trust among left‑leaning voters."
      },
      {
       "label": "Critics argue",
-      "text": "Green supporters claim the loss reflects media bias and the difficulty for smaller parties to break through under FPTP."
+      "text": "Green activists warn the result shows the party’s marginalisation and the limits of single‑issue appeal."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators note the result underscores the challenges for third parties in a system that favours the two largest parties."
+      "text": "Conservative commentators suggest the result reflects voters’ fear of fragmented opposition."
      }
     ],
     "key_term": {
-     "term": "first‑past‑the‑post",
-     "definition": "An electoral system where the candidate with the most votes wins, without needing a majority."
+     "term": "Strategic voting",
+     "definition": "When voters choose a less‑preferred candidate to prevent an undesirable outcome."
     },
-    "exam_use": "Use as evidence in an essay on the advantages and disadvantages of FPTP for party competition.",
+    "exam_use": "Use as evidence of strategic voting in an essay on why voters may abandon smaller parties.",
     "sources": [
-     "b3888f6cb8a1"
+     "faafb48cb888"
     ]
    },
    {
-    "title": "Green leader faces internal pressure after defeat",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Zack Polanski, leader of the Green Party, was urged by party members to resign after the by‑election loss. He publicly refused to step down.",
-    "why_it_matters": "The episode illustrates internal party dynamics and leadership accountability, relevant to the AQA topic of political parties and their organisation.",
+    "title": "Lib Dem leadership revolt intensifies",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Treasury spokesperson Charlie Maynard resigned in an effort to unseat Liberal Democrat leader Ed Davey as the party slips in the polls. The move signals growing dissent within senior party ranks.",
+    "why_it_matters": "The episode offers a case study of intra‑party conflict and the role of cabinet members in party leadership challenges, relevant to the AQA topics on the Prime Minister and Cabinet.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Green activists say Polanski should stay to rebuild the party’s credibility."
+      "text": "Pro‑reform MPs say the resignation is necessary to refresh party leadership and improve electoral prospects."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents argue his continued leadership hampers the party’s electoral prospects."
+      "text": "Party loyalists warn that public resignations damage party unity and voter confidence."
      },
      {
       "label": "From the left",
-      "text": "Left‑leaning analysts view the dispute as a symptom of broader tensions over the party’s stance on Israel‑Palestine."
+      "text": "Progressive observers view the revolt as a chance to shift the party towards more radical policies."
      }
     ],
     "key_term": {
-     "term": "leadership challenge",
-     "definition": "A formal or informal attempt to replace a party leader."
+     "term": "Cabinet collective responsibility",
+     "definition": "The convention that all cabinet members must publicly support government decisions."
     },
-    "exam_use": "Cite when discussing how internal party pressure can affect leadership stability.",
+    "exam_use": "Cite as evidence of how cabinet resignations can trigger leadership challenges in a government essay.",
     "sources": [
-     "96d489550698",
-     "10c1dd1a4d88"
+     "ffcaa07d48ac"
     ]
    },
    {
-    "title": "New law to ban non‑compete clauses for workers",
+    "title": "New law to ban non‑compete clauses",
     "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "The UK government announced legislation that will prevent employers from using non‑compete clauses that restrict workers from joining start‑ups. The measure was presented by the Prime Minister’s office.",
-    "why_it_matters": "The reform touches on the balance between market regulation and individual liberty, a core issue in the AQA Constitution and Civil Liberties strand. It also shows the cabinet’s role in policy making.",
+    "topic": "parliament",
+    "what_happened": "Parliament passed legislation preventing non‑compete clauses that restrict workers from joining rival firms, aiming to boost start‑up hiring. The bill was championed by the Labour government and supported by business groups.",
+    "why_it_matters": "The reform illustrates legislative change affecting the labour market, linking to AQA themes on the role of Parliament in law‑making and economic regulation.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Business groups favour the change, saying it will boost innovation and labour mobility."
+      "text": "Employers and workers’ rights groups say the law will increase labour mobility and innovation."
      },
      {
       "label": "Critics argue",
-      "text": "Some employers warn it could lead to increased staff poaching and legal disputes."
+      "text": "Some business leaders warn it could undermine protection of proprietary information."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators stress the need for limited government interference in contracts."
+      "text": "Conservative commentators argue the intervention interferes with free‑market contracts."
      }
     ],
     "key_term": {
-     "term": "non‑compete clause",
-     "definition": "A contractual provision that restricts a former employee from working for competitors for a set period."
+     "term": "Statutory instrument",
+     "definition": "A form of secondary legislation allowing ministers to make changes without a new Act."
     },
-    "exam_use": "Use as a case study when evaluating the government's role in regulating the economy.",
+    "exam_use": "Reference as an example of Parliament using primary legislation to regulate employment practices.",
     "sources": [
      "fd56d09a7e63"
     ]
    },
    {
-    "title": "Trump’s Iran stance dominates US midterm narrative",
+    "title": "Michigan Senate debate turns personal",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "President Trump denied plans for renewed strikes against Iran, drawing attention to foreign‑policy issues ahead of the 2026 midterm elections. The debate featured candidates from both parties.",
-    "why_it_matters": "Foreign‑policy positions are increasingly influential in US electoral campaigns, linking to the AQA topic of elections and direct democracy. It also shows how executive actions can shape party strategies.",
+    "topic": "us-parties",
+    "what_happened": "Republican Mike Rogers and Democrat Abdul El‑Sayed exchanged personal attacks during the first Senate debate in Michigan, a key battleground state. The debate highlighted sharply contrasting policy positions.",
+    "why_it_matters": "The clash provides material for analysing party competition and campaign tactics in US elections, a core AQA focus on parties and elections.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s base view his stance as protecting national security."
+      "text": "Rogers’ supporters claim his aggressive style shows strong leadership."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim the rhetoric escalates tensions and distracts from domestic issues."
+      "text": "El‑Sayed’s camp argues the attacks distract from substantive policy discussion."
      },
      {
       "label": "From the left",
-      "text": "Progressive commentators warn that war rhetoric undermines diplomatic solutions."
+      "text": "Progressive analysts see the debate as evidence of polarisation in US politics."
      }
     ],
     "key_term": {
-     "term": "midterm elections",
-     "definition": "U.S. elections held halfway through a president’s four‑year term, primarily for Congress."
+     "term": "Primary election",
+     "definition": "An election in which parties select their candidates for the general election."
     },
-    "exam_use": "Reference when discussing how foreign policy can influence voter behaviour in US elections.",
+    "exam_use": "Use to illustrate how personal attacks can shape voter perceptions in a US elections essay.",
     "sources": [
-     "8ffcabd8a822",
-     "8f93686fc32f"
+     "aa94b213e25c"
     ]
    },
    {
-    "title": "ICE shooting sparks civil‑rights debate in New York",
+    "title": "Trump’s Iran stance dominates midterm coverage",
     "section": "us",
-    "topic": "civil-rights",
-    "what_happened": "An ICE agent shot a man during an arrest in New York City, prompting the mayor to condemn the incident. DHS described the shooting as occurring while detaining a “criminal illegal alien”.",
-    "why_it_matters": "The event raises questions about law‑enforcement accountability and immigrant rights, central to the AQA civil‑rights component of US Politics. It also illustrates the role of federal agencies versus local authorities.",
+    "topic": "us-elections",
+    "what_happened": "President Trump denied reports of renewed strikes against Iran, bringing the conflict into the spotlight ahead of the November midterms. The issue is being used by both parties to rally their bases.",
+    "why_it_matters": "The story links foreign policy to domestic electoral strategy, relevant to AQA study of how presidents influence elections and public opinion.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Immigration‑rights groups demand independent investigations and stricter oversight of ICE."
+      "text": "Trump’s base sees a strong stance on Iran as evidence of decisive leadership."
      },
      {
       "label": "Critics argue",
-      "text": "Law‑and‑order advocates argue the agent acted within his duties to protect public safety."
+      "text": "Opponents warn the rhetoric escalates tensions and distracts from domestic issues."
      },
      {
-      "label": "From the left",
-      "text": "Progressive voices link the incident to broader patterns of racial profiling."
+      "label": "From the right",
+      "text": "Conservative analysts argue the focus on Iran may boost Republican turnout."
      }
     ],
     "key_term": {
-     "term": "civil‑rights",
-     "definition": "The protections and freedoms guaranteed to individuals, often concerning equality before the law."
+     "term": "Midterm elections",
+     "definition": "U.S. elections held halfway through a president’s four‑year term, often determining congressional control."
     },
-    "exam_use": "Use as a contemporary example when evaluating the balance between security and civil liberties in the US.",
+    "exam_use": "Cite as an example of presidential influence on electoral narratives in a US politics essay.",
     "sources": [
-     "4bdabecd8e9b"
+     "8ffcabd8a822"
+    ]
+   },
+   {
+    "title": "Cities seek Supreme Court block on Texas‑DOJ immigration deal",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "Three Democratic‑controlled cities filed a petition with the U.S. Supreme Court to overturn an immigration rule invalidated by a Texas‑Trump administration agreement. The cities argue the rule protects immigrant rights.",
+    "why_it_matters": "The case demonstrates judicial review and the role of the courts in checking executive actions, a key AQA topic on the US judiciary.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "City officials claim the Supreme Court should protect civil‑rights safeguards."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Federal officials argue the deal was a lawful exercise of executive authority."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive groups view the petition as essential to defending immigrant rights."
+     }
+    ],
+    "key_term": {
+     "term": "Judicial review",
+     "definition": "The process by which courts examine the legality of executive or legislative actions."
+    },
+    "exam_use": "Reference as evidence of courts intervening in immigration policy in a US courts essay.",
+    "sources": [
+     "780c8128fba7"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "By‑elections like Holborn use first‑past‑the‑post, often reinforcing the two‑party system and limiting minor parties.",
-   "us": "Midterm elections determine control of Congress and are influenced by national issues such as foreign policy, with a winner‑takes‑all approach in most House races.",
-   "insight": "The contrast shows the UK’s constituency‑based system curtails third‑party success, while US midterms can shift legislative power dramatically based on broader issue salience.",
+   "uk": "By‑elections in the UK show strategic voting can shift support between Labour and the Greens, affecting party momentum.",
+   "us": "US midterm elections are shaped by presidential rhetoric on foreign policy, influencing voter turnout and party strategies.",
+   "insight": "Both systems illustrate how external issues—whether strategic concerns or foreign policy—can dominate electoral narratives, though the UK relies on constituency‑based voting while the US mixes national and local dynamics.",
    "sources": [
-    "b3888f6cb8a1",
+    "faafb48cb888",
     "8ffcabd8a822"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The ban on non‑compete clauses reflects liberal ideas of individual freedom and market competition, echoing John Stuart Mill’s advocacy for removing restraints on personal liberty. It also aligns with contemporary liberal economists who argue that labour mobility drives innovation.",
+   "text": "The UK ban on non‑compete clauses reflects liberal ideas of individual freedom and market competition championed by thinkers like John Stuart Mill. In the US, Trump’s emphasis on a strong foreign‑policy stance aligns with a liberal‑conservative view of national sovereignty and individual security.",
    "sources": [
-    "fd56d09a7e63"
+    "fd56d09a7e63",
+    "8ffcabd8a822"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the UK’s first‑past‑the‑post system benefits or harms smaller parties, using recent election results as evidence.",
-   "section": "ukpol",
-   "tip": "Structure your answer with a definition, two advantages, two disadvantages, and a balanced conclusion."
+   "question": "Assess the extent to which strategic voting and party leadership challenges influence electoral outcomes in the UK and the US.",
+   "section": "ukpol | us",
+   "tip": "Structure your answer by comparing a UK by‑election case with a US Senate race, linking each to the concepts of strategic voting and intra‑party conflict."
   }
  },
  "refs": {
-  "b3888f6cb8a1": {
-   "id": "b3888f6cb8a1",
-   "title": "Labour sees off Green challenge to win Holborn by-election",
-   "link": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-10-09T10:31:29Z"
+  "faafb48cb888": {
+   "id": "faafb48cb888",
+   "title": "What Holborn and St Pancras voters wanted",
+   "link": "https://www.newstatesman.com/politics/polling/2026/10/what-holborn-and-st-pancras-voters-wanted",
+   "source": "newstatesman",
+   "sourceName": "New Statesman",
+   "lean": "centre-left",
+   "date": "2026-10-09T14:16:35Z"
   },
-  "96d489550698": {
-   "id": "96d489550698",
-   "title": "Polanski vows to stay on as Green leader as criticism mounts",
-   "link": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-10-09T11:42:48Z"
-  },
-  "10c1dd1a4d88": {
-   "id": "10c1dd1a4d88",
-   "title": "Leader of Jewish Greens calls for Zack Polanski to resign after byelection loss",
-   "link": "https://www.theguardian.com/politics/2026/oct/09/leader-of-jewish-greens-calls-for-zack-polanski-to-resign",
+  "ffcaa07d48ac": {
+   "id": "ffcaa07d48ac",
+   "title": "Ed Davey faces growing revolt against leadership as senior Lib Dem MP quits",
+   "link": "https://www.theguardian.com/politics/2026/oct/09/ed-davey-faces-growing-revolt-against-leadership-as-senior-lib-dem-mp-quits",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-10-09T10:48:50Z"
+   "date": "2026-10-09T16:46:29Z"
   },
   "fd56d09a7e63": {
    "id": "fd56d09a7e63",
@@ -213,6 +232,15 @@
    "lean": "centre-left",
    "date": "2026-10-09T11:22:08Z"
   },
+  "aa94b213e25c": {
+   "id": "aa94b213e25c",
+   "title": "In combative first Michigan Senate debate, Rogers and El-Sayed trade attacks",
+   "link": "https://www.pbs.org/newshour/politics/in-combative-first-michigan-senate-debate-rogers-and-el-sayed-trade-attacks",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-09T14:59:58Z"
+  },
   "8ffcabd8a822": {
    "id": "8ffcabd8a822",
    "title": "Trump's War in Iran in spotlight ahead of midterms",
@@ -222,23 +250,14 @@
    "lean": "centre-left",
    "date": "2026-10-09T08:23:40Z"
   },
-  "8f93686fc32f": {
-   "id": "8f93686fc32f",
-   "title": "Trump, GOP face disarray. For Democrats, the hard part is coming",
-   "link": "https://thehill.com/homenews/campaign/6137398-post-election-democratic-party-divisions/",
+  "780c8128fba7": {
+   "id": "780c8128fba7",
+   "title": "Cities ask Supreme Court to block Texas-DOJ deal invalidating immigration rule",
+   "link": "https://thehill.com/regulation/court-battles/6139406-supreme-court-immigration-policy-texas-doj/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-09T10:00:00Z"
-  },
-  "4bdabecd8e9b": {
-   "id": "4bdabecd8e9b",
-   "title": "ICE agent shoots man in New York City",
-   "link": "https://www.bbc.co.uk/news/articles/c59vzk9yypn3o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-10-09T04:26:19Z"
+   "date": "2026-10-09T18:23:52Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
