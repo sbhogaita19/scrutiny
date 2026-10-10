@@ -1,228 +1,182 @@
 {
- "generated_at": "2026-10-09T18:49:04Z",
+ "generated_at": "2026-10-10T02:23:34Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "By‑elections, party turmoil and US midterm flashpoints dominate Friday",
-  "overview": "Voters in London rejected the Greens, while the Liberal Democrats face internal revolt. In the US, Senate races and a renewed focus on Iran shape the midterm narrative.",
+  "headline": "US rally, UK by‑elections and new worker‑rights law dominate headlines",
+  "overview": "Britain sees Labour regain a seat while Wales pushes a law to ban non‑compete clauses. In the US, Trump rallies voters ahead of mid‑terms and ICE faces criticism over a shooting. Both sides of the Atlantic are under intense political pressure.",
   "stories": [
    {
-    "title": "Holborn and St Pancras by‑election rejects Greens",
-    "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "Polling in the Holborn and St Pancras constituency showed voters chose Labour over the Green Party, citing a desire not to weaken the Labour government. The result widened Labour’s lead to 15 points ahead of the Greens.",
-    "why_it_matters": "The outcome illustrates how voter behaviour can be influenced by strategic voting, a key concept in the AQA study of elections and party competition. It also highlights the impact of party positioning on the left‑right spectrum.",
+    "title": "Welsh government to ban non‑compete clauses",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "The UK government announced legislation that will prevent employers from using non‑compete clauses that restrict workers from joining start‑ups. The bill was introduced by Welsh Labour minister Kanishka Narayan and is expected to pass the UK Parliament this session.",
+    "why_it_matters": "The measure illustrates how devolved administrations can shape UK‑wide labour policy, linking to the A‑level topic of devolution and the balance of power between Westminster and the nations. It also raises questions about the limits of government intervention in the market.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Labour supporters claim the win proves the party is regaining trust among left‑leaning voters."
+      "text": "Labour and trade unions say the ban will boost entrepreneurship and protect workers’ rights."
      },
      {
       "label": "Critics argue",
-      "text": "Green activists warn the result shows the party’s marginalisation and the limits of single‑issue appeal."
+      "text": "Business groups warn it could undermine contractual freedom and increase litigation."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators suggest the result reflects voters’ fear of fragmented opposition."
+      "text": "Conservative commentators view the move as unnecessary state interference in the economy."
      }
     ],
     "key_term": {
-     "term": "Strategic voting",
-     "definition": "When voters choose a less‑preferred candidate to prevent an undesirable outcome."
+     "term": "Devolution",
+     "definition": "The transfer of powers from the central UK government to Scotland, Wales, Northern Ireland and local bodies."
     },
-    "exam_use": "Use as evidence of strategic voting in an essay on why voters may abandon smaller parties.",
-    "sources": [
-     "faafb48cb888"
-    ]
-   },
-   {
-    "title": "Lib Dem leadership revolt intensifies",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Treasury spokesperson Charlie Maynard resigned in an effort to unseat Liberal Democrat leader Ed Davey as the party slips in the polls. The move signals growing dissent within senior party ranks.",
-    "why_it_matters": "The episode offers a case study of intra‑party conflict and the role of cabinet members in party leadership challenges, relevant to the AQA topics on the Prime Minister and Cabinet.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Pro‑reform MPs say the resignation is necessary to refresh party leadership and improve electoral prospects."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Party loyalists warn that public resignations damage party unity and voter confidence."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive observers view the revolt as a chance to shift the party towards more radical policies."
-     }
-    ],
-    "key_term": {
-     "term": "Cabinet collective responsibility",
-     "definition": "The convention that all cabinet members must publicly support government decisions."
-    },
-    "exam_use": "Cite as evidence of how cabinet resignations can trigger leadership challenges in a government essay.",
-    "sources": [
-     "ffcaa07d48ac"
-    ]
-   },
-   {
-    "title": "New law to ban non‑compete clauses",
-    "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "Parliament passed legislation preventing non‑compete clauses that restrict workers from joining rival firms, aiming to boost start‑up hiring. The bill was championed by the Labour government and supported by business groups.",
-    "why_it_matters": "The reform illustrates legislative change affecting the labour market, linking to AQA themes on the role of Parliament in law‑making and economic regulation.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Employers and workers’ rights groups say the law will increase labour mobility and innovation."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Some business leaders warn it could undermine protection of proprietary information."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators argue the intervention interferes with free‑market contracts."
-     }
-    ],
-    "key_term": {
-     "term": "Statutory instrument",
-     "definition": "A form of secondary legislation allowing ministers to make changes without a new Act."
-    },
-    "exam_use": "Reference as an example of Parliament using primary legislation to regulate employment practices.",
+    "exam_use": "Use as evidence in an essay on the impact of devolution on UK policy making, especially labour market regulation.",
     "sources": [
      "fd56d09a7e63"
     ]
    },
    {
-    "title": "Michigan Senate debate turns personal",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Republican Mike Rogers and Democrat Abdul El‑Sayed exchanged personal attacks during the first Senate debate in Michigan, a key battleground state. The debate highlighted sharply contrasting policy positions.",
-    "why_it_matters": "The clash provides material for analysing party competition and campaign tactics in US elections, a core AQA focus on parties and elections.",
+    "title": "Labour wins Holborn and St Pancras byelection",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Labour candidate Sagal Abdi‑Wali captured the Holborn and St Pancras seat, defeating Green leader Zack Polanski. The victory follows a swing away from the Greens after their recent internal controversy.",
+    "why_it_matters": "The result demonstrates shifting voter alignments on the left, relevant to the AQA topics of parties and elections. It also shows how party reputation can affect electoral performance.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Rogers’ supporters claim his aggressive style shows strong leadership."
+      "label": "Labour supporters argue",
+      "text": "The win shows Labour’s ability to reclaim progressive voters after the Starmer era."
      },
      {
-      "label": "Critics argue",
-      "text": "El‑Sayed’s camp argues the attacks distract from substantive policy discussion."
+      "label": "Green critics argue",
+      "text": "The defeat highlights the damage caused by internal disputes and controversial policies."
      },
      {
       "label": "From the left",
-      "text": "Progressive analysts see the debate as evidence of polarisation in US politics."
+      "text": "Progressive analysts see the result as a sign that voters prefer broad‑based left parties over single‑issue groups."
      }
     ],
     "key_term": {
-     "term": "Primary election",
-     "definition": "An election in which parties select their candidates for the general election."
+     "term": "Party system",
+     "definition": "The pattern of competition and interaction among political parties in a democracy."
     },
-    "exam_use": "Use to illustrate how personal attacks can shape voter perceptions in a US elections essay.",
+    "exam_use": "Cite in an essay evaluating the importance of party cohesion for electoral success.",
     "sources": [
-     "aa94b213e25c"
+     "584aa1b4ae07",
+     "9f7f0e49e9cc"
     ]
    },
    {
-    "title": "Trump’s Iran stance dominates midterm coverage",
+    "title": "Trump rallies voters in upstate New York",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "President Trump denied reports of renewed strikes against Iran, bringing the conflict into the spotlight ahead of the November midterms. The issue is being used by both parties to rally their bases.",
-    "why_it_matters": "The story links foreign policy to domestic electoral strategy, relevant to AQA study of how presidents influence elections and public opinion.",
+    "topic": "us-parties",
+    "what_happened": "Former President Donald Trump held a rally in Syracuse, New York, urging support for Republican candidates ahead of the 2026 mid‑term elections. The event followed his announcement of a diesel‑import deal with Russia.",
+    "why_it_matters": "The rally illustrates party mobilisation tactics and the influence of former presidents on US electoral politics, linking to the AQA topics of parties and elections.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s base sees a strong stance on Iran as evidence of decisive leadership."
+      "text": "Trump’s base view the rally as a necessary push to counter Democratic policies."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn the rhetoric escalates tensions and distracts from domestic issues."
+      "text": "Opponents claim the rally distracts from serious policy debates and fuels division."
      },
      {
       "label": "From the right",
-      "text": "Conservative analysts argue the focus on Iran may boost Republican turnout."
+      "text": "Conservative commentators praise the energy and fundraising potential of the event."
      }
     ],
     "key_term": {
-     "term": "Midterm elections",
-     "definition": "U.S. elections held halfway through a president’s four‑year term, often determining congressional control."
+     "term": "Party mobilisation",
+     "definition": "Efforts by a political party to encourage voter participation and support for its candidates."
     },
-    "exam_use": "Cite as an example of presidential influence on electoral narratives in a US politics essay.",
+    "exam_use": "Use as evidence when discussing how parties mobilise voters in US elections.",
     "sources": [
-     "8ffcabd8a822"
+     "57bf00043b69"
     ]
    },
    {
-    "title": "Cities seek Supreme Court block on Texas‑DOJ immigration deal",
+    "title": "ICE shooting sparks civil‑rights concerns",
     "section": "us",
-    "topic": "us-courts",
-    "what_happened": "Three Democratic‑controlled cities filed a petition with the U.S. Supreme Court to overturn an immigration rule invalidated by a Texas‑Trump administration agreement. The cities argue the rule protects immigrant rights.",
-    "why_it_matters": "The case demonstrates judicial review and the role of the courts in checking executive actions, a key AQA topic on the US judiciary.",
+    "topic": "civil-rights",
+    "what_happened": "Immigration officials defended ICE agents after a shooting in a vehicle that also contained a child; the 28‑year‑old victim survived and is now detained near New York. Officials said the use of force was justified.",
+    "why_it_matters": "The incident raises questions about law‑enforcement accountability and the protection of civil liberties, core to the AQA civil‑rights syllabus.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "City officials claim the Supreme Court should protect civil‑rights safeguards."
+      "label": "Government supporters argue",
+      "text": "Officials maintain the agents acted within legal parameters to protect public safety."
      },
      {
-      "label": "Critics argue",
-      "text": "Federal officials argue the deal was a lawful exercise of executive authority."
+      "label": "Civil‑rights advocates argue",
+      "text": "Groups argue the shooting exemplifies excessive force and systemic bias in immigration enforcement."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups view the petition as essential to defending immigrant rights."
+      "text": "Progressive commentators call for stricter oversight of ICE operations."
      }
     ],
     "key_term": {
-     "term": "Judicial review",
-     "definition": "The process by which courts examine the legality of executive or legislative actions."
+     "term": "Civil rights",
+     "definition": "The rights of individuals to receive equal treatment and protection under the law."
     },
-    "exam_use": "Reference as evidence of courts intervening in immigration policy in a US courts essay.",
+    "exam_use": "Reference in an essay on the balance between security and civil liberties in US policy.",
     "sources": [
-     "780c8128fba7"
+     "909eaf61d64e"
+    ]
+   },
+   {
+    "title": "Parliamentary by‑elections 2024 briefing released",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "The House of Commons Library published a briefing summarising the results, vote shares and turnout of the 2024 by‑elections. It includes detailed tables for each constituency.",
+    "why_it_matters": "Understanding by‑election outcomes helps analyse trends in voter behaviour and party performance, linking to the AQA topics of parliament and elections.",
+    "perspectives": [
+     {
+      "label": "Analysts argue",
+      "text": "The data show a gradual shift towards Labour in urban seats."
+     },
+     {
+      "label": "Opposition parties argue",
+      "text": "The results highlight voter fatigue with the governing coalition."
+     },
+     {
+      "label": "From the centre",
+      "text": "Neutral observers note the importance of by‑elections as a barometer for national sentiment."
+     }
+    ],
+    "key_term": {
+     "term": "By‑election",
+     "definition": "An election held to fill a vacant parliamentary seat between general elections."
+    },
+    "exam_use": "Use to illustrate how by‑elections can signal changing public opinion between general elections.",
+    "sources": [
+     "65a8a7d62763"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "By‑elections in the UK show strategic voting can shift support between Labour and the Greens, affecting party momentum.",
-   "us": "US midterm elections are shaped by presidential rhetoric on foreign policy, influencing voter turnout and party strategies.",
-   "insight": "Both systems illustrate how external issues—whether strategic concerns or foreign policy—can dominate electoral narratives, though the UK relies on constituency‑based voting while the US mixes national and local dynamics.",
+   "uk": "By‑elections in 2024 showed Labour gaining urban seats while smaller parties struggled, reflecting the first‑past‑the‑post system’s impact on party representation.",
+   "us": "Trump’s rally aims to boost Republican turnout ahead of the 2026 mid‑terms, illustrating the US primary‑focused, winner‑takes‑all electoral model.",
+   "insight": "The contrast shows how the UK’s constituency‑by‑constituency contests can shift party fortunes gradually, whereas US campaigns often hinge on high‑profile rallies to mobilise voters in a single election cycle.",
    "sources": [
-    "faafb48cb888",
-    "8ffcabd8a822"
+    "65a8a7d62763",
+    "57bf00043b69"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The UK ban on non‑compete clauses reflects liberal ideas of individual freedom and market competition championed by thinkers like John Stuart Mill. In the US, Trump’s emphasis on a strong foreign‑policy stance aligns with a liberal‑conservative view of national sovereignty and individual security.",
+   "text": "The Welsh ban on non‑compete clauses reflects liberal ideas of individual freedom and market fairness, echoing John Stuart Mill’s advocacy for removing barriers to personal development. Liberalism also underpins the US civil‑rights critique of the ICE shooting, emphasizing protection of individual liberties.",
    "sources": [
     "fd56d09a7e63",
-    "8ffcabd8a822"
+    "909eaf61d64e"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which strategic voting and party leadership challenges influence electoral outcomes in the UK and the US.",
-   "section": "ukpol | us",
-   "tip": "Structure your answer by comparing a UK by‑election case with a US Senate race, linking each to the concepts of strategic voting and intra‑party conflict."
+   "question": "Assess the extent to which devolution influences UK government policy on labour market regulation, using recent legislation as evidence.",
+   "section": "ukgov",
+   "tip": "Structure your answer by defining devolution, outlining the new law, and evaluating arguments from both supporters and critics."
   }
  },
  "refs": {
-  "faafb48cb888": {
-   "id": "faafb48cb888",
-   "title": "What Holborn and St Pancras voters wanted",
-   "link": "https://www.newstatesman.com/politics/polling/2026/10/what-holborn-and-st-pancras-voters-wanted",
-   "source": "newstatesman",
-   "sourceName": "New Statesman",
-   "lean": "centre-left",
-   "date": "2026-10-09T14:16:35Z"
-  },
-  "ffcaa07d48ac": {
-   "id": "ffcaa07d48ac",
-   "title": "Ed Davey faces growing revolt against leadership as senior Lib Dem MP quits",
-   "link": "https://www.theguardian.com/politics/2026/oct/09/ed-davey-faces-growing-revolt-against-leadership-as-senior-lib-dem-mp-quits",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-09T16:46:29Z"
-  },
   "fd56d09a7e63": {
    "id": "fd56d09a7e63",
    "title": "Non-compete clauses which ‘trap’ workers to be prevented under new law – Burnham",
@@ -232,32 +186,50 @@
    "lean": "centre-left",
    "date": "2026-10-09T11:22:08Z"
   },
-  "aa94b213e25c": {
-   "id": "aa94b213e25c",
-   "title": "In combative first Michigan Senate debate, Rogers and El-Sayed trade attacks",
-   "link": "https://www.pbs.org/newshour/politics/in-combative-first-michigan-senate-debate-rogers-and-el-sayed-trade-attacks",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-09T14:59:58Z"
-  },
-  "8ffcabd8a822": {
-   "id": "8ffcabd8a822",
-   "title": "Trump's War in Iran in spotlight ahead of midterms",
-   "link": "https://www.npr.org/2026/10/09/nx-s1-5995532/trumps-war-in-iran-in-spotlight-ahead-of-midterms",
-   "source": "npr",
-   "sourceName": "NPR",
+  "584aa1b4ae07": {
+   "id": "584aa1b4ae07",
+   "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
+   "link": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
+   "source": "guardian",
+   "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-10-09T08:23:40Z"
+   "date": "2026-10-09T17:08:19Z"
   },
-  "780c8128fba7": {
-   "id": "780c8128fba7",
-   "title": "Cities ask Supreme Court to block Texas-DOJ deal invalidating immigration rule",
-   "link": "https://thehill.com/regulation/court-battles/6139406-supreme-court-immigration-policy-texas-doj/",
+  "9f7f0e49e9cc": {
+   "id": "9f7f0e49e9cc",
+   "title": "‘The real deal’: Sagal Abdi-Wali’s journey from child refugee to Labour MP in former PM’s seat",
+   "link": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-09T16:17:24Z"
+  },
+  "57bf00043b69": {
+   "id": "57bf00043b69",
+   "title": "Live updates: Trump rallies voters in upstate New York after Putin diesel deal announcement",
+   "link": "https://thehill.com/homenews/administration/6138003-live-update-trump-vance-midterm-elections/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-09T18:23:52Z"
+   "date": "2026-10-10T00:14:19Z"
+  },
+  "909eaf61d64e": {
+   "id": "909eaf61d64e",
+   "title": "US immigration officials defend ICE agents who shot man in same car as child",
+   "link": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-10-10T00:13:12Z"
+  },
+  "65a8a7d62763": {
+   "id": "65a8a7d62763",
+   "title": "By-elections in the 2024 Parliament",
+   "link": "https://commonslibrary.parliament.uk/research-briefings/cbp-10268/",
+   "source": "commonslib",
+   "sourceName": "House of Commons Library",
+   "lean": "non-partisan",
+   "date": "2026-10-09T17:07:38Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
