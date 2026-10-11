@@ -1,219 +1,188 @@
 {
- "generated_at": "2026-10-11T11:24:25Z",
+ "generated_at": "2026-10-11T18:04:58Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Parliament, parties and US midterms dominate political headlines",
-  "overview": "Today's news covers a UK parliamentary challenge to police immunity, UK party debates on climate policy, US Republican opposition to a Russia‑diesel deal, a US Supreme Court petition over political ads, and tensions within the DUP over Northern Ireland leadership.",
+  "headline": "UK and US political tensions rise as parties confront internal challenges",
+  "overview": "Britain sees debate over devolution and party extremism, while the US Justice Department faces scrutiny over media investigations. Both systems grapple with how institutions balance power and accountability.",
   "stories": [
    {
-    "title": "MPs push to end police immunity from lawsuits",
+    "title": "DUP claims power to oust Northern Ireland First Minister",
     "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "MPs are seeking legislation to overturn a court ruling that gives police immunity when they fabricate evidence or act negligently. The proposal would allow victims to sue police for misconduct.",
-    "why_it_matters": "The issue tests the balance between executive authority (police) and parliamentary oversight, a key theme in the AQA Constitution unit. It also raises questions about the rule of law and accountability.",
+    "topic": "devolution",
+    "what_happened": "Carla Lockhart of the DUP said unionist voters are angry with First Minister Michelle O'Neill over the Garvaghy Road protests. She argued that the DUP could use its position to remove O'Neill from office.",
+    "why_it_matters": "The claim highlights the fragility of power‑sharing arrangements under the Good Friday Agreement, a key element of the UK constitution. It shows how devolution can create contested executive authority.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "They say removing immunity will increase police accountability and protect citizens' rights."
+      "text": "Unionists say the move protects community interests and enforces accountability."
      },
      {
       "label": "Critics argue",
-      "text": "They warn it could lead to frivolous lawsuits that hamper policing effectiveness."
+      "text": "Nationalists warn it could destabilise the power‑sharing institutions and breach the peace process."
      },
      {
       "label": "From the right",
-      "text": "They stress the need for strong law‑and‑order institutions and caution against undermining police morale."
+      "text": "Conservatives view it as a legitimate use of parliamentary procedure."
      }
     ],
     "key_term": {
-     "term": "Immunity",
-     "definition": "Legal protection that prevents a person or body from being sued or prosecuted."
+     "term": "devolution",
+     "definition": "The transfer of powers from the central UK government to regional bodies such as the Scottish Parliament or Northern Ireland Assembly."
     },
-    "exam_use": "Use as evidence in an essay on the separation of powers, showing parliamentary attempts to check executive agencies.",
+    "exam_use": "Use as evidence in an essay on the strengths and weaknesses of the UK’s devolved constitution.",
     "sources": [
-     "8ebc5a7fe3bb"
+     "3d36b382df23"
     ]
    },
    {
-    "title": "Green Party warns against extremist capture",
+    "title": "Green MP warns against extremist capture of party",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "A Green MP urged her party to guard against being taken over by extremists and racists. The comment followed internal debates about the party's direction.",
-    "why_it_matters": "The story illustrates intra‑party dynamics and the role of pressure groups, linking to the AQA topics of political parties and democracy.",
+    "what_happened": "A Green Party MP said the party must guard against being captured by extremists and racists. The comment came amid internal disputes over party policy and leadership.",
+    "why_it_matters": "The issue illustrates intra‑party democracy and the tension between broad membership bases and ideological control, a core topic in the AQA study of political parties.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "They claim vigilance protects the party’s progressive values and electoral appeal."
+      "text": "Party members say vigilance protects the Greens’ progressive values."
      },
      {
       "label": "Critics argue",
-      "text": "They suggest the warning may alienate grassroots activists and limit debate."
+      "text": "Opponents claim the warning may be used to silence dissenting voices within the party."
      },
      {
       "label": "From the left",
-      "text": "They emphasize the importance of anti‑racist policies within party structures."
+      "text": "Progressive activists stress the need for inclusive decision‑making."
      }
     ],
     "key_term": {
-     "term": "Party capture",
-     "definition": "When a political party is dominated or heavily influenced by a particular ideology or group."
+     "term": "party democracy",
+     "definition": "The internal processes by which party members influence policy, leadership and candidate selection."
     },
-    "exam_use": "Cite in a comparative essay on party cohesion versus factionalism in UK politics.",
+    "exam_use": "Cite when discussing the advantages and disadvantages of internal party democracy.",
     "sources": [
      "9d2578d33bf5"
     ]
    },
    {
-    "title": "Conference season highlights UK climate policy split",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "During party conferences, the Tories announced plans to scrap low‑carbon housebuilding, the Greens backed new nuclear reactors, and Labour paused oil‑drilling decisions. The coverage noted a focus on point‑scoring over substantive action.",
-    "why_it_matters": "Shows how parties position themselves on environmental issues, relevant to the AQA unit on parties and elections, and to discussions of policy making.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Conservatives claim scrapping the scheme reduces wasteful spending."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Environmental groups argue the move undermines climate targets."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour stresses the need for a just transition and caution on fossil fuels."
-     }
-    ],
-    "key_term": {
-     "term": "Low‑carbon housebuilding",
-     "definition": "Construction of homes designed to emit minimal greenhouse gases."
-    },
-    "exam_use": "Use as evidence when evaluating how parties respond to climate change in an essay on policy competition.",
-    "sources": [
-     "bc10bd6d2052"
-    ]
-   },
-   {
-    "title": "GOP lawmakers reject Russia‑diesel deal and Zelensky comments",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Republican lawmakers objected to the Trump administration’s proposed diesel deal with Russia and criticised President Trump’s suggestion that Ukraine needed a new leader.",
-    "why_it_matters": "Highlights intra‑party conflict and foreign‑policy debate, linking to AQA topics on US parties and the executive’s role in international relations.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "They say the deal would aid Russia and betray Ukraine’s interests."
-     },
-     {
-      "label": "Critics argue",
-      "text": "They claim the opposition hampers diplomatic flexibility and economic benefits."
-     },
-     {
-      "label": "From the right",
-      "text": "They stress national security and a hard line on Russia."
-     }
-    ],
-    "key_term": {
-     "term": "Sanctions",
-     "definition": "Economic or political penalties imposed to influence a country’s behaviour."
-    },
-    "exam_use": "Reference in an essay on party influence over US foreign policy decisions.",
-    "sources": [
-     "32c1c6be9a73"
-    ]
-   },
-   {
-    "title": "Democratic candidates ask Supreme Court to keep ad‑rate ruling",
+    "title": "Justice Department probes TV networks for antitrust concerns",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "Democratic House and Senate candidates urged the Supreme Court to leave an appeals‑court decision in place that limits political ad rates. The petition argues the ruling protects fair competition.",
-    "why_it_matters": "Illustrates judicial involvement in elections, relevant to the AQA unit on US courts and the impact of judicial decisions on democratic processes.",
+    "what_happened": "The US Justice Department opened an investigation into several television networks for possible antitrust violations. The probe follows ongoing disputes between the Trump administration and the press.",
+    "why_it_matters": "The case shows how US courts can check corporate power and how the executive branch may use legal mechanisms to influence media, linking to the AQA focus on the US courts and separation of powers.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "They say the ruling prevents wealthy interests from buying undue influence."
+      "text": "Proponents say the investigation protects competition and consumer choice."
      },
      {
       "label": "Critics argue",
-      "text": "They claim it restricts free speech and campaign financing."
-     },
-     {
-      "label": "From the left",
-      "text": "They view the decision as essential for electoral fairness."
-     }
-    ],
-    "key_term": {
-     "term": "Campaign finance",
-     "definition": "Regulation of money raised and spent in political campaigns."
-    },
-    "exam_use": "Use as evidence when discussing the role of the judiciary in US elections.",
-    "sources": [
-     "74f2460e1038"
-    ]
-   },
-   {
-    "title": "DUP leader says O'Neill could be removed as first minister",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Unionist MP Carla Lockhart claimed that DUP voters could force the removal of Michelle O'Neill as Northern Ireland’s first minister over the Garvaghy Road protests.",
-    "why_it_matters": "Shows the mechanics of power‑sharing under the devolved institutions, a key point in the AQA Devolution topic.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "They say O'Neill’s actions breach community standards."
-     },
-     {
-      "label": "Critics argue",
-      "text": "They argue the claim undermines the power‑sharing agreement."
+      "text": "Critics claim it is a politically motivated attack on press freedom."
      },
      {
       "label": "From the right",
-      "text": "They emphasise the need for strong unionist representation."
+      "text": "Conservatives view it as a necessary enforcement of antitrust law."
      }
     ],
     "key_term": {
-     "term": "Power‑sharing",
-     "definition": "A system where political power is divided among different groups to ensure representation."
+     "term": "antitrust law",
+     "definition": "Legislation designed to prevent monopolies and promote competition."
     },
-    "exam_use": "Cite in an essay on the strengths and weaknesses of devolved governance in the UK.",
+    "exam_use": "Use as evidence when evaluating the role of US courts in regulating corporate behaviour.",
     "sources": [
-     "3d36b382df23"
+     "1998a0d8bfbe"
+    ]
+   },
+   {
+    "title": "Trump and Vance campaign intensify in Ohio",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Former President Donald Trump and Vice‑presidential candidate Vivek Ramaswamy are campaigning heavily in Ohio ahead of the mid‑term elections. Polls show Democrat Amy Acton narrowing the gap.",
+    "why_it_matters": "The race illustrates US party competition, candidate strategy and the impact of national figures on state elections, all covered in the AQA syllabus on parties and elections.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Republicans say the high‑profile visits energise the base and highlight policy successes."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Democrats argue the focus on personalities distracts from local issues."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressives warn the campaign may polarise voters further."
+     }
+    ],
+    "key_term": {
+     "term": "mid‑term elections",
+     "definition": "Elections held halfway through a president’s four‑year term, often determining control of Congress."
+    },
+    "exam_use": "Reference when discussing how party leadership influences electoral outcomes.",
+    "sources": [
+     "665961b7b54b"
+    ]
+   },
+   {
+    "title": "UK climate‑action debate at party conferences",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "During the party conference season, the Conservatives announced plans to scrap low‑carbon housebuilding, the Greens backed new nuclear reactors, and Labour paused oil‑drilling decisions. Commentators called for less point‑scoring politics.",
+    "why_it_matters": "The differing policy positions show how parties compete on environmental issues, linking to the AQA theme of parties and pressure groups influencing policy.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Conservatives claim scrapping the policy reduces costs for developers."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Environmental groups say it undermines climate targets."
+     },
+     {
+      "label": "From the right",
+      "text": "Right‑leaning analysts argue market‑driven solutions are preferable."
+     }
+    ],
+    "key_term": {
+     "term": "policy platform",
+     "definition": "The set of proposals a party promises to implement if elected."
+    },
+    "exam_use": "Use to illustrate how parties differentiate themselves on climate policy.",
+    "sources": [
+     "bc10bd6d2052"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK parties are adjusting policies ahead of upcoming local elections, with climate and tax issues featuring prominently in conference debates.",
-   "us": "US parties are contesting midterm elections, focusing on foreign policy decisions and campaign finance rules.",
-   "insight": "The contrast shows UK parties shaping policy to win votes, while US parties are more concerned with legal frameworks and foreign policy impacts on electoral prospects.",
+   "theme": "parties",
+   "uk": "UK parties such as the Greens and Conservatives compete over climate policy, with internal debates about ideological direction and member control.",
+   "us": "US parties contest elections through high‑profile candidate campaigns, with national figures shaping state races like Ohio’s governor’s race.",
+   "insight": "The contrast shows UK parties often focus on policy detail within parliamentary systems, while US parties rely more on charismatic leaders and electoral mobilisation.",
    "sources": [
-    "bc10bd6d2052",
-    "32c1c6be9a73",
-    "74f2460e1038"
+    "9d2578d33bf5",
+    "665961b7b54b"
    ]
   },
   "ideas_lens": {
-   "ideology": "ecologism",
-   "text": "The Green Party’s warning against extremist capture and the conference debate over nuclear and low‑carbon housing reflect ecologism’s emphasis on sustainable development and protecting the environment, echoing thinkers like Rachel Carson.",
+   "ideology": "liberalism",
+   "text": "The Justice Department’s antitrust probe reflects liberalism’s emphasis on limiting corporate power and protecting individual choice, echoing John Stuart Mill’s arguments for competition. Liberal thinkers also stress the importance of an independent judiciary to enforce these principles.",
    "sources": [
-    "9d2578d33bf5",
-    "bc10bd6d2052"
+    "1998a0d8bfbe"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party politics influences policy making in the UK and the US, using recent examples.",
+   "question": "Assess the extent to which internal party democracy influences policy outcomes in the UK and the US.",
    "section": "ukpol | us",
-   "tip": "Structure your answer by comparing a UK party conference issue with a US party dispute over a foreign‑policy deal, linking each to the relevant political institutions."
+   "tip": "Compare a UK party’s internal debate (e.g., Green Party) with US party candidate strategy (e.g., Trump’s Ohio campaign) and link each to the concept of party democracy."
   }
  },
  "refs": {
-  "8ebc5a7fe3bb": {
-   "id": "8ebc5a7fe3bb",
-   "title": "MPs seek to overturn ruling that stops police being sued for failings",
-   "link": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+  "3d36b382df23": {
+   "id": "3d36b382df23",
+   "title": "It's within DUP's gift to remove O'Neill as first minister, says Lockhart",
+   "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-10T23:04:37Z"
+   "date": "2026-10-11T10:43:17Z"
   },
   "9d2578d33bf5": {
    "id": "9d2578d33bf5",
@@ -224,6 +193,24 @@
    "lean": "centre-left",
    "date": "2026-10-11T10:34:05Z"
   },
+  "1998a0d8bfbe": {
+   "id": "1998a0d8bfbe",
+   "title": "Justice Department investigates TV networks, citing possible anti-trust violations",
+   "link": "https://www.npr.org/2026/10/11/nx-s1-5997574/the-doj-is-investigating-5-tv-networks-for-suspending-pool-coverage-of-trump",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-10-11T12:04:00Z"
+  },
+  "665961b7b54b": {
+   "id": "665961b7b54b",
+   "title": "Trump, Vance blitz Ohio as Democrats look to flip governor's mansion",
+   "link": "https://thehill.com/homenews/campaign/6139956-ohio-governor-election-ramaswamy-acton/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-11T16:00:00Z"
+  },
   "bc10bd6d2052": {
    "id": "bc10bd6d2052",
    "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
@@ -232,33 +219,6 @@
    "sourceName": "The Guardian",
    "lean": "centre-left",
    "date": "2026-10-11T06:00:18Z"
-  },
-  "32c1c6be9a73": {
-   "id": "32c1c6be9a73",
-   "title": "GOP lawmakers reject US-Russia diesel deal, Trump's Zelensky comments",
-   "link": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-10T23:09:54Z"
-  },
-  "74f2460e1038": {
-   "id": "74f2460e1038",
-   "title": "Democratic candidates ask Supreme Court to leave in place appeals court ruling in political ad rate dispute",
-   "link": "https://www.scotusblog.com/2026/10/democratic-candidates-ask-supreme-court-to-leave-in-place-appeals-court-ruling-in-political-ad-r/",
-   "source": "scotusblog",
-   "sourceName": "SCOTUSblog",
-   "lean": "non-partisan",
-   "date": "2026-10-10T23:05:04Z"
-  },
-  "3d36b382df23": {
-   "id": "3d36b382df23",
-   "title": "It's within DUP's gift to remove O'Neill as first minister, says Lockhart",
-   "link": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-10-11T10:43:17Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
