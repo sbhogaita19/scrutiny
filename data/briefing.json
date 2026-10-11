@@ -1,186 +1,181 @@
 {
- "generated_at": "2026-10-10T16:14:21Z",
+ "generated_at": "2026-10-11T00:14:23Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Sanctions, party turmoil and devolution debates dominate politics",
-  "overview": "US Democrats clash over a Russia oil sanction lift, while the UK Liberal Democrats face internal revolt and Wales debates major infrastructure. Both highlight tensions within parties and governance structures.",
+  "headline": "Political turbulence hits UK parties and US Congress",
+  "overview": "Leadership challenges surface in Britain’s Liberal Democrats while US Republicans clash over a Russia diesel deal. Across both nations, party dynamics and institutional checks dominate the headlines.",
   "stories": [
    {
-    "title": "Democrats split over Trump’s Russia oil sanction lift",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Democratic lawmakers publicly opposed President Trump’s decision to lift sanctions on Russian oil amid fuel shortages linked to US military action against Iran. The move sparked heated debate within the party about foreign policy and national security.",
-    "why_it_matters": "The dispute illustrates how US parties manage foreign‑policy disagreements and the role of party cohesion in the executive‑legislative relationship, a key A‑level theme. It also shows the impact of sanctions on domestic politics.",
+    "title": "Liberal Democrat leadership revolt",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Senior Liberal Democrat MP resigned, citing concerns over leader Ed Davey's handling of the party's poll slump. Treasury spokesperson Charlie Maynard also quit in a bid to trigger a leadership challenge.",
+    "why_it_matters": "The episode illustrates internal party pressure and the mechanisms for leadership change, key concepts in the AQA study of political parties. It also shows how parliamentary performance can affect party cohesion.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s supporters claim lifting sanctions will ease fuel shortages and protect the economy."
+      "text": "Davey remains the best chance to rebuild the party after the 2024 election loss."
      },
      {
       "label": "Critics argue",
-      "text": "Democrats contend the lift undermines sanctions policy and rewards aggression."
-     }
-    ],
-    "key_term": {
-     "term": "sanctions",
-     "definition": "Coercive measures, often economic, imposed by one country to influence another’s behaviour."
-    },
-    "exam_use": "Use as evidence of intra‑party conflict over foreign policy in an essay on the US party system.",
-    "sources": [
-     "ece638335c0e"
-    ]
-   },
-   {
-    "title": "Lib Dem leadership crisis as senior MP resigns",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Treasury spokesperson Charlie Maynard resigned in an attempt to unseat Liberal Democrat leader Ed Davey, amid falling poll numbers. The resignation signals a growing revolt within the party’s parliamentary ranks.",
-    "why_it_matters": "The episode highlights the importance of cabinet loyalty and leadership stability in the UK parliamentary system, relevant to the A‑level study of the executive and party politics.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "Conservatives view the turmoil as evidence of Liberal Democrat unreliability."
+      "text": "The resignations expose a lack of confidence and risk further electoral decline."
      },
      {
       "label": "From the left",
-      "text": "Progressive observers warn that internal dissent may weaken opposition to the government."
-     },
-     {
-      "label": "Party insiders argue",
-      "text": "Some MPs say a leadership change could revive the party’s electoral prospects."
+      "text": "Progressive members see the revolt as an opportunity to shift the party towards greener policies."
      }
     ],
     "key_term": {
-     "term": "cabinet collective responsibility",
-     "definition": "The convention that all ministers must publicly support government decisions."
+     "term": "Leadership challenge",
+     "definition": "A formal process by which party members seek to replace the current leader."
     },
-    "exam_use": "Cite as a case of leadership challenge affecting party cohesion in a UK government essay.",
+    "exam_use": "Use as evidence in an essay on how internal party dynamics influence electoral performance.",
     "sources": [
      "ffcaa07d48ac"
     ]
    },
    {
-    "title": "Welsh minister pledges third Menai bridge despite delays",
+    "title": "Welsh government commits to third Menai bridge",
     "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "A Welsh Government minister confirmed plans to build a third Menai Bridge, warning the project could take up to a decade to complete. The announcement came amid broader discussions on Welsh infrastructure funding.",
-    "why_it_matters": "The story illustrates devolution in action, showing how the Welsh Assembly can set its own transport priorities, a key point for the A‑level devolution topic.",
+    "topic": "pm-cabinet",
+    "what_happened": "A Welsh Government minister confirmed plans to build a third Menai Bridge, warning construction could take up to ten years. Funding details remain under discussion.",
+    "why_it_matters": "The story highlights executive decision‑making and the role of devolved administrations in infrastructure, linking to the AQA topic of the UK constitution and devolution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the bridge will boost regional connectivity and economic growth."
+      "text": "The bridge will boost regional connectivity and economic growth."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn the long timeline and cost could strain public finances."
+      "text": "The long timeline and cost risk burdening taxpayers."
      },
      {
-      "label": "From the UK government",
-      "text": "London officials stress the need for coordinated funding across the UK."
+      "label": "From the right",
+      "text": "Emphasises the need for fiscal prudence in public projects."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from central government to regional bodies."
+     "term": "Devolution",
+     "definition": "The transfer of powers from the central UK government to Scotland, Wales, and Northern Ireland."
     },
-    "exam_use": "Use to illustrate how devolved administrations manage infrastructure projects in a devolution essay.",
+    "exam_use": "Cite when discussing the balance of powers between the UK executive and devolved governments.",
     "sources": [
      "8b7bdf508be0"
     ]
    },
    {
-    "title": "Green Party MP warns against extremist capture",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Green MP Ellie Chowns called for safeguards after a motion labeling Zionism as racism attracted a small but vocal minority within the party. She emphasized the need to prevent extremist influence.",
-    "why_it_matters": "The incident shows internal party dynamics and the challenges of maintaining ideological cohesion, relevant to the A‑level study of political parties and intra‑party pressure.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Progressive members see the motion as a distraction from climate goals."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators argue the party is vulnerable to radical factions."
-     },
-     {
-      "label": "Party insiders argue",
-      "text": "Some Greens argue the debate reflects healthy internal democracy."
-     }
-    ],
-    "key_term": {
-     "term": "party faction",
-     "definition": "A subgroup within a political party that shares specific policy preferences."
-    },
-    "exam_use": "Reference when discussing party cohesion and factionalism in a UK politics essay.",
-    "sources": [
-     "0b4ed7ee9588",
-     "9ff8e001fb63"
-    ]
-   },
-   {
-    "title": "Trump asks Supreme Court to revisit 2016 election lawsuit",
+    "title": "GOP lawmakers oppose Russian diesel deal",
     "section": "us",
-    "topic": "us-courts",
-    "what_happened": "President Trump filed a request with the US Supreme Court to reopen his dismissed lawsuit alleging election interference by former Secretary of State Hillary Clinton. The request revives claims of electoral fraud.",
-    "why_it_matters": "The move underscores the role of the judiciary in adjudicating electoral disputes and the limits of executive power, key concepts for the US Constitution and courts syllabus.",
+    "topic": "us-parties",
+    "what_happened": "Several Republican members voiced objections to the Trump administration’s proposed diesel trade with Russia and to Trump’s suggestion that Ukraine needed a new leader.",
+    "why_it_matters": "The incident shows intra‑party disagreement and the influence of foreign policy on US party politics, relevant to the AQA unit on US parties and the executive.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump supporters claim the court should ensure election integrity."
+      "text": "The deal could lower energy costs for American consumers."
      },
      {
       "label": "Critics argue",
-      "text": "Legal scholars warn the request threatens judicial independence and finality of rulings."
+      "text": "Trading with Russia undermines sanctions and national security."
      },
      {
-      "label": "From the courts",
-      "text": "Judges emphasize the need for clear legal standards before intervening."
+      "label": "From the left",
+      "text": "Democrats view the move as a betrayal of Ukraine’s democratic struggle."
      }
     ],
     "key_term": {
-     "term": "judicial review",
-     "definition": "The process by which courts examine the legality of actions by the executive or legislature."
+     "term": "Party faction",
+     "definition": "A subgroup within a political party that shares distinct policy preferences."
     },
-    "exam_use": "Use as evidence of judicial involvement in electoral matters for a US courts essay.",
+    "exam_use": "Useful for an essay comparing party cohesion in the US and UK.",
     "sources": [
-     "7b7edbab5831"
+     "32c1c6be9a73"
+    ]
+   },
+   {
+    "title": "Democratic candidates ask Supreme Court to keep ad ruling",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "Democratic House and Senate candidates urged the Supreme Court to let stand a lower‑court decision on political advertising rates.",
+    "why_it_matters": "The case illustrates judicial review of election law, a key point in the AQA study of US courts and their role in elections.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Maintaining the ruling protects fair competition in political ads."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The decision could restrict free speech for campaigns."
+     },
+     {
+      "label": "From the right",
+      "text": "Republicans favour less regulation of political advertising."
+     }
+    ],
+    "key_term": {
+     "term": "Judicial review",
+     "definition": "The power of courts to assess the legality of legislative or executive actions."
+    },
+    "exam_use": "Reference when discussing checks and balances in the US system.",
+    "sources": [
+     "74f2460e1038"
+    ]
+   },
+   {
+    "title": "Council debates £102m refurbishment cost",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "A Welsh council considered vacating its historic headquarters after an independent review flagged a potential £102 million refurbishment bill.",
+    "why_it_matters": "The issue raises questions about local government finance and accountability within devolved structures, linking to the AQA topic of devolution and public administration.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Leaving the building avoids an unaffordable expense for taxpayers."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Abandoning the heritage site undermines cultural preservation."
+     },
+     {
+      "label": "From the left",
+      "text": "Calls for greater public oversight of council spending."
+     }
+    ],
+    "key_term": {
+     "term": "Local authority",
+     "definition": "An elected body responsible for delivering services and managing budgets in a specific area."
+    },
+    "exam_use": "Can be used to illustrate challenges faced by devolved administrations in managing public resources.",
+    "sources": [
+     "b7ca7efcbbd6"
     ]
    }
   ],
   "compare": {
-   "theme": "courts",
-   "uk": "UK courts enforce the rule of law but rarely intervene in political disputes, exemplified by limited judicial review of executive actions.",
-   "us": "US courts, especially the Supreme Court, can directly shape political outcomes, as seen in Trump’s request to revisit the 2016 election lawsuit.",
-   "insight": "The contrast shows a stronger judicial role in US politics, reflecting a different constitutional balance of powers.",
+   "theme": "parties",
+   "uk": "Liberal Democrats face an internal leadership challenge, showing how party rules allow members to trigger a vote of no confidence.",
+   "us": "Republican lawmakers publicly oppose a policy proposal, highlighting factional splits within a major party.",
+   "insight": "Both systems reveal that parties are not monolithic; internal dissent can shape policy and leadership, though UK parties use formal votes while US parties rely on public statements and media.",
    "sources": [
     "ffcaa07d48ac",
-    "7b7edbab5831"
+    "32c1c6be9a73"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The debate over lifting Russian sanctions reflects liberalism’s emphasis on individual freedoms and market openness, while critics invoke liberal concerns about protecting democratic values abroad.",
+   "text": "The Liberal Democrat revolt reflects liberalism’s emphasis on internal democracy and accountability, echoing John Stuart Mill’s advocacy for participatory governance. Similarly, US Republicans’ debate over the diesel deal illustrates liberal concerns about individual liberty versus state intervention in trade.",
    "sources": [
-    "ece638335c0e"
+    "ffcaa07d48ac",
+    "32c1c6be9a73"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which internal party conflicts can influence government policy in the UK and US.",
-   "section": "ukpol | us",
-   "tip": "Compare a UK party leadership dispute with a US party’s stance on a foreign‑policy decision, using specific examples."
+   "question": "Assess the extent to which internal party dynamics influence policy decisions in the UK and the US.",
+   "section": "ideas",
+   "tip": "Compare a UK party leadership challenge with a US party faction’s stance on a foreign‑policy deal, using specific examples."
   }
  },
  "refs": {
-  "ece638335c0e": {
-   "id": "ece638335c0e",
-   "title": "Democrats explode over Trump's Russia diesel deal",
-   "link": "https://thehill.com/homenews/administration/6140462-democrats-slam-trump-putin-diesel-deal/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-10T13:02:54Z"
-  },
   "ffcaa07d48ac": {
    "id": "ffcaa07d48ac",
    "title": "Ed Davey faces growing revolt against leadership as senior Lib Dem MP quits",
@@ -199,32 +194,32 @@
    "lean": "centre-left",
    "date": "2026-10-10T14:14:55Z"
   },
-  "0b4ed7ee9588": {
-   "id": "0b4ed7ee9588",
-   "title": "Greens must avoid ‘capture by extremists and racists’, says party MP",
-   "link": "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-10T11:46:03Z"
-  },
-  "9ff8e001fb63": {
-   "id": "9ff8e001fb63",
-   "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-   "link": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-10-10T11:09:16Z"
-  },
-  "7b7edbab5831": {
-   "id": "7b7edbab5831",
-   "title": "Trump asks Supreme Court to look at 2016 election lawsuit against Clinton: Report",
-   "link": "https://thehill.com/homenews/administration/6140233-trump-supreme-court-clinton-lawsuit-appeal/",
+  "32c1c6be9a73": {
+   "id": "32c1c6be9a73",
+   "title": "GOP lawmakers reject U.S.-Russia diesel deal, Trump's Zelensky comments",
+   "link": "https://thehill.com/homenews/senate/6140871-republicans-oppose-trump-russian-diesel-deal/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-10T02:47:13Z"
+   "date": "2026-10-10T23:09:54Z"
+  },
+  "74f2460e1038": {
+   "id": "74f2460e1038",
+   "title": "Democratic candidates ask Supreme Court to leave in place appeals court ruling in political ad rate dispute",
+   "link": "https://www.scotusblog.com/2026/10/democratic-candidates-ask-supreme-court-to-leave-in-place-appeals-court-ruling-in-political-ad-r/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-10-10T23:05:04Z"
+  },
+  "b7ca7efcbbd6": {
+   "id": "b7ca7efcbbd6",
+   "title": "Council considers leaving historic headquarters over £102m refurbishment bill",
+   "link": "https://nation.cymru/news/council-considers-leaving-historic-headquarters-over-102m-refurbishment-bill/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-10T23:01:39Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
