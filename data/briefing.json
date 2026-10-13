@@ -1,218 +1,184 @@
 {
- "generated_at": "2026-10-13T12:42:58Z",
+ "generated_at": "2026-10-13T19:52:09Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Burnham pushes Brexit debate as US politics heats up",
-  "overview": "Prime Minister Andy Burnham is set to reopen Brexit discussions in Parliament, while in the US the Department of Justice apologises for a Trump ad breach and Congresswoman Ilhan Omar faces a federal search. Both nations grapple with executive actions and political accountability.",
+  "headline": "Press briefings, budget deals and campaign trails dominate politics today",
+  "overview": "White House press secretary Katie Zacharia faces her first briefing, Wales secures a £60m education boost, and President Trump campaigns in Kansas ahead of US midterms. Meanwhile, UK devolution debates and a high‑profile US congressional search highlight tensions in governance.",
   "stories": [
    {
-    "title": "Burnham to reopen Brexit debate in Commons",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham announced he will unflinchingly debate Brexit again, marking the first such move since the UK left the EU. The BBC notes this comes as MPs return after recess.",
-    "why_it_matters": "The story illustrates the role of the Prime Minister and Cabinet in setting the legislative agenda, a key part of the UK Constitution. It also raises questions about executive versus parliamentary authority.",
+    "title": "Zacharia's first White House briefing",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Katie Zacharia held her inaugural briefing as White House press secretary, answering reporters on the Trump administration’s policies. The briefing took place three weeks after she was appointed.",
+    "why_it_matters": "The role of the press secretary illustrates the executive’s communication strategy, a key element of the US presidential system studied in A‑level. It also shows how media relations can affect public perception during election cycles.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s move is seen as fulfilling a democratic duty to revisit a major constitutional issue."
+      "text": "The administration says a new spokesperson will bring clarity and fresh messaging to the public."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim it risks reopening settled policy and undermines stability."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives warn that continual debate could damage the UK's international credibility."
+      "text": "Opponents warn that the briefings may be used to spin facts and deflect accountability."
      }
     ],
     "key_term": {
-     "term": "Prime Ministerial prerogative",
-     "definition": "The authority of the PM to set government policy and agenda."
+     "term": "Press secretary",
+     "definition": "A senior official who acts as the primary spokesperson for the executive branch."
     },
-    "exam_use": "Use as evidence in an essay on the balance of power between the executive and Parliament under the UK Constitution.",
+    "exam_use": "Use as evidence of how the US executive manages media to influence voter attitudes in an essay on the presidency.",
     "sources": [
-     "230fd1800e97"
+     "21970a549f41"
     ]
    },
    {
-    "title": "Welsh government secures £60m for learning needs",
+    "title": "Welsh budget deal for special education",
     "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "The Plaid Cymru‑led Welsh administration reached a budget deal with Labour, allocating £60 million for additional learning needs. The deal follows earlier failures to pass spending plans.",
-    "why_it_matters": "The agreement shows how devolved governments negotiate with the UK parties, highlighting the principle of devolution and inter‑governmental relations. It also touches on public policy and pressure‑group influence.",
+    "topic": "parties",
+    "what_happened": "The Welsh government and Labour reached a budget agreement allocating £60 million for additional learning needs. The deal follows earlier difficulties in passing spending plans.",
+    "why_it_matters": "The story demonstrates coalition‑building and pressure‑group influence in devolved politics, linking to the A‑level focus on parties and participation. It also shows fiscal policy decisions at a sub‑national level.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The funding is praised as a commitment to education equity in Wales."
+      "label": "From the government",
+      "text": "Welsh officials claim the funding will close gaps for vulnerable pupils."
      },
      {
-      "label": "Critics argue",
-      "text": "Some argue the amount is insufficient to meet rising demand."
+      "label": "From opposition groups",
+      "text": "Some pressure groups argue the amount is insufficient and call for broader reforms."
      },
      {
-      "label": "From the left",
-      "text": "Labour supporters view the deal as evidence of progressive collaboration."
+      "label": "From the right",
+      "text": "Conservative critics suggest the spending reflects over‑expansion of devolved powers."
      }
     ],
     "key_term": {
      "term": "Devolution",
-     "definition": "The statutory transfer of powers from central government to regional bodies."
+     "definition": "The statutory transfer of powers from the central government to regional bodies."
     },
-    "exam_use": "Cite in a question comparing devolution in the UK with federalism in the US.",
+    "exam_use": "Cite as evidence of how devolved administrations negotiate budgets, useful for an essay on the impact of devolution on UK politics.",
     "sources": [
      "1fb2a5fa59d6"
     ]
    },
    {
-    "title": "Immigration agents search Ilhan Omar’s home",
-    "section": "us",
-    "topic": "congress",
-    "what_happened": "Federal immigration agents conducted a search of Congresswoman Ilhan Omar’s residence. Omar described the action as an attempt to target political enemies and vowed not to be silenced.",
-    "why_it_matter": "The incident raises issues of congressional privilege, civil rights, and executive enforcement powers, all central to US constitutional debates.",
+    "title": "Welsh government rejects new national park",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Welsh ministers told the Senedd that a proposed northern national park is unnecessary, arguing environmental goals can be met without its cost. The proposal was part of a wider environmental strategy.",
+    "why_it_matters": "The decision highlights executive discretion within devolved governance and the balance between environmental policy and fiscal constraints, relevant to the UK Constitution and executive powers.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The search is defended as lawful enforcement of immigration statutes."
+      "label": "Government view",
+      "text": "Ministers argue the park would waste money without delivering extra environmental benefits."
      },
      {
-      "label": "Critics argue",
-      "text": "Critics see it as political intimidation violating congressional immunity."
+      "label": "Environmental groups",
+      "text": "Campaigners contend the park is essential for biodiversity and climate goals."
      },
      {
-      "label": "From the left",
-      "text": "Progressives view it as part of a broader pattern of targeting minority representatives."
+      "label": "Local residents",
+      "text": "Some locals fear loss of development opportunities and job creation."
      }
     ],
     "key_term": {
-     "term": "Congressional immunity",
-     "definition": "Legal protection for members of Congress from certain legal actions while performing official duties."
+     "term": "Executive discretion",
+     "definition": "The authority of the government to make policy choices within its legal powers."
     },
-    "exam_use": "Use as a case study in an essay on the separation of powers and civil rights in the US Constitution.",
+    "exam_use": "Use to illustrate executive decision‑making in a devolved context for a Constitution essay.",
+    "sources": [
+     "d04d953c8159"
+    ]
+   },
+   {
+    "title": "Search of Congresswoman Ilhan Omar’s home",
+    "section": "us",
+    "topic": "civil-rights",
+    "what_happened": "Immigration agents conducted a search of Rep. Ilhan Omar’s residence, citing an investigation. Omar described the action as an attempt to silence political opponents.",
+    "why_it_matters": "The incident raises questions about civil liberties, executive enforcement powers, and partisan conflict, all central to the US Constitution and civil‑rights themes in the syllabus.",
+    "perspectives": [
+     {
+      "label": "Government justification",
+      "text": "Officials say the search follows standard legal procedures."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Civil‑rights advocates view it as political intimidation."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive groups see it as part of a broader pattern of targeting dissenting voices."
+     }
+    ],
+    "key_term": {
+     "term": "Civil liberties",
+     "definition": "Fundamental rights and freedoms protected from government interference."
+    },
+    "exam_use": "Reference in an essay on the balance between security and individual rights in the US political system.",
     "sources": [
      "d7320b9b78a9"
     ]
    },
    {
-    "title": "DOJ apologises for Trump ad breach",
+    "title": "Trump campaigns in Kansas for Senate race",
     "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The US Department of Justice issued an apology after a Trump campaign ad continued to run despite a federal judge’s order halting it. The ad was deemed to violate a court injunction.",
-    "why_it_matter": "The episode highlights judicial oversight of executive actions and the role of courts in enforcing election law, key themes in US constitutional law.",
+    "topic": "us-parties",
+    "what_happened": "Former President Donald Trump travelled to Kansas to support Republican Senate candidate Marshall, as the race becomes increasingly competitive. The RNC announced the visit.",
+    "why_it_matters": "The event shows party leadership’s role in candidate promotion and the influence of former presidents on electoral outcomes, linking to US party politics and election campaigning.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The DOJ’s apology shows accountability and respect for judicial authority."
+      "label": "Republican supporters",
+      "text": "They claim Trump’s endorsement will energise the base and secure victory."
      },
      {
-      "label": "Critics argue",
-      "text": "Critics claim the breach reflects systemic bias favouring the incumbent."
+      "label": "Democratic critics",
+      "text": "They argue the involvement of a polarising figure could alienate moderate voters."
      },
      {
-      "label": "From the right",
-      "text": "Conservatives argue the injunction was an overreach that suppressed free speech."
+      "label": "From the centre",
+      "text": "Analysts note the strategy reflects the party’s reliance on high‑profile figures to boost turnout."
      }
     ],
     "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of executive and legislative actions."
+     "term": "Party endorsement",
+     "definition": "Public support given by a party or its leaders to a candidate."
     },
-    "exam_use": "Reference in an essay evaluating checks and balances in the US political system.",
+    "exam_use": "Use as evidence of party dynamics and candidate support in a US elections essay.",
     "sources": [
-     "b91167776097"
-    ]
-   },
-   {
-    "title": "Trump attacks immigrants at Ohio rally",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "President Donald Trump delivered a rally in Ohio, criticizing Somali and Haitian immigrants while supporting Republican Senate candidate Jon Husted. The remarks were broadcast live.",
-    "why_it_matter": "The speech illustrates how immigration issues are used in electoral campaigning, linking voter mobilisation to policy positions, a core topic in US elections and political parties.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Supporters claim the rhetoric protects American jobs and security."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Critics condemn the language as xenophobic and divisive."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressives see it as a tactic to inflame anti‑immigrant sentiment for votes."
-     }
-    ],
-    "key_term": {
-     "term": "Identity politics",
-     "definition": "Political positions based on the interests of social groups with which people identify."
-    },
-    "exam_use": "Use as evidence in an essay on the role of identity politics in US elections.",
-    "sources": [
-     "031e5422377d"
-    ]
-   },
-   {
-    "title": "Farage denies troops would fire on small boats",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Reform Party leader Nigel Farage rejected claims that Royal Marines would be authorised to fire on small boats, calling the statements a misinterpretation. The controversy followed comments by MP Jenrick.",
-    "why_it_matter": "The incident shows how party leaders manage media narratives and respond to security policy debates, relevant to the study of political parties and pressure groups.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Farage’s denial protects civil liberties and avoids militarisation."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Critics say the party is downplaying legitimate security concerns."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives argue the issue is being politicised by the opposition."
-     }
-    ],
-    "key_term": {
-     "term": "Pressure group",
-     "definition": "An organized group seeking to influence public policy without seeking electoral office."
-    },
-    "exam_use": "Cite when discussing how parties interact with pressure groups and media framing.",
-    "sources": [
-     "03bef1655289"
+     "ace62e65e699"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "Burnham’s plan to reopen Brexit debate may influence upcoming local elections by reshaping voter priorities on EU relations.",
-   "us": "Trump’s immigrant‑focused rally is aimed at swaying swing voters in the Ohio Senate race ahead of the November elections.",
-   "insight": "Both cases show how leaders use high‑profile issues to mobilise electoral support, highlighting the strategic role of issue framing in different political systems.",
+   "uk": "The Welsh budget deal shows how devolved parties negotiate funding ahead of local elections, reflecting party competition at sub‑national level.",
+   "us": "Trump’s Kansas campaign illustrates how national party figures intervene in Senate races to sway voter preferences during midterms.",
+   "insight": "Both cases highlight the strategic use of high‑profile endorsements and negotiations to influence electoral outcomes, though the UK example operates within a devolved, multi‑party system while the US example occurs in a two‑party presidential framework.",
    "sources": [
-    "230fd1800e97",
-    "031e5422377d"
+    "1fb2a5fa59d6",
+    "ace62e65e699"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Burnham’s call for renewed Brexit debate reflects liberal ideas of open debate and individual choice in governance, echoing John Stuart Mill’s emphasis on free discussion. Conversely, the US DOJ’s apology underscores liberalism’s rule‑of‑law principle that even powerful actors must obey court orders.",
+   "ideology": "conservatism",
+   "text": "The Welsh government’s rejection of a costly national park aligns with conservative emphasis on fiscal restraint and limited state intervention, echoing Edmund Burke’s caution against expansive government spending.",
    "sources": [
-    "230fd1800e97",
-    "b91167776097"
+    "d04d953c8159"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive actions can be checked by other branches of government in the UK and the US, using recent examples.",
-   "section": "ukgov | us",
-   "tip": "Structure your answer by comparing the UK Prime Minister’s agenda‑setting power with the US President’s use of executive orders, and evaluate judicial and parliamentary checks in each case."
+   "question": "Assess the extent to which executive discretion influences policy outcomes in devolved administrations, using recent Welsh government decisions as examples.",
+   "section": "ukgov",
+   "tip": "Structure your answer by defining executive discretion, then compare the national‑park decision with the education‑funding deal, evaluating political and fiscal factors."
   }
  },
  "refs": {
-  "230fd1800e97": {
-   "id": "230fd1800e97",
-   "title": "Why the prime minister wants to talk about Brexit again",
-   "link": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "21970a549f41": {
+   "id": "21970a549f41",
+   "title": "Watch live: Katie Zacharia holds first briefing as White House press secretary",
+   "link": "https://thehill.com/video-clips/6144701-watch-live-katie-zacharia-white-house-press-briefing/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-13T01:27:59Z"
+   "date": "2026-10-13T12:07:55Z"
   },
   "1fb2a5fa59d6": {
    "id": "1fb2a5fa59d6",
@@ -223,6 +189,15 @@
    "lean": "centre",
    "date": "2026-10-13T12:29:36Z"
   },
+  "d04d953c8159": {
+   "id": "d04d953c8159",
+   "title": "Welsh government does not want new northern national park, minister says",
+   "link": "https://www.bbc.co.uk/news/articles/c59vze7vy2vlo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-10-13T17:34:06Z"
+  },
   "d7320b9b78a9": {
    "id": "d7320b9b78a9",
    "title": "Immigration agents search congresswoman Ilhan Omar's home",
@@ -232,32 +207,14 @@
    "lean": "centre",
    "date": "2026-10-13T10:37:39Z"
   },
-  "b91167776097": {
-   "id": "b91167776097",
-   "title": "DOJ apologizes after campaign-style Trump ads air in violation of judge's order",
-   "link": "https://thehill.com/policy/national-security/6144743-doj-apologizes-donald-trump-ads/",
+  "ace62e65e699": {
+   "id": "ace62e65e699",
+   "title": "Trump will campaign in Kansas to boost Marshall's Senate bid",
+   "link": "https://thehill.com/homenews/6146237-donald-trump-kansas-senate-race-roger-marshall/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-13T12:19:51Z"
-  },
-  "031e5422377d": {
-   "id": "031e5422377d",
-   "title": "WATCH: Trump attacks Somali and Haitian immigrants while rallying for Ohio Republican candidates",
-   "link": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-midterm-rally-in-youngstown-ohio",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-12T22:09:07Z"
-  },
-  "03bef1655289": {
-   "id": "03bef1655289",
-   "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
-   "link": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-13T08:56:16Z"
+   "date": "2026-10-13T19:40:30Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
