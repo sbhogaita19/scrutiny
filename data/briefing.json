@@ -1,202 +1,189 @@
 {
- "generated_at": "2026-10-13T19:52:09Z",
+ "generated_at": "2026-10-14T10:13:18Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Press briefings, budget deals and campaign trails dominate politics today",
-  "overview": "White House press secretary Katie Zacharia faces her first briefing, Wales secures a £60m education boost, and President Trump campaigns in Kansas ahead of US midterms. Meanwhile, UK devolution debates and a high‑profile US congressional search highlight tensions in governance.",
+  "headline": "Midterms, Welsh budget, and Burnham under scrutiny",
+  "overview": "US midterm campaigns intensify as Trump’s diesel deal draws bipartisan criticism. In Wales, the government secures a £60m budget boost for learning needs, while Prime Minister Andy Burnham faces questions over hospitality dinners. Pressure groups on both sides of the Atlantic are mobilising.",
   "stories": [
    {
-    "title": "Zacharia's first White House briefing",
+    "title": "Trump‑Russia diesel deal criticised in Congress",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Katie Zacharia held her inaugural briefing as White House press secretary, answering reporters on the Trump administration’s policies. The briefing took place three weeks after she was appointed.",
-    "why_it_matters": "The role of the press secretary illustrates the executive’s communication strategy, a key element of the US presidential system studied in A‑level. It also shows how media relations can affect public perception during election cycles.",
+    "topic": "us-constitution",
+    "what_happened": "President Donald Trump announced a deal to import 2.2 million tonnes of Russian diesel, prompting criticism from both Republican and Democratic members of Congress. Lawmakers say the deal breaches sanctions and could aid Russia’s war in Ukraine.",
+    "why_it_matters": "The episode illustrates the US system of checks and balances, where Congress can challenge executive foreign‑policy actions. It also raises questions about the rule of law and sanctions enforcement under the US Constitution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The administration says a new spokesperson will bring clarity and fresh messaging to the public."
+      "text": "Some Republicans claim the deal reduces fuel costs and protects American energy security."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn that the briefings may be used to spin facts and deflect accountability."
-     }
-    ],
-    "key_term": {
-     "term": "Press secretary",
-     "definition": "A senior official who acts as the primary spokesperson for the executive branch."
-    },
-    "exam_use": "Use as evidence of how the US executive manages media to influence voter attitudes in an essay on the presidency.",
-    "sources": [
-     "21970a549f41"
-    ]
-   },
-   {
-    "title": "Welsh budget deal for special education",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The Welsh government and Labour reached a budget agreement allocating £60 million for additional learning needs. The deal follows earlier difficulties in passing spending plans.",
-    "why_it_matters": "The story demonstrates coalition‑building and pressure‑group influence in devolved politics, linking to the A‑level focus on parties and participation. It also shows fiscal policy decisions at a sub‑national level.",
-    "perspectives": [
-     {
-      "label": "From the government",
-      "text": "Welsh officials claim the funding will close gaps for vulnerable pupils."
-     },
-     {
-      "label": "From opposition groups",
-      "text": "Some pressure groups argue the amount is insufficient and call for broader reforms."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative critics suggest the spending reflects over‑expansion of devolved powers."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central government to regional bodies."
-    },
-    "exam_use": "Cite as evidence of how devolved administrations negotiate budgets, useful for an essay on the impact of devolution on UK politics.",
-    "sources": [
-     "1fb2a5fa59d6"
-    ]
-   },
-   {
-    "title": "Welsh government rejects new national park",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Welsh ministers told the Senedd that a proposed northern national park is unnecessary, arguing environmental goals can be met without its cost. The proposal was part of a wider environmental strategy.",
-    "why_it_matters": "The decision highlights executive discretion within devolved governance and the balance between environmental policy and fiscal constraints, relevant to the UK Constitution and executive powers.",
-    "perspectives": [
-     {
-      "label": "Government view",
-      "text": "Ministers argue the park would waste money without delivering extra environmental benefits."
-     },
-     {
-      "label": "Environmental groups",
-      "text": "Campaigners contend the park is essential for biodiversity and climate goals."
-     },
-     {
-      "label": "Local residents",
-      "text": "Some locals fear loss of development opportunities and job creation."
-     }
-    ],
-    "key_term": {
-     "term": "Executive discretion",
-     "definition": "The authority of the government to make policy choices within its legal powers."
-    },
-    "exam_use": "Use to illustrate executive decision‑making in a devolved context for a Constitution essay.",
-    "sources": [
-     "d04d953c8159"
-    ]
-   },
-   {
-    "title": "Search of Congresswoman Ilhan Omar’s home",
-    "section": "us",
-    "topic": "civil-rights",
-    "what_happened": "Immigration agents conducted a search of Rep. Ilhan Omar’s residence, citing an investigation. Omar described the action as an attempt to silence political opponents.",
-    "why_it_matters": "The incident raises questions about civil liberties, executive enforcement powers, and partisan conflict, all central to the US Constitution and civil‑rights themes in the syllabus.",
-    "perspectives": [
-     {
-      "label": "Government justification",
-      "text": "Officials say the search follows standard legal procedures."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Civil‑rights advocates view it as political intimidation."
+      "text": "Democrats contend it violates sanctions and undermines US support for Ukraine."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups see it as part of a broader pattern of targeting dissenting voices."
+      "text": "Progressive groups see the deal as evidence of executive overreach and corporate influence."
      }
     ],
     "key_term": {
-     "term": "Civil liberties",
-     "definition": "Fundamental rights and freedoms protected from government interference."
+     "term": "checks and balances",
+     "definition": "A system where each branch of government can limit the powers of the others."
     },
-    "exam_use": "Reference in an essay on the balance between security and individual rights in the US political system.",
+    "exam_use": "Use as evidence in a ‘evaluate the effectiveness of checks and balances’ essay for the US Constitution topic.",
+    "sources": [
+     "ce02ef5495a5"
+    ]
+   },
+   {
+    "title": "Ilhan Omar’s home searched by immigration agents",
+    "section": "us",
+    "topic": "civil-rights",
+    "what_happened": "Federal immigration agents conducted a search of Congresswoman Ilhan Omar’s residence. Omar described the action as an attempt to silence political opponents.",
+    "why_it_matters": "The incident touches on civil‑rights protections and the separation of powers, highlighting tensions between law‑enforcement agencies and elected officials.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Some conservatives say the search is a legitimate enforcement of immigration law."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Civil‑rights advocates view it as political intimidation and a breach of parliamentary privilege."
+     },
+     {
+      "label": "From the right",
+      "text": "Law‑and‑order proponents stress the need for strict immigration controls."
+     }
+    ],
+    "key_term": {
+     "term": "parliamentary privilege",
+     "definition": "Legal immunity granted to members of parliament to perform their duties without interference."
+    },
+    "exam_use": "Cite in an essay assessing the balance between security and civil liberties in US politics.",
     "sources": [
      "d7320b9b78a9"
     ]
    },
    {
-    "title": "Trump campaigns in Kansas for Senate race",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Former President Donald Trump travelled to Kansas to support Republican Senate candidate Marshall, as the race becomes increasingly competitive. The RNC announced the visit.",
-    "why_it_matters": "The event shows party leadership’s role in candidate promotion and the influence of former presidents on electoral outcomes, linking to US party politics and election campaigning.",
+    "title": "Welsh government secures £60m for learning needs",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "The Plaid Cymru‑led Welsh administration reached a budget agreement with Labour, allocating £60 million for additional learning needs. The deal follows earlier difficulties in passing spending plans.",
+    "why_it_matters": "The agreement demonstrates how devolved governments negotiate fiscal policy within the UK’s constitutional framework and the role of coalition‑building in a multi‑party system.",
     "perspectives": [
      {
-      "label": "Republican supporters",
-      "text": "They claim Trump’s endorsement will energise the base and secure victory."
+      "label": "Supporters argue",
+      "text": "Welsh Labour says the funding addresses urgent educational gaps."
      },
      {
-      "label": "Democratic critics",
-      "text": "They argue the involvement of a polarising figure could alienate moderate voters."
+      "label": "Critics argue",
+      "text": "Plaid Cymru critics warn the money may be insufficient for long‑term needs."
      },
      {
-      "label": "From the centre",
-      "text": "Analysts note the strategy reflects the party’s reliance on high‑profile figures to boost turnout."
+      "label": "From the left",
+      "text": "Progressive groups view the deal as a step toward greater social investment."
      }
     ],
     "key_term": {
-     "term": "Party endorsement",
-     "definition": "Public support given by a party or its leaders to a candidate."
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Use as evidence of party dynamics and candidate support in a US elections essay.",
+    "exam_use": "Use as evidence in a ‘compare the powers of devolved administrations’ essay for the UK Government section.",
     "sources": [
-     "ace62e65e699"
+     "1fb2a5fa59d6"
+    ]
+   },
+   {
+    "title": "Burnham’s hospitality dinners raise transparency concerns",
+    "section": "ukpol",
+    "topic": "pm-cabinet",
+    "what_happened": "Records show Prime Minister Andy Burnham hosted two hospitality dinners with Manchester City chairman, later deleted from official logs. Opposition parties have called for an inquiry.",
+    "why_it_matters": "The story highlights issues of ministerial accountability and the influence of private interests on government decision‑making, central to the study of the UK executive.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Burnham’s office claims the dinners were standard networking events."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opposition MPs argue the lack of transparency breaches the Ministerial Code."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators stress the need for stricter rules on ministerial hospitality."
+     }
+    ],
+    "key_term": {
+     "term": "ministerial code",
+     "definition": "A set of standards governing the behaviour of government ministers."
+    },
+    "exam_use": "Reference in an essay evaluating the effectiveness of accountability mechanisms for the UK executive.",
+    "sources": [
+     "77b3d6b344cc"
+    ]
+   },
+   {
+    "title": "Civil‑rights groups deploy observers for US midterms",
+    "section": "us",
+    "topic": "civil-rights",
+    "what_happened": "National civil‑rights organisations plan to send thousands of observers to polling stations for the upcoming midterm elections, citing concerns over voter suppression. The effort is coordinated with several political parties.",
+    "why_it_matters": "The mobilisation reflects the role of pressure groups in safeguarding democratic participation and illustrates how civil‑society actors interact with electoral processes in the US.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Advocates say observers help ensure free and fair elections."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Some politicians claim the observers could intimidate voters."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive groups view the deployment as essential to protect voting rights."
+     }
+    ],
+    "key_term": {
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+    },
+    "exam_use": "Use as a case study in a ‘role of pressure groups in politics’ essay for the UK Politics or US Politics sections.",
+    "sources": [
+     "f33535c58280"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "The Welsh budget deal shows how devolved parties negotiate funding ahead of local elections, reflecting party competition at sub‑national level.",
-   "us": "Trump’s Kansas campaign illustrates how national party figures intervene in Senate races to sway voter preferences during midterms.",
-   "insight": "Both cases highlight the strategic use of high‑profile endorsements and negotiations to influence electoral outcomes, though the UK example operates within a devolved, multi‑party system while the US example occurs in a two‑party presidential framework.",
+   "uk": "UK local elections are currently being shaped by devolution deals, such as the Welsh budget agreement, influencing voter sentiment in Wales.",
+   "us": "US midterm elections are marked by heightened civil‑rights monitoring and partisan battles over election integrity.",
+   "insight": "The contrast shows how electoral stakes drive both policy negotiations in devolved UK regions and civil‑society mobilisation in the US, highlighting differing institutional responses to political pressure.",
    "sources": [
     "1fb2a5fa59d6",
-    "ace62e65e699"
+    "f33535c58280"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "The Welsh government’s rejection of a costly national park aligns with conservative emphasis on fiscal restraint and limited state intervention, echoing Edmund Burke’s caution against expansive government spending.",
+   "ideology": "liberalism",
+   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in US civil‑rights observers protecting voting freedoms and in the Welsh budget deal aimed at expanding educational opportunities.",
    "sources": [
-    "d04d953c8159"
+    "f33535c58280",
+    "1fb2a5fa59d6"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive discretion influences policy outcomes in devolved administrations, using recent Welsh government decisions as examples.",
-   "section": "ukgov",
-   "tip": "Structure your answer by defining executive discretion, then compare the national‑park decision with the education‑funding deal, evaluating political and fiscal factors."
+   "question": "Assess the extent to which checks and balances limit executive power in the United States and the United Kingdom.",
+   "section": "ideas",
+   "tip": "Compare the US congressional challenge to Trump’s diesel deal with the UK parliamentary scrutiny of Burnham’s hospitality dinners."
   }
  },
  "refs": {
-  "21970a549f41": {
-   "id": "21970a549f41",
-   "title": "Watch live: Katie Zacharia holds first briefing as White House press secretary",
-   "link": "https://thehill.com/video-clips/6144701-watch-live-katie-zacharia-white-house-press-briefing/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "ce02ef5495a5": {
+   "id": "ce02ef5495a5",
+   "title": "Trump's diesel deal with Putin draws bipartisan criticism from a frustrated Congress",
+   "link": "https://www.pbs.org/newshour/politics/trumps-diesel-deal-with-putin-draws-bipartisan-criticism-from-a-frustrated-congress",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-10-13T12:07:55Z"
-  },
-  "1fb2a5fa59d6": {
-   "id": "1fb2a5fa59d6",
-   "title": "Welsh government and Labour strike budget deal with £60m for additional learning needs",
-   "link": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-10-13T12:29:36Z"
-  },
-  "d04d953c8159": {
-   "id": "d04d953c8159",
-   "title": "Welsh government does not want new northern national park, minister says",
-   "link": "https://www.bbc.co.uk/news/articles/c59vze7vy2vlo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-10-13T17:34:06Z"
+   "date": "2026-10-13T21:46:01Z"
   },
   "d7320b9b78a9": {
    "id": "d7320b9b78a9",
@@ -207,14 +194,32 @@
    "lean": "centre",
    "date": "2026-10-13T10:37:39Z"
   },
-  "ace62e65e699": {
-   "id": "ace62e65e699",
-   "title": "Trump will campaign in Kansas to boost Marshall's Senate bid",
-   "link": "https://thehill.com/homenews/6146237-donald-trump-kansas-senate-race-roger-marshall/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "1fb2a5fa59d6": {
+   "id": "1fb2a5fa59d6",
+   "title": "Welsh government and Labour strike budget deal with £60m for additional learning needs",
+   "link": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-10-13T19:40:30Z"
+   "date": "2026-10-13T12:29:36Z"
+  },
+  "77b3d6b344cc": {
+   "id": "77b3d6b344cc",
+   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+   "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-14T10:06:48Z"
+  },
+  "f33535c58280": {
+   "id": "f33535c58280",
+   "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
+   "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-10-14T09:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
