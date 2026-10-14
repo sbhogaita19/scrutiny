@@ -1,198 +1,192 @@
 {
- "generated_at": "2026-10-14T10:13:18Z",
+ "generated_at": "2026-10-14T15:49:39Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, Welsh budget, and Burnham under scrutiny",
-  "overview": "US midterm campaigns intensify as Trump’s diesel deal draws bipartisan criticism. In Wales, the government secures a £60m budget boost for learning needs, while Prime Minister Andy Burnham faces questions over hospitality dinners. Pressure groups on both sides of the Atlantic are mobilising.",
+  "headline": "Burnham hosts Zelenskyy as US press tensions rise",
+  "overview": "Prime Minister Andy Burnham meets President Zelenskyy at Downing Street while US courts block a Trump‑era ban on journalists. Both events highlight executive power and its limits.",
   "stories": [
    {
-    "title": "Trump‑Russia diesel deal criticised in Congress",
-    "section": "us",
-    "topic": "us-constitution",
-    "what_happened": "President Donald Trump announced a deal to import 2.2 million tonnes of Russian diesel, prompting criticism from both Republican and Democratic members of Congress. Lawmakers say the deal breaches sanctions and could aid Russia’s war in Ukraine.",
-    "why_it_matters": "The episode illustrates the US system of checks and balances, where Congress can challenge executive foreign‑policy actions. It also raises questions about the rule of law and sanctions enforcement under the US Constitution.",
+    "title": "Burnham welcomes Zelenskyy at No 10",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Andy Burnham hosted Ukrainian President Volodymyr Zelenskyy at Downing Street, the first such visit since Burnham took office. The meeting was followed by the start of Prime Minister's Questions.",
+    "why_it_matters": "The visit tests the UK executive’s foreign‑policy role and its relationship with Parliament, a key A‑level topic on the powers of the Prime Minister and Cabinet.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Some Republicans claim the deal reduces fuel costs and protects American energy security."
+      "text": "Burnham’s engagement shows strong leadership in supporting Ukraine and re‑asserting the UK’s global standing."
      },
      {
       "label": "Critics argue",
-      "text": "Democrats contend it violates sanctions and undermines US support for Ukraine."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive groups see the deal as evidence of executive overreach and corporate influence."
-     }
-    ],
-    "key_term": {
-     "term": "checks and balances",
-     "definition": "A system where each branch of government can limit the powers of the others."
-    },
-    "exam_use": "Use as evidence in a ‘evaluate the effectiveness of checks and balances’ essay for the US Constitution topic.",
-    "sources": [
-     "ce02ef5495a5"
-    ]
-   },
-   {
-    "title": "Ilhan Omar’s home searched by immigration agents",
-    "section": "us",
-    "topic": "civil-rights",
-    "what_happened": "Federal immigration agents conducted a search of Congresswoman Ilhan Omar’s residence. Omar described the action as an attempt to silence political opponents.",
-    "why_it_matters": "The incident touches on civil‑rights protections and the separation of powers, highlighting tensions between law‑enforcement agencies and elected officials.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Some conservatives say the search is a legitimate enforcement of immigration law."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Civil‑rights advocates view it as political intimidation and a breach of parliamentary privilege."
+      "text": "Opponents say the visit risks entangling the UK in another conflict and distracts from domestic priorities."
      },
      {
       "label": "From the right",
-      "text": "Law‑and‑order proponents stress the need for strict immigration controls."
+      "text": "Conservative commentators praise the decisive foreign‑policy action as a defence of Western values."
      }
     ],
     "key_term": {
-     "term": "parliamentary privilege",
-     "definition": "Legal immunity granted to members of parliament to perform their duties without interference."
+     "term": "executive authority",
+     "definition": "The power held by the Prime Minister and Cabinet to make policy decisions and represent the state."
     },
-    "exam_use": "Cite in an essay assessing the balance between security and civil liberties in US politics.",
+    "exam_use": "Use as evidence in an essay on the balance of power between the executive and Parliament.",
     "sources": [
-     "d7320b9b78a9"
+     "ddb7184c1960"
     ]
    },
    {
-    "title": "Welsh government secures £60m for learning needs",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "The Plaid Cymru‑led Welsh administration reached a budget agreement with Labour, allocating £60 million for additional learning needs. The deal follows earlier difficulties in passing spending plans.",
-    "why_it_matters": "The agreement demonstrates how devolved governments negotiate fiscal policy within the UK’s constitutional framework and the role of coalition‑building in a multi‑party system.",
+    "title": "Welsh Labour‑Plaid budget deal",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Welsh Labour and Plaid Cymru reached a budget agreement that adds £60 million for additional learning needs. The deal follows earlier failure to pass spending plans in the summer.",
+    "why_it_matters": "The story illustrates coalition‑building and party negotiation, central to the AQA unit on political parties and democratic participation.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Welsh Labour says the funding addresses urgent educational gaps."
+      "text": "The agreement shows effective cross‑party cooperation to address education inequality."
      },
      {
       "label": "Critics argue",
-      "text": "Plaid Cymru critics warn the money may be insufficient for long‑term needs."
+      "text": "Opponents claim the extra spending is insufficient and masks deeper fiscal problems."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups view the deal as a step toward greater social investment."
+      "text": "Progressive groups welcome the focus on vulnerable learners."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
+     "term": "coalition",
+     "definition": "An alliance of two or more parties working together to form a government or pass legislation."
     },
-    "exam_use": "Use as evidence in a ‘compare the powers of devolved administrations’ essay for the UK Government section.",
+    "exam_use": "Cite as a case study of party negotiation in a devolved legislature essay.",
     "sources": [
      "1fb2a5fa59d6"
     ]
    },
    {
-    "title": "Burnham’s hospitality dinners raise transparency concerns",
-    "section": "ukpol",
-    "topic": "pm-cabinet",
-    "what_happened": "Records show Prime Minister Andy Burnham hosted two hospitality dinners with Manchester City chairman, later deleted from official logs. Opposition parties have called for an inquiry.",
-    "why_it_matters": "The story highlights issues of ministerial accountability and the influence of private interests on government decision‑making, central to the study of the UK executive.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Burnham’s office claims the dinners were standard networking events."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opposition MPs argue the lack of transparency breaches the Ministerial Code."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators stress the need for stricter rules on ministerial hospitality."
-     }
-    ],
-    "key_term": {
-     "term": "ministerial code",
-     "definition": "A set of standards governing the behaviour of government ministers."
-    },
-    "exam_use": "Reference in an essay evaluating the effectiveness of accountability mechanisms for the UK executive.",
-    "sources": [
-     "77b3d6b344cc"
-    ]
-   },
-   {
-    "title": "Civil‑rights groups deploy observers for US midterms",
+    "title": "Trump’s new White House press secretary debut",
     "section": "us",
-    "topic": "civil-rights",
-    "what_happened": "National civil‑rights organisations plan to send thousands of observers to polling stations for the upcoming midterm elections, citing concerns over voter suppression. The effort is coordinated with several political parties.",
-    "why_it_matters": "The mobilisation reflects the role of pressure groups in safeguarding democratic participation and illustrates how civil‑society actors interact with electoral processes in the US.",
+    "topic": "president",
+    "what_happened": "Katie Zacharia began her role as White House press secretary, facing a challenging media environment. Analysts note the position’s difficulty under any administration.",
+    "why_it_matters": "The appointment highlights the executive’s control over information and the press, linking to A‑level topics on the US presidency and media relations.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Advocates say observers help ensure free and fair elections."
+      "text": "Zacharia’s experience will improve communication between the White House and the public."
      },
      {
       "label": "Critics argue",
-      "text": "Some politicians claim the observers could intimidate voters."
+      "text": "Observers worry the role will be used to restrict press freedom."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups view the deployment as essential to protect voting rights."
+      "text": "Progressive commentators view the appointment skeptically given the administration’s past attacks on media."
      }
     ],
     "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+     "term": "executive communication",
+     "definition": "The ways in which the President and staff convey policies and messages to the public and press."
     },
-    "exam_use": "Use as a case study in a ‘role of pressure groups in politics’ essay for the UK Politics or US Politics sections.",
+    "exam_use": "Use as evidence when discussing the President’s influence over the media in an essay on executive power.",
     "sources": [
-     "f33535c58280"
+     "06350c517424"
+    ]
+   },
+   {
+    "title": "Judge extends order blocking Trump’s reporter ban",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "A federal judge extended an order preventing the Trump administration from banning CNN, MSNBC and Politico reporters from the White House. The ruling maintains press access for three outlets.",
+    "why_it_matters": "The case demonstrates judicial checks on executive authority, a core concept in the US Constitution unit on separation of powers.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The decision protects freedom of the press and upholds the First Amendment."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The administration claims the ban was necessary for security and fairness."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative voices argue the courts are over‑reaching into executive discretion."
+     }
+    ],
+    "key_term": {
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of actions taken by the executive or legislature."
+    },
+    "exam_use": "Reference in an essay on checks and balances between the US executive and judiciary.",
+    "sources": [
+     "80695e99fe10"
+    ]
+   },
+   {
+    "title": "Trump’s diesel deal with Putin draws bipartisan criticism",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "Congress members from both parties criticised President Trump’s diesel agreement with Russia, saying it breaches US law and aids Russia’s war in Ukraine. The deal sparked a rare bipartisan rebuke.",
+    "why_it_matters": "The episode shows legislative oversight of foreign policy, relevant to the AQA focus on Congress’s role in checking the President.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Some argue the deal could lower energy costs for Americans."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Both Democrats and Republicans contend it violates sanctions and endangers national security."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive legislators view the deal as morally unacceptable support for an aggressor."
+     }
+    ],
+    "key_term": {
+     "term": "legislative oversight",
+     "definition": "The process by which a legislative body monitors and influences the actions of the executive."
+    },
+    "exam_use": "Use as a contemporary example of Congress exercising oversight in a foreign‑policy essay.",
+    "sources": [
+     "ce02ef5495a5"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK local elections are currently being shaped by devolution deals, such as the Welsh budget agreement, influencing voter sentiment in Wales.",
-   "us": "US midterm elections are marked by heightened civil‑rights monitoring and partisan battles over election integrity.",
-   "insight": "The contrast shows how electoral stakes drive both policy negotiations in devolved UK regions and civil‑society mobilisation in the US, highlighting differing institutional responses to political pressure.",
+   "theme": "executives",
+   "uk": "The UK Prime Minister meets foreign leaders and directs domestic policy, but must answer to Parliament during PMQs.",
+   "us": "The US President appoints staff and negotiates deals, yet courts can block actions and Congress can censure policies.",
+   "insight": "Both systems balance executive initiative with institutional checks, though the UK relies on parliamentary scrutiny while the US uses judicial review and congressional oversight.",
    "sources": [
-    "1fb2a5fa59d6",
-    "f33535c58280"
+    "ddb7184c1960",
+    "06350c517424",
+    "80695e99fe10",
+    "ce02ef5495a5"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in US civil‑rights observers protecting voting freedoms and in the Welsh budget deal aimed at expanding educational opportunities.",
+   "text": "Zacharia’s role and the court’s order reflect liberalism’s emphasis on individual rights and free speech, ideas championed by John Stuart Mill. The UK‑Ukraine meeting illustrates liberal internationalism, promoting democratic values abroad.",
    "sources": [
-    "f33535c58280",
-    "1fb2a5fa59d6"
+    "06350c517424",
+    "80695e99fe10",
+    "ddb7184c1960"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which checks and balances limit executive power in the United States and the United Kingdom.",
-   "section": "ideas",
-   "tip": "Compare the US congressional challenge to Trump’s diesel deal with the UK parliamentary scrutiny of Burnham’s hospitality dinners."
+   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US, using recent examples.",
+   "section": "ukgov | us",
+   "tip": "Structure your answer by comparing parliamentary scrutiny in the UK with judicial review and congressional oversight in the US, citing the Burnham‑Zelenskyy visit and the US court order on press bans."
   }
  },
  "refs": {
-  "ce02ef5495a5": {
-   "id": "ce02ef5495a5",
-   "title": "Trump's diesel deal with Putin draws bipartisan criticism from a frustrated Congress",
-   "link": "https://www.pbs.org/newshour/politics/trumps-diesel-deal-with-putin-draws-bipartisan-criticism-from-a-frustrated-congress",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-13T21:46:01Z"
-  },
-  "d7320b9b78a9": {
-   "id": "d7320b9b78a9",
-   "title": "Immigration agents search congresswoman Ilhan Omar's home",
-   "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-10-13T10:37:39Z"
+  "ddb7184c1960": {
+   "id": "ddb7184c1960",
+   "title": "Andy Burnham hosts Volodymyr Zelenskyy at Downing Street – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-14T15:35:07Z"
   },
   "1fb2a5fa59d6": {
    "id": "1fb2a5fa59d6",
@@ -203,23 +197,32 @@
    "lean": "centre",
    "date": "2026-10-13T12:29:36Z"
   },
-  "77b3d6b344cc": {
-   "id": "77b3d6b344cc",
-   "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-   "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "06350c517424": {
+   "id": "06350c517424",
+   "title": "Katie Zacharia's debut shows the pitfalls and possibilities of White House press secretary's role",
+   "link": "https://www.pbs.org/newshour/politics/katie-zacharias-debut-shows-the-pitfalls-and-possibilities-of-white-house-press-secretarys-role",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-10-14T10:06:48Z"
+   "date": "2026-10-14T14:28:04Z"
   },
-  "f33535c58280": {
-   "id": "f33535c58280",
-   "title": "Civil rights advocates plan to send thousands of observers to midterm polling places",
-   "link": "https://www.npr.org/2026/10/14/nx-s1-5991802/election-polling-place-observers",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-10-14T09:00:00Z"
+  "80695e99fe10": {
+   "id": "80695e99fe10",
+   "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
+   "link": "https://www.pbs.org/newshour/politics/judge-extends-order-blocking-trump-from-banning-cnn-ms-now-and-politico-reporters-from-white-house",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-14T15:27:37Z"
+  },
+  "ce02ef5495a5": {
+   "id": "ce02ef5495a5",
+   "title": "Trump's diesel deal with Putin draws bipartisan criticism from a frustrated Congress",
+   "link": "https://www.pbs.org/newshour/politics/trumps-diesel-deal-with-putin-draws-bipartisan-criticism-from-a-frustrated-congress",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-13T21:46:01Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
