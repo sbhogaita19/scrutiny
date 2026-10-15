@@ -1,162 +1,181 @@
 {
- "generated_at": "2026-10-15T09:54:40Z",
+ "generated_at": "2026-10-15T15:35:29Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Press freedom, party splits and independence push dominate politics",
-  "overview": "Legal battles over White House press access and a US Supreme Court ad ruling highlight media rights. In the UK, the SNP ramps up its independence campaign while the Prime Minister rejects a Green‑party partnership.",
+  "headline": "Press freedom, Scottish politics and US court battles dominate",
+  "overview": "Legal fights over White House press access continue in the US, while UK Prime Minister Andy Burnham faces challenges from the SNP and Labour on devolution issues. Meanwhile, former DUP leader Jeffrey Donaldson receives a lengthy prison sentence.",
   "stories": [
    {
-    "title": "White House press access order extended",
+    "title": "White House press access order",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "A federal judge extended an order preventing President Donald Trump’s administration from banning three news outlets from the White House. The decision follows a previous ruling that required the White House to restore access.",
-    "why_it_matters": "The case illustrates the US constitutional principle of freedom of the press and the role of the judiciary in checking executive power, a key A‑level topic. It also shows how courts can enforce constitutional rights against the President.",
+    "what_happened": "A federal judge ordered the White House to restore access for three news organisations banned by President Trump. The order was extended to block further bans on CNN, MS NOW and Politico reporters.",
+    "why_it_matters": "The case illustrates the tension between executive control of information and judicial protection of press freedom, a key theme in US constitutional law. It also shows how courts can check presidential power.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Press freedom advocates say the order upholds the First Amendment and prevents government censorship."
+      "text": "Press freedom advocates say the ruling upholds the First Amendment and prevents government censorship."
      },
      {
       "label": "Critics argue",
-      "text": "Some conservatives claim the ruling interferes with the President’s ability to control the media environment."
+      "text": "Some conservatives claim the decision interferes with the President's right to manage White House communications."
      }
     ],
     "key_term": {
      "term": "judicial review",
-     "definition": "A court's power to assess whether a law or executive action complies with the constitution."
+     "definition": "Courts' power to examine the legality of executive actions."
     },
-    "exam_use": "Use as evidence in an essay on the checks and balances between the US executive and judiciary.",
+    "exam_use": "Use as evidence in an essay on checks and balances in the US system.",
     "sources": [
+     "41b33cfcb66f",
      "80695e99fe10"
     ]
    },
    {
-    "title": "Supreme Court backs GOP in TV ad case",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The US Supreme Court ruled in favour of Republican groups in a dispute over television advertising costs ahead of the midterm elections. The decision marks the Court’s second win for the GOP on this issue this week.",
-    "why_it_matters": "The ruling highlights the Court’s influence on election campaigning and the interpretation of campaign finance law, linking to the A‑level focus on elections and the courts. It also shows how legal decisions can affect political competition.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "Republicans view the decision as protecting free speech for political parties."
-     },
-     {
-      "label": "From the left",
-      "text": "Democrats argue it favours wealthy interests and undermines fair electoral competition."
-     }
-    ],
-    "key_term": {
-     "term": "campaign finance",
-     "definition": "Regulation of money spent to influence elections."
-    },
-    "exam_use": "Cite when discussing how courts can shape electoral fairness in the US.",
-    "sources": [
-     "fe439c341604"
-    ]
-   },
-   {
-    "title": "Burnham rejects Green partnership after Zionism controversy",
+    "title": "Burnham’s Scottish visit and SNP response",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham publicly condemned the Green Party after it declared Zionism a form of racism and ruled out any coalition with them. The statement came amid rising tensions over foreign‑policy positions.",
-    "why_it_matters": "The episode shows how the UK executive can shape party alliances and policy direction, relevant to the A‑level study of the Prime Minister’s powers and coalition politics. It also reflects the impact of ideological disputes on government formation.",
+    "what_happened": "Prime Minister Andy Burnham visited Scotland, prompting the SNP to challenge his influence ahead of its conference. The SNP announced its biggest independence campaign since the 2014 referendum.",
+    "why_it_matters": "The story highlights the role of the Prime Minister in the UK’s uncodified constitution and the political dynamics of devolution. It also shows how party competition shapes policy debates.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Burnham’s supporters say rejecting the Greens protects the UK’s diplomatic relations and avoids extremist rhetoric."
+      "label": "From the government",
+      "text": "Burnham argues his visit shows commitment to all parts of the UK and counters separatist rhetoric."
      },
      {
-      "label": "Critics argue",
-      "text": "Green Party supporters claim the move suppresses legitimate criticism of Israeli policy."
-     }
-    ],
-    "key_term": {
-     "term": "coalition",
-     "definition": "An agreement between two or more parties to share power in government."
-    },
-    "exam_use": "Use as evidence when analysing how the UK Prime Minister influences party politics and coalition prospects.",
-    "sources": [
-     "78a836e5c9f0"
-    ]
-   },
-   {
-    "title": "SNP launches biggest independence campaign since 2014",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "The Scottish National Party announced a new, large‑scale campaign for a second independence referendum, describing it as the biggest effort since the 2014 vote. The launch follows recent discussions about the UK’s constitutional arrangements.",
-    "why_it_matters": "The story ties directly to devolution and the constitutional debate over the powers of Scotland versus Westminster, a core A‑level theme. It also illustrates how parties use public mobilisation to pursue constitutional change.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "SNP supporters argue independence would allow progressive policies tailored to Scotland."
+      "label": "From the SNP",
+      "text": "The SNP claims the visit is an attempt to undermine Scottish self‑determination."
      },
      {
-      "label": "From the right",
-      "text": "Unionists claim the campaign threatens UK stability and economic cohesion."
+      "label": "From the opposition Labour",
+      "text": "Labour’s stance on Zionism has led it to break ties with Green council groups, reflecting internal party tensions."
      }
     ],
     "key_term": {
      "term": "devolution",
-     "definition": "The transfer of powers from central government to regional or local bodies."
+     "definition": "The statutory transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
     },
-    "exam_use": "Reference in an essay on the challenges of the UK’s uncodified constitution and regional autonomy.",
+    "exam_use": "Cite in an essay on the UK constitution and the balance of power between Westminster and devolved administrations.",
     "sources": [
-     "285926981097"
+     "c5585a9e6b45",
+     "78a836e5c9f0",
+     "d2e94ee51ef6"
     ]
    },
    {
-    "title": "Charity watchdog to address Farage’s asylum‑seeker remarks",
+    "title": "Labour ends Green council alliances over Zionism policy",
     "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "The Charity Commission announced it will speak on the difference between heated discussion and harassment after Nigel Farage called for prosecution of groups helping asylum seekers. The move follows criticism of intimidation tactics.",
-    "why_it_matters": "The incident highlights the role of pressure groups and regulatory bodies in shaping public debate, linking to the A‑level focus on interest groups and civil society. It also raises questions about free speech versus harassment.",
+    "topic": "parties",
+    "what_happened": "Labour announced it will end power‑sharing deals with council groups that support a Zionism‑is‑racism stance. The decision follows internal disputes over the party’s new policy.",
+    "why_it_matters": "The move illustrates how party politics and policy positions can affect local government alliances, a key aspect of UK political parties and democratic participation.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Farage’s followers say the call protects national security and legal order."
+      "text": "Labour supporters say the break protects the party’s commitment to anti‑racism."
      },
      {
       "label": "Critics argue",
-      "text": "Human‑rights groups warn it could chill legitimate humanitarian work."
+      "text": "Green allies argue it undermines progressive cooperation at the local level."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators view the split as evidence of left‑wing fragmentation."
      }
     ],
     "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+     "term": "party alliance",
+     "definition": "A cooperative agreement between political parties to achieve common goals."
     },
-    "exam_use": "Use as a case study of how pressure groups interact with government regulation.",
+    "exam_use": "Use as evidence when discussing party competition and coalition‑building in UK politics.",
     "sources": [
-     "45d15a8157ae"
+     "d2e94ee51ef6"
+    ]
+   },
+   {
+    "title": "Former DUP leader sentenced for child abuse",
+    "section": "ukpol",
+    "topic": "devolution",
+    "what_happened": "Former Northern Ireland Democratic Unionist Party leader Jeffrey Donaldson was convicted of 18 counts of child sexual abuse and sentenced to 15 years in prison.",
+    "why_it_matters": "The case raises questions about political accountability and the impact of personal misconduct on party reputation within devolved institutions.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Victims’ groups stress the importance of justice regardless of political status."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Some DUP members claim the sentencing could be used to discredit the party."
+     }
+    ],
+    "key_term": {
+     "term": "political accountability",
+     "definition": "The responsibility of politicians to answer for their actions and decisions."
+    },
+    "exam_use": "Reference in an essay on the role of pressure groups and public opinion in influencing political outcomes.",
+    "sources": [
+     "f6dcf92939d7",
+     "b3976f7bce6b"
+    ]
+   },
+   {
+    "title": "Trump rallies in swing states ahead of midterms",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "President Donald Trump held campaign rallies in Arizona and Montana as part of his midterm roadshow. He aimed to boost Republican candidates in key districts.",
+    "why_it_matters": "The rallies illustrate the influence of presidential endorsement on electoral strategy and voter mobilisation in US elections.",
+    "perspectives": [
+     {
+      "label": "From the right",
+      "text": "Trump supporters claim his presence energises the base and improves GOP chances."
+     },
+     {
+      "label": "From the left",
+      "text": "Democratic critics argue his involvement polarises voters and may backfire."
+     }
+    ],
+    "key_term": {
+     "term": "midterm elections",
+     "definition": "Elections held halfway through a president’s term, often determining congressional control."
+    },
+    "exam_use": "Use to discuss the impact of party leadership on US electoral outcomes.",
+    "sources": [
+     "01a8bb2a5466"
     ]
    }
   ],
   "compare": {
    "theme": "executives",
-   "uk": "The UK Prime Minister can shape party alliances and influence devolution debates, as seen in Burnham’s rejection of the Greens and the SNP’s independence push.",
-   "us": "The US President’s actions are checked by the judiciary, illustrated by court orders restoring White House press access and Supreme Court rulings on campaign finance.",
-   "insight": "The contrast shows the UK’s executive power is more political and coalition‑focused, while the US executive is constitutionally constrained by an independent judiciary.",
+   "uk": "The UK Prime Minister, Andy Burnham, uses personal visits to influence devolved politics, reflecting a parliamentary executive accountable to Parliament.",
+   "us": "President Trump directly campaigns in swing states, using personal charisma to shape electoral outcomes, reflecting a presidential executive with separate electoral mandate.",
+   "insight": "The contrast shows the UK’s executive is more collective and parliamentary, while the US executive is individually powerful and election‑focused.",
    "sources": [
-    "78a836e5c9f0",
-    "80695e99fe10",
-    "fe439c341604"
+    "c5585a9e6b45",
+    "01a8bb2a5466"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in the US court’s protection of press freedom and the UK debate over devolution, both championing autonomy and freedom from undue state control.",
+   "ideology": "conservatism",
+   "text": "Burnham’s push for closer EU ties and his criticism of the SNP echo conservative ideas of national unity and gradual reform, reminiscent of Edmund Burke’s emphasis on tradition and stability.",
    "sources": [
-    "80695e99fe10",
-    "285926981097"
+    "2b12be0073cc"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the judiciary can limit executive power in the United States and the United Kingdom.",
-   "section": "ideas",
-   "tip": "Compare US judicial review of presidential actions with UK courts’ role in upholding constitutional principles, using recent court cases as examples."
+   "question": "Assess the extent to which the executive in the UK and the US can influence party politics and devolution or federalism.",
+   "section": "ukgov | us",
+   "tip": "Compare the UK Prime Minister’s role in Scotland with the US President’s role in swing‑state campaigning, using recent examples."
   }
  },
  "refs": {
+  "41b33cfcb66f": {
+   "id": "41b33cfcb66f",
+   "title": "Attorney for banned outlets on legal fight over White House press access",
+   "link": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-14T22:40:27Z"
+  },
   "80695e99fe10": {
    "id": "80695e99fe10",
    "title": "Judge extends order blocking Trump from banning CNN, MS NOW and Politico reporters from White House",
@@ -166,14 +185,14 @@
    "lean": "centre",
    "date": "2026-10-14T15:27:37Z"
   },
-  "fe439c341604": {
-   "id": "fe439c341604",
-   "title": "GOP gets another Supreme Court win in TV political ad fight",
-   "link": "https://thehill.com/regulation/court-battles/6148021-supreme-court-republicans-tv-ad-rates/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-14T20:36:52Z"
+  "c5585a9e6b45": {
+   "id": "c5585a9e6b45",
+   "title": "Burnham v Swinney: will the UK PM overshadow the SNP’s conference?",
+   "link": "https://www.theguardian.com/politics/2026/oct/15/andy-burnham-scotland-visit-snp-conference",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-15T06:00:23Z"
   },
   "78a836e5c9f0": {
    "id": "78a836e5c9f0",
@@ -184,23 +203,50 @@
    "lean": "centre",
    "date": "2026-10-14T14:17:42Z"
   },
-  "285926981097": {
-   "id": "285926981097",
-   "title": "SNP to launch ‘biggest independence campaign’ since 2014 referendum",
-   "link": "https://nation.cymru/news/snp-to-launch-biggest-independence-campaign-since-2014-referendum/",
+  "d2e94ee51ef6": {
+   "id": "d2e94ee51ef6",
+   "title": "Labour to break from Green council groups that back Zionism policy",
+   "link": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-15T15:17:56Z"
+  },
+  "f6dcf92939d7": {
+   "id": "f6dcf92939d7",
+   "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+   "link": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-15T13:13:26Z"
+  },
+  "b3976f7bce6b": {
+   "id": "b3976f7bce6b",
+   "title": "Ex-DUP chief in Northern Ireland given 15-year prison term for sexually abusing girls",
+   "link": "https://www.politico.eu/article/ex-dup-chief-jeffrey-donaldson-northern-ireland-given-15-year-prison-term-rape-sexual-abuse-girls/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
+   "lean": "centre",
+   "date": "2026-10-15T13:03:52Z"
+  },
+  "01a8bb2a5466": {
+   "id": "01a8bb2a5466",
+   "title": "WATCH: Trump speaks at rallies in Arizona and Montana on 2nd day of Western campaigning",
+   "link": "https://www.pbs.org/newshour/politics/watch-live-trump-speaks-at-rally-along-arizona-nevada-border",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-14T17:04:42Z"
+  },
+  "2b12be0073cc": {
+   "id": "2b12be0073cc",
+   "title": "Welsh Labour leader brands Brexit a ‘disaster’",
+   "link": "https://nation.cymru/news/welsh-labour-leader-brands-brexit-a-disaster/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-15T06:49:23Z"
-  },
-  "45d15a8157ae": {
-   "id": "45d15a8157ae",
-   "title": "Charity watchdog to criticise ‘intimidation’ after Farage calls for prosecution of groups helping asylum seekers – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/15/uk-politics-latest-news-updates-nigel-farage-reform-labour-conservatives",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-15T09:40:12Z"
+   "date": "2026-10-14T08:13:36Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
