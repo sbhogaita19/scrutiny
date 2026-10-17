@@ -1,222 +1,213 @@
 {
- "generated_at": "2026-10-16T23:35:27Z",
+ "generated_at": "2026-10-17T09:21:15Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Press secretary exits, Labour cuts ties, US midterms heat up",
-  "overview": "The White House sees a rapid staff change as Katie Zacharia leaves. Labour ends power‑sharing with Green councillors, and US midterm campaigns intensify around election security and the Supreme Court.",
+  "headline": "Press secretary exit, Welsh poll, Alaska Senate race and more",
+  "overview": "The day sees a White House press secretary resign after five days, a Welsh poll shows Nigel Farage as the least popular party leader, and a heated final debate in Alaska’s Senate contest. Across the Atlantic, discussions on EU re‑entry and Scottish independence add further political texture.",
   "stories": [
    {
-    "title": "White House press secretary departs after a week",
+    "title": "White House press secretary steps down",
     "section": "us",
     "topic": "president",
-    "what_happened": "Katie Zacharia announced she is \"transitioning out\" of the role of White House press secretary after less than a week. The announcement came alongside reports of three large brush fires in Southern California.",
-    "why_it_matters": "The President’s communications team is central to shaping public messages, a key element of executive power in the US Constitution. Frequent turnover can affect the administration’s ability to control the agenda during an election year.",
+    "what_happened": "Katie Zacharia issued a statement after the White House announced her departure after five days in the role. She described the job as an honour and thanked staff.",
+    "why_it_matters": "The episode illustrates the volatility of the US executive’s communications team and raises questions about presidential control of messaging, a key A‑level topic on the President’s powers.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The administration may view the change as a chance to install a more experienced spokesperson ahead of the midterms."
+      "text": "The administration may view the swift change as a move to restore stability and protect the President’s agenda."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say the rapid exit highlights instability and poor management within the executive branch."
+      "text": "Opponents suggest the brief tenure reflects deeper dysfunction and a lack of professional standards in the White House."
      }
     ],
     "key_term": {
-     "term": "Executive communications",
-     "definition": "The process by which the President conveys policies and positions to the public and media."
+     "term": "executive discretion",
+     "definition": "The authority of the President to make decisions without needing prior approval from other branches."
     },
-    "exam_use": "Use as evidence in an essay on the powers and limits of the US President’s executive authority.",
+    "exam_use": "Use as evidence in an essay on the limits of presidential power and the role of the executive office.",
     "sources": [
-     "e5f769eee960"
+     "cd62b838ab43"
     ]
    },
    {
-    "title": "Labour ends deals with Green councillors over Zionism stance",
+    "title": "Farage least popular party leader in Wales",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Labour announced it will cease power‑sharing agreements with council groups that have not disowned a new Zionism policy. The move follows internal pressure from party members.",
-    "why_it_matters": "The decision illustrates how party discipline and ideological disputes shape local governance, linking to the AQA topic of political parties and their internal dynamics.",
+    "what_happened": "A YouGov poll found two‑thirds of Welsh adults hold an unfavourable view of Nigel Farage, making him the least popular leader surveyed. Only 23% view him favourably.",
+    "why_it_matters": "The result highlights public opinion’s impact on party leadership and electoral prospects, linking to the A‑level focus on political parties and voter behaviour.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Labour supporters say the break protects the party’s commitment to anti‑racism and human rights."
+      "label": "From the right",
+      "text": "Some argue the poll reflects bias against Brexit‑related figures rather than genuine unpopularity."
      },
      {
-      "label": "From the right",
-      "text": "Critics argue the move alienates potential allies and weakens progressive coalitions at the local level."
+      "label": "From the left",
+      "text": "Others contend the low ratings show widespread rejection of Farage’s rhetoric in Wales."
      }
     ],
     "key_term": {
-     "term": "Power‑sharing",
-     "definition": "An arrangement where parties cooperate to form a governing majority, often in local councils."
+     "term": "public opinion",
+     "definition": "The aggregate of individuals’ attitudes toward political issues or actors."
     },
-    "exam_use": "Cite when discussing how party ideology influences coalition‑building in UK politics.",
+    "exam_use": "Cite as evidence when assessing how party leaders’ popularity influences electoral strategy.",
     "sources": [
-     "d2e94ee51ef6"
+     "4889d76d3d2d"
     ]
    },
    {
-    "title": "UK government keeps tariff option on Chinese EVs",
+    "title": "Alaska Senate debate turns fiery",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "Democratic candidate Mary Peltola and Republican incumbent Dan Sullivan debated issues including the war in Iran, the economy and fisheries. The exchange grew heated over decorum.",
+    "why_it_matters": "The debate underscores the role of Senate elections in shaping legislative priorities and party competition, core to the A‑level study of Congress.",
+    "perspectives": [
+     {
+      "label": "Democrats argue",
+      "text": "Peltola’s team says the debate highlighted the need for respectful discourse and substantive policy focus."
+     },
+     {
+      "label": "Republicans argue",
+      "text": "Sullivan’s camp claims the intensity reflects genuine voter concerns and robust democratic debate."
+     }
+    ],
+    "key_term": {
+     "term": "senatorial election",
+     "definition": "A contest to elect a member of the US Senate, influencing the balance of power in Congress."
+    },
+    "exam_use": "Reference when discussing how individual elections can affect party control of the Senate.",
+    "sources": [
+     "2b98f0cbdd79"
+    ]
+   },
+   {
+    "title": "Welsh language campaigner revisits historic protest site",
     "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "The Prime Minister’s office said it could impose tariffs on Chinese‑made electric vehicles if the UK joins the EU’s Made in Europe scheme. Beijing responded by calling the step discriminatory.",
-    "why_it_matters": "The story touches on executive decision‑making, trade policy, and the relationship between the UK and the EU, all covered under the Constitution and the role of the Cabinet.",
+    "topic": "devolution",
+    "what_happened": "Stephen Price returned to the Crystal Palace mast site where a language protest occurred 50 years ago, repeating the original message for a Welsh‑language TV channel.",
+    "why_it_matters": "The event illustrates ongoing devolution issues and cultural advocacy within Wales, relevant to the A‑level focus on devolution and regional identity.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents claim tariffs protect domestic industry and align the UK with EU standards."
+      "text": "The campaign shows persistent demand for Welsh cultural recognition and media representation."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn tariffs could raise car prices and damage UK‑China trade relations."
+      "text": "Some view the stunt as symbolic politics that distracts from practical policy solutions."
      }
     ],
     "key_term": {
-     "term": "Tariff",
-     "definition": "A tax imposed on imported goods, used to protect domestic producers or raise revenue."
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Useful for an essay on the executive’s role in foreign policy and trade.",
+    "exam_use": "Use to discuss how devolution enables regional cultural movements to influence policy.",
     "sources": [
-     "f5f1b4205845"
+     "245e0cc31d61"
     ]
    },
    {
-    "title": "Suspicious substances mailed to US senators and election offices",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Mailings containing unknown substances were sent to senators and election offices in several states, including Oklahoma, Ohio and Louisiana. Authorities are investigating the incidents as possible threats.",
-    "why_it_matters": "Election security is a constitutional concern, linking to the protection of democratic processes and the role of Congress in overseeing elections.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Progressive groups stress the need for stronger federal safeguards against intimidation."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative voices argue the incidents are being politicised to justify tighter election controls."
-     }
-    ],
-    "key_term": {
-     "term": "Election security",
-     "definition": "Measures taken to protect the integrity and safety of the voting process."
-    },
-    "exam_use": "Can be used as recent evidence when evaluating challenges to democratic participation in the US.",
-    "sources": [
-     "38cb098b6aec"
-    ]
-   },
-   {
-    "title": "Scottish Greens say independence transcends parties",
+    "title": "Brexit debate resurfaces as poll suggests re‑join support",
     "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "Scottish Green co‑leader Katrine Bussey stated that the cause of Scottish independence is \"bigger than any party\" at the SNP conference. The comment follows ongoing debates about the SNP’s stance on oil and gas fields.",
-    "why_it_matters": "The remark highlights the interaction between devolved parties and the broader constitutional question of independence, relevant to the AQA devolution topic.",
+    "topic": "eu",
+    "what_happened": "A poll indicated that half of UK voters might support re‑joining the EU, while Labour leader Andy Burnham called for closer alignment with Europe.",
+    "why_it_matters": "The story connects to the A‑level theme of the EU’s impact on UK politics and the shifting public attitudes that shape party positions.",
     "perspectives": [
      {
       "label": "From the left",
-      "text": "Green supporters view independence as a vehicle for progressive climate policy."
+      "text": "Pro‑EU voices argue the data shows a clear mandate for renewed integration."
      },
      {
       "label": "From the right",
-      "text": "Unionists argue the focus on independence distracts from economic stability."
+      "text": "Skeptics claim the poll reflects temporary sentiment and warns against abandoning Brexit gains."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory granting of powers from the central UK Parliament to regional bodies such as the Scottish Parliament."
+     "term": "European integration",
+     "definition": "The process of political, economic and legal cooperation among European states, culminating in the EU."
     },
-    "exam_use": "Use when discussing how devolution influences party politics and constitutional debates.",
+    "exam_use": "Employ as evidence when evaluating how EU relations influence UK party strategies.",
     "sources": [
-     "6e42f71924bb"
+     "4d540a51f12f"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "Local by‑elections, such as the Flintshire council win, show how party performance can shift at the community level and affect overall party momentum.",
-   "us": "Midterm elections, with heightened security concerns and Supreme Court attention, illustrate the national scale and institutional stakes of US electoral contests.",
-   "insight": "The contrast shows UK elections often hinge on local issues and party organisation, while US elections are framed by federal institutions and broader constitutional debates.",
+   "uk": "UK general elections use a first‑past‑the‑post system, producing majority governments and often marginalising smaller parties.",
+   "us": "US midterm elections determine control of Congress, using single‑member districts and a winner‑takes‑all approach that can lead to divided government.",
+   "insight": "The contrast shows how electoral systems shape party competition and the likelihood of coalition versus single‑party rule.",
    "sources": [
-    "622a4a781d01",
-    "d04da9ca05c8"
+    "f378e772cacf",
+    "4d540a51f12f"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The UK government’s possible EV tariffs raise a liberal debate between free‑trade principles and state intervention to protect domestic markets, echoing Adam Smith’s ideas of market freedom versus modern liberal arguments for regulated competition.",
+   "text": "Zacharia’s emphasis on honour and transparent communication reflects liberal ideas of accountable government and individual rights, echoing John Locke’s view that officials serve the public trust.",
    "sources": [
-    "f5f1b4205845"
+    "cd62b838ab43"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive decisions on trade policy can be justified on the grounds of national interest, using recent UK and US examples.",
-   "section": "ukgov",
-   "tip": "Structure your answer by defining ‘national interest’, comparing the UK EV tariff proposal with US executive actions on trade, and evaluating arguments from both supporters and critics."
+   "question": "Assess the extent to which public opinion influences party leadership decisions in the UK and the US.",
+   "section": "ukpol | us",
+   "tip": "Compare the Welsh poll on Farage with US Senate debate dynamics, linking each to theories of voter behaviour."
   }
  },
  "refs": {
-  "e5f769eee960": {
-   "id": "e5f769eee960",
-   "title": "News Wrap: Zacharia out as White House press secretary after less than a week on the job",
-   "link": "https://www.pbs.org/newshour/show/news-wrap-zacharia-out-as-white-house-press-secretary-after-less-than-a-week-on-the-job",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "cd62b838ab43": {
+   "id": "cd62b838ab43",
+   "title": "Zacharia speaks out after White House press secretary exit: 'It was an honor'",
+   "link": "https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-16T22:50:20Z"
+   "date": "2026-10-17T02:29:45Z"
   },
-  "d2e94ee51ef6": {
-   "id": "d2e94ee51ef6",
-   "title": "Labour to break from Green council groups that back Zionism policy",
-   "link": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "4889d76d3d2d": {
+   "id": "4889d76d3d2d",
+   "title": "Farage least popular party leader in Wales, new poll finds",
+   "link": "https://nation.cymru/news/farage-least-popular-party-leader-in-wales-new-poll-finds/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-17T08:41:59Z"
+  },
+  "2b98f0cbdd79": {
+   "id": "2b98f0cbdd79",
+   "title": "Peltola, Sullivan spar in fiery final Alaska Senate debate: ‘Let’s have some decorum’",
+   "link": "https://thehill.com/homenews/campaign/6153803-peltola-sullivan-final-alaska-senate-debate/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-15T15:17:56Z"
+   "date": "2026-10-16T14:46:59Z"
   },
-  "f5f1b4205845": {
-   "id": "f5f1b4205845",
-   "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-   "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
+  "245e0cc31d61": {
+   "id": "245e0cc31d61",
+   "title": "Iconic language campaigner returns to site of London protest with same message 50 years later",
+   "link": "https://nation.cymru/feature/iconic-language-campaigner-returns-to-site-of-london-protest-with-same-message-50-years-later/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-17T08:02:03Z"
+  },
+  "4d540a51f12f": {
+   "id": "4d540a51f12f",
+   "title": "Brexit’s back – but are British voters ready to contemplate a reversal?",
+   "link": "https://www.theguardian.com/politics/2026/oct/17/brexit-back-british-voters-ready-contemplate-reversal",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-10-16T18:09:34Z"
+   "date": "2026-10-17T05:00:23Z"
   },
-  "38cb098b6aec": {
-   "id": "38cb098b6aec",
-   "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
+  "f378e772cacf": {
+   "id": "f378e772cacf",
+   "title": "Watch live: Decision Desk ‘26 Midterm Preview powered by 2WAY and The Hill",
+   "link": "https://thehill.com/homenews/6154307-watch-live-2way-the-hill-newsnation-special-midterms-coverage-morning-meeting/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-15T22:46:49Z"
-  },
-  "6e42f71924bb": {
-   "id": "6e42f71924bb",
-   "title": "Independence cause is ‘bigger than any party’ Green to tell SNP conference",
-   "link": "https://nation.cymru/news/independence-cause-is-bigger-than-any-party-green-to-tell-snp-conference/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-16T15:09:52Z"
-  },
-  "622a4a781d01": {
-   "id": "622a4a781d01",
-   "title": "Local party wins council by-election, securing 27 times as many votes as Reform",
-   "link": "https://nation.cymru/news/local-party-wins-council-by-election-securing-27-times-as-many-votes-as-reform/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-16T14:53:41Z"
-  },
-  "d04da9ca05c8": {
-   "id": "d04da9ca05c8",
-   "title": "Examining the controversial claims Trump is making at his midterm rallies",
-   "link": "https://www.pbs.org/newshour/show/examining-the-controversial-claims-trump-is-making-at-his-midterm-rallies",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-16T22:45:54Z"
+   "date": "2026-10-16T21:24:47Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
