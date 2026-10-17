@@ -1,169 +1,180 @@
 {
- "generated_at": "2026-10-17T09:21:15Z",
+ "generated_at": "2026-10-17T17:51:42Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Press secretary exit, Welsh poll, Alaska Senate race and more",
-  "overview": "The day sees a White House press secretary resign after five days, a Welsh poll shows Nigel Farage as the least popular party leader, and a heated final debate in Alaska’s Senate contest. Across the Atlantic, discussions on EU re‑entry and Scottish independence add further political texture.",
+  "headline": "Devolution debates, US sanctions clash and party fortunes shift",
+  "overview": "Polls show Nigel Farage at a low in Wales while the SNP ramps up its independence push. In the US, former congressman George Santos seeks a White House role and President Trump’s Russia‑sanctions waiver sparks bipartisan criticism.",
   "stories": [
-   {
-    "title": "White House press secretary steps down",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "Katie Zacharia issued a statement after the White House announced her departure after five days in the role. She described the job as an honour and thanked staff.",
-    "why_it_matters": "The episode illustrates the volatility of the US executive’s communications team and raises questions about presidential control of messaging, a key A‑level topic on the President’s powers.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The administration may view the swift change as a move to restore stability and protect the President’s agenda."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents suggest the brief tenure reflects deeper dysfunction and a lack of professional standards in the White House."
-     }
-    ],
-    "key_term": {
-     "term": "executive discretion",
-     "definition": "The authority of the President to make decisions without needing prior approval from other branches."
-    },
-    "exam_use": "Use as evidence in an essay on the limits of presidential power and the role of the executive office.",
-    "sources": [
-     "cd62b838ab43"
-    ]
-   },
    {
     "title": "Farage least popular party leader in Wales",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "A YouGov poll found two‑thirds of Welsh adults hold an unfavourable view of Nigel Farage, making him the least popular leader surveyed. Only 23% view him favourably.",
-    "why_it_matters": "The result highlights public opinion’s impact on party leadership and electoral prospects, linking to the A‑level focus on political parties and voter behaviour.",
+    "what_happened": "A YouGov poll found two‑thirds of Welsh adults hold an unfavourable view of Nigel Farage, making him the least popular party leader surveyed. Only 23% view him favourably.",
+    "why_it_matters": "The result illustrates how public opinion can affect party leadership and electoral prospects, a key point in the AQA study of political parties and elections.",
     "perspectives": [
      {
-      "label": "From the right",
-      "text": "Some argue the poll reflects bias against Brexit‑related figures rather than genuine unpopularity."
+      "label": "Supporters argue",
+      "text": "Farage’s Brexit credentials still energise a core base that values sovereignty."
+     },
+     {
+      "label": "Critics argue",
+      "text": "His polarising style alienates moderate voters, limiting the Reform Party’s growth in Wales."
      },
      {
       "label": "From the left",
-      "text": "Others contend the low ratings show widespread rejection of Farage’s rhetoric in Wales."
+      "text": "The poll highlights the challenge for right‑wing populists in a devolved nation with strong national identity."
      }
     ],
     "key_term": {
      "term": "public opinion",
-     "definition": "The aggregate of individuals’ attitudes toward political issues or actors."
+     "definition": "the aggregate of individuals’ views on political issues or actors."
     },
-    "exam_use": "Cite as evidence when assessing how party leaders’ popularity influences electoral strategy.",
+    "exam_use": "Use as evidence of how party leaders’ popularity influences electoral success in a party‑centric essay.",
     "sources": [
      "4889d76d3d2d"
     ]
    },
    {
-    "title": "Alaska Senate debate turns fiery",
-    "section": "us",
-    "topic": "congress",
-    "what_happened": "Democratic candidate Mary Peltola and Republican incumbent Dan Sullivan debated issues including the war in Iran, the economy and fisheries. The exchange grew heated over decorum.",
-    "why_it_matters": "The debate underscores the role of Senate elections in shaping legislative priorities and party competition, core to the A‑level study of Congress.",
-    "perspectives": [
-     {
-      "label": "Democrats argue",
-      "text": "Peltola’s team says the debate highlighted the need for respectful discourse and substantive policy focus."
-     },
-     {
-      "label": "Republicans argue",
-      "text": "Sullivan’s camp claims the intensity reflects genuine voter concerns and robust democratic debate."
-     }
-    ],
-    "key_term": {
-     "term": "senatorial election",
-     "definition": "A contest to elect a member of the US Senate, influencing the balance of power in Congress."
-    },
-    "exam_use": "Reference when discussing how individual elections can affect party control of the Senate.",
-    "sources": [
-     "2b98f0cbdd79"
-    ]
-   },
-   {
-    "title": "Welsh language campaigner revisits historic protest site",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Stephen Price returned to the Crystal Palace mast site where a language protest occurred 50 years ago, repeating the original message for a Welsh‑language TV channel.",
-    "why_it_matters": "The event illustrates ongoing devolution issues and cultural advocacy within Wales, relevant to the A‑level focus on devolution and regional identity.",
+    "title": "SNP launches second independence referendum campaign",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "At its conference, SNP leader John Swinney announced a six‑figure war chest to fund a new campaign for a second Scottish independence referendum. He said the campaign had already begun.",
+    "why_it_matters": "The story shows the role of party strategy and funding in pursuing constitutional change, linking to the AQA topics of devolution and referendums.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The campaign shows persistent demand for Welsh cultural recognition and media representation."
+      "text": "Independence would give Scotland full control over its policies and resources."
      },
      {
       "label": "Critics argue",
-      "text": "Some view the stunt as symbolic politics that distracts from practical policy solutions."
+      "text": "A new referendum could destabilise the UK’s constitutional settlement."
+     },
+     {
+      "label": "From the right",
+      "text": "The push is seen as a threat to the integrity of the United Kingdom."
+     }
+    ],
+    "key_term": {
+     "term": "referendum",
+     "definition": "a direct vote by the electorate on a specific political question."
+    },
+    "exam_use": "Cite when discussing the political motivations behind devolution and secessionist movements.",
+    "sources": [
+     "28275dca601e"
+    ]
+   },
+   {
+    "title": "Deputy First Minister calls for scrapping Wales Office",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Deputy First Minister Sioned Williams said the Wales Office does ‘more harm than good’ and should be abolished, arguing it reinforces Westminster’s dominance over Welsh affairs.",
+    "why_it_matters": "The claim touches on the balance of power between the UK central government and devolved administrations, a core AQA theme in the Constitution and Devolution unit.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Abolishing the office would strengthen Welsh self‑government and reduce Westminster interference."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The Wales Office provides a necessary liaison to ensure coherent UK‑wide policy."
+     },
+     {
+      "label": "From the left",
+      "text": "The call reflects a broader push for greater devolution and democratic accountability."
      }
     ],
     "key_term": {
      "term": "devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
+     "definition": "the statutory transfer of powers from the central UK government to regional bodies."
     },
-    "exam_use": "Use to discuss how devolution enables regional cultural movements to influence policy.",
+    "exam_use": "Use as evidence of tensions in the UK’s quasi‑federal system for a constitutional essay.",
     "sources": [
-     "245e0cc31d61"
+     "1ce38776057d"
     ]
    },
    {
-    "title": "Brexit debate resurfaces as poll suggests re‑join support",
-    "section": "ukpol",
-    "topic": "eu",
-    "what_happened": "A poll indicated that half of UK voters might support re‑joining the EU, while Labour leader Andy Burnham called for closer alignment with Europe.",
-    "why_it_matters": "The story connects to the A‑level theme of the EU’s impact on UK politics and the shifting public attitudes that shape party positions.",
+    "title": "George Santos pitches for White House press secretary role",
+    "section": "us",
+    "topic": "president",
+    "what_happened": "Former Republican Representative George Santos announced he is interested in filling the vacant White House press secretary post left by Katie Zacharia. He made the pitch on Friday.",
+    "why_it_matters": "The episode highlights how personal reputation and party affiliation influence appointments in the US executive branch, relevant to the AQA study of the Presidency.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Pro‑EU voices argue the data shows a clear mandate for renewed integration."
+      "label": "Supporters argue",
+      "text": "Santos brings media experience and a willingness to challenge the press."
+     },
+     {
+      "label": "Critics argue",
+      "text": "His past scandals raise concerns about credibility and ethical standards."
      },
      {
       "label": "From the right",
-      "text": "Skeptics claim the poll reflects temporary sentiment and warns against abandoning Brexit gains."
+      "text": "His candidacy is seen as a chance to restore a combative stance toward the media."
      }
     ],
     "key_term": {
-     "term": "European integration",
-     "definition": "The process of political, economic and legal cooperation among European states, culminating in the EU."
+     "term": "executive appointment",
+     "definition": "the selection of officials by the President to lead departments or serve in advisory roles."
     },
-    "exam_use": "Employ as evidence when evaluating how EU relations influence UK party strategies.",
+    "exam_use": "Cite when analysing how presidential power is exercised through staffing decisions.",
     "sources": [
-     "4d540a51f12f"
+     "f1eaa5e00da7"
+    ]
+   },
+   {
+    "title": "Congress reacts to Trump’s Russia‑sanctions waiver",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "Republican lawmakers condemned President Trump’s decision to exempt Russia from a sanctions bill, calling it ‘beyond irresponsible’. The move also drew criticism from Democrats, though no immediate legislative response was seen.",
+    "why_it_matters": "The clash illustrates the system of checks and balances between the US executive and legislative branches, a key point in the AQA curriculum on Congress and the President.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The waiver protects US businesses from unnecessary restrictions."
+     },
+     {
+      "label": "Critics argue",
+      "text": "It undermines US foreign‑policy credibility and national security."
+     },
+     {
+      "label": "From the left",
+      "text": "The episode shows how executive overreach can threaten democratic accountability."
+     }
+    ],
+    "key_term": {
+     "term": "checks and balances",
+     "definition": "mechanisms that allow each branch of government to limit the powers of the others."
+    },
+    "exam_use": "Use as a contemporary example of legislative pushback against executive action in an essay on US government structure.",
+    "sources": [
+     "5dc59109c8cb"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK general elections use a first‑past‑the‑post system, producing majority governments and often marginalising smaller parties.",
-   "us": "US midterm elections determine control of Congress, using single‑member districts and a winner‑takes‑all approach that can lead to divided government.",
-   "insight": "The contrast shows how electoral systems shape party competition and the likelihood of coalition versus single‑party rule.",
+   "theme": "executives",
+   "uk": "The Wales Office debate shows how devolved administrations seek to limit Westminster’s executive influence over regional affairs.",
+   "us": "President Trump’s sanctions waiver demonstrates the US President’s ability to act unilaterally, prompting congressional criticism.",
+   "insight": "Both cases reveal tensions between central executive power and other political actors, highlighting differing constitutional safeguards in the UK’s uncodified system and the US’s written separation of powers.",
    "sources": [
-    "f378e772cacf",
-    "4d540a51f12f"
+    "1ce38776057d",
+    "5dc59109c8cb"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Zacharia’s emphasis on honour and transparent communication reflects liberal ideas of accountable government and individual rights, echoing John Locke’s view that officials serve the public trust.",
+   "text": "The SNP’s renewed independence campaign reflects liberal ideas of self‑determination and individual liberty, echoing John Stuart Mill’s argument that peoples should freely choose their political arrangements.",
    "sources": [
-    "cd62b838ab43"
+    "28275dca601e"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which public opinion influences party leadership decisions in the UK and the US.",
-   "section": "ukpol | us",
-   "tip": "Compare the Welsh poll on Farage with US Senate debate dynamics, linking each to theories of voter behaviour."
+   "question": "Assess the extent to which devolution has altered the balance of power between Westminster and the devolved administrations.",
+   "section": "ukgov",
+   "tip": "Compare the Wales Office controversy with the SNP’s independence push, using specific examples of legislative and financial powers."
   }
  },
  "refs": {
-  "cd62b838ab43": {
-   "id": "cd62b838ab43",
-   "title": "Zacharia speaks out after White House press secretary exit: 'It was an honor'",
-   "link": "https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-17T02:29:45Z"
-  },
   "4889d76d3d2d": {
    "id": "4889d76d3d2d",
    "title": "Farage least popular party leader in Wales, new poll finds",
@@ -171,43 +182,43 @@
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-17T08:41:59Z"
+   "date": "2026-10-17T17:08:59Z"
   },
-  "2b98f0cbdd79": {
-   "id": "2b98f0cbdd79",
-   "title": "Peltola, Sullivan spar in fiery final Alaska Senate debate: ‘Let’s have some decorum’",
-   "link": "https://thehill.com/homenews/campaign/6153803-peltola-sullivan-final-alaska-senate-debate/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-16T14:46:59Z"
-  },
-  "245e0cc31d61": {
-   "id": "245e0cc31d61",
-   "title": "Iconic language campaigner returns to site of London protest with same message 50 years later",
-   "link": "https://nation.cymru/feature/iconic-language-campaigner-returns-to-site-of-london-protest-with-same-message-50-years-later/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-17T08:02:03Z"
-  },
-  "4d540a51f12f": {
-   "id": "4d540a51f12f",
-   "title": "Brexit’s back – but are British voters ready to contemplate a reversal?",
-   "link": "https://www.theguardian.com/politics/2026/oct/17/brexit-back-british-voters-ready-contemplate-reversal",
+  "28275dca601e": {
+   "id": "28275dca601e",
+   "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+   "link": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-10-17T05:00:23Z"
+   "date": "2026-10-17T15:45:53Z"
   },
-  "f378e772cacf": {
-   "id": "f378e772cacf",
-   "title": "Watch live: Decision Desk ‘26 Midterm Preview powered by 2WAY and The Hill",
-   "link": "https://thehill.com/homenews/6154307-watch-live-2way-the-hill-newsnation-special-midterms-coverage-morning-meeting/",
+  "1ce38776057d": {
+   "id": "1ce38776057d",
+   "title": "Wales Office does ‘more harm than good’, says Deputy First Minister",
+   "link": "https://nation.cymru/news/wales-office-does-more-harm-than-good-says-deputy-first-minister/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-17T17:32:31Z"
+  },
+  "f1eaa5e00da7": {
+   "id": "f1eaa5e00da7",
+   "title": "George Santos: 'I’d jump to serve' as White House press secretary",
+   "link": "https://thehill.com/homenews/house/6155846-george-santos-press-secretary/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-16T21:24:47Z"
+   "date": "2026-10-17T15:02:11Z"
+  },
+  "5dc59109c8cb": {
+   "id": "5dc59109c8cb",
+   "title": "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
+   "link": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-17T13:23:47Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
