@@ -1,180 +1,190 @@
 {
- "generated_at": "2026-10-17T17:51:42Z",
+ "generated_at": "2026-10-18T01:02:35Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Devolution debates, US sanctions clash and party fortunes shift",
-  "overview": "Polls show Nigel Farage at a low in Wales while the SNP ramps up its independence push. In the US, former congressman George Santos seeks a White House role and President Trump’s Russia‑sanctions waiver sparks bipartisan criticism.",
+  "headline": "Independence debates, party polls and US House leadership clash",
+  "overview": "Today's news covers legal routes for Scottish independence, shifting party popularity in Wales, and the US House Speaker defending a Republican majority. Each story highlights constitutional and political dynamics in the UK and US.",
   "stories": [
    {
-    "title": "Farage least popular party leader in Wales",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "A YouGov poll found two‑thirds of Welsh adults hold an unfavourable view of Nigel Farage, making him the least popular party leader surveyed. Only 23% view him favourably.",
-    "why_it_matters": "The result illustrates how public opinion can affect party leadership and electoral prospects, a key point in the AQA study of political parties and elections.",
+    "title": "Legal routes for Scottish independence examined",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Legal scholars explained the constitutional steps pro‑independence leaders could take to pursue a second Scottish referendum. The analysis was published as the SNP launched a new campaign fund.",
+    "why_it_matters": "The piece links to the A‑level study of devolution and the UK constitution, showing how legal authority and political ambition interact. It illustrates the limits of Westminster's power over devolved administrations.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Farage’s Brexit credentials still energise a core base that values sovereignty."
+      "text": "Pro‑independence advocates say the legal route respects democratic consent and the principle of self‑determination."
      },
      {
       "label": "Critics argue",
-      "text": "His polarising style alienates moderate voters, limiting the Reform Party’s growth in Wales."
+      "text": "Unionists contend that any referendum would require Westminster approval, emphasizing the rule of law."
      },
      {
       "label": "From the left",
-      "text": "The poll highlights the challenge for right‑wing populists in a devolved nation with strong national identity."
+      "text": "Left‑leaning analysts stress the need for a clear constitutional framework to avoid unilateral moves."
      }
     ],
     "key_term": {
-     "term": "public opinion",
-     "definition": "the aggregate of individuals’ views on political issues or actors."
+     "term": "devolution",
+     "definition": "The transfer of powers from the central UK government to regional bodies such as the Scottish Parliament."
     },
-    "exam_use": "Use as evidence of how party leaders’ popularity influences electoral success in a party‑centric essay.",
+    "exam_use": "Use as evidence in an essay on the constitutional limits of devolved governments.",
+    "sources": [
+     "ec879c1331d9"
+    ]
+   },
+   {
+    "title": "Farage ranks lowest in Welsh party leader poll",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "A YouGov poll found two‑thirds of Welsh adults hold an unfavourable view of Nigel Farage, making him the least popular party leader in Wales. The poll covered leaders of the main parties represented in the Senedd.",
+    "why_it_matters": "The story relates to the AQA topic of political parties and voter behaviour, showing how public opinion can affect party strategy. It also touches on the role of media in shaping perceptions.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Brexit supporters claim the poll reflects media bias rather than genuine unpopularity."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents say Farage's rhetoric alienates Welsh voters, highlighting regional differences."
+     },
+     {
+      "label": "From the right",
+      "text": "Right‑leaning commentators warn that low popularity could weaken the UK‑wide Brexit agenda."
+     }
+    ],
+    "key_term": {
+     "term": "political party",
+     "definition": "An organised group seeking to gain power within a government, usually by contesting elections."
+    },
+    "exam_use": "Cite as evidence when discussing how party leaders influence electoral success.",
     "sources": [
      "4889d76d3d2d"
     ]
    },
    {
-    "title": "SNP launches second independence referendum campaign",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "At its conference, SNP leader John Swinney announced a six‑figure war chest to fund a new campaign for a second Scottish independence referendum. He said the campaign had already begun.",
-    "why_it_matters": "The story shows the role of party strategy and funding in pursuing constitutional change, linking to the AQA topics of devolution and referendums.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Independence would give Scotland full control over its policies and resources."
-     },
-     {
-      "label": "Critics argue",
-      "text": "A new referendum could destabilise the UK’s constitutional settlement."
-     },
-     {
-      "label": "From the right",
-      "text": "The push is seen as a threat to the integrity of the United Kingdom."
-     }
-    ],
-    "key_term": {
-     "term": "referendum",
-     "definition": "a direct vote by the electorate on a specific political question."
-    },
-    "exam_use": "Cite when discussing the political motivations behind devolution and secessionist movements.",
-    "sources": [
-     "28275dca601e"
-    ]
-   },
-   {
-    "title": "Deputy First Minister calls for scrapping Wales Office",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Deputy First Minister Sioned Williams said the Wales Office does ‘more harm than good’ and should be abolished, arguing it reinforces Westminster’s dominance over Welsh affairs.",
-    "why_it_matters": "The claim touches on the balance of power between the UK central government and devolved administrations, a core AQA theme in the Constitution and Devolution unit.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Abolishing the office would strengthen Welsh self‑government and reduce Westminster interference."
-     },
-     {
-      "label": "Critics argue",
-      "text": "The Wales Office provides a necessary liaison to ensure coherent UK‑wide policy."
-     },
-     {
-      "label": "From the left",
-      "text": "The call reflects a broader push for greater devolution and democratic accountability."
-     }
-    ],
-    "key_term": {
-     "term": "devolution",
-     "definition": "the statutory transfer of powers from the central UK government to regional bodies."
-    },
-    "exam_use": "Use as evidence of tensions in the UK’s quasi‑federal system for a constitutional essay.",
-    "sources": [
-     "1ce38776057d"
-    ]
-   },
-   {
-    "title": "George Santos pitches for White House press secretary role",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "Former Republican Representative George Santos announced he is interested in filling the vacant White House press secretary post left by Katie Zacharia. He made the pitch on Friday.",
-    "why_it_matters": "The episode highlights how personal reputation and party affiliation influence appointments in the US executive branch, relevant to the AQA study of the Presidency.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Santos brings media experience and a willingness to challenge the press."
-     },
-     {
-      "label": "Critics argue",
-      "text": "His past scandals raise concerns about credibility and ethical standards."
-     },
-     {
-      "label": "From the right",
-      "text": "His candidacy is seen as a chance to restore a combative stance toward the media."
-     }
-    ],
-    "key_term": {
-     "term": "executive appointment",
-     "definition": "the selection of officials by the President to lead departments or serve in advisory roles."
-    },
-    "exam_use": "Cite when analysing how presidential power is exercised through staffing decisions.",
-    "sources": [
-     "f1eaa5e00da7"
-    ]
-   },
-   {
-    "title": "Congress reacts to Trump’s Russia‑sanctions waiver",
+    "title": "House Speaker Johnson leans on faith to keep GOP majority",
     "section": "us",
     "topic": "congress",
-    "what_happened": "Republican lawmakers condemned President Trump’s decision to exempt Russia from a sanctions bill, calling it ‘beyond irresponsible’. The move also drew criticism from Democrats, though no immediate legislative response was seen.",
-    "why_it_matters": "The clash illustrates the system of checks and balances between the US executive and legislative branches, a key point in the AQA curriculum on Congress and the President.",
+    "what_happened": "Speaker Mike Johnson said his Christian faith gives him confidence Republicans will retain the House majority despite Democratic gains. He made the remarks during a press briefing ahead of the mid‑term vote.",
+    "why_it_matters": "The article connects to the US Constitution’s separation of powers and the political role of the House of Representatives. It also shows how personal belief can be framed in political leadership.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The waiver protects US businesses from unnecessary restrictions."
+      "text": "Republicans view Johnson’s faith‑based optimism as a rallying point for the party base."
      },
      {
       "label": "Critics argue",
-      "text": "It undermines US foreign‑policy credibility and national security."
+      "text": "Democrats warn that mixing religion with governance risks undermining secular principles."
      },
      {
       "label": "From the left",
-      "text": "The episode shows how executive overreach can threaten democratic accountability."
+      "text": "Progressive voices question whether faith rhetoric distracts from policy debates."
      }
     ],
     "key_term": {
-     "term": "checks and balances",
-     "definition": "mechanisms that allow each branch of government to limit the powers of the others."
+     "term": "Congress",
+     "definition": "The bicameral legislature of the United States, consisting of the House of Representatives and the Senate."
     },
-    "exam_use": "Use as a contemporary example of legislative pushback against executive action in an essay on US government structure.",
+    "exam_use": "Use to illustrate how leadership style can affect party cohesion in a parliamentary essay.",
     "sources": [
-     "5dc59109c8cb"
+     "e49f2c194b86"
+    ]
+   },
+   {
+    "title": "Republican governors soften abortion positions",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Several Republican gubernatorial candidates announced they would roll back previously strict anti‑abortion policies. The shift was reported as voters focus more on cost‑of‑living issues.",
+    "why_it_matters": "This reflects changing voter priorities and the strategic repositioning of parties ahead of elections, a key theme in the AQA elections and referendums topic.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Pro‑choice advocates see the move as a positive response to women's rights concerns."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Conservative groups claim the changes betray core party values."
+     },
+     {
+      "label": "From the right",
+      "text": "Right‑leaning analysts suggest the shift is a pragmatic bid for electoral viability."
+     }
+    ],
+    "key_term": {
+     "term": "abortion",
+     "definition": "The termination of a pregnancy, a contested policy issue in many democracies."
+    },
+    "exam_use": "Reference when discussing how parties adapt policy positions to voter concerns.",
+    "sources": [
+     "2854e798b24c"
+    ]
+   },
+   {
+    "title": "AI safety worries rise among senior Labour MPs",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Labour front‑benchers expressed concern that artificial intelligence could be misused by extremist groups and that the UK might fall behind in regulation. The comments were made in a parliamentary briefing.",
+    "why_it_matters": "The story links to the role of the Prime Minister and Cabinet in setting national security policy, a core part of the UK government syllabus. It also touches on emerging policy challenges.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Tech‑forward liberals argue regulation is essential to protect democratic processes."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Industry groups warn over‑regulation could stifle innovation."
+     },
+     {
+      "label": "From the left",
+      "text": "Left‑leaning commentators stress the need for public oversight of powerful technologies."
+     }
+    ],
+    "key_term": {
+     "term": "AI safety",
+     "definition": "Measures to ensure artificial intelligence systems do not cause unintended harm."
+    },
+    "exam_use": "Use as contemporary evidence when evaluating modern challenges for the executive.",
+    "sources": [
+     "b90346a2f706"
     ]
    }
   ],
   "compare": {
    "theme": "executives",
-   "uk": "The Wales Office debate shows how devolved administrations seek to limit Westminster’s executive influence over regional affairs.",
-   "us": "President Trump’s sanctions waiver demonstrates the US President’s ability to act unilaterally, prompting congressional criticism.",
-   "insight": "Both cases reveal tensions between central executive power and other political actors, highlighting differing constitutional safeguards in the UK’s uncodified system and the US’s written separation of powers.",
+   "uk": "The UK Prime Minister leads the Cabinet and can influence devolution debates, as seen in legal discussions about Scottish independence.",
+   "us": "The US President shapes policy through executive orders, exemplified by Trump's recent order on Russian sanctions.",
+   "insight": "Both systems show executives using formal powers to affect constitutional issues, but the UK relies on parliamentary confidence while the US president acts unilaterally within legal limits.",
    "sources": [
-    "1ce38776057d",
-    "5dc59109c8cb"
+    "ec879c1331d9",
+    "88b25179c7df"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The SNP’s renewed independence campaign reflects liberal ideas of self‑determination and individual liberty, echoing John Stuart Mill’s argument that peoples should freely choose their political arrangements.",
+   "text": "The US governors' softening of abortion stances reflects liberalism's emphasis on individual rights and adapting policy to personal autonomy, echoing thinkers like John Stuart Mill. Liberalism also underpins the debate over AI regulation, where protecting freedoms while ensuring safety is central.",
    "sources": [
-    "28275dca601e"
+    "2854e798b24c",
+    "b90346a2f706"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution has altered the balance of power between Westminster and the devolved administrations.",
+   "question": "Assess the extent to which constitutional arrangements limit the actions of executives in the UK and the US.",
    "section": "ukgov",
-   "tip": "Compare the Wales Office controversy with the SNP’s independence push, using specific examples of legislative and financial powers."
+   "tip": "Compare the Prime Minister’s role in devolution debates with the US President’s use of executive orders, using recent news as examples."
   }
  },
  "refs": {
+  "ec879c1331d9": {
+   "id": "ec879c1331d9",
+   "title": "Could the UK actually split? Experts explain the legal route for pro‑independence leaders",
+   "link": "https://nation.cymru/feature/could-the-uk-actually-split-experts-explain-the-legal-route-for-pro%e2%80%91independence-leaders/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-17T19:12:33Z"
+  },
   "4889d76d3d2d": {
    "id": "4889d76d3d2d",
    "title": "Farage least popular party leader in Wales, new poll finds",
@@ -184,41 +194,41 @@
    "lean": "centre-left",
    "date": "2026-10-17T17:08:59Z"
   },
-  "28275dca601e": {
-   "id": "28275dca601e",
-   "title": "SNP says campaign for next referendum on independence ‘has already begun’",
-   "link": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+  "e49f2c194b86": {
+   "id": "e49f2c194b86",
+   "title": "House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority",
+   "link": "https://www.pbs.org/newshour/politics/house-speaker-mike-johnson-draws-on-faith-as-he-fights-to-hold-the-republican-majority",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-17T16:17:08Z"
+  },
+  "2854e798b24c": {
+   "id": "2854e798b24c",
+   "title": "The Republican governor candidates walking back some of their abortion stances",
+   "link": "https://www.pbs.org/newshour/politics/the-republican-governor-candidates-walking-back-some-of-their-abortion-stances",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-17T21:23:59Z"
+  },
+  "b90346a2f706": {
+   "id": "b90346a2f706",
+   "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+   "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-10-17T15:45:53Z"
+   "date": "2026-10-17T11:33:20Z"
   },
-  "1ce38776057d": {
-   "id": "1ce38776057d",
-   "title": "Wales Office does ‘more harm than good’, says Deputy First Minister",
-   "link": "https://nation.cymru/news/wales-office-does-more-harm-than-good-says-deputy-first-minister/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-17T17:32:31Z"
-  },
-  "f1eaa5e00da7": {
-   "id": "f1eaa5e00da7",
-   "title": "George Santos: 'I’d jump to serve' as White House press secretary",
-   "link": "https://thehill.com/homenews/house/6155846-george-santos-press-secretary/",
+  "88b25179c7df": {
+   "id": "88b25179c7df",
+   "title": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
+   "link": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-17T15:02:11Z"
-  },
-  "5dc59109c8cb": {
-   "id": "5dc59109c8cb",
-   "title": "GOP lawmakers bash Trump's decision to waive Russia sanctions: 'Beyond irresponsible'",
-   "link": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-17T13:23:47Z"
+   "date": "2026-10-17T22:19:54Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
