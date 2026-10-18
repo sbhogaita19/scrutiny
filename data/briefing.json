@@ -1,198 +1,197 @@
 {
- "generated_at": "2026-10-18T01:02:35Z",
+ "generated_at": "2026-10-18T09:38:03Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Independence debates, party polls and US House leadership clash",
-  "overview": "Today's news covers legal routes for Scottish independence, shifting party popularity in Wales, and the US House Speaker defending a Republican majority. Each story highlights constitutional and political dynamics in the UK and US.",
+  "headline": "Parliamentary tech, electoral reform, US House drama dominate politics",
+  "overview": "Debates over technology in the Welsh Senedd, Labour dissent on electoral change and US House leadership highlight tensions within parties and institutions. These developments illustrate core concepts in the A‑level syllabus.",
   "stories": [
    {
-    "title": "Legal routes for Scottish independence examined",
+    "title": "Smart glasses spark debate in Welsh parliament",
     "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Legal scholars explained the constitutional steps pro‑independence leaders could take to pursue a second Scottish referendum. The analysis was published as the SNP launched a new campaign fund.",
-    "why_it_matters": "The piece links to the A‑level study of devolution and the UK constitution, showing how legal authority and political ambition interact. It illustrates the limits of Westminster's power over devolved administrations.",
+    "topic": "parliament",
+    "what_happened": "MS Jason O'Connell began wearing smart glasses with an autocue during Senedd sessions. The move prompted discussion about the role of technology in legislative work.",
+    "why_it_matters": "The episode illustrates how parliamentary procedures can adapt to new tools, linking to the AQA focus on the functions and modernisation of the UK Parliament. It also raises questions about equality of access for all members.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑independence advocates say the legal route respects democratic consent and the principle of self‑determination."
+      "text": "Proponents say the glasses improve speech clarity and help disabled members participate fully."
      },
      {
       "label": "Critics argue",
-      "text": "Unionists contend that any referendum would require Westminster approval, emphasizing the rule of law."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning analysts stress the need for a clear constitutional framework to avoid unilateral moves."
-     }
-    ],
-    "key_term": {
-     "term": "devolution",
-     "definition": "The transfer of powers from the central UK government to regional bodies such as the Scottish Parliament."
-    },
-    "exam_use": "Use as evidence in an essay on the constitutional limits of devolved governments.",
-    "sources": [
-     "ec879c1331d9"
-    ]
-   },
-   {
-    "title": "Farage ranks lowest in Welsh party leader poll",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "A YouGov poll found two‑thirds of Welsh adults hold an unfavourable view of Nigel Farage, making him the least popular party leader in Wales. The poll covered leaders of the main parties represented in the Senedd.",
-    "why_it_matters": "The story relates to the AQA topic of political parties and voter behaviour, showing how public opinion can affect party strategy. It also touches on the role of media in shaping perceptions.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Brexit supporters claim the poll reflects media bias rather than genuine unpopularity."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents say Farage's rhetoric alienates Welsh voters, highlighting regional differences."
+      "text": "Opponents worry the devices could create a visual divide and undermine traditional debate norms."
      },
      {
       "label": "From the right",
-      "text": "Right‑leaning commentators warn that low popularity could weaken the UK‑wide Brexit agenda."
+      "text": "Conservatives stress preserving the historic decorum of the chamber."
      }
     ],
     "key_term": {
-     "term": "political party",
-     "definition": "An organised group seeking to gain power within a government, usually by contesting elections."
+     "term": "modernisation",
+     "definition": "Changes to institutions intended to make them more efficient or relevant."
     },
-    "exam_use": "Cite as evidence when discussing how party leaders influence electoral success.",
+    "exam_use": "Use as evidence when evaluating how Parliament balances tradition with innovation in an essay on institutional change.",
     "sources": [
-     "4889d76d3d2d"
+     "01146e1c83ad"
     ]
    },
    {
-    "title": "House Speaker Johnson leans on faith to keep GOP majority",
-    "section": "us",
-    "topic": "congress",
-    "what_happened": "Speaker Mike Johnson said his Christian faith gives him confidence Republicans will retain the House majority despite Democratic gains. He made the remarks during a press briefing ahead of the mid‑term vote.",
-    "why_it_matters": "The article connects to the US Constitution’s separation of powers and the political role of the House of Representatives. It also shows how personal belief can be framed in political leadership.",
+    "title": "Labour MPs split over Burnham’s electoral reform push",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Andy Burnham announced plans to shift Labour to proportional representation at his party conference. Several Labour backbenchers publicly voiced resistance.",
+    "why_it_matters": "The clash shows intra‑party democracy and the tension between leadership ambition and grassroots opinion, a key theme in the AQA study of political parties.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Republicans view Johnson’s faith‑based optimism as a rallying point for the party base."
+      "text": "Burnham’s team says PR will make elections fairer and reflect voter diversity."
      },
      {
       "label": "Critics argue",
-      "text": "Democrats warn that mixing religion with governance risks undermining secular principles."
+      "text": "Opposing MPs claim PR could weaken constituency links and lead to unstable coalitions."
      },
      {
       "label": "From the left",
-      "text": "Progressive voices question whether faith rhetoric distracts from policy debates."
+      "text": "Left‑leaning members view PR as a step toward greater social equity."
      }
     ],
     "key_term": {
-     "term": "Congress",
-     "definition": "The bicameral legislature of the United States, consisting of the House of Representatives and the Senate."
+     "term": "proportional representation",
+     "definition": "An electoral system where seats are allocated in line with parties’ share of the vote."
     },
-    "exam_use": "Use to illustrate how leadership style can affect party cohesion in a parliamentary essay.",
+    "exam_use": "Cite when discussing the advantages and disadvantages of different electoral systems in a comparative essay.",
+    "sources": [
+     "ff9a99261ae6"
+    ]
+   },
+   {
+    "title": "Speaker Johnson leans on faith to keep GOP House majority",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "House Speaker Mike Johnson said his Christian faith guides his effort to retain Republican control of the House. He warned Democrats of a “surge” as the midterms approach.",
+    "why_it_matters": "Johnson’s appeal to religion highlights how personal belief can intersect with legislative leadership, relevant to the AQA focus on US congressional dynamics and the role of ideology.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Johnson’s supporters say faith‑based values provide moral clarity in governance."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warn that mixing religion with politics threatens secular decision‑making."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservatives view his stance as defending traditional American values."
+     }
+    ],
+    "key_term": {
+     "term": "majority leadership",
+     "definition": "The process by which the party in control directs legislative agenda and discipline."
+    },
+    "exam_use": "Use as illustration of how party leadership seeks cohesion in a partisan Congress for an essay on US legislative politics.",
     "sources": [
      "e49f2c194b86"
     ]
    },
    {
-    "title": "Republican governors soften abortion positions",
+    "title": "Republican governor candidates soften abortion positions",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Several Republican gubernatorial candidates announced they would roll back previously strict anti‑abortion policies. The shift was reported as voters focus more on cost‑of‑living issues.",
-    "why_it_matters": "This reflects changing voter priorities and the strategic repositioning of parties ahead of elections, a key theme in the AQA elections and referendums topic.",
+    "what_happened": "Several Republican gubernatorial hopefuls have moderated their anti‑abortion rhetoric ahead of upcoming elections. Polls show voters prioritise cost‑of‑living issues over reproductive rights.",
+    "why_it_matters": "The shift demonstrates strategic issue framing in US elections, a core component of the AQA syllabus on electoral behaviour and party positioning.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑choice advocates see the move as a positive response to women's rights concerns."
+      "text": "Candidates claim the change reflects broader public concerns."
      },
      {
       "label": "Critics argue",
-      "text": "Conservative groups claim the changes betray core party values."
+      "text": "Progressive groups accuse them of abandoning core principles for votes."
      },
      {
-      "label": "From the right",
-      "text": "Right‑leaning analysts suggest the shift is a pragmatic bid for electoral viability."
+      "label": "From the left",
+      "text": "Left‑leaning analysts see the move as evidence of declining influence of social conservatives."
      }
     ],
     "key_term": {
-     "term": "abortion",
-     "definition": "The termination of a pregnancy, a contested policy issue in many democracies."
+     "term": "issue framing",
+     "definition": "How political actors present topics to shape public perception."
     },
-    "exam_use": "Reference when discussing how parties adapt policy positions to voter concerns.",
+    "exam_use": "Reference when analysing how parties adapt policy positions to voter priorities in a US elections essay.",
     "sources": [
      "2854e798b24c"
     ]
    },
    {
-    "title": "AI safety worries rise among senior Labour MPs",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Labour front‑benchers expressed concern that artificial intelligence could be misused by extremist groups and that the UK might fall behind in regulation. The comments were made in a parliamentary briefing.",
-    "why_it_matters": "The story links to the role of the Prime Minister and Cabinet in setting national security policy, a core part of the UK government syllabus. It also touches on emerging policy challenges.",
+    "title": "Farage records lowest favourability in Wales poll",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "A YouGov poll found two‑thirds of Welsh adults hold an unfavourable view of Nigel Farage, making him the least popular party leader in Wales.",
+    "why_it_matters": "Leader popularity affects party performance and voter alignment, linking to AQA topics on party support and electoral impact.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Tech‑forward liberals argue regulation is essential to protect democratic processes."
+      "text": "Farage’s base says the poll ignores his Brexit legacy."
      },
      {
       "label": "Critics argue",
-      "text": "Industry groups warn over‑regulation could stifle innovation."
+      "text": "Detractors argue the numbers signal waning influence of right‑wing populism in Wales."
      },
      {
-      "label": "From the left",
-      "text": "Left‑leaning commentators stress the need for public oversight of powerful technologies."
+      "label": "From the right",
+      "text": "Right‑leaning commentators warn the data could spur strategic re‑branding."
      }
     ],
     "key_term": {
-     "term": "AI safety",
-     "definition": "Measures to ensure artificial intelligence systems do not cause unintended harm."
+     "term": "leader favourability",
+     "definition": "Public opinion measure of how positively a political leader is viewed."
     },
-    "exam_use": "Use as contemporary evidence when evaluating modern challenges for the executive.",
+    "exam_use": "Use as evidence when discussing the role of leadership image in party success for a UK politics essay.",
     "sources": [
-     "b90346a2f706"
+     "4889d76d3d2d"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK Prime Minister leads the Cabinet and can influence devolution debates, as seen in legal discussions about Scottish independence.",
-   "us": "The US President shapes policy through executive orders, exemplified by Trump's recent order on Russian sanctions.",
-   "insight": "Both systems show executives using formal powers to affect constitutional issues, but the UK relies on parliamentary confidence while the US president acts unilaterally within legal limits.",
+   "theme": "parties",
+   "uk": "Labour MPs’ resistance to Burnham’s PR proposal shows internal party debate over electoral strategy.",
+   "us": "Speaker Johnson’s faith‑based appeal reflects how US party leaders use personal ideology to rally members.",
+   "insight": "Both cases reveal that party cohesion is contested, but UK parties grapple with structural reform while US leaders lean on identity politics to maintain unity.",
    "sources": [
-    "ec879c1331d9",
-    "88b25179c7df"
+    "ff9a99261ae6",
+    "e49f2c194b86"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The US governors' softening of abortion stances reflects liberalism's emphasis on individual rights and adapting policy to personal autonomy, echoing thinkers like John Stuart Mill. Liberalism also underpins the debate over AI regulation, where protecting freedoms while ensuring safety is central.",
+   "text": "The smart‑glasses episode embodies liberal ideas of individual empowerment and the use of technology to remove barriers, echoing John Stuart Mill’s argument for removing obstacles to self‑expression.",
    "sources": [
-    "2854e798b24c",
-    "b90346a2f706"
+    "01146e1c83ad"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which constitutional arrangements limit the actions of executives in the UK and the US.",
-   "section": "ukgov",
-   "tip": "Compare the Prime Minister’s role in devolution debates with the US President’s use of executive orders, using recent news as examples."
+   "question": "Assess the extent to which internal party disagreements can shape electoral reform proposals in the UK and the US.",
+   "section": "ukpol | us",
+   "tip": "Compare Labour’s debate on proportional representation with US congressional leadership’s use of ideology to influence party strategy."
   }
  },
  "refs": {
-  "ec879c1331d9": {
-   "id": "ec879c1331d9",
-   "title": "Could the UK actually split? Experts explain the legal route for pro‑independence leaders",
-   "link": "https://nation.cymru/feature/could-the-uk-actually-split-experts-explain-the-legal-route-for-pro%e2%80%91independence-leaders/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-17T19:12:33Z"
+  "01146e1c83ad": {
+   "id": "01146e1c83ad",
+   "title": "Reform politician says smart glasses help him make speeches in Wales' parliament",
+   "link": "https://www.bbc.co.uk/news/articles/cmp8g2kk3392o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-10-18T06:08:51Z"
   },
-  "4889d76d3d2d": {
-   "id": "4889d76d3d2d",
-   "title": "Farage least popular party leader in Wales, new poll finds",
-   "link": "https://nation.cymru/news/farage-least-popular-party-leader-in-wales-new-poll-finds/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-17T17:08:59Z"
+  "ff9a99261ae6": {
+   "id": "ff9a99261ae6",
+   "title": "Burnham Faces Labour MP Resistance On Electoral Reform",
+   "link": "https://www.politicshome.com/news/article/burnham-faces-labour-mp-resistance-electoral-reform",
+   "source": "politicshome",
+   "sourceName": "PoliticsHome",
+   "lean": "centre",
+   "date": "2026-10-18T07:00:00Z"
   },
   "e49f2c194b86": {
    "id": "e49f2c194b86",
@@ -212,23 +211,14 @@
    "lean": "centre",
    "date": "2026-10-17T21:23:59Z"
   },
-  "b90346a2f706": {
-   "id": "b90346a2f706",
-   "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
-   "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
-   "source": "guardian",
-   "sourceName": "The Guardian",
+  "4889d76d3d2d": {
+   "id": "4889d76d3d2d",
+   "title": "Farage least popular party leader in Wales, new poll finds",
+   "link": "https://nation.cymru/news/farage-least-popular-party-leader-in-wales-new-poll-finds/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-17T11:33:20Z"
-  },
-  "88b25179c7df": {
-   "id": "88b25179c7df",
-   "title": "Sunday shows preview: Trump-Zelensky feud escalates; Controversies hit White House before midterms",
-   "link": "https://thehill.com/homenews/sunday-talk-shows/6156133-trump-russia-sanctions-backlash/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-17T22:19:54Z"
+   "date": "2026-10-17T17:08:59Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
