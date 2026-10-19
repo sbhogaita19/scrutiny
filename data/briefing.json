@@ -1,209 +1,197 @@
 {
- "generated_at": "2026-10-18T18:05:35Z",
+ "generated_at": "2026-10-19T01:16:50Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Parliamentary reform, devolution trust and US election battles dominate",
-  "overview": "Labour MPs debate Burnham’s electoral reform, Welsh voters show confidence in local councils, and US candidates clash over policy priorities ahead of the mid‑terms.",
+  "headline": "Tech in Welsh parliament, UK electoral reform, US election shifts",
+  "overview": "Debates over digital aides in the Senedd and Labour dissent on electoral reform dominate UK politics, while US mid‑term dynamics see Latino voters influencing Trump’s return and Congress challenging a Russia sanctions order.",
   "stories": [
    {
-    "title": "Labour MPs split on electoral reform",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Andy Burnham announced a move to proportional representation at Labour’s conference, but several Labour MPs voiced resistance. The debate highlighted differing views within the party about changing the voting system.",
-    "why_it_matters": "The issue illustrates the tension between party leadership and backbenchers, a key theme in A‑level studies of party politics and internal democracy. It also links to the concept of electoral systems and their impact on representation.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Proponents say proportional representation would make Parliament more reflective of voter preferences."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents warn it could lead to fragmented parliaments and unstable governments."
-     },
-     {
-      "label": "From the left",
-      "text": "Some left‑wing MPs view it as a step toward greater fairness for smaller parties."
-     }
-    ],
-    "key_term": {
-     "term": "Proportional representation",
-     "definition": "An electoral system where seats are allocated to match the proportion of votes each party receives."
-    },
-    "exam_use": "Use as evidence in an essay on how parties influence electoral reform proposals.",
-    "sources": [
-     "ff9a99261ae6"
-    ]
-   },
-   {
-    "title": "Welsh trust in local councils exceeds trust in UK Government",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "A new study found that people in Wales have higher confidence in their local councils than in the UK Government. The findings reflect growing regional identity and expectations of local accountability.",
-    "why_it_matters": "The result ties to the A‑level focus on devolution and the distribution of political authority within the UK, showing how public opinion can shape devolved governance.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Higher local trust suggests devolution is delivering responsive services."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Skeptics claim it may fuel separatist sentiment and weaken UK cohesion."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives warn that over‑reliance on local bodies could fragment national policy."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The transfer of powers from central government to regional or local institutions."
-    },
-    "exam_use": "Cite in a comparative essay on the effectiveness of devolved versus central governance.",
-    "sources": [
-     "8e3860a6c2ed"
-    ]
-   },
-   {
-    "title": "Manchester City owner loan under investigation",
+    "title": "Welsh minister calls for public input on culture strategy",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "A parliamentary scrutiny committee opened an inquiry into a £55 million loan to Manchester City’s Abu Dhabi owner, linked to the former mayor now Prime Minister. The PM pledged full transparency.",
-    "why_it_matters": "The case highlights issues of ministerial accountability and the scrutiny role of committees, core to the A‑level study of the UK constitution and executive oversight.",
+    "what_happened": "Culture and Sport Minister Hel seeks public submissions for a new Wales strategy, with a two‑month deadline. The call follows broader devolution discussions about policy making in Wales.",
+    "why_it_matters": "Shows how the Welsh executive uses consultation, illustrating devolution’s impact on policy formation – a key AQA point on the distribution of power within the UK.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The investigation shows robust checks on ministerial conduct."
+      "text": "Public involvement improves legitimacy and reflects local needs."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim it is politically motivated to damage the PM’s reputation."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning commentators stress the need for stricter rules on public‑private financial links."
+      "text": "Consultations can delay decisions and be used to avoid political responsibility."
      }
     ],
     "key_term": {
-     "term": "Ministerial accountability",
-     "definition": "The principle that government ministers must answer to Parliament for their actions."
+     "term": "devolution",
+     "definition": "The transfer of powers from the central UK government to regional bodies."
     },
-    "exam_use": "Use as a case study when discussing mechanisms of executive scrutiny in the UK.",
+    "exam_use": "Use as evidence of how devolved administrations exercise executive authority in an essay on the UK constitution.",
     "sources": [
-     "1e2aa116d2b3"
+     "65c533cc3a15"
     ]
    },
    {
-    "title": "US Senate candidate targets neglected issues",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Democratic Maine Senate candidate Troy Jackson said he is campaigning on issues he believes most senators ignore. He criticised Washington for being out of touch with everyday concerns.",
-    "why_it_matters": "The statement reflects the populist appeal often seen in US elections, relevant to A‑level topics on electoral strategies and voter engagement.",
+    "title": "Labour MP attacks Welsh Government over radar plan",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "MP Henry Tufnell accused the Welsh Government of bypassing local input by calling in a controversial military radar project. He framed it as a breach of democratic participation.",
+    "why_it_matters": "Highlights intra‑party conflict and the role of pressure groups in shaping policy, linking to AQA topics on parties and pressure groups.",
     "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Jackson’s focus on ignored issues could energise disaffected voters."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Detractors say his rhetoric oversimplifies complex policy debates."
-     },
      {
       "label": "From the left",
-      "text": "Progressives view his platform as a push for greater social investment."
-     }
-    ],
-    "key_term": {
-     "term": "Populism",
-     "definition": "A political approach that seeks to represent the interests of ordinary people against a perceived elite."
-    },
-    "exam_use": "Reference in an essay on how candidates use issue framing to attract votes.",
-    "sources": [
-     "c64d97a4c28a"
-    ]
-   },
-   {
-    "title": "President Vance faces tough town‑hall questions",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "In a CBS town‑hall, President Vance was questioned on the war in Iran, immigration policy and other contentious topics. Voters expressed both support and criticism of his administration.",
-    "why_it_matters": "The event illustrates presidential accountability to the public, a key concept in the study of the US executive and civil‑rights expectations.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Vance’s direct engagement shows transparency and responsiveness."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents claim his answers were evasive and failed to address core concerns."
+      "text": "The move undermines community voice and exemplifies centralised decision‑making."
      },
      {
       "label": "From the right",
-      "text": "Conservatives praise his firm stance on national security."
+      "text": "National security considerations justify swift action without lengthy local consultations."
      }
     ],
     "key_term": {
-     "term": "Presidential accountability",
-     "definition": "The requirement that the US President answer to voters and institutions for policy decisions."
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
     },
-    "exam_use": "Use as evidence when discussing the checks on presidential power in the US system.",
+    "exam_use": "Cite when discussing how parties and pressure groups contest policy decisions in Wales.",
     "sources": [
-     "3f96c3408c3a"
+     "d6f36fb52752"
     ]
    },
    {
-    "title": "Republican governors soften abortion positions",
+    "title": "Latino voters key to Trump’s 2026 comeback",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Several Republican governor candidates have retreated from earlier hard‑line abortion stances, citing voter focus on cost‑of‑living issues. The shift occurs as reproductive rights receive less media attention.",
-    "why_it_matters": "The move shows how party policy can adapt to public opinion, linking to A‑level themes of party strategy and issue salience.",
+    "topic": "us-elections",
+    "what_happened": "Analysts say Latino voters in Arizona, Colorado and Texas helped Donald Trump win the presidency again. Democrats are now targeting these districts for the House majority.",
+    "why_it_matters": "Illustrates the importance of demographic voting blocs in US elections, a core AQA theme on elections and voting behaviour.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Adjusting positions reflects responsiveness to voter priorities."
+      "text": "Trump’s outreach shows responsiveness to previously ignored communities."
      },
      {
       "label": "Critics argue",
-      "text": "Detractors see it as political opportunism lacking principle."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressives view the retreat as a missed opportunity to protect reproductive rights."
+      "text": "The focus on identity politics may polarise the electorate further."
      }
     ],
     "key_term": {
-     "term": "Issue salience",
-     "definition": "The degree to which a political issue is considered important by the public."
+     "term": "demographic bloc",
+     "definition": "A group of voters sharing characteristics such as ethnicity that tend to vote similarly."
     },
-    "exam_use": "Cite when analysing how parties modify platforms ahead of elections.",
+    "exam_use": "Use as evidence of how demographic changes affect electoral outcomes in a comparative essay on US elections.",
     "sources": [
-     "2854e798b24c"
+     "0700e1f4920e"
+    ]
+   },
+   {
+    "title": "Congress reacts to Trump’s Russia sanctions exemption",
+    "section": "us",
+    "topic": "us-constitution",
+    "what_happened": "Congress criticised President Trump’s executive order that lifted sanctions on Russia, arguing it overstepped presidential authority. Hearings are scheduled to examine the legality.",
+    "why_it_matters": "Shows the constitutional check‑and‑balance between the executive and legislature, a key AQA point on the US Constitution.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "The order threatens national security and undermines congressional power."
+     },
+     {
+      "label": "From the right",
+      "text": "Presidential flexibility is needed for swift foreign‑policy decisions."
+     }
+    ],
+    "key_term": {
+     "term": "separation of powers",
+     "definition": "The division of government responsibilities into distinct branches to limit any one branch’s power."
+    },
+    "exam_use": "Reference when discussing constitutional limits on presidential authority in a US government essay.",
+    "sources": [
+     "cc7729738f3f"
+    ]
+   },
+   {
+    "title": "Burnham faces Labour dissent on electoral reform",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "Andy Burnham’s push for proportional representation met resistance from some Labour MPs who prefer first‑past‑the‑post. The debate intensified after his party conference speech.",
+    "why_it_matters": "Demonstrates internal party divisions over voting systems, linking to AQA topics on elections and party politics.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Proportional representation would make Parliament more representative."
+     },
+     {
+      "label": "From the right",
+      "text": "First‑past‑the‑post provides stable governments and clear accountability."
+     }
+    ],
+    "key_term": {
+     "term": "proportional representation",
+     "definition": "An electoral system where seats are allocated according to the share of votes each party receives."
+    },
+    "exam_use": "Use as case‑study of how parties negotiate electoral‑system change in an essay on UK elections.",
+    "sources": [
+     "ff9a99261ae6"
     ]
    }
   ],
   "compare": {
-   "theme": "parties",
-   "uk": "Labour’s internal debate over electoral reform shows how party factions can shape policy proposals.",
-   "us": "Republican governor candidates’ shift on abortion illustrates how US parties adjust stances to voter concerns.",
-   "insight": "Both cases reveal that party positions are not static but are negotiated internally and externally, highlighting the dynamic nature of party politics in different systems.",
+   "theme": "elections",
+   "uk": "UK parties debate moving from first‑past‑the‑post to proportional representation, reflecting concerns about fairness and stability.",
+   "us": "US elections focus on demographic shifts, with Latino voters influencing the 2026 presidential outcome and congressional composition.",
+   "insight": "The contrast shows the UK’s internal party‑driven reform debate versus the US’s voter‑driven electoral dynamics, highlighting different drivers of change.",
    "sources": [
     "ff9a99261ae6",
-    "2854e798b24c"
+    "0700e1f4920e"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Mark Weinberg’s advice to the next White House press secretary stresses transparency and free press, echoing liberal ideas of individual rights and limited government championed by thinkers like John Locke.",
+   "ideology": "conservatism",
+   "text": "Trump’s emphasis on national security and executive discretion aligns with conservative ideas of strong leadership, echoing Edmund Burke’s defence of order, while critics invoke liberal concerns about individual rights and checks on power.",
    "sources": [
-    "7a3504851844"
+    "0700e1f4920e",
+    "cc7729738f3f"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which internal party dynamics influence policy decisions in the UK and US.",
-   "section": "ukpol | us",
-   "tip": "Compare Labour’s electoral reform debate with Republican governors’ abortion stance changes, using specific examples to illustrate party influence."
+   "question": "Assess the extent to which devolution and party politics shape policy‑making in Wales and the wider UK.",
+   "section": "ukgov",
+   "tip": "Structure your answer by comparing the Welsh minister’s public consultation with the Labour MP’s opposition to a radar plan, linking each to devolution and party dynamics."
   }
  },
  "refs": {
+  "65c533cc3a15": {
+   "id": "65c533cc3a15",
+   "title": "Minister urges public to help shape Wales’ culture and sport strategy",
+   "link": "https://nation.cymru/news/minister-urges-public-to-help-shape-wales-culture-and-sport-strategy/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-18T23:01:18Z"
+  },
+  "d6f36fb52752": {
+   "id": "d6f36fb52752",
+   "title": "Labour MP criticises Welsh Government for calling in controversial radar plans",
+   "link": "https://nation.cymru/news/labour-mp-criticises-welsh-government-for-calling-in-controversial-radar-plans/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-18T20:24:50Z"
+  },
+  "0700e1f4920e": {
+   "id": "0700e1f4920e",
+   "title": "Latino voters helped put Trump back in the White House. What's their next move?",
+   "link": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-18T20:46:52Z"
+  },
+  "cc7729738f3f": {
+   "id": "cc7729738f3f",
+   "title": "Congress reacts to executive order exempting Russia from economic sanctions",
+   "link": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-10-18T21:00:11Z"
+  },
   "ff9a99261ae6": {
    "id": "ff9a99261ae6",
    "title": "Burnham Faces Labour MP Resistance On Electoral Reform",
@@ -212,60 +200,6 @@
    "sourceName": "PoliticsHome",
    "lean": "centre",
    "date": "2026-10-18T07:00:00Z"
-  },
-  "8e3860a6c2ed": {
-   "id": "8e3860a6c2ed",
-   "title": "People in Wales trust local councils more than UK Government, study finds",
-   "link": "https://nation.cymru/news/people-in-wales-trust-local-councils-more-than-uk-government-study-finds/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-18T18:00:09Z"
-  },
-  "1e2aa116d2b3": {
-   "id": "1e2aa116d2b3",
-   "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-18T14:41:15Z"
-  },
-  "c64d97a4c28a": {
-   "id": "c64d97a4c28a",
-   "title": "Jackson says he's campaigning for issues many senators don't 'give a s--- about'",
-   "link": "https://thehill.com/homenews/campaign/6156449-maine-senate-jackson-campaigns/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-18T15:38:50Z"
-  },
-  "3f96c3408c3a": {
-   "id": "3f96c3408c3a",
-   "title": "Vance faces tough questions on Iran war, immigration and more in CBS town hall",
-   "link": "https://www.pbs.org/newshour/politics/vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-18T15:25:44Z"
-  },
-  "2854e798b24c": {
-   "id": "2854e798b24c",
-   "title": "The Republican governor candidates walking back some of their abortion stances",
-   "link": "https://www.pbs.org/newshour/politics/the-republican-governor-candidates-walking-back-some-of-their-abortion-stances",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-17T21:23:59Z"
-  },
-  "7a3504851844": {
-   "id": "7a3504851844",
-   "title": "I worked for 3 White House press secretaries — here's some advice for the next one",
-   "link": "https://thehill.com/opinion/white-house/6155486-lessons-jim-brady-reagan-white-house/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-18T18:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
