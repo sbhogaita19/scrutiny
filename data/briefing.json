@@ -1,131 +1,151 @@
 {
- "generated_at": "2026-10-19T01:16:50Z",
+ "generated_at": "2026-10-19T10:46:29Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Tech in Welsh parliament, UK electoral reform, US election shifts",
-  "overview": "Debates over digital aides in the Senedd and Labour dissent on electoral reform dominate UK politics, while US mid‑term dynamics see Latino voters influencing Trump’s return and Congress challenging a Russia sanctions order.",
+  "headline": "EU summit, Welsh radar debate and US Senate race tighten political stakes",
+  "overview": "Today sees the EU planning a Rome summit as Italy heads to election, a Welsh MP sparks controversy over military radar planning, and Libertarian candidates could decide key US Senate outcomes. These developments highlight executive decisions, devolution tensions and third‑party influence.",
   "stories": [
    {
-    "title": "Welsh minister calls for public input on culture strategy",
+    "title": "EU summit to boost Italy’s election profile",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Culture and Sport Minister Hel seeks public submissions for a new Wales strategy, with a two‑month deadline. The call follows broader devolution discussions about policy making in Wales.",
-    "why_it_matters": "Shows how the Welsh executive uses consultation, illustrating devolution’s impact on policy formation – a key AQA point on the distribution of power within the UK.",
+    "what_happened": "The European Union is considering Rome as the venue for its 2027 summit, giving Prime Minister Giorgia Meloni a high‑profile platform during her election year. The decision is being discussed among EU leaders and Italian officials.",
+    "why_it_matters": "The story illustrates the Prime Minister’s use of international events to enhance domestic political standing, linking to the A‑level focus on the executive and its relationship with the EU. It also raises questions about the balance of power between national and supranational institutions.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Public involvement improves legitimacy and reflects local needs."
+      "text": "Meloni’s team says the summit showcases Italy’s leadership in Europe and can boost voter confidence."
      },
      {
       "label": "Critics argue",
-      "text": "Consultations can delay decisions and be used to avoid political responsibility."
-     }
-    ],
-    "key_term": {
-     "term": "devolution",
-     "definition": "The transfer of powers from the central UK government to regional bodies."
-    },
-    "exam_use": "Use as evidence of how devolved administrations exercise executive authority in an essay on the UK constitution.",
-    "sources": [
-     "65c533cc3a15"
-    ]
-   },
-   {
-    "title": "Labour MP attacks Welsh Government over radar plan",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "MP Henry Tufnell accused the Welsh Government of bypassing local input by calling in a controversial military radar project. He framed it as a breach of democratic participation.",
-    "why_it_matters": "Highlights intra‑party conflict and the role of pressure groups in shaping policy, linking to AQA topics on parties and pressure groups.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "The move undermines community voice and exemplifies centralised decision‑making."
+      "text": "Opposition parties warn that using an EU summit for electioneering blurs the line between governance and campaigning."
      },
      {
       "label": "From the right",
-      "text": "National security considerations justify swift action without lengthy local consultations."
+      "text": "Conservative commentators view the move as a strategic use of diplomatic events to secure electoral advantage."
      }
     ],
     "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+     "term": "Executive prerogative",
+     "definition": "The authority of the Prime Minister to make strategic decisions without prior parliamentary approval."
     },
-    "exam_use": "Cite when discussing how parties and pressure groups contest policy decisions in Wales.",
+    "exam_use": "Use as evidence in an essay on how the executive can shape electoral outcomes through foreign policy.",
+    "sources": [
+     "71c4b93c27a8"
+    ]
+   },
+   {
+    "title": "Welsh MP’s radar plan sparks devolution dispute",
+    "section": "ukpol",
+    "topic": "devolution",
+    "what_happened": "Labour MP Henry Tufnell accused the Welsh Government of bypassing local consultation by calling in a controversial military radar project. The move has ignited debate over the extent of Welsh devolved powers.",
+    "why_it_matters": "The incident highlights tensions between devolved administrations and the UK centre, a key theme in the A‑level study of devolution and the balance of authority. It also touches on public participation in decision‑making.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Welsh officials claim the fast‑track process protects national security and is within their legal powers."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opposition voices contend the action undermines local democracy and exceeds devolved competence."
+     },
+     {
+      "label": "From the left",
+      "text": "Labour critics stress the need for greater community involvement in infrastructure projects."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the central UK government to regional bodies such as the Welsh Senedd."
+    },
+    "exam_use": "Cite when discussing the limits of devolved authority and the role of public participation.",
     "sources": [
      "d6f36fb52752"
     ]
    },
    {
-    "title": "Latino voters key to Trump’s 2026 comeback",
+    "title": "Libertarians could tip US Senate balance",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Analysts say Latino voters in Arizona, Colorado and Texas helped Donald Trump win the presidency again. Democrats are now targeting these districts for the House majority.",
-    "why_it_matters": "Illustrates the importance of demographic voting blocs in US elections, a core AQA theme on elections and voting behaviour.",
+    "topic": "us-parties",
+    "what_happened": "Libertarian candidates are positioned to influence the outcome of several closely contested Senate races as Republicans aim to retain their majority. Their vote shares could determine which party controls the chamber.",
+    "why_it_matters": "The story illustrates the impact of third parties in a two‑party system, relevant to the A‑level focus on US parties and electoral dynamics. It also shows how minor parties can affect legislative agendas.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s outreach shows responsiveness to previously ignored communities."
+      "text": "Libertarians claim they offer voters a genuine alternative to the dominant parties."
      },
      {
       "label": "Critics argue",
-      "text": "The focus on identity politics may polarise the electorate further."
+      "text": "Major party strategists warn that Libertarian votes may split the conservative base, aiding Democrats."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators view Libertarians as a potential ally against progressive legislation."
      }
     ],
     "key_term": {
-     "term": "demographic bloc",
-     "definition": "A group of voters sharing characteristics such as ethnicity that tend to vote similarly."
+     "term": "Third‑party influence",
+     "definition": "The ability of parties outside the main two to affect election results, often by acting as spoilers."
     },
-    "exam_use": "Use as evidence of how demographic changes affect electoral outcomes in a comparative essay on US elections.",
+    "exam_use": "Use as evidence in an essay on the role of minor parties in US elections and legislative control.",
     "sources": [
-     "0700e1f4920e"
+     "63032911c9d1"
     ]
    },
    {
-    "title": "Congress reacts to Trump’s Russia sanctions exemption",
+    "title": "White House press secretary role under scrutiny",
     "section": "us",
-    "topic": "us-constitution",
-    "what_happened": "Congress criticised President Trump’s executive order that lifted sanctions on Russia, arguing it overstepped presidential authority. Hearings are scheduled to examine the legality.",
-    "why_it_matters": "Shows the constitutional check‑and‑balance between the executive and legislature, a key AQA point on the US Constitution.",
+    "topic": "president",
+    "what_happened": "Katie Zacharia’s brief tenure as White House press secretary has drawn attention to the responsibilities and public profile of the position. Media outlets are analysing how the role shapes presidential communication.",
+    "why_it_matters": "Understanding the press secretary’s function connects to the A‑level study of the US executive and its interaction with the media, a key element of presidential power and accountability.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "The order threatens national security and undermines congressional power."
+      "label": "Supporters argue",
+      "text": "Proponents say a dynamic press secretary can enhance transparency and convey policy effectively."
      },
      {
-      "label": "From the right",
-      "text": "Presidential flexibility is needed for swift foreign‑policy decisions."
+      "label": "Critics argue",
+      "text": "Detractors claim the role can be used to spin information and limit critical scrutiny."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive voices worry the position may prioritize partisan messaging over factual reporting."
      }
     ],
     "key_term": {
-     "term": "separation of powers",
-     "definition": "The division of government responsibilities into distinct branches to limit any one branch’s power."
+     "term": "Presidential communications",
+     "definition": "The methods and channels through which the President conveys policies and messages to the public."
     },
-    "exam_use": "Reference when discussing constitutional limits on presidential authority in a US government essay.",
+    "exam_use": "Reference when discussing the mechanisms of presidential accountability and media relations.",
     "sources": [
-     "cc7729738f3f"
+     "bfa150e117b7"
     ]
    },
    {
-    "title": "Burnham faces Labour dissent on electoral reform",
-    "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "Andy Burnham’s push for proportional representation met resistance from some Labour MPs who prefer first‑past‑the‑post. The debate intensified after his party conference speech.",
-    "why_it_matters": "Demonstrates internal party divisions over voting systems, linking to AQA topics on elections and party politics.",
+    "title": "Burnham faces Labour resistance on electoral reform",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "Labour MP Andy Burnham’s proposal to shift UK elections to a proportional system has met opposition from within his own party. Some MPs remain skeptical of changing the current first‑past‑the‑post system.",
+    "why_it_matters": "The debate touches on parliamentary reform and the structure of the electoral system, core topics in the A‑level syllabus for both UK Government and Politics.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Proportional representation would make Parliament more representative."
+      "label": "Supporters argue",
+      "text": "Proponents say proportional representation would make Parliament more reflective of voter preferences."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warn it could lead to fragmented legislatures and unstable governments."
      },
      {
       "label": "From the right",
-      "text": "First‑past‑the‑post provides stable governments and clear accountability."
+      "text": "Conservative analysts argue the existing system provides clear majorities and decisive governance."
      }
     ],
     "key_term": {
-     "term": "proportional representation",
-     "definition": "An electoral system where seats are allocated according to the share of votes each party receives."
+     "term": "First‑past‑the‑post",
+     "definition": "An electoral system where the candidate with the most votes in each constituency wins the seat."
     },
-    "exam_use": "Use as case‑study of how parties negotiate electoral‑system change in an essay on UK elections.",
+    "exam_use": "Use to illustrate arguments for and against electoral reform in a comparative essay.",
     "sources": [
      "ff9a99261ae6"
     ]
@@ -133,37 +153,37 @@
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parties debate moving from first‑past‑the‑post to proportional representation, reflecting concerns about fairness and stability.",
-   "us": "US elections focus on demographic shifts, with Latino voters influencing the 2026 presidential outcome and congressional composition.",
-   "insight": "The contrast shows the UK’s internal party‑driven reform debate versus the US’s voter‑driven electoral dynamics, highlighting different drivers of change.",
+   "uk": "UK parties debate moving from first‑past‑the‑post to proportional representation, reflecting internal pressures for reform.",
+   "us": "US third‑party candidates, such as Libertarians, may decide Senate outcomes, showing how minor parties can influence a two‑party system.",
+   "insight": "The contrast shows the UK’s internal party‑driven reform versus the US’s external third‑party impact, highlighting different mechanisms of electoral change.",
    "sources": [
     "ff9a99261ae6",
-    "0700e1f4920e"
+    "63032911c9d1"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Trump’s emphasis on national security and executive discretion aligns with conservative ideas of strong leadership, echoing Edmund Burke’s defence of order, while critics invoke liberal concerns about individual rights and checks on power.",
+   "ideology": "liberalism",
+   "text": "The press secretary’s role embodies liberal ideas of transparency and free information flow, echoing John Stuart Mill’s emphasis on an informed public. Similarly, calls for proportional representation reflect liberalism’s focus on fair representation and individual rights.",
    "sources": [
-    "0700e1f4920e",
-    "cc7729738f3f"
+    "bfa150e117b7",
+    "ff9a99261ae6"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution and party politics shape policy‑making in Wales and the wider UK.",
-   "section": "ukgov",
-   "tip": "Structure your answer by comparing the Welsh minister’s public consultation with the Labour MP’s opposition to a radar plan, linking each to devolution and party dynamics."
+   "question": "Assess the extent to which electoral system reforms can enhance democratic representation in the UK and the US.",
+   "section": "ukpol | us",
+   "tip": "Compare the UK’s internal debate on proportional representation with the US impact of third‑party candidates on Senate outcomes."
   }
  },
  "refs": {
-  "65c533cc3a15": {
-   "id": "65c533cc3a15",
-   "title": "Minister urges public to help shape Wales’ culture and sport strategy",
-   "link": "https://nation.cymru/news/minister-urges-public-to-help-shape-wales-culture-and-sport-strategy/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-18T23:01:18Z"
+  "71c4b93c27a8": {
+   "id": "71c4b93c27a8",
+   "title": "EU eyes Rome for 2027 summit ahead of Italian election",
+   "link": "https://www.politico.eu/article/eu-rome-2027-summit-italy-election/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
+   "lean": "centre",
+   "date": "2026-10-19T10:28:59Z"
   },
   "d6f36fb52752": {
    "id": "d6f36fb52752",
@@ -174,23 +194,23 @@
    "lean": "centre-left",
    "date": "2026-10-18T20:24:50Z"
   },
-  "0700e1f4920e": {
-   "id": "0700e1f4920e",
-   "title": "Latino voters helped put Trump back in the White House. What's their next move?",
-   "link": "https://www.pbs.org/newshour/politics/latino-voters-helped-put-trump-back-in-the-white-house-whats-their-next-move",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "63032911c9d1": {
+   "id": "63032911c9d1",
+   "title": "Libertarians may tip the balance in key Senate races. Here's why.",
+   "link": "https://thehill.com/homenews/campaign/6155278-libertarians-key-senate-contests-spoilers/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-18T20:46:52Z"
+   "date": "2026-10-19T10:00:00Z"
   },
-  "cc7729738f3f": {
-   "id": "cc7729738f3f",
-   "title": "Congress reacts to executive order exempting Russia from economic sanctions",
-   "link": "https://www.npr.org/2026/10/18/nx-s1-6007363/congress-reacts-to-executive-order-exempting-russia-from-economic-sanctions",
+  "bfa150e117b7": {
+   "id": "bfa150e117b7",
+   "title": "What does a White House press secretary do?",
+   "link": "https://www.npr.org/2026/10/18/nx-s1-6006807/what-does-a-white-house-press-secretary-do",
    "source": "npr",
    "sourceName": "NPR",
    "lean": "centre-left",
-   "date": "2026-10-18T21:00:11Z"
+   "date": "2026-10-19T01:41:24Z"
   },
   "ff9a99261ae6": {
    "id": "ff9a99261ae6",
