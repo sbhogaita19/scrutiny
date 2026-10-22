@@ -1,225 +1,242 @@
 {
- "generated_at": "2026-10-21T15:57:43Z",
+ "generated_at": "2026-10-22T00:00:21Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Tax woes for bereaved civil servants and US election battles",
-  "overview": "Today’s briefing covers a UK pension tax issue, a Welsh party leadership change, a US Senate ad spend, a US Supreme Court ruling on transgender inmates, and a UK water‑sector reform plan. Each story links to key A‑level topics and shows contrasting political perspectives.",
+  "headline": "Supreme Court blocks Trump rule; UK gas plan sparks debate; DUP scandal deepens",
+  "overview": "The US Supreme Court rejected a Trump administration rule on transgender inmates, while the UK government faces criticism over a new gas‑field plan. In Northern Ireland, a former DUP leader is under police investigation for alleged rape.",
   "stories": [
    {
-    "title": "Civil service pension tax risk",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "MPs warned that delays in the Capita‑run pension scheme could cause some bereaved families to miss the tax‑free lump‑sum deadline, leading to large tax bills. The scheme’s chaos may affect thousands of claimants.",
-    "why_it_matters": "The issue illustrates executive responsibility for public administration and the impact of policy implementation on citizens, a core part of the UK Government syllabus. It also raises questions about accountability of outsourced services.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The government is taking steps to fix the scheme and protect families from unfair charges."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Outsourcing to Capita has created avoidable bureaucracy and jeopardised vulnerable claimants."
-     },
-     {
-      "label": "From the right",
-      "text": "The problem shows the dangers of expanding the welfare state and unnecessary complexity."
-     }
-    ],
-    "key_term": {
-     "term": "tax‑free allowance",
-     "definition": "The amount of money that can be received without paying income tax."
-    },
-    "exam_use": "Use as evidence of executive failure in service delivery when discussing the limits of ministerial control over public bodies.",
-    "sources": [
-     "9f6965f3fa16"
-    ]
-   },
-   {
-    "title": "Welsh Liberal Democrat leader steps down",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Jane Dodds announced she will resign as leader of the Welsh Liberal Democrats after nearly nine years, urging a new generation to take over. The party will hold a leadership contest later this year.",
-    "why_it_matters": "Leadership change highlights internal party democracy and the challenges smaller parties face in devolved politics, linking to the AQA topics of parties and devolution.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "A fresh leader can rejuvenate the party’s appeal in Wales."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Frequent leadership turnover may signal instability and hinder electoral success."
-     },
-     {
-      "label": "From the left",
-      "text": "The move reflects a commitment to progressive renewal and broader representation."
-     }
-    ],
-    "key_term": {
-     "term": "devolution",
-     "definition": "The transfer of powers from the central UK government to regional bodies such as the Welsh Senedd."
-    },
-    "exam_use": "Cite when evaluating how party leadership affects performance in devolved legislatures.",
-    "sources": [
-     "4312173689ef"
-    ]
-   },
-   {
-    "title": "Democratic super PAC targets Mississippi Senate",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "A Democratic super‑PAC announced a $1.2 million advertising campaign in the Mississippi Senate race, aiming to flip the traditionally Republican seat. The ads will run across TV and digital platforms.",
-    "why_it_matters": "The story shows the role of money and interest groups in US elections, a key point in the US Politics syllabus on parties and elections. It also raises debate over campaign finance rules.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Heavy spending can level the playing field in a deep‑red state."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Super‑PACs amplify wealthy donors’ influence and undermine electoral fairness."
-     },
-     {
-      "label": "From the left",
-      "text": "Large ad spends distract from grassroots mobilisation and policy discussion."
-     }
-    ],
-    "key_term": {
-     "term": "super‑PAC",
-     "definition": "An independent political committee that can raise unlimited funds for electioneering."
-    },
-    "exam_use": "Use as evidence when discussing the impact of money on US electoral competition.",
-    "sources": [
-     "205dc2d69390"
-    ]
-   },
-   {
-    "title": "Supreme Court rejects Trump transgender inmate policy",
+    "title": "US Supreme Court rejects Trump transgender‑inmate rule",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "The US Supreme Court declined to lift a lower‑court order that required the Trump administration to continue providing hormone treatments and surgeries to transgender inmates. Justices Thomas and Alito dissented.",
-    "why_it_matters": "The decision illustrates judicial review of executive policy and the courts’ role in protecting civil rights, linking to the US Courts and Civil Rights sections of the syllabus.",
+    "what_happened": "The Supreme Court refused to allow the Trump administration to enforce new medical restrictions for transgender prisoners. The decision leaves the existing policy in place.",
+    "why_it_matters": "The case illustrates judicial review of executive action, a key concept in the AQA US Constitution and courts topic. It also raises questions about civil‑rights protections for vulnerable groups.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The ruling upholds inmates’ constitutional rights to appropriate medical care."
+      "text": "The Court protected the constitutional rights of transgender inmates against discriminatory policy."
      },
      {
       "label": "Critics argue",
-      "text": "The decision interferes with executive discretion on prison administration."
-     },
-     {
-      "label": "From the right",
-      "text": "The dissent warns that courts are over‑reaching into policy areas best left to elected officials."
+      "text": "The decision hampers the administration’s ability to manage prison health costs and security."
      }
     ],
     "key_term": {
      "term": "judicial review",
-     "definition": "The process by which courts examine the lawfulness of actions taken by public bodies."
+     "definition": "The power of courts to examine the legality of executive or legislative actions."
     },
-    "exam_use": "Reference when analysing how US courts check executive actions on civil‑rights issues.",
+    "exam_use": "Use as evidence in an essay on the role of the US courts in checking executive power.",
     "sources": [
-     "872474740afa"
+     "8546e21a8403"
     ]
    },
    {
-    "title": "Water sector reform delayed until 2027",
+    "title": "Prime Minister proposes gas‑field approval to cut household charges",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham pledged greater public control of the water industry but officials said full details of the overhaul will not be ready until 2027. The proposal follows approval of the Jackdaw gas field.",
-    "why_it_matters": "The plan touches on executive policy making, public ownership debates, and the balance between environmental goals and energy security—core themes in the UK Government curriculum.",
+    "what_happened": "Prime Minister Burnham announced approval of the Jackdaw gas field, saying it will help lower standing charges on gas bills. Details on how costs will be shifted to unit prices were not provided.",
+    "why_it_matters": "The story links to the AQA UK Government topic on the executive and its policy‑making role, and raises issues of energy security versus environmental concerns.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Increased public control will improve accountability and service quality."
+      "label": "From the government",
+      "text": "The approval secures energy supply and reduces bills for consumers."
      },
      {
-      "label": "Critics argue",
-      "text": "Delays risk missing climate targets and increase costs for consumers."
+      "label": "From the opposition",
+      "text": "Opponents warn it undermines climate targets and may increase long‑term costs."
      },
      {
-      "label": "From the left",
-      "text": "The reform aligns with socialist ideas of public ownership of essential services."
+      "label": "From environmental groups",
+      "text": "Campaigners argue the decision contradicts the UK’s net‑zero commitments."
      }
     ],
     "key_term": {
-     "term": "public ownership",
-     "definition": "When a service or industry is owned and operated by the state rather than private firms."
+     "term": "executive discretion",
+     "definition": "The freedom of the Prime Minister and Cabinet to make policy decisions without prior parliamentary approval."
     },
-    "exam_use": "Use to discuss executive proposals for economic regulation and their political implications.",
+    "exam_use": "Cite when discussing the balance between executive authority and parliamentary scrutiny in an essay on the UK executive.",
     "sources": [
-     "1c53da53cacb"
+     "8ebdf7433812",
+     "200fdb468a66"
+    ]
+   },
+   {
+    "title": "Former DUP leader investigated for alleged rape in Parliament",
+    "section": "ukpol",
+    "topic": "parliament",
+    "what_happened": "Metropolitan Police confirmed a 63‑year‑old former DUP leader is being investigated over an alleged rape that allegedly took place inside the House of Commons. No name was given in the statement.",
+    "why_it_matters": "The case highlights parliamentary accountability and the role of law‑enforcement oversight of elected officials, relevant to the AQA UK Politics topic on democracy and participation.",
+    "perspectives": [
+     {
+      "label": "From unionist parties",
+      "text": "They call for swift action and stricter safeguarding within Westminster."
+     },
+     {
+      "label": "From nationalist parties",
+      "text": "They argue the investigation shows bias against unionist figures."
+     },
+     {
+      "label": "From civil‑rights groups",
+      "text": "They stress the need for robust protections for victims in political institutions."
+     }
+    ],
+    "key_term": {
+     "term": "parliamentary privilege",
+     "definition": "Legal immunity granted to MPs, allowing them to speak freely in debates without fear of legal action."
+    },
+    "exam_use": "Use as a case study when evaluating the effectiveness of parliamentary oversight mechanisms.",
+    "sources": [
+     "421caea8a2b1",
+     "22c762223e13"
+    ]
+   },
+   {
+    "title": "Poll shows Democrats ahead in key Senate races",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "A Cook Political Report poll found Democratic candidates leading in three critical Senate contests ahead of the midterms. The report is non‑partisan and tracks national trends.",
+    "why_it_matters": "The data illustrates electoral dynamics and voter sentiment, core to the AQA US Elections and direct‑democracy topic. It also reflects the impact of party branding on voter choices.",
+    "perspectives": [
+     {
+      "label": "Democratic analysts",
+      "text": "They view the lead as evidence of growing public dissatisfaction with Republican policies."
+     },
+     {
+      "label": "Republican commentators",
+      "text": "They warn the poll may overstate Democratic momentum and stress the volatility of swing states."
+     }
+    ],
+    "key_term": {
+     "term": "midterm elections",
+     "definition": "US elections held halfway through a president’s four‑year term, usually for Congress."
+    },
+    "exam_use": "Reference when discussing factors that influence US electoral outcomes in an essay on elections.",
+    "sources": [
+     "8302b5c5b5ef",
+     "b4da9cfc7590"
+    ]
+   },
+   {
+    "title": "Idaho abortion ban fuels citizen‑led initiative",
+    "section": "ideas",
+    "topic": "feminism",
+    "what_happened": "A PBS feature reports that Idaho’s strict abortion ban has reshaped reproductive‑care provision and sparked a grassroots campaign to overturn the law in upcoming elections.",
+    "why_it_matters": "The story connects to feminist ideas about bodily autonomy and the role of social movements, matching the AQA Political Ideas syllabus on feminism.",
+    "perspectives": [
+     {
+      "label": "Pro‑choice activists",
+      "text": "They argue the ban violates women’s rights and mobilise to restore access."
+     },
+     {
+      "label": "Conservative groups",
+      "text": "They claim the ban protects unborn life and reflects community values."
+     }
+    ],
+    "key_term": {
+     "term": "bodily autonomy",
+     "definition": "The right of individuals to make decisions about their own bodies without external interference."
+    },
+    "exam_use": "Use as contemporary evidence when evaluating feminist arguments about reproductive rights.",
+    "sources": [
+     "44d3e3b351b5"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK general elections use a first‑past‑the‑post system, with parties competing for constituency seats in Parliament.",
-   "us": "US Senate races involve single‑member districts and significant spending by super‑PACs, as seen in Mississippi.",
-   "insight": "The contrast shows how electoral rules shape campaign strategies and the influence of money, highlighting structural differences between Westminster and American systems.",
+   "theme": "courts",
+   "uk": "UK courts can review secondary legislation but rarely overturn primary Acts, reflecting parliamentary sovereignty.",
+   "us": "US Supreme Court can strike down federal statutes as unconstitutional, showing a strong judicial check on legislature.",
+   "insight": "The contrast shows differing balances of power: the UK limits judicial interference, whereas the US grants courts broader authority to protect constitutional rights.",
    "sources": [
-    "4312173689ef",
-    "205dc2d69390"
+    "8546e21a8403",
+    "8ebdf7433812"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The US Supreme Court decision reflects liberalism’s emphasis on individual rights and equality before the law, echoing thinkers like John Locke. The UK water reform proposal also draws on liberal ideas of public provision to ensure fair access.",
+   "ideology": "feminism",
+   "text": "The Idaho abortion‑ban story illustrates feminist core ideas about gender equality and control over reproductive decisions, echoing thinkers such as Mary Wollstonecraft who argued for women’s autonomy.",
    "sources": [
-    "872474740afa",
-    "1c53da53cacb"
+    "44d3e3b351b5"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive decisions on public services are constrained by legal and political challenges in the UK and US.",
-   "section": "ukgov",
-   "tip": "Structure your answer by comparing a UK case (e.g., water sector reform) with a US case (e.g., Supreme Court ruling on transgender inmates), using evidence of judicial review and political opposition."
+   "question": "Assess the extent to which courts can limit executive action in the UK and the US, using recent examples.",
+   "section": "ukgov | us",
+   "tip": "Compare the US Supreme Court’s ruling on transgender‑inmate policy with the limited judicial review of UK executive decisions on energy policy."
   }
  },
  "refs": {
-  "9f6965f3fa16": {
-   "id": "9f6965f3fa16",
-   "title": "Bereaved civil service families could face ‘unjust’ tax bills due to pension scheme delays",
-   "link": "https://www.theguardian.com/politics/2026/oct/21/bereaved-civil-service-families-tax-bills-pension-scheme-delays-capita-death-in-benefit-claims",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-21T11:12:49Z"
-  },
-  "4312173689ef": {
-   "id": "4312173689ef",
-   "title": "Jane Dodds to step down as Welsh Liberal Democrat leader",
-   "link": "https://nation.cymru/news/jane-dodds-to-step-down-as-welsh-liberal-democrat-leader/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-20T22:30:11Z"
-  },
-  "205dc2d69390": {
-   "id": "205dc2d69390",
-   "title": "Democratic super PAC to launch Senate ad campaign in Mississippi",
-   "link": "https://thehill.com/homenews/campaign/6160980-dem-pac-mississippi-senate-ads/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "8546e21a8403": {
+   "id": "8546e21a8403",
+   "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
+   "link": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-10-20T19:43:50Z"
+   "date": "2026-10-21T16:17:51Z"
   },
-  "872474740afa": {
-   "id": "872474740afa",
-   "title": "Supreme Court won’t revive Trump administration’s transgender inmate policy; Thomas, Alito dissent",
-   "link": "https://thehill.com/regulation/court-battles/6162801-supreme-court-trump-transgender-inmate-treatment/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "8ebdf7433812": {
+   "id": "8ebdf7433812",
+   "title": "Burnham proposes plan to cut standing charges from gas bills",
+   "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-21T15:26:38Z"
+   "date": "2026-10-21T17:06:16Z"
   },
-  "1c53da53cacb": {
-   "id": "1c53da53cacb",
-   "title": "Water sector to wait until 2027 for full details of Burnham’s overhaul",
-   "link": "https://www.politico.eu/article/water-sector-wait-2027-full-details-burnham-overhaul-uk/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+  "200fdb468a66": {
+   "id": "200fdb468a66",
+   "title": "Burnham’s gas gamble: Why he’s approved Jackdaw",
+   "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/burnhams-gas-gamble-why-hes-approved-jackdaw/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
    "source": "politicoeu",
    "sourceName": "Politico Europe",
    "lean": "centre",
-   "date": "2026-10-21T15:14:30Z"
+   "date": "2026-10-21T07:17:00Z"
+  },
+  "421caea8a2b1": {
+   "id": "421caea8a2b1",
+   "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
+   "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+   "source": "bbcni",
+   "sourceName": "BBC Northern Ireland",
+   "lean": "centre",
+   "date": "2026-10-21T14:26:24Z"
+  },
+  "22c762223e13": {
+   "id": "22c762223e13",
+   "title": "Ex-DUP chief faces new allegation of raping woman inside Westminster",
+   "link": "https://www.politico.eu/article/jeffrey-donaldson-democratic-unionist-party-dup-new-allegation-rape-woman-westminster/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
+   "lean": "centre",
+   "date": "2026-10-21T17:32:57Z"
+  },
+  "8302b5c5b5ef": {
+   "id": "8302b5c5b5ef",
+   "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
+   "link": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-10-21T20:56:07Z"
+  },
+  "b4da9cfc7590": {
+   "id": "b4da9cfc7590",
+   "title": "Cook Political Report polls find Democrats leading three critical Senate races",
+   "link": "https://thehill.com/homenews/campaign/6163761-cook-poll-democrats-lead-senate/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-21T20:14:37Z"
+  },
+  "44d3e3b351b5": {
+   "id": "44d3e3b351b5",
+   "title": "How Idaho's abortion ban reshaped reproductive care and fueled a fight for change",
+   "link": "https://www.pbs.org/newshour/show/how-idahos-abortion-ban-reshaped-reproductive-care-and-fueled-a-fight-for-change",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-10-21T22:35:33Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
