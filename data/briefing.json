@@ -1,180 +1,180 @@
 {
- "generated_at": "2026-10-22T00:00:21Z",
+ "generated_at": "2026-10-22T10:10:46Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Supreme Court blocks Trump rule; UK gas plan sparks debate; DUP scandal deepens",
-  "overview": "The US Supreme Court rejected a Trump administration rule on transgender inmates, while the UK government faces criticism over a new gas‑field plan. In Northern Ireland, a former DUP leader is under police investigation for alleged rape.",
+  "headline": "Governments grapple with health, elections and legal challenges",
+  "overview": "Today's news shows UK ministers proposing energy bill changes, Welsh devolution scrutiny, and US courts ruling on transgender inmate rights. US mid‑term polling scandals and political ads also dominate the headlines.",
   "stories": [
    {
-    "title": "US Supreme Court rejects Trump transgender‑inmate rule",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The Supreme Court refused to allow the Trump administration to enforce new medical restrictions for transgender prisoners. The decision leaves the existing policy in place.",
-    "why_it_matters": "The case illustrates judicial review of executive action, a key concept in the AQA US Constitution and courts topic. It also raises questions about civil‑rights protections for vulnerable groups.",
+    "title": "UK gas bill reform proposal",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Burnham announced a plan to cut standing charges on gas bills, shifting costs onto unit rates. Details of the implementation were not disclosed.",
+    "why_it_matters": "The proposal illustrates executive power to set fiscal policy and its impact on consumers, a key A‑level topic. It also raises questions about the balance between government intervention and market forces.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The Court protected the constitutional rights of transgender inmates against discriminatory policy."
+      "text": "The plan will lower household bills and stimulate the economy by reducing fixed costs."
      },
      {
       "label": "Critics argue",
-      "text": "The decision hampers the administration’s ability to manage prison health costs and security."
+      "text": "Shifting costs to unit rates could increase charges for high‑usage households and burden vulnerable consumers."
+     },
+     {
+      "label": "From the right",
+      "text": "Emphasises the need for market‑driven solutions rather than government mandates."
      }
     ],
     "key_term": {
-     "term": "judicial review",
-     "definition": "The power of courts to examine the legality of executive or legislative actions."
+     "term": "Standing charge",
+     "definition": "A fixed fee added to utility bills regardless of consumption."
     },
-    "exam_use": "Use as evidence in an essay on the role of the US courts in checking executive power.",
+    "exam_use": "Use as evidence in an essay on executive influence over economic policy.",
+    "sources": [
+     "8ebdf7433812"
+    ]
+   },
+   {
+    "title": "Welsh Covid‑19 pandemic review",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "The Welsh Government confirmed an independent review of the previous Labour administration’s handling of Covid‑19. The review will focus on Wales‑specific policies and outcomes.",
+    "why_it_matters": "The story highlights devolution, showing how regional governments can be held accountable separate from Westminster. It also touches on the principle of subsidiarity in the UK constitution.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "An independent review will improve transparency and future crisis management."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The review may politicise pandemic decisions and distract from current priorities."
+     },
+     {
+      "label": "From the left",
+      "text": "Calls for thorough scrutiny to address any failures in public health."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The transfer of powers from central government to regional bodies."
+    },
+    "exam_use": "Cite in a paper comparing the powers of the Welsh Senedd with the UK Parliament.",
+    "sources": [
+     "4596f8a7ed24"
+    ]
+   },
+   {
+    "title": "US Supreme Court blocks transgender inmate restrictions",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court refused to allow the Trump administration to enforce new medical restrictions for transgender prisoners. The decision leaves existing policies in place.",
+    "why_it_matters": "The case demonstrates judicial review of executive actions, a core component of the US constitutional system. It also raises civil‑rights issues relevant to A‑level discussions of courts and rights.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The ruling protects the constitutional rights of vulnerable inmates."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The Court is overstepping by interfering with executive discretion on prison management."
+     },
+     {
+      "label": "From the liberal side",
+      "text": "Emphasises individual liberty and equal protection under the law."
+     }
+    ],
+    "key_term": {
+     "term": "Judicial review",
+     "definition": "The power of courts to assess the legality of legislative and executive actions."
+    },
+    "exam_use": "Use as evidence when evaluating the role of the US judiciary in protecting civil rights.",
     "sources": [
      "8546e21a8403"
     ]
    },
    {
-    "title": "Prime Minister proposes gas‑field approval to cut household charges",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Burnham announced approval of the Jackdaw gas field, saying it will help lower standing charges on gas bills. Details on how costs will be shifted to unit prices were not provided.",
-    "why_it_matters": "The story links to the AQA UK Government topic on the executive and its policy‑making role, and raises issues of energy security versus environmental concerns.",
-    "perspectives": [
-     {
-      "label": "From the government",
-      "text": "The approval secures energy supply and reduces bills for consumers."
-     },
-     {
-      "label": "From the opposition",
-      "text": "Opponents warn it undermines climate targets and may increase long‑term costs."
-     },
-     {
-      "label": "From environmental groups",
-      "text": "Campaigners argue the decision contradicts the UK’s net‑zero commitments."
-     }
-    ],
-    "key_term": {
-     "term": "executive discretion",
-     "definition": "The freedom of the Prime Minister and Cabinet to make policy decisions without prior parliamentary approval."
-    },
-    "exam_use": "Cite when discussing the balance between executive authority and parliamentary scrutiny in an essay on the UK executive.",
-    "sources": [
-     "8ebdf7433812",
-     "200fdb468a66"
-    ]
-   },
-   {
-    "title": "Former DUP leader investigated for alleged rape in Parliament",
-    "section": "ukpol",
-    "topic": "parliament",
-    "what_happened": "Metropolitan Police confirmed a 63‑year‑old former DUP leader is being investigated over an alleged rape that allegedly took place inside the House of Commons. No name was given in the statement.",
-    "why_it_matters": "The case highlights parliamentary accountability and the role of law‑enforcement oversight of elected officials, relevant to the AQA UK Politics topic on democracy and participation.",
-    "perspectives": [
-     {
-      "label": "From unionist parties",
-      "text": "They call for swift action and stricter safeguarding within Westminster."
-     },
-     {
-      "label": "From nationalist parties",
-      "text": "They argue the investigation shows bias against unionist figures."
-     },
-     {
-      "label": "From civil‑rights groups",
-      "text": "They stress the need for robust protections for victims in political institutions."
-     }
-    ],
-    "key_term": {
-     "term": "parliamentary privilege",
-     "definition": "Legal immunity granted to MPs, allowing them to speak freely in debates without fear of legal action."
-    },
-    "exam_use": "Use as a case study when evaluating the effectiveness of parliamentary oversight mechanisms.",
-    "sources": [
-     "421caea8a2b1",
-     "22c762223e13"
-    ]
-   },
-   {
-    "title": "Poll shows Democrats ahead in key Senate races",
+    "title": "Fake poll scandal threatens US mid‑terms",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "A Cook Political Report poll found Democratic candidates leading in three critical Senate contests ahead of the midterms. The report is non‑partisan and tracks national trends.",
-    "why_it_matters": "The data illustrates electoral dynamics and voter sentiment, core to the AQA US Elections and direct‑democracy topic. It also reflects the impact of party branding on voter choices.",
+    "what_happened": "Two polling firms admitted to falsifying data in a series of polls released over the past year, prompting concerns about the credibility of election forecasting. The scandal emerged just before the mid‑term elections.",
+    "why_it_matters": "Accurate polling is essential for democratic accountability and informed voting, linking to A‑level themes of elections and public opinion. The incident may affect voter trust in the electoral process.",
     "perspectives": [
      {
-      "label": "Democratic analysts",
-      "text": "They view the lead as evidence of growing public dissatisfaction with Republican policies."
+      "label": "Supporters argue",
+      "text": "The exposure shows the system can self‑correct and improve transparency."
      },
      {
-      "label": "Republican commentators",
-      "text": "They warn the poll may overstate Democratic momentum and stress the volatility of swing states."
+      "label": "Critics argue",
+      "text": "It undermines public confidence and could distort campaign strategies."
+     },
+     {
+      "label": "From the left",
+      "text": "Calls for stricter regulation of polling organisations."
      }
     ],
     "key_term": {
-     "term": "midterm elections",
-     "definition": "US elections held halfway through a president’s four‑year term, usually for Congress."
+     "term": "Polling",
+     "definition": "The systematic collection and analysis of public opinion data."
     },
-    "exam_use": "Reference when discussing factors that influence US electoral outcomes in an essay on elections.",
+    "exam_use": "Reference in an essay on the impact of media and information on electoral outcomes.",
     "sources": [
-     "8302b5c5b5ef",
-     "b4da9cfc7590"
+     "99a95df31d0e"
     ]
    },
    {
-    "title": "Idaho abortion ban fuels citizen‑led initiative",
-    "section": "ideas",
-    "topic": "feminism",
-    "what_happened": "A PBS feature reports that Idaho’s strict abortion ban has reshaped reproductive‑care provision and sparked a grassroots campaign to overturn the law in upcoming elections.",
-    "why_it_matters": "The story connects to feminist ideas about bodily autonomy and the role of social movements, matching the AQA Political Ideas syllabus on feminism.",
+    "title": "Labour Chancellor faces business pressure",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Chancellor John Healey said Labour has put significant pressure on businesses and pledged to cut red‑tape for small firms in the upcoming budget. The announcement follows criticism from the opposition.",
+    "why_it_matters": "The story illustrates party politics and policy positioning ahead of elections, relevant to the A‑level study of political parties and their platforms. It also touches on the relationship between government and the private sector.",
     "perspectives": [
      {
-      "label": "Pro‑choice activists",
-      "text": "They argue the ban violates women’s rights and mobilise to restore access."
+      "label": "Supporters argue",
+      "text": "Reducing bureaucracy will help entrepreneurs and boost growth."
      },
      {
-      "label": "Conservative groups",
-      "text": "They claim the ban protects unborn life and reflects community values."
+      "label": "Critics argue",
+      "text": "Cuts may weaken consumer protections and regulatory oversight."
+     },
+     {
+      "label": "From the right",
+      "text": "Advocates for even greater market freedom and lower taxes."
      }
     ],
     "key_term": {
-     "term": "bodily autonomy",
-     "definition": "The right of individuals to make decisions about their own bodies without external interference."
+     "term": "Red tape",
+     "definition": "Excessive bureaucratic regulation that hinders business activity."
     },
-    "exam_use": "Use as contemporary evidence when evaluating feminist arguments about reproductive rights.",
+    "exam_use": "Use as a case study of how parties shape economic policy to attract voters.",
     "sources": [
-     "44d3e3b351b5"
+     "7d53c7fea30c"
     ]
    }
   ],
   "compare": {
-   "theme": "courts",
-   "uk": "UK courts can review secondary legislation but rarely overturn primary Acts, reflecting parliamentary sovereignty.",
-   "us": "US Supreme Court can strike down federal statutes as unconstitutional, showing a strong judicial check on legislature.",
-   "insight": "The contrast shows differing balances of power: the UK limits judicial interference, whereas the US grants courts broader authority to protect constitutional rights.",
+   "theme": "executives",
+   "uk": "The UK Prime Minister proposes changes to gas billing, using executive authority to set fiscal policy.",
+   "us": "The US President's administration sought Supreme Court approval for a border wall, illustrating executive attempts to direct policy through the courts.",
+   "insight": "Both examples show executives leveraging different branches—legislative in the UK and judicial in the US—to achieve policy goals, highlighting constitutional differences.",
    "sources": [
-    "8546e21a8403",
-    "8ebdf7433812"
+    "8ebdf7433812",
+    "9ab43ce2b701"
    ]
   },
   "ideas_lens": {
-   "ideology": "feminism",
-   "text": "The Idaho abortion‑ban story illustrates feminist core ideas about gender equality and control over reproductive decisions, echoing thinkers such as Mary Wollstonecraft who argued for women’s autonomy.",
+   "ideology": "liberalism",
+   "text": "The Supreme Court's decision to protect transgender inmates reflects liberalism's emphasis on individual rights and equality before the law, echoing thinkers like John Locke who argued for natural rights.",
    "sources": [
-    "44d3e3b351b5"
+    "8546e21a8403"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which courts can limit executive action in the UK and the US, using recent examples.",
+   "question": "Evaluate the extent to which executive power can be used to influence economic policy in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Compare the US Supreme Court’s ruling on transgender‑inmate policy with the limited judicial review of UK executive decisions on energy policy."
+   "tip": "Compare the UK Prime Minister's gas‑bill proposal with the US President's attempt to use the Supreme Court for border‑wall approval, using specific examples."
   }
  },
  "refs": {
-  "8546e21a8403": {
-   "id": "8546e21a8403",
-   "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
-   "link": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-21T16:17:51Z"
-  },
   "8ebdf7433812": {
    "id": "8ebdf7433812",
    "title": "Burnham proposes plan to cut standing charges from gas bills",
@@ -184,59 +184,50 @@
    "lean": "centre",
    "date": "2026-10-21T17:06:16Z"
   },
-  "200fdb468a66": {
-   "id": "200fdb468a66",
-   "title": "Burnham’s gas gamble: Why he’s approved Jackdaw",
-   "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/burnhams-gas-gamble-why-hes-approved-jackdaw/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-10-21T07:17:00Z"
-  },
-  "421caea8a2b1": {
-   "id": "421caea8a2b1",
-   "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-   "link": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-   "source": "bbcni",
-   "sourceName": "BBC Northern Ireland",
-   "lean": "centre",
-   "date": "2026-10-21T14:26:24Z"
-  },
-  "22c762223e13": {
-   "id": "22c762223e13",
-   "title": "Ex-DUP chief faces new allegation of raping woman inside Westminster",
-   "link": "https://www.politico.eu/article/jeffrey-donaldson-democratic-unionist-party-dup-new-allegation-rape-woman-westminster/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-10-21T17:32:57Z"
-  },
-  "8302b5c5b5ef": {
-   "id": "8302b5c5b5ef",
-   "title": "Poll: Voters want Congress to be a check on Trump, trust Democrats more on issues",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-6011179/poll-democrats-republicans-trump-approval",
-   "source": "npr",
-   "sourceName": "NPR",
+  "4596f8a7ed24": {
+   "id": "4596f8a7ed24",
+   "title": "Plaid Cymru Minister announces Wales-specific Covid review",
+   "link": "https://nation.cymru/news/plaid-cymru-minister-announces-wales-specific-covid-review/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-21T20:56:07Z"
+   "date": "2026-10-21T19:48:24Z"
   },
-  "b4da9cfc7590": {
-   "id": "b4da9cfc7590",
-   "title": "Cook Political Report polls find Democrats leading three critical Senate races",
-   "link": "https://thehill.com/homenews/campaign/6163761-cook-poll-democrats-lead-senate/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-21T20:14:37Z"
-  },
-  "44d3e3b351b5": {
-   "id": "44d3e3b351b5",
-   "title": "How Idaho's abortion ban reshaped reproductive care and fueled a fight for change",
-   "link": "https://www.pbs.org/newshour/show/how-idahos-abortion-ban-reshaped-reproductive-care-and-fueled-a-fight-for-change",
+  "8546e21a8403": {
+   "id": "8546e21a8403",
+   "title": "Supreme Court rebuffs Trump administration restrictions on medical care for transgender inmates",
+   "link": "https://www.pbs.org/newshour/politics/supreme-court-rebuffs-trump-administration-restrictions-on-medical-care-for-transgender-inmates",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-10-21T22:35:33Z"
+   "date": "2026-10-21T16:17:51Z"
+  },
+  "99a95df31d0e": {
+   "id": "99a95df31d0e",
+   "title": "Fake polls fooled the political world. Now the midterms face a trust crisis",
+   "link": "https://thehill.com/homenews/campaign/6164240-polling-industry-fake-results-scandal/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-22T10:00:00Z"
+  },
+  "7d53c7fea30c": {
+   "id": "7d53c7fea30c",
+   "title": "Chancellor accepts Labour has put a ‘lot of pressure’ on business and says helping entrepreneurs will be a budget priority – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-22T09:41:58Z"
+  },
+  "9ab43ce2b701": {
+   "id": "9ab43ce2b701",
+   "title": "Trump administration asks justices to allow border wall construction to continue",
+   "link": "https://www.scotusblog.com/2026/10/trump-administration-asks-justices-to-allow-border-wall-construction-to-continue/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-10-21T23:10:20Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
