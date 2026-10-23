@@ -1,162 +1,218 @@
 {
- "generated_at": "2026-10-23T10:03:51Z",
+ "generated_at": "2026-10-23T15:44:57Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, UK reforms and Welsh party battles dominate headlines",
-  "overview": "US courts are shaping voter ID rules ahead of the midterms, while Britain debates budget control and House of Lords reform. In Wales, party disputes over infrastructure and council seats highlight devolution dynamics.",
+  "headline": "Key rulings and regional shifts reshape politics today",
+  "overview": "The US Supreme Court limits student‑ID voting in New Hampshire, Wales confirms its Covid review lacks legal power, and Plaid Cymru wins a council seat from Labour. Across the Atlantic, election‑related lawsuits and a White House diplomatic note add further tension.",
   "stories": [
    {
-    "title": "Supreme Court limits student ID voting in New Hampshire",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The US Supreme Court ruled that New Hampshire’s top election official can fully block voters from using student IDs at polls. The decision was issued on 22 October 2026.",
-    "why_it_matters": "It illustrates judicial influence over electoral administration, a key theme in the A‑level US Constitution and courts unit. The case raises questions about voter access and federalism.",
+    "title": "Welsh Covid‑19 review lacks statutory powers",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "The Welsh Government announced that its Covid‑19 inquiry will not have legal authority to compel witnesses. First Minister Mark Drakeford said the review will rely on voluntary cooperation.",
+    "why_it_matters": "The story illustrates the limits of devolved powers under the UK constitution and raises questions about accountability in public health. It links to A‑level study of devolution and the balance of powers between Westminster and the nations.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "They say the ruling protects election integrity by preventing potential fraud."
+      "label": "Welsh Government",
+      "text": "Argues the review will still achieve transparency without coercive powers."
      },
      {
-      "label": "Critics argue",
-      "text": "They claim it disenfranchises young voters and undermines democratic participation."
+      "label": "Opposition parties",
+      "text": "Warn that the lack of statutory powers may undermine the inquiry’s effectiveness."
+     },
+     {
+      "label": "Constitutional scholars",
+      "text": "Note that devolution settlements do not automatically grant legislative competence for inquiries."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The transfer of certain powers from the central UK Parliament to regional bodies such as the Welsh Senedd."
+    },
+    "exam_use": "Use as evidence when evaluating the strengths and weaknesses of devolution in an essay on the UK constitution.",
+    "sources": [
+     "200188b75dc2"
+    ]
+   },
+   {
+    "title": "Supreme Court blocks student‑ID voting in New Hampshire",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court ruled that New Hampshire officials may fully prohibit the use of student identification cards at polling stations. The decision came ahead of the 2026 midterm elections.",
+    "why_it_matters": "The ruling highlights the role of the US judiciary in interpreting election law and its impact on voter access, a key theme in the A‑level US Constitution and elections content.",
+    "perspectives": [
+     {
+      "label": "Civil‑rights groups",
+      "text": "Argue the decision disenfranchises young voters and conflicts with equal protection principles."
+     },
+     {
+      "label": "State officials",
+      "text": "Maintain the ruling protects election integrity by preventing fraud."
+     },
+     {
+      "label": "Legal scholars",
+      "text": "Point out the case underscores tensions between federal judicial authority and state election administration."
      }
     ],
     "key_term": {
      "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of actions by public bodies."
+     "definition": "The power of courts to assess the constitutionality of legislative and executive actions."
     },
-    "exam_use": "Use as evidence in an essay on how courts can shape electoral rights in the US.",
+    "exam_use": "Cite when discussing the checks and balances between the US courts and state governments in a constitution essay.",
     "sources": [
      "6a0822cbf253"
     ]
    },
    {
-    "title": "DOJ seeks court block on California mail‑in ballots",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "The Department of Justice asked an appeals court to intervene in its lawsuit to temporarily stop California from counting over 20,000 mail‑in ballots. The request was filed on 23 October 2026.",
-    "why_it_matters": "The case highlights federal involvement in state election administration, linking to the A‑level topics of federalism and the role of the courts in elections.",
-    "perspectives": [
-     {
-      "label": "From the DOJ",
-      "text": "It argues the ballots may violate federal election law."
-     },
-     {
-      "label": "From civil‑rights groups",
-      "text": "They warn the move could suppress votes, especially among minorities."
-     }
-    ],
-    "key_term": {
-     "term": "Federalism",
-     "definition": "The division of power between national and sub‑national governments."
-    },
-    "exam_use": "Cite when discussing tensions between state autonomy and federal oversight in US elections.",
-    "sources": [
-     "d7935601c5b3"
-    ]
-   },
-   {
-    "title": "Building Safety Bill introduced to tackle unsafe cladding",
-    "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "The Building Safety (Remediation of Unsafe Cladding etc) Bill was introduced on 14 October 2026 to address historic safety risks in high‑rise buildings. It aims to ensure remediation of unsafe cladding.",
-    "why_it_matters": "The bill shows how Parliament legislates to respond to public safety crises, relevant to the A‑level Constitution and Parliament unit.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "It provides necessary powers to protect residents and hold developers accountable."
-     },
-     {
-      "label": "Critics argue",
-      "text": "They fear it could impose excessive costs on housing providers and delay construction."
-     }
-    ],
-    "key_term": {
-     "term": "Primary legislation",
-     "definition": "Laws passed by both Houses of Parliament and receiving Royal Assent."
-    },
-    "exam_use": "Use as a case study of how Parliament can create new safety regulations.",
-    "sources": [
-     "f5d6b79235ee"
-    ]
-   },
-   {
-    "title": "Plaid Cymru wins council seat from Labour in by‑election",
+    "title": "Plaid Cymru wins council seat from Labour",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Plaid Cymru candidate Nicholas Davies captured a council seat previously held by Labour in a by‑election reported on 23 October 2026. The win followed the death of a long‑standing councillor.",
-    "why_it_matters": "The result illustrates party competition at the local level, linking to the A‑level study of political parties and electoral behaviour.",
+    "what_happened": "Plaid Cymru captured a council seat in a by‑election, taking it from Labour after the death of a long‑serving councillor. The win was reported by Nation.Cymru.",
+    "why_it_matters": "The result demonstrates shifting party support at the local level and offers a case study of party competition and voter behaviour, relevant to the A‑level politics unit on parties and elections.",
     "perspectives": [
      {
-      "label": "From Plaid Cymru",
-      "text": "They view the gain as evidence of growing support for Welsh nationalism."
+      "label": "Plaid Cymru",
+      "text": "Celebrates the gain as evidence of growing nationalist appeal in Wales."
      },
      {
-      "label": "From Labour",
-      "text": "They see it as a warning sign of declining urban support."
+      "label": "Labour",
+      "text": "Calls for introspection after losing a traditionally safe seat."
+     },
+     {
+      "label": "Political analysts",
+      "text": "Suggest the outcome may reflect broader dissatisfaction with national Labour policies."
      }
     ],
     "key_term": {
-     "term": "By‑election",
-     "definition": "An election held to fill a political office that has become vacant between general elections."
+     "term": "Party system",
+     "definition": "The pattern of competition and interaction among political parties in a given polity."
     },
-    "exam_use": "Reference when analysing how local elections can shift party power balances.",
+    "exam_use": "Use as a recent example of local electoral change when answering a question on party competition.",
     "sources": [
      "fe061a14e7b2"
     ]
    },
    {
-    "title": "Welsh Labour criticised over M4 relief road reversal",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "Welsh Labour faced criticism after it scrapped the M4 relief road project while in government, yet later tabled a motion calling for the road’s reinstatement, reported on 23 October 2026.",
-    "why_it_matters": "The episode highlights tensions between party policy and devolutionary decision‑making, pertinent to the A‑level topics of devolution and party politics.",
+    "title": "Trump deposition ordered in BBC defamation case",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "A US magistrate judge ruled that former President Donald Trump must give a deposition in his defamation lawsuit against the BBC. The order was issued on 23 October.",
+    "why_it_matters": "The case illustrates how US courts can compel testimony from high‑profile political figures, linking to the study of judicial powers and the separation of powers in the US system.",
     "perspectives": [
      {
-      "label": "From Welsh Labour",
-      "text": "They argue the reversal reflects changing transport priorities."
+      "label": "Trump supporters",
+      "text": "Claim the order is politically motivated and an abuse of judicial power."
      },
      {
-      "label": "From opposition parties",
-      "text": "They accuse Labour of hypocrisy and poor planning."
+      "label": "Media organisations",
+      "text": "View the ruling as a defence of press freedom against defamation claims."
+     },
+     {
+      "label": "Legal commentators",
+      "text": "Note the decision reinforces the principle that no one is above the law."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from central government to regional bodies."
+     "term": "Deposition",
+     "definition": "A sworn out‑of‑court testimony used as evidence in legal proceedings."
     },
-    "exam_use": "Use to discuss how devolved administrations manage infrastructure policy.",
+    "exam_use": "Reference when discussing the role of the US judiciary in checking executive actions.",
     "sources": [
-     "df70bf4e5665"
+     "167290a75b66"
+    ]
+   },
+   {
+    "title": "Buttigieg backs independent in Montana Senate race",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Former Transportation Secretary Pete Buttigieg publicly endorsed independent candidate Seth Bodnar over the Democratic nominee in Montana’s Senate election. The endorsement was reported by The Hill.",
+    "why_it_matters": "The endorsement highlights intra‑party dynamics and the strategic calculations parties make in competitive races, a topic covered in the A‑level unit on US parties and elections.",
+    "perspectives": [
+     {
+      "label": "Democratic Party",
+      "text": "Criticises the endorsement as undermining party unity."
+     },
+     {
+      "label": "Independent supporters",
+      "text": "Welcome the high‑profile backing as validation of third‑party viability."
+     },
+     {
+      "label": "Political scientists",
+      "text": "Suggest the move reflects growing voter dissatisfaction with the two‑party system."
+     }
+    ],
+    "key_term": {
+     "term": "Third‑party candidate",
+     "definition": "A political contender who is not affiliated with either of the two major parties."
+    },
+    "exam_use": "Use to illustrate challenges faced by third‑party candidates in US elections.",
+    "sources": [
+     "4734197f6f34"
+    ]
+   },
+   {
+    "title": "White House says Melania Trump helped broker Ukraine truce",
+    "section": "us",
+    "topic": "president",
+    "what_happened": "The White House reported that former First Lady Melania Trump facilitated a temporary cease‑fire in the Ukrainian town of Oleshky, though neither side has confirmed the deal. The story appeared on BBC News (US).",
+    "why_it_matters": "The claim shows how personal diplomacy can intersect with official foreign policy, relevant to the study of presidential powers and soft power in US politics.",
+    "perspectives": [
+     {
+      "label": "US administration",
+      "text": "Highlights the former First Lady’s role as a back‑channel negotiator."
+     },
+     {
+      "label": "Ukrainian officials",
+      "text": "Remain cautious, noting no formal verification of the truce."
+     },
+     {
+      "label": "International relations experts",
+      "text": "Debate the effectiveness and legitimacy of informal diplomatic efforts."
+     }
+    ],
+    "key_term": {
+     "term": "Soft power",
+     "definition": "The ability to influence others through attraction and persuasion rather than coercion."
+    },
+    "exam_use": "Cite when discussing the range of tools available to the US President in foreign policy.",
+    "sources": [
+     "f8deac049ef3"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parliamentary elections are scheduled for 2027, with parties campaigning on issues like the budget and House of Lords reform.",
-   "us": "US midterm elections in November 2026 are being shaped by court rulings on voter ID and mail‑in ballot eligibility.",
-   "insight": "The contrast shows the UK’s fixed‑date, party‑centric election system versus the US’s staggered, court‑influenced electoral landscape.",
+   "uk": "Local by‑elections, such as Plaid Cymru’s gain, show how party competition can shift council control without national headlines.",
+   "us": "Supreme Court rulings on voter ID and lawsuits over Senate certification illustrate how courts directly shape election outcomes.",
+   "insight": "The contrast reveals that UK elections are mainly contested by parties, whereas US elections are heavily influenced by judicial decisions, highlighting different institutional checks.",
    "sources": [
-    "f5d6b79235ee",
-    "6a0822cbf253",
-    "d7935601c5b3"
+    "fe061a14e7b2",
+    "6a0822cbf253"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Liberalism’s emphasis on individual rights underpins the US Supreme Court’s focus on voter ID rules, while UK liberal ideas appear in calls for transparent House of Lords reform and safe housing standards.",
+   "text": "The US Supreme Court’s decision on student IDs raises liberal concerns about individual rights and equal access to political participation, echoing John Stuart Mill’s emphasis on protecting minorities from majoritarian rule.",
    "sources": [
-    "6a0822cbf253",
-    "f5d6b79235ee"
+    "6a0822cbf253"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which judicial decisions can influence electoral participation in the United States and the United Kingdom.",
-   "section": "ideas",
-   "tip": "Compare the US Supreme Court ruling on student IDs with UK parliamentary debates on electoral reform, using specific examples."
+   "question": "Assess the extent to which judicial decisions can influence electoral outcomes in the United States and the United Kingdom.",
+   "section": "us | ukgov",
+   "tip": "Compare the US Supreme Court’s voter‑ID ruling with the limited judicial role in UK local elections, using recent cases as evidence."
   }
  },
  "refs": {
+  "200188b75dc2": {
+   "id": "200188b75dc2",
+   "title": "No legal powers for Welsh Covid-19 review, first minister says",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6nzdeq2j2o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-10-23T11:22:46Z"
+  },
   "6a0822cbf253": {
    "id": "6a0822cbf253",
    "title": "Supreme Court rules NH can block voters from using student IDs",
@@ -166,24 +222,6 @@
    "lean": "centre",
    "date": "2026-10-22T22:50:58Z"
   },
-  "d7935601c5b3": {
-   "id": "d7935601c5b3",
-   "title": "DOJ asks appeals court to intervene for California mail-in ballot lawsuit",
-   "link": "https://thehill.com/regulation/court-battles/6167264-doj-blocks-california-mail-in-ballots/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-23T03:12:45Z"
-  },
-  "f5d6b79235ee": {
-   "id": "f5d6b79235ee",
-   "title": "The Building Safety (Remediation of Unsafe Cladding etc) Bill 2026-27",
-   "link": "https://commonslibrary.parliament.uk/research-briefings/cbp-12249/",
-   "source": "commonslib",
-   "sourceName": "House of Commons Library",
-   "lean": "non-partisan",
-   "date": "2026-10-23T09:25:50Z"
-  },
   "fe061a14e7b2": {
    "id": "fe061a14e7b2",
    "title": "Plaid Cymru gains Labour seat in council by-election",
@@ -191,16 +229,34 @@
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-23T09:40:57Z"
+   "date": "2026-10-23T15:32:57Z"
   },
-  "df70bf4e5665": {
-   "id": "df70bf4e5665",
-   "title": "Welsh Labour criticised over calls for M4 relief road after axing plans while in government",
-   "link": "https://nation.cymru/news/welsh-labour-criticised-over-calls-for-m4-relief-road-after-axing-plans-while-in-government/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "167290a75b66": {
+   "id": "167290a75b66",
+   "title": "Trump must sit for a deposition in his BBC defamation lawsuit, judge rules",
+   "link": "https://www.npr.org/2026/10/23/nx-s1-6012695/trump-must-sit-for-a-deposition-in-his-bbc-defamation-lawsuit-judge-rules",
+   "source": "npr",
+   "sourceName": "NPR",
    "lean": "centre-left",
-   "date": "2026-10-23T09:19:52Z"
+   "date": "2026-10-23T08:41:38Z"
+  },
+  "4734197f6f34": {
+   "id": "4734197f6f34",
+   "title": "Buttigieg endorses independent in Montana Senate race with a Democrat still on the ballot",
+   "link": "https://thehill.com/homenews/campaign/6168287-buttigieg-bodnar-montana-senate-endorsement/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-23T15:33:28Z"
+  },
+  "f8deac049ef3": {
+   "id": "f8deac049ef3",
+   "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-10-23T15:06:27Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
