@@ -1,208 +1,177 @@
 {
- "generated_at": "2026-10-24T09:32:28Z",
+ "generated_at": "2026-10-24T14:32:59Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Election battles and policy debates dominate UK and US headlines",
-  "overview": "US courts are ruling on voting rules while the White House faces election‑related lawsuits. In the UK, the new budget aims to tackle the cost‑of‑living crisis and levelling‑up projects remain unfinished.",
+  "headline": "Trump‑ordered lawsuit sparks US Senate race controversy",
+  "overview": "President Trump claims to have directed the Justice Department to sue over Alaska’s Senate results, while Democrats label it a desperate power grab. The move intensifies partisan battles ahead of the US mid‑terms.",
   "stories": [
    {
-    "title": "Healey’s budget targets living costs",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Chancellor John Healey presented his first budget, promising measures to ease the cost‑of‑living crisis. The budget also includes funding for the Burnham project to create \"breathing space\" for households.",
-    "why_it_matters": "The budget illustrates how the executive uses fiscal policy to address economic challenges, a key part of the A‑level UK Government syllabus. It also shows the relationship between the Treasury and Parliament in approving spending.",
+    "title": "Trump orders DOJ lawsuit over Alaska Senate race",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "President Trump said he ordered the Justice Department to file a lawsuit to block certification of Alaska’s Senate results if a Republican loses. The suit targets the presence of a second candidate, Dan Sullivan, whom Republicans fear could split the vote.",
+    "why_it_matters": "The case illustrates how parties use legal mechanisms to influence electoral outcomes, a key theme in A‑level US Politics under the study of elections and party competition. It also raises questions about the separation of powers between the executive and the judiciary.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The measures will provide immediate relief to families struggling with rising prices."
+      "text": "Trump’s allies say the lawsuit protects the integrity of the election by preventing vote‑splitting."
      },
      {
       "label": "Critics argue",
-      "text": "The budget relies on borrowing and may increase public debt without solving underlying inflation."
+      "text": "Democrats contend the move is an attempt to overturn the democratic will and undermine the courts."
      },
      {
       "label": "From the right",
-      "text": "Fiscal stimulus is necessary to prevent a deeper recession."
+      "text": "Conservatives argue that legal challenges are a legitimate tool when electoral rules are ambiguous."
      }
     ],
     "key_term": {
-     "term": "Fiscal policy",
-     "definition": "Government decisions about taxation and spending to influence the economy."
+     "term": "separation of powers",
+     "definition": "The constitutional principle that legislative, executive and judicial functions are divided to prevent abuse of power."
     },
-    "exam_use": "Use as evidence of how the executive can shape economic policy in an essay on the powers of the UK government.",
-    "sources": [
-     "26ac21f4c166"
-    ]
-   },
-   {
-    "title": "Levelling‑up projects lag behind promises",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Freedom‑of‑information data show hundreds of levelling‑up projects remain unfinished years after funding was allocated. The report highlights delays in schemes meant to boost regional equality.",
-    "why_it_matters": "The story links to the A‑level topic of political parties and their policy commitments, showing how party promises are scrutinised by the public and media.",
-    "perspectives": [
-     {
-      "label": "From the Conservatives",
-      "text": "Delays are due to bureaucratic hurdles beyond the party's control."
-     },
-     {
-      "label": "From Labour",
-      "text": "The failures illustrate the government's neglect of regional disparities."
-     },
-     {
-      "label": "From local councils",
-      "text": "Insufficient guidance and funding cuts hinder project delivery."
-     }
-    ],
-    "key_term": {
-     "term": "Policy implementation",
-     "definition": "The process of putting government decisions into practice."
-    },
-    "exam_use": "Cite as evidence when evaluating the effectiveness of party‑led policy programmes.",
-    "sources": [
-     "4cd4e797bff9"
-    ]
-   },
-   {
-    "title": "Supreme Court clears New Hampshire student‑ID ban",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The US Supreme Court allowed New Hampshire to fully ban the use of student identification cards for voting in the upcoming midterm elections. The decision removes a previous restriction that limited the ban.",
-    "why_it_matters": "The ruling demonstrates judicial influence over electoral rules, a core issue in the US Politics syllabus concerning the courts' role in elections.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The ban prevents fraud and protects election integrity."
-     },
-     {
-      "label": "Critics argue",
-      "text": "It disenfranchises young voters and reduces turnout."
-     },
-     {
-      "label": "From the liberal perspective",
-      "text": "Voter ID laws conflict with the principle of broad suffrage."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of legislative or executive actions."
-    },
-    "exam_use": "Use to illustrate how US courts can shape electoral participation in an essay on the judiciary's role.",
-    "sources": [
-     "e425fe410c49"
-    ]
-   },
-   {
-    "title": "Trump orders DOJ suit to block Alaska Senate results",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Former President Donald Trump said he directed the Department of Justice to file a lawsuit aimed at preventing certification of Alaska’s Senate election results if Republicans lose. The move is part of a broader effort to maintain GOP control of Congress.",
-    "why_it_matters": "The episode highlights partisan strategies to influence electoral outcomes, relevant to the A‑level study of US political parties and their tactics.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Legal action is necessary to address alleged voting irregularities."
-     },
-     {
-      "label": "Critics argue",
-      "text": "The suit undermines democratic norms and seeks to overturn voters’ choices."
-     },
-     {
-      "label": "From the left",
-      "text": "Using the DOJ for partisan ends threatens the rule of law."
-     }
-    ],
-    "key_term": {
-     "term": "Partisan litigation",
-     "definition": "Legal actions taken by a political party to achieve electoral advantage."
-    },
-    "exam_use": "Reference when discussing how US parties attempt to influence election results.",
+    "exam_use": "Use as evidence in an essay on how US parties attempt to shape election outcomes through legal action.",
     "sources": [
      "546f184245ee",
      "0c9a48bd2c49"
     ]
    },
    {
-    "title": "Reform UK selects controversial candidate for Welsh by‑election",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Reform UK announced a self‑described Tommy Robinson ‘admirer’ as its candidate for an upcoming Welsh by‑election. The choice has drawn criticism for the candidate’s extremist reputation.",
-    "why_it_matters": "The story shows how smaller parties select candidates and the impact of candidate image on party reputation, linking to the A‑level focus on political parties and electoral strategy.",
+    "title": "Alaska candidate calls lawsuit a desperate power grab",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "Democratic Senate candidate Mary Peltola described the DOJ lawsuit as a ‘desperate attempt’ by the GOP to cling to power. She warned the action could set a dangerous precedent for future elections.",
+    "why_it_matters": "Shows the judiciary’s role as a potential arbiter in partisan disputes, linking to the AQA focus on courts and constitutional checks. Highlights how political actors frame legal battles to sway public opinion.",
     "perspectives": [
      {
-      "label": "From Reform UK",
-      "text": "The candidate reflects the party’s commitment to free speech and anti‑establishment values."
-     },
-     {
       "label": "Critics argue",
-      "text": "The selection risks normalising extremist views and alienates moderate voters."
+      "text": "Peltola and Democrats see the suit as an abuse of judicial power for partisan ends."
      },
      {
-      "label": "From the media",
-      "text": "The move highlights the challenges fringe parties face in gaining legitimacy."
+      "label": "Supporters argue",
+      "text": "Republicans claim the lawsuit is a lawful defence of electoral fairness."
      }
     ],
     "key_term": {
-     "term": "Candidate selection",
-     "definition": "The process by which a party chooses who will stand for election."
+     "term": "judicial review",
+     "definition": "The power of courts to examine the legality of actions by the executive or legislature."
     },
-    "exam_use": "Use as a case study of party strategy and image management in an essay on UK political parties.",
+    "exam_use": "Cite in a discussion of the courts’ capacity to limit executive overreach in US politics.",
     "sources": [
-     "fb9216aefd4c"
+     "eaa5a25354b7"
+    ]
+   },
+   {
+    "title": "Welsh minister warns against unchecked AI development",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "A senior Welsh minister cautioned that tech tycoons must not be allowed to ‘let rip’ with artificial intelligence, calling for stricter regulation. The warning came as the UK government debated AI policy.",
+    "why_it_matters": "Relates to the AQA topic of the Prime Minister and Cabinet’s role in policy making and the balance between innovation and regulation. Highlights executive responsibility for emerging technologies.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Pro‑regulation voices say oversight is needed to protect citizens and jobs."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Industry groups argue heavy regulation could stifle innovation and competitiveness."
+     },
+     {
+      "label": "From the left",
+      "text": "Left‑leaning commentators stress the need for social safeguards against AI‑driven inequality."
+     }
+    ],
+    "key_term": {
+     "term": "regulation",
+     "definition": "Government rules designed to control or manage activities in the public interest."
+    },
+    "exam_use": "Use as a case study of executive decision‑making on technology policy in a UK Government essay.",
+    "sources": [
+     "6a444dd2d5be"
+    ]
+   },
+   {
+    "title": "Plaid Cymru leads Reform in Senedd poll",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "A Beaufort Research poll shows Plaid Cymru ahead of Reform UK by three points in the upcoming Senedd election. The poll reflects shifting voter preferences in Wales.",
+    "why_it_matters": "Illustrates party competition and voter behaviour, core to the AQA study of political parties and elections. Highlights regional party dynamics within devolution.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Plaid supporters claim the lead shows growing demand for Welsh nationalist policies."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Reform UK argues the poll underestimates their appeal among younger voters."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative analysts warn the rise of nationalist parties could fragment the UK’s political landscape."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The transfer of powers from the central government to regional bodies."
+    },
+    "exam_use": "Reference in an essay on how devolution influences party competition in the UK.",
+    "sources": [
+     "eaa5a25354b7"
+    ]
+   },
+   {
+    "title": "Early voting surges in US battleground states",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Early voting numbers have risen sharply in several key battleground states, with Democrats outpacing Republicans in turnout. The trend could affect the balance of power in the upcoming midterms.",
+    "why_it_matters": "Connects to the AQA focus on elections and voter participation, showing how early voting can shape electoral outcomes. Demonstrates the strategic importance of turnout for parties.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Democrats view the surge as evidence of effective mobilisation."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Republicans warn that early voting may benefit one party disproportionately."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive groups argue early voting expands democratic participation."
+     }
+    ],
+    "key_term": {
+     "term": "turnout",
+     "definition": "The proportion of eligible voters who actually cast a ballot."
+    },
+    "exam_use": "Use as evidence when evaluating factors that influence election results in the US.",
+    "sources": [
+     "6284318c3fc8"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parties face scrutiny over unfinished levelling‑up projects, showing how policy promises affect voter perception ahead of local elections.",
-   "us": "US courts are directly shaping who can vote by upholding a student‑ID ban, affecting turnout in the midterms.",
-   "insight": "The contrast shows the UK’s electoral issues centre on party performance and delivery, while the US sees institutional courts influencing voter eligibility.",
+   "uk": "In Wales, party polls such as Plaid Cymru’s lead show how regional elections are shaped by devolution and local issues.",
+   "us": "In the US, early‑voting surges in battleground states demonstrate the impact of turnout strategies on national outcomes.",
+   "insight": "The contrast highlights that UK elections are heavily influenced by regional party dynamics, whereas US elections hinge on nationwide voter mobilisation tactics.",
    "sources": [
-    "4cd4e797bff9",
-    "e425fe410c49"
+    "eaa5a25354b7",
+    "6284318c3fc8"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Healey’s budget reflects liberal ideas of state intervention to protect individuals from market hardships, echoing John Stuart Mill’s view that government should act to ensure basic welfare. Critics invoke classical liberalism, arguing that excessive spending infringes on fiscal responsibility.",
+   "text": "The US economic populism story (2602740eb5a3) reflects liberal ideas about individual freedom and market reform, echoing thinkers like John Stuart Mill who argued for limited government intervention to protect personal liberty.",
    "sources": [
-    "26ac21f4c166"
+    "2602740eb5a3"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which institutional actors can influence electoral outcomes in the United States and the United Kingdom.",
+   "question": "Assess the extent to which legal challenges can be used by political parties to influence election outcomes in the US and the UK.",
    "section": "us | ukgov",
-   "tip": "Compare the US Supreme Court’s role in voter ID rules with the UK government’s impact on elections through policy delivery and party performance."
+   "tip": "Compare the US DOJ lawsuit over the Alaska Senate race with a UK example of judicial review or electoral regulation, analysing the role of courts and the executive."
   }
  },
  "refs": {
-  "26ac21f4c166": {
-   "id": "26ac21f4c166",
-   "title": "Can John Healey make a dent in the cost of living crisis in his first budget?",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-24T09:00:29Z"
-  },
-  "4cd4e797bff9": {
-   "id": "4cd4e797bff9",
-   "title": "Most levelling up projects still unfinished years after funding allocated",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-24T06:00:27Z"
-  },
-  "e425fe410c49": {
-   "id": "e425fe410c49",
-   "title": "Supreme Court allows New Hampshire to fully ban student IDs for voting in midterms",
-   "link": "https://www.pbs.org/newshour/politics/supreme-court-allows-new-hampshire-to-fully-ban-student-ids-for-voting-in-midterms",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-23T15:41:49Z"
-  },
   "546f184245ee": {
    "id": "546f184245ee",
    "title": "WATCH: Trump says he ordered DOJ lawsuit over Alaska Senate race",
@@ -221,14 +190,41 @@
    "lean": "centre",
    "date": "2026-10-23T22:55:08Z"
   },
-  "fb9216aefd4c": {
-   "id": "fb9216aefd4c",
-   "title": "Reform selects self-proclaimed Tommy Robinson ‘admirer’ for by-election",
-   "link": "https://nation.cymru/news/reform-selects-self-proclaimed-tommy-robinson-admirer-for-by-election/",
+  "eaa5a25354b7": {
+   "id": "eaa5a25354b7",
+   "title": "Plaid Cymru leads Reform by three points in Senedd poll",
+   "link": "https://nation.cymru/news/plaid-cymru-leads-reform-by-three-points-in-senedd-poll/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-23T19:17:51Z"
+   "date": "2026-10-23T18:48:41Z"
+  },
+  "6a444dd2d5be": {
+   "id": "6a444dd2d5be",
+   "title": "Tech tycoons must not be allowed to ‘let rip’ with AI, minister warns",
+   "link": "https://nation.cymru/news/tech-tycoons-must-not-be-allowed-to-let-rip-with-ai-minister-warns/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-24T09:31:39Z"
+  },
+  "6284318c3fc8": {
+   "id": "6284318c3fc8",
+   "title": "Early voting surges in battleground states as Democrats outpace GOP gains",
+   "link": "https://thehill.com/homenews/campaign/6169626-early-voting-battleground-states-democrats-republicans/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-24T10:00:00Z"
+  },
+  "2602740eb5a3": {
+   "id": "2602740eb5a3",
+   "title": "The rise of the economic populist: What voters want from both parties this year",
+   "link": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-10-24T11:42:08Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
