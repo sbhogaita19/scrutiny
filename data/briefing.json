@@ -1,256 +1,227 @@
 {
- "generated_at": "2026-10-26T17:23:06Z",
+ "generated_at": "2026-10-26T23:07:14Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Burnham hints at EU referendum as US courts rule on Trump‑related case",
-  "overview": "The UK prime minister opened talk of a new EU free‑movement referendum while US courts dealt a blow to the Trump administration. Both developments highlight executive power and its limits.",
+  "headline": "Burnham pushes EU free‑movement debate as US midterms heat up",
+  "overview": "Prime Minister Andy Burnham has called for a factual debate on restoring free movement with the EU, while in the US the mid‑term campaign intensifies with President Trump campaigning in Mississippi. Both stories illustrate how governments manage policy choices and electoral pressures.",
   "stories": [
    {
-    "title": "Burnham opens debate on EU free‑movement",
+    "title": "Burnham seeks debate on EU free‑movement",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham said he wants a national conversation about the UK's future relationship with the EU, including a possible referendum on free movement. He ruled out re‑joining the euro or Schengen at this stage.",
-    "why_it_matters": "The story illustrates the role of the cabinet and prime minister in setting the government agenda, a key part of the AQA UK Government specification. It also raises constitutional questions about referendums and executive discretion.",
+    "what_happened": "Prime Minister Andy Burnham said he wants an \"evidence‑based\" discussion about returning to free movement between Britain and the EU (ae83d49d04b6). He later clarified that any change would require a referendum (096d661ca454).",
+    "why_it_matters": "The issue tests the executive’s control over foreign policy and the role of Parliament in approving major constitutional changes, linking to the AQA topics of the Constitution and the PM & Cabinet.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s supporters say a referendum restores democratic legitimacy after Brexit."
+      "text": "Pro‑EU advocates say free movement boosts the economy and upholds citizens' rights."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn a new vote could deepen division and undermine the current parliamentary mandate."
+      "text": "Brexit supporters claim it would undermine UK sovereignty and border control."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators claim the move signals a retreat from the Brexit promise."
+      "text": "Conservative commentators warn a referendum could reignite divisive politics."
      }
     ],
     "key_term": {
-     "term": "Cabinet collective responsibility",
-     "definition": "The principle that all ministers must publicly support government decisions."
+     "term": "referendum",
+     "definition": "A direct vote by the electorate on a specific political question."
     },
-    "exam_use": "Use as evidence when discussing how the executive can shape policy agendas and the limits of its authority.",
+    "exam_use": "Use as evidence in an essay on the limits of executive power versus parliamentary sovereignty.",
     "sources": [
-     "096d661ca454",
-     "4333ea843daa",
-     "0e1550de6965"
+     "ae83d49d04b6",
+     "096d661ca454"
     ]
    },
    {
-    "title": "Unions back Burnham’s working‑class agenda",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "Unison General Secretary Andrea Egan said unions will support Burnham if his budget prioritises working‑class issues, but warned that talk alone is insufficient. The comment followed Labour MPs urging the cabinet to focus on re‑industrialisation.",
-    "why_it_matters": "Pressure groups are a core topic in UK Politics, showing how organised interests try to influence policy. The story also touches on party politics and the relationship between Labour and trade unions.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Unions claim the budget will address inequality and protect jobs."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Business groups fear higher taxes and regulation could hurt growth."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning analysts view the alliance as a revival of traditional Labour‑union ties."
-     }
-    ],
-    "key_term": {
-     "term": "Pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
-    },
-    "exam_use": "Cite when evaluating the effectiveness of pressure groups in shaping government policy.",
-    "sources": [
-     "c7e3599e4a58",
-     "dd884d0633f0"
-    ]
-   },
-   {
-    "title": "Alaska Senate candidate injured in car crash",
+    "title": "Trump campaigns in Mississippi ahead of midterms",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Democratic Senate candidate Mary Peltola suffered minor injuries in a car accident and paused her campaign. The race is seen as one of the most closely watched contests in the upcoming midterms.",
-    "why_it_matters": "The incident highlights the personal risks candidates face and the importance of individual races in the broader US electoral system, a key point in the AQA US Politics specification.",
+    "what_happened": "President Donald Trump visited Mississippi to campaign for Republican Senate candidate Cindy Hyde‑Smith (516b1a76e095). The visit comes with eight days left before the mid‑term elections (fdf78e3952a3).",
+    "why_it_matters": "The event shows how the President can influence congressional races, relevant to the AQA focus on the US President and Congress and on elections.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Peltola’s team says the pause shows her commitment to safety and constituents."
+      "text": "Trump supporters say his presence energises the base and helps secure Republican seats."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents suggest the accident could weaken her campaign momentum."
-     },
-     {
-      "label": "From the centre",
-      "text": "Political analysts note that such events can swing tight races in swing states."
-     }
-    ],
-    "key_term": {
-     "term": "Midterm elections",
-     "definition": "US elections held halfway through a president’s four‑year term, often determining congressional control."
-    },
-    "exam_use": "Use as a case study of how individual candidate events can affect electoral outcomes.",
-    "sources": [
-     "88f5251dd77c"
-    ]
-   },
-   {
-    "title": "Judge rules Trump DOJ illegally fired Comey’s daughter",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "A federal judge found that the Department of Justice, under the Trump administration, illegally dismissed Maurene Comey, daughter of former FBI director James Comey, from her prosecutor role. The ruling cited violations of civil service protections.",
-    "why_it_matters": "The case illustrates judicial review of executive actions, a central theme in the US Courts topic of the AQA syllabus. It also raises questions about separation of powers.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Civil‑rights groups say the ruling upholds the rule of law against political interference."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Trump allies claim the decision is a partisan attack on the former president."
+      "text": "Opponents claim his involvement polarises voters and distracts from policy debates."
      },
      {
       "label": "From the left",
-      "text": "Progressives view the case as evidence of executive overreach."
+      "text": "Progressive analysts warn that his rhetoric may undermine democratic norms."
      }
     ],
     "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of actions taken by the executive or legislature."
+     "term": "mid‑term elections",
+     "definition": "Elections held halfway through a President’s four‑year term to elect members of Congress."
     },
-    "exam_use": "Reference when discussing checks and balances between the US executive and judiciary.",
+    "exam_use": "Cite in a comparative essay on the influence of executive actors in legislative elections.",
     "sources": [
-     "d601a801b727",
-     "ccbbff845f47"
+     "516b1a76e095",
+     "fdf78e3952a3"
+    ]
+   },
+   {
+    "title": "Judge rules Trump administration illegally fired Comey’s daughter",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "A federal judge found that the Trump administration illegally dismissed Maurene Comey, daughter of former FBI director James Comey (84f97e2b56f8). The ruling alleges the termination was retaliation for her father's role.",
+    "why_it_matters": "The case illustrates judicial review of executive actions, a key concept in the US Courts unit of the AQA syllabus.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Civil‑rights groups view the ruling as a defence of rule of law."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Administration allies claim the decision is politically motivated."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressives see it as evidence of abuse of power by the executive."
+     }
+    ],
+    "key_term": {
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
+    },
+    "exam_use": "Use as a case study when discussing checks and balances in the US system.",
+    "sources": [
+     "84f97e2b56f8"
     ]
    },
    {
     "title": "Welsh university partners with charity on water pollution",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "A Welsh university entered a three‑year partnership with an environmental charity to address water pollution in Wales. The project aims to improve river quality and public health.",
-    "why_it_matters": "The initiative demonstrates how devolved administrations can cooperate with civil society to deliver policy outcomes, linking to the devolution topic in UK Government. It also touches on environmental regulation.",
+    "section": "ukpol",
+    "topic": "pressure",
+    "what_happened": "A Welsh university has entered a three‑year partnership with an environmental charity to tackle water pollution (ee61956b6147). The collaboration aims to improve water quality and raise public awareness.",
+    "why_it_matters": "The partnership exemplifies how pressure groups influence policy and public services, linking to the AQA topic of pressure groups and participation.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Environmental groups praise the collaboration as a model for local action."
+      "text": "Environmental NGOs praise the initiative as a practical step toward sustainability."
      },
      {
       "label": "Critics argue",
-      "text": "Some Welsh business leaders worry the measures could increase costs."
+      "text": "Industry representatives warn it could lead to costly regulations."
      },
      {
-      "label": "From the centre",
-      "text": "Policy analysts note the partnership shows the flexibility of devolved powers."
+      "label": "From the left",
+      "text": "Labour activists see it as evidence of community‑driven change."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking election."
     },
-    "exam_use": "Use as evidence of how devolved governments can address regional issues through partnership.",
+    "exam_use": "Reference in an essay on the role of civil society in shaping environmental policy.",
     "sources": [
      "ee61956b6147"
+    ]
+   },
+   {
+    "title": "Scottish Labour debates Rosebank oil field approval",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Scottish Labour leader Michael Marra urged the UK energy secretary to approve the controversial Rosebank oil field plans (4d917cff975d). The debate has intensified within the party over climate commitments.",
+    "why_it_matters": "The story highlights internal party dynamics and policy conflicts, relevant to the AQA focus on political parties and their policy positions.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Pro‑energy supporters claim the field will create jobs and boost the economy."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Green groups argue it contradicts climate targets and risks marine ecosystems."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators stress energy security over environmental concerns."
+     }
+    ],
+    "key_term": {
+     "term": "policy conflict",
+     "definition": "A disagreement within a party or between parties over the direction of public policy."
+    },
+    "exam_use": "Use as evidence when analysing how parties balance economic and environmental priorities.",
+    "sources": [
+     "4d917cff975d"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "Burnham’s call for a referendum shows the UK prime minister using agenda‑setting power within a parliamentary system.",
-   "us": "The US judge’s ruling on the Trump‑DOJ firing demonstrates the US president’s actions being checked by an independent judiciary.",
-   "insight": "The contrast highlights that the UK executive is accountable primarily to Parliament, while the US executive faces direct judicial oversight.",
+   "theme": "elections",
+   "uk": "UK parties are debating policy issues such as free movement and oil fields ahead of local elections, showing how party platforms shape voter choices.",
+   "us": "US mid‑term elections feature presidential campaigning to influence Senate races, illustrating the President’s role in legislative elections.",
+   "insight": "The contrast shows the UK’s parliamentary focus on party policy debates versus the US’s presidential influence on congressional contests.",
    "sources": [
-    "096d661ca454",
-    "d601a801b727"
+    "ae83d49d04b6",
+    "516b1a76e095"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Burnham’s emphasis on national debate and preserving traditional institutions reflects conservative ideas about gradual change and respect for established order, echoing thinkers like Edmund Burke.",
+   "ideology": "liberalism",
+   "text": "Burnham’s call for an evidence‑based free‑movement debate reflects liberalism’s emphasis on individual liberty and open markets, echoing John Stuart Mill’s arguments for free exchange. The US court ruling on the Comey case also aligns with liberal principles of protecting individual rights against state overreach.",
    "sources": [
-    "096d661ca454",
-    "4333ea843daa"
+    "ae83d49d04b6",
+    "84f97e2b56f8"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US.",
-   "section": "ukgov",
-   "tip": "Structure your answer by comparing parliamentary scrutiny in the UK with judicial review in the US, using today’s stories as examples."
+   "question": "Assess the extent to which the executive can influence electoral outcomes in the UK and the US.",
+   "section": "ukgov | us",
+   "tip": "Compare Burnham’s debate on EU policy with Trump’s campaign visits, focusing on constitutional powers and political context."
   }
  },
  "refs": {
+  "ae83d49d04b6": {
+   "id": "ae83d49d04b6",
+   "title": "Burnham open to 'honest discussion' on EU free movement",
+   "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-26T09:35:08Z"
+  },
   "096d661ca454": {
    "id": "096d661ca454",
-   "title": "Burnham leaves door open to referendum on EU free movement",
+   "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
    "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-26T15:44:46Z"
+   "date": "2026-10-26T17:50:00Z"
   },
-  "4333ea843daa": {
-   "id": "4333ea843daa",
-   "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-26T16:48:12Z"
-  },
-  "0e1550de6965": {
-   "id": "0e1550de6965",
-   "title": "Burnham wants UK back in EU within his lifetime",
-   "link": "https://www.politico.eu/article/burnham-wants-uk-back-in-eu-within-his-lifetime/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
+  "516b1a76e095": {
+   "id": "516b1a76e095",
+   "title": "Live updates: Trump brings midterm campaign swing to Mississippi",
+   "link": "https://thehill.com/homenews/state-watch/6171272-live-updates-trump-midterm-elections-iran/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-26T10:13:20Z"
+   "date": "2026-10-26T22:52:10Z"
   },
-  "c7e3599e4a58": {
-   "id": "c7e3599e4a58",
-   "title": "If the PM reboots the UK for working-class people, unions will be with him. But the time for talking is over | Andrea Egan",
-   "link": "https://www.theguardian.com/commentisfree/2026/oct/26/andy-burnham-reboot-uk-working-class-people-budget-unions",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-26T10:00:27Z"
-  },
-  "dd884d0633f0": {
-   "id": "dd884d0633f0",
-   "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
-   "link": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-26T09:42:48Z"
-  },
-  "88f5251dd77c": {
-   "id": "88f5251dd77c",
-   "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
-   "link": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-10-26T13:53:18Z"
-  },
-  "d601a801b727": {
-   "id": "d601a801b727",
-   "title": "Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor, judge rules",
-   "link": "https://www.pbs.org/newshour/politics/trump-doj-illegally-fired-ex-fbi-directors-daughter-maurene-comey-as-a-federal-prosecutor-judge-rules",
+  "fdf78e3952a3": {
+   "id": "fdf78e3952a3",
+   "title": "Candidates enter final week of campaigning with control of Congress at stake",
+   "link": "https://www.pbs.org/newshour/show/candidates-enter-final-week-of-campaigning-with-control-of-congress-at-stake",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-10-26T17:11:17Z"
+   "date": "2026-10-26T22:55:02Z"
   },
-  "ccbbff845f47": {
-   "id": "ccbbff845f47",
-   "title": "Trump-related cases coming to the court",
-   "link": "https://www.scotusblog.com/2026/10/trump-related-cases-coming-to-the-court/",
-   "source": "scotusblog",
-   "sourceName": "SCOTUSblog",
-   "lean": "non-partisan",
-   "date": "2026-10-26T13:00:00Z"
+  "84f97e2b56f8": {
+   "id": "84f97e2b56f8",
+   "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+   "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-10-26T19:27:21Z"
   },
   "ee61956b6147": {
    "id": "ee61956b6147",
@@ -260,6 +231,15 @@
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
    "date": "2026-10-26T15:01:58Z"
+  },
+  "4d917cff975d": {
+   "id": "4d917cff975d",
+   "title": "Political battle intensifies within Labour over Rosebank oil field",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcscot",
+   "sourceName": "BBC Scotland",
+   "lean": "centre",
+   "date": "2026-10-26T18:09:49Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
