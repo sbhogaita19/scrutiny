@@ -1,164 +1,207 @@
 {
- "generated_at": "2026-10-27T16:38:41Z",
+ "generated_at": "2026-10-28T02:15:17Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, UK‑EU talks and Labour wage debate dominate politics",
-  "overview": "US midterm campaigns intensify as Trump faces legal setbacks. In the UK, discussions on freedom of movement with the EU continue while Labour is accused of breaking its youth‑wage pledge. These events illustrate core concepts of elections, constitutional relations and party policy.",
+  "headline": "Budget debates, Labour wage pledge and US election rallies dominate",
+  "overview": "UK ministers face pressure over miners' pensions and tax plans as Labour is criticised for its youth wage pledge. In the US, former President Trump campaigns ahead of the mid‑term elections, while a court rules his administration illegally dismissed a federal prosecutor’s daughter.",
   "stories": [
    {
-    "title": "Trump administration court ruling",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "A federal judge ruled that the Trump administration illegally dismissed Maurene Comey, daughter of former FBI director James Comey, from her role as a federal prosecutor. The decision cites procedural violations in the termination process.",
-    "why_it_matters": "The case highlights the role of the US judiciary in checking executive power, a key point in the AQA unit on the Constitution and separation of powers. It also raises questions about political influence over legal appointments.",
+    "title": "Miners' pension fund row",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Labour MPs from mining constituencies accused the government of breaking a promise to transfer pension funds to former miners. The dispute erupted on the day before the Budget.",
+    "why_it_matters": "The clash illustrates the tension between the executive’s fiscal agenda and parliamentary scrutiny, a key theme in the AQA Constitution and Parliament units.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The ruling demonstrates that courts can protect individual rights against partisan abuse."
+      "text": "The government says the delay is necessary to ensure fiscal stability and protect public finances."
      },
      {
       "label": "Critics argue",
-      "text": "Some claim the decision is politically motivated and undermines executive authority."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
-    },
-    "exam_use": "Use as evidence in an essay on the effectiveness of checks and balances in the US Constitution.",
-    "sources": [
-     "84f97e2b56f8"
-    ]
-   },
-   {
-    "title": "Trump’s Mississippi rally",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "President Trump held a campaign rally in Mississippi, emphasizing Republican challenges ahead of the upcoming midterm elections. The event is part of a nationwide rally tour targeting key swing states.",
-    "why_it_matters": "The rally illustrates party mobilisation strategies and the importance of voter outreach in US elections, linking to the AQA topic of elections and party competition. It also shows how incumbents attempt to shape electoral narratives.",
-    "perspectives": [
+      "text": "Labour MPs claim the move betrays a historic commitment to mining communities and undermines trust."
+     },
      {
       "label": "From the right",
-      "text": "Supporters say the rally energises the base and counters Democratic momentum."
+      "text": "Conservatives view the issue as evidence that Labour cannot manage public money responsibly."
+     }
+    ],
+    "key_term": {
+     "term": "Fiscal policy",
+     "definition": "Government decisions about taxation and spending to influence the economy."
+    },
+    "exam_use": "Use as evidence of executive‑parliamentary conflict in an essay on the limits of ministerial power.",
+    "sources": [
+     "6dd8bc03100a"
+    ]
+   },
+   {
+    "title": "Budget tax proposals unveiled",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Chancellor John Healey outlined plans to tax banks, increase the energy bill help and raise the minimum wage. The announcement came on 28 October.",
+    "why_it_matters": "The Budget demonstrates how the executive uses fiscal tools to achieve policy goals, linking to the AQA topics on the Treasury and fiscal policy.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The tax on banks will raise revenue for public services and address inequality."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Business groups warn higher taxes could deter investment and harm growth."
      },
      {
       "label": "From the left",
-      "text": "Opponents argue the focus on rallies distracts from policy substance."
+      "text": "Labour supporters see the minimum‑wage rise as a step towards fairer wages."
      }
     ],
     "key_term": {
-     "term": "Midterm elections",
-     "definition": "US elections held halfway through a president’s four‑year term, determining control of Congress."
+     "term": "Budget",
+     "definition": "An annual statement of government revenue and spending plans."
     },
-    "exam_use": "Cite when discussing factors that influence electoral outcomes in the US.",
+    "exam_use": "Cite when discussing how the executive shapes economic policy in a fiscal‑policy essay.",
     "sources": [
-     "a1592e13da01"
+     "381b6dbfeecb"
     ]
    },
    {
-    "title": "UK‑EU freedom of movement talks",
-    "section": "ukgov",
-    "topic": "eu",
-    "what_happened": "UK and EU officials began talks on future arrangements for freedom of movement ahead of a summit next month. Both sides are exploring options ranging from limited visas to broader access.",
-    "why_it_matters": "The negotiations reflect the constitutional relationship between the UK and the EU post‑Brexit, relevant to the AQA unit on the Constitution and devolution. They also show how external relations affect domestic policy.",
-    "perspectives": [
-     {
-      "label": "Pro‑EU view",
-      "text": "Advocates argue maintaining free movement benefits the economy and citizens’ rights."
-     },
-     {
-      "label": "Skeptical view",
-      "text": "Critics claim tighter controls protect UK sovereignty and public services."
-     }
-    ],
-    "key_term": {
-     "term": "Freedom of movement",
-     "definition": "The right of citizens to travel, live and work in another country without undue restriction."
-    },
-    "exam_use": "Use as evidence when evaluating the impact of Brexit on UK constitutional arrangements.",
-    "sources": [
-     "e1ca4547c33b"
-    ]
-   },
-   {
-    "title": "Labour accused of breaking youth‑wage pledge",
+    "title": "Labour’s youth wage pledge under fire",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "The Green Party claimed Labour has paused the equalisation of the minimum wage for workers under 21, contrary to its manifesto pledge. Labour’s chancellor said the decision reflects economic pressures.",
-    "why_it_matters": "The dispute highlights internal party dynamics and the challenge of delivering manifesto promises, linking to the AQA topics of political parties and elections. It also raises questions about policy implementation versus electoral rhetoric.",
+    "what_happened": "Greens accused Labour of breaking its manifesto promise to equalise the minimum wage for under‑21s with older workers. The claim emerged as the chancellor prepared the Budget.",
+    "why_it_matters": "The dispute highlights party accountability and the role of manifestos in elections, core to the AQA Parties and Elections unit.",
     "perspectives": [
      {
-      "label": "Labour supporters argue",
-      "text": "They say the pause is a pragmatic response to inflation and cost‑of‑living concerns."
+      "label": "Supporters argue",
+      "text": "Labour says the pause is temporary and reflects economic constraints."
      },
      {
-      "label": "Opposition critics argue",
-      "text": "They contend Labour is betraying young voters and undermining trust."
+      "label": "Critics argue",
+      "text": "Opposition parties claim Labour is betraying young voters and losing credibility."
      },
      {
-      "label": "From the left",
-      "text": "Some argue the whole minimum‑wage policy is insufficient for tackling inequality."
+      "label": "From the right",
+      "text": "Conservatives use the issue to argue Labour is fiscally irresponsible."
      }
     ],
     "key_term": {
-     "term": "Manifesto pledge",
-     "definition": "A commitment made by a political party in its election programme."
+     "term": "Manifesto",
+     "definition": "A published set of policies a party promises to implement if elected."
     },
-    "exam_use": "Reference when analysing how parties balance policy promises with economic constraints.",
+    "exam_use": "Use as evidence of how parties are judged on policy delivery in a comparative essay on party performance.",
     "sources": [
      "08f352f0ae6f"
     ]
    },
    {
-    "title": "North Carolina Senate candidate arrested",
+    "title": "Court rules Trump admin fired Comey’s daughter illegally",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "A candidate for the North Carolina state Senate was arrested after an hours‑long standoff with police, posting live updates on social media. The incident occurred during the midterm campaign period.",
-    "why_it_matters": "The event underscores the role of civil‑rights issues and candidate conduct in US elections, pertinent to the AQA focus on elections and party politics. It also raises concerns about law‑and‑order narratives in campaigns.",
+    "topic": "us-courts",
+    "what_happened": "A federal judge found the Trump administration unlawfully dismissed Maurene Comey, daughter of former FBI director James Comey, from her prosecutor role. The ruling was issued on 27 October.",
+    "why_it_matters": "The case illustrates judicial review of executive actions, a key concept in the US Constitution and Courts unit of AQA.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "They claim the arrest is politically motivated to silence a challenger."
+      "text": "The administration claims the dismissal was based on performance, not politics."
      },
      {
       "label": "Critics argue",
-      "text": "They maintain the candidate broke the law and should be held accountable."
+      "text": "Legal experts say the ruling shows abuse of power and the need for checks on the executive."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive commentators view the decision as a victory for rule‑of‑law safeguards."
      }
     ],
     "key_term": {
-     "term": "Standoff",
-     "definition": "A prolonged confrontation between an individual and law‑enforcement authorities."
+     "term": "Judicial review",
+     "definition": "The power of courts to assess the legality of government actions."
     },
-    "exam_use": "Use as a case study of how personal conduct can affect party reputation in elections.",
+    "exam_use": "Reference in an essay on the separation of powers and the role of the judiciary in the US system.",
     "sources": [
-     "01e79eed6388"
+     "84f97e2b56f8"
+    ]
+   },
+   {
+    "title": "Trump rallies in Mississippi ahead of mid‑terms",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Former President Donald Trump campaigned in Mississippi, emphasizing Republican challenges ahead of the upcoming mid‑term elections. The rally was part of a broader campaign tour.",
+    "why_it_matters": "The event shows how former leaders can influence party strategy and voter mobilisation, relevant to the AQA US Elections and Parties topics.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Trump supporters say his presence energises the base and boosts turnout."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents claim his involvement polarises voters and distracts from policy debates."
+     },
+     {
+      "label": "From the right",
+      "text": "Republican strategists view the rallies as essential to counter Democratic momentum."
+     }
+    ],
+    "key_term": {
+     "term": "Mid‑term elections",
+     "definition": "U.S. elections held halfway through a president’s four‑year term, primarily for Congress."
+    },
+    "exam_use": "Use as evidence of party mobilisation tactics in a comparative essay on US and UK electoral systems.",
+    "sources": [
+     "a1592e13da01"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parties are judged on delivering manifesto pledges such as the youth minimum wage, influencing voter trust ahead of the next general election.",
-   "us": "US midterm campaigns focus on rallying the base and managing candidate scandals, with the outcome determining congressional control.",
-   "insight": "The contrast shows the UK’s emphasis on policy delivery versus the US’s focus on candidate image and party mobilisation in electoral success.",
+   "uk": "Labour’s manifesto pledge on the youth minimum wage is being judged by voters ahead of the next general election, showing how party promises affect electoral credibility.",
+   "us": "Former President Trump’s campaign rallies aim to shape voter behaviour in the upcoming mid‑term elections, illustrating the impact of high‑profile personalities on party fortunes.",
+   "insight": "The contrast shows the UK’s focus on policy pledges within a parliamentary system, while the US example highlights personalised campaigning in a presidential‑style electoral context.",
    "sources": [
     "08f352f0ae6f",
     "a1592e13da01"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The court ruling on Maurene Comey reflects liberalism’s emphasis on individual rights and rule of law, echoing thinkers like John Locke who argued for legal protections against arbitrary power.",
+   "ideology": "feminism",
+   "text": "The UK government’s £15 million anti‑misogyny fund reflects feminist ideas of gender equality and combating systemic sexism, echoing the work of thinkers like Mary Wollstonecraft who argued for women’s rights in public life.",
    "sources": [
-    "84f97e2b56f8"
+    "95fdd73d561d"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which checks and balances limit executive power in the United States and the United Kingdom.",
-   "section": "ideas",
-   "tip": "Compare the US judicial review of executive actions with the UK’s parliamentary scrutiny of the executive, using recent court and parliamentary examples."
+   "question": "Assess the extent to which the UK government’s fiscal decisions in the 2026 Budget reflect the principles of parliamentary accountability.",
+   "section": "ukgov",
+   "tip": "Structure your answer by first explaining parliamentary accountability, then analysing the miners’ pension dispute and the tax proposals, using specific evidence from the stories."
   }
  },
  "refs": {
+  "6dd8bc03100a": {
+   "id": "6dd8bc03100a",
+   "title": "Ministers In Budget Eve Row With Labour MPs Over Miner Pension Fund",
+   "link": "https://www.politicshome.com/news/article/ministers-in-budget-eve-row-with-labour-mps-over-miner-pension-fund",
+   "source": "politicshome",
+   "sourceName": "PoliticsHome",
+   "lean": "centre",
+   "date": "2026-10-27T19:45:00Z"
+  },
+  "381b6dbfeecb": {
+   "id": "381b6dbfeecb",
+   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-28T00:03:10Z"
+  },
+  "08f352f0ae6f": {
+   "id": "08f352f0ae6f",
+   "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-10-27T16:42:51Z"
+  },
   "84f97e2b56f8": {
    "id": "84f97e2b56f8",
    "title": "Trump administration illegally fired James Comey's daughter, judge rules",
@@ -177,32 +220,14 @@
    "lean": "centre-left",
    "date": "2026-10-27T05:22:24Z"
   },
-  "e1ca4547c33b": {
-   "id": "e1ca4547c33b",
-   "title": "UK and EU officials to discuss freedom of movement",
-   "link": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-10-27T12:59:04Z"
-  },
-  "08f352f0ae6f": {
-   "id": "08f352f0ae6f",
-   "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
+  "95fdd73d561d": {
+   "id": "95fdd73d561d",
+   "title": "UK government to give £15m to anti-misogyny fund amid ‘manosphere’ concerns",
+   "link": "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-10-27T16:17:24Z"
-  },
-  "01e79eed6388": {
-   "id": "01e79eed6388",
-   "title": "North Carolina state Senate candidate arrested after police standoff",
-   "link": "https://thehill.com/homenews/state-watch/6175114-jonathan-miller-cary-police-standoff/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-10-27T16:33:23Z"
+   "date": "2026-10-27T14:15:50Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
