@@ -1,233 +1,224 @@
 {
- "generated_at": "2026-10-28T02:15:17Z",
+ "generated_at": "2026-10-28T11:20:28Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Budget debates, Labour wage pledge and US election rallies dominate",
-  "overview": "UK ministers face pressure over miners' pensions and tax plans as Labour is criticised for its youth wage pledge. In the US, former President Trump campaigns ahead of the mid‑term elections, while a court rules his administration illegally dismissed a federal prosecutor’s daughter.",
+  "headline": "Governments grapple with budgets, elections and legal scrutiny",
+  "overview": "Britain’s Chancellor outlines new tax measures while Wales seeks extra rail funding. In the US, Trump backs a Senate candidate and a former aide avoids indictment. Across both nations, election dynamics and party tensions dominate the news.",
   "stories": [
    {
-    "title": "Miners' pension fund row",
+    "title": "Treasury to scrap standing charges on gas bills",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Labour MPs from mining constituencies accused the government of breaking a promise to transfer pension funds to former miners. The dispute erupted on the day before the Budget.",
-    "why_it_matters": "The clash illustrates the tension between the executive’s fiscal agenda and parliamentary scrutiny, a key theme in the AQA Constitution and Parliament units.",
+    "what_happened": "The Treasury announced that standing charges will be removed from gas bills for about 23 million homes from next year. Chancellor John Healey will confirm the policy in the upcoming Budget.",
+    "why_it_matters": "The move illustrates executive use of fiscal policy to address cost‑of‑living pressures, a key area of the A‑level syllabus on the powers of the Prime Minister and Cabinet. It also raises questions about devolution, as the policy affects Wales and Scotland.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The government says the delay is necessary to ensure fiscal stability and protect public finances."
+      "text": "Removing standing charges will lower household energy costs and ease inflation for low‑income families."
      },
      {
       "label": "Critics argue",
-      "text": "Labour MPs claim the move betrays a historic commitment to mining communities and undermines trust."
+      "text": "The loss of revenue could increase the deficit or shift the burden onto other taxes."
      },
      {
-      "label": "From the right",
-      "text": "Conservatives view the issue as evidence that Labour cannot manage public money responsibly."
+      "label": "From the Welsh perspective",
+      "text": "Welsh officials see the change as a positive step but still demand more targeted investment, such as rail funding."
      }
     ],
     "key_term": {
      "term": "Fiscal policy",
      "definition": "Government decisions about taxation and spending to influence the economy."
     },
-    "exam_use": "Use as evidence of executive‑parliamentary conflict in an essay on the limits of ministerial power.",
+    "exam_use": "Use as evidence when evaluating how the executive can use fiscal tools to achieve economic objectives in a policy‑analysis essay.",
     "sources": [
-     "6dd8bc03100a"
+     "b834f48e871f"
     ]
    },
    {
-    "title": "Budget tax proposals unveiled",
+    "title": "Budget preview: tax and wage measures",
     "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Chancellor John Healey outlined plans to tax banks, increase the energy bill help and raise the minimum wage. The announcement came on 28 October.",
-    "why_it_matters": "The Budget demonstrates how the executive uses fiscal tools to achieve policy goals, linking to the AQA topics on the Treasury and fiscal policy.",
+    "topic": "parliament",
+    "what_happened": "Chancellor John Healey outlined proposals including energy‑bill relief, a minimum‑wage rise and higher bank taxes. The plans will be debated in the House of Commons later today.",
+    "why_it_matters": "The Budget showcases the relationship between the executive and Parliament, a core A‑level topic on legislative scrutiny and the role of the Treasury.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The tax on banks will raise revenue for public services and address inequality."
+      "label": "Labour MPs",
+      "text": "Some Labour backbenchers praise the wage rise but criticize the timing of pension fund changes."
      },
      {
-      "label": "Critics argue",
-      "text": "Business groups warn higher taxes could deter investment and harm growth."
+      "label": "Business groups",
+      "text": "Banking firms warn that higher taxes could reduce investment."
      },
      {
-      "label": "From the left",
-      "text": "Labour supporters see the minimum‑wage rise as a step towards fairer wages."
+      "label": "Opposition parties",
+      "text": "The SNP and Plaid Cymru argue the Budget does not address regional funding needs."
      }
     ],
     "key_term": {
      "term": "Budget",
-     "definition": "An annual statement of government revenue and spending plans."
+     "definition": "An annual statement of government revenue and expenditure presented by the Chancellor."
     },
-    "exam_use": "Cite when discussing how the executive shapes economic policy in a fiscal‑policy essay.",
+    "exam_use": "Cite when discussing how the executive proposes fiscal measures and how Parliament can amend or reject them.",
     "sources": [
      "381b6dbfeecb"
     ]
    },
    {
-    "title": "Labour’s youth wage pledge under fire",
+    "title": "Father dismisses MP over lack of Commons debate",
     "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Greens accused Labour of breaking its manifesto promise to equalise the minimum wage for under‑21s with older workers. The claim emerged as the chancellor prepared the Budget.",
-    "why_it_matters": "The dispute highlights party accountability and the role of manifestos in elections, core to the AQA Parties and Elections unit.",
+    "topic": "parliament",
+    "what_happened": "A campaigning father publicly 'sacked' his local MP after the MP failed to secure an adjournment debate on his son's death from medical negligence. The incident sparked media attention on MP accountability.",
+    "why_it_matters": "The case highlights constituents’ expectations of parliamentary representation and the mechanisms for holding MPs to account, linking to the A‑level focus on democracy and participation.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Labour says the pause is temporary and reflects economic constraints."
+      "label": "Constituents",
+      "text": "Many feel MPs should prioritize local concerns and use parliamentary time for urgent issues."
      },
      {
-      "label": "Critics argue",
-      "text": "Opposition parties claim Labour is betraying young voters and losing credibility."
+      "label": "MPs",
+      "text": "Some argue that parliamentary scheduling constraints limit the ability to hold every adjournment debate."
      },
      {
-      "label": "From the right",
-      "text": "Conservatives use the issue to argue Labour is fiscally irresponsible."
+      "label": "Pressure‑group view",
+      "text": "Advocacy groups see the incident as evidence for reforming how MPs respond to constituent petitions."
      }
     ],
     "key_term": {
-     "term": "Manifesto",
-     "definition": "A published set of policies a party promises to implement if elected."
+     "term": "Adjournment debate",
+     "definition": "A short debate in the Commons allowing MPs to raise specific issues."
     },
-    "exam_use": "Use as evidence of how parties are judged on policy delivery in a comparative essay on party performance.",
+    "exam_use": "Useful for essays on the effectiveness of parliamentary representation and mechanisms of accountability.",
     "sources": [
-     "08f352f0ae6f"
+     "9d3529defd38"
     ]
    },
    {
-    "title": "Court rules Trump admin fired Comey’s daughter illegally",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "A federal judge found the Trump administration unlawfully dismissed Maurene Comey, daughter of former FBI director James Comey, from her prosecutor role. The ruling was issued on 27 October.",
-    "why_it_matters": "The case illustrates judicial review of executive actions, a key concept in the US Constitution and Courts unit of AQA.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The administration claims the dismissal was based on performance, not politics."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Legal experts say the ruling shows abuse of power and the need for checks on the executive."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive commentators view the decision as a victory for rule‑of‑law safeguards."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of government actions."
-    },
-    "exam_use": "Reference in an essay on the separation of powers and the role of the judiciary in the US system.",
-    "sources": [
-     "84f97e2b56f8"
-    ]
-   },
-   {
-    "title": "Trump rallies in Mississippi ahead of mid‑terms",
+    "title": "Trump campaigns for Texas Senate candidate",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Former President Donald Trump campaigned in Mississippi, emphasizing Republican challenges ahead of the upcoming mid‑term elections. The rally was part of a broader campaign tour.",
-    "why_it_matters": "The event shows how former leaders can influence party strategy and voter mobilisation, relevant to the AQA US Elections and Parties topics.",
+    "what_happened": "Former President Donald Trump visited Corpus Christi and Lubbock to endorse Republican Ken Paxton in his Senate race against Democrat James Talarico. The rallies were part of a broader effort to boost Republican prospects in the 2026 midterms.",
+    "why_it_matters": "The event illustrates the influence of former presidents on party politics and election campaigning, a key theme in the A‑level study of US elections and party systems.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Trump supporters say his presence energises the base and boosts turnout."
+      "label": "Republican supporters",
+      "text": "They view Trump’s endorsement as vital for energising the base and securing victory."
      },
      {
-      "label": "Critics argue",
-      "text": "Opponents claim his involvement polarises voters and distracts from policy debates."
+      "label": "Democratic critics",
+      "text": "They argue the endorsement highlights ongoing partisan polarization."
      },
      {
-      "label": "From the right",
-      "text": "Republican strategists view the rallies as essential to counter Democratic momentum."
+      "label": "Political analysts",
+      "text": "Some note that reliance on former presidents may signal weakness in party infrastructure."
      }
     ],
     "key_term": {
-     "term": "Mid‑term elections",
-     "definition": "U.S. elections held halfway through a president’s four‑year term, primarily for Congress."
+     "term": "Endorsement",
+     "definition": "Public support for a candidate by a prominent figure, intended to sway voters."
     },
-    "exam_use": "Use as evidence of party mobilisation tactics in a comparative essay on US and UK electoral systems.",
+    "exam_use": "Reference when assessing the role of party elites and personal influence in US electoral politics.",
     "sources": [
-     "a1592e13da01"
+     "04ccf810a847"
+    ]
+   },
+   {
+    "title": "Grand jury declines to indict former White House aide",
+    "section": "us",
+    "topic": "president",
+    "what_happened": "A federal grand jury in Washington, D.C., chose not to indict former White House aide Cassidy Hutchinson despite the Justice Department’s request. The decision came after her testimony to congressional committees about events in the White House.",
+    "why_it_matters": "The outcome raises questions about the balance of power between the executive, the judiciary, and congressional oversight, aligning with A‑level topics on the US Constitution and checks and balances.",
+    "perspectives": [
+     {
+      "label": "Democratic lawmakers",
+      "text": "They claim the decision reflects a lack of accountability for the former administration."
+     },
+     {
+      "label": "Republican officials",
+      "text": "They argue the grand jury acted independently, upholding the rule of law."
+     },
+     {
+      "label": "Legal scholars",
+      "text": "Some note the case illustrates the limits of prosecutorial power over former officials."
+     }
+    ],
+    "key_term": {
+     "term": "Grand jury",
+     "definition": "A group of citizens that decides whether there is enough evidence to charge someone with a crime."
+    },
+    "exam_use": "Use as evidence when discussing judicial independence and executive accountability in a constitutional essay.",
+    "sources": [
+     "93269d6d4937"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "Labour’s manifesto pledge on the youth minimum wage is being judged by voters ahead of the next general election, showing how party promises affect electoral credibility.",
-   "us": "Former President Trump’s campaign rallies aim to shape voter behaviour in the upcoming mid‑term elections, illustrating the impact of high‑profile personalities on party fortunes.",
-   "insight": "The contrast shows the UK’s focus on policy pledges within a parliamentary system, while the US example highlights personalised campaigning in a presidential‑style electoral context.",
+   "uk": "UK voters are watching the Budget and local MP accountability, with regional parties demanding more funding ahead of the next general election.",
+   "us": "In the US, former President Trump is actively campaigning for Senate candidates while midterm outcomes will affect congressional control.",
+   "insight": "The contrast shows the UK’s parliamentary focus on policy and constituency service versus the US’s candidate‑centred, personality‑driven election dynamics.",
    "sources": [
-    "08f352f0ae6f",
-    "a1592e13da01"
+    "9d3529defd38",
+    "04ccf810a847"
    ]
   },
   "ideas_lens": {
-   "ideology": "feminism",
-   "text": "The UK government’s £15 million anti‑misogyny fund reflects feminist ideas of gender equality and combating systemic sexism, echoing the work of thinkers like Mary Wollstonecraft who argued for women’s rights in public life.",
+   "ideology": "liberalism",
+   "text": "The Treasury’s plan to remove standing charges reflects liberal ideas of reducing state‑imposed costs to increase individual freedom, echoing John Stuart Mill’s advocacy for limited government interference in markets.",
    "sources": [
-    "95fdd73d561d"
+    "b834f48e871f"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the UK government’s fiscal decisions in the 2026 Budget reflect the principles of parliamentary accountability.",
-   "section": "ukgov",
-   "tip": "Structure your answer by first explaining parliamentary accountability, then analysing the miners’ pension dispute and the tax proposals, using specific evidence from the stories."
+   "question": "Assess the extent to which the executive can use fiscal policy to influence public opinion in the UK and the US.",
+   "section": "ukgov | us",
+   "tip": "Compare the UK Chancellor’s Budget measures with US presidential campaigning on fiscal issues, using recent news as examples."
   }
  },
  "refs": {
-  "6dd8bc03100a": {
-   "id": "6dd8bc03100a",
-   "title": "Ministers In Budget Eve Row With Labour MPs Over Miner Pension Fund",
-   "link": "https://www.politicshome.com/news/article/ministers-in-budget-eve-row-with-labour-mps-over-miner-pension-fund",
-   "source": "politicshome",
-   "sourceName": "PoliticsHome",
-   "lean": "centre",
-   "date": "2026-10-27T19:45:00Z"
+  "b834f48e871f": {
+   "id": "b834f48e871f",
+   "title": "Standing charges to be scrapped from gas bills next year – Treasury",
+   "link": "https://nation.cymru/news/standing-charges-to-be-scrapped-from-gas-bills-next-year-treasury/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-10-28T09:00:30Z"
   },
   "381b6dbfeecb": {
    "id": "381b6dbfeecb",
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
    "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-28T00:03:10Z"
+   "date": "2026-10-28T09:25:19Z"
   },
-  "08f352f0ae6f": {
-   "id": "08f352f0ae6f",
-   "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – as it happened",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
-   "source": "guardian",
-   "sourceName": "The Guardian",
+  "9d3529defd38": {
+   "id": "9d3529defd38",
+   "title": "Campaigning father ‘sacks’ his MP for failing to secure a Commons debate",
+   "link": "https://nation.cymru/news/campaigning-father-sacks-his-mp-for-failing-to-secure-a-commons-debate/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-27T16:42:51Z"
+   "date": "2026-10-28T10:41:51Z"
   },
-  "84f97e2b56f8": {
-   "id": "84f97e2b56f8",
-   "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-   "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
+  "04ccf810a847": {
+   "id": "04ccf810a847",
+   "title": "WATCH LIVE: Trump campaigns for Ken Paxton at rallies in Texas",
+   "link": "https://www.pbs.org/newshour/politics/watch-live-trump-campaigns-for-ken-paxton-at-rallies-in-texas",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-10-27T12:28:35Z"
+   "date": "2026-10-27T18:22:09Z"
   },
-  "a1592e13da01": {
-   "id": "a1592e13da01",
-   "title": "Trump campaigns in Mississippi, highlighting Republicans' challenges",
-   "link": "https://www.npr.org/2026/10/27/nx-s1-6019090/trump-campaign-mississippi",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-10-27T05:22:24Z"
-  },
-  "95fdd73d561d": {
-   "id": "95fdd73d561d",
-   "title": "UK government to give £15m to anti-misogyny fund amid ‘manosphere’ concerns",
-   "link": "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-27T14:15:50Z"
+  "93269d6d4937": {
+   "id": "93269d6d4937",
+   "title": "Federal grand jury declines to indict Cassidy Hutchinson",
+   "link": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-28T02:44:45Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
