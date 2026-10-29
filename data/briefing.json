@@ -1,173 +1,178 @@
 {
- "generated_at": "2026-10-28T18:51:52Z",
+ "generated_at": "2026-10-29T02:28:00Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Energy payments, budget battles and US election fever dominate politics",
-  "overview": "Britain’s new £100 energy payment for Welsh households sparks debate over devolution funding, while parties clash over the Budget. In the US, mid‑term campaigning intensifies and Democrats plan for potential election‑fraud claims.",
+  "headline": "Energy payments, budget battles and US election drama dominate Thursday",
+  "overview": "The UK government announced a £100 energy payment for Welsh households while opposition parties criticised the budget’s funding for Wales. In the US, attention turns to mid‑term elections, Federal Reserve policy and a controversy over alleged voter‑fraud claims.",
   "stories": [
    {
     "title": "Welsh households to receive £100 energy payment",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Finance Minister John Healey confirmed a one‑off £100 payment for eligible households in Wales to help with energy bills. The scheme is part of the Budget announced by the Andy Burnham government.",
-    "why_it_matters": "The payment illustrates how the UK executive uses fiscal policy to address cost‑of‑living pressures, a key A‑level topic on the powers of the Prime Minister and Cabinet. It also raises questions about the distribution of funds between Westminster and devolved administrations.",
+    "what_happened": "Finance Minister John Healey confirmed a one‑off £100 payment for households in Wales to help with energy bills. The scheme is part of the first Budget of the Burnham government.",
+    "why_it_matters": "The payment illustrates how the executive uses fiscal policy to address cost‑of‑living pressures, a key concept in the AQA unit on the Constitution and the role of the Cabinet. It also raises questions about devolution and the distribution of funds across the UK.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Welsh Labour says the payment eases energy poverty and shows the UK government’s commitment to the devolution settlement."
+      "text": "Welsh Labour says the payment eases household bills and shows the government’s commitment to the devolved nations."
      },
      {
       "label": "Critics argue",
-      "text": "Plaid Cymru claims the amount is insufficient and highlights the broader funding gap for Wales."
+      "text": "Plaid Cymru claims the amount is insufficient and highlights a broader funding shortfall for Wales."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators argue the payment is a short‑term fix that adds to national debt."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
+     "term": "Fiscal policy",
+     "definition": "Government decisions about taxation and spending to influence the economy."
     },
-    "exam_use": "Use as evidence of how fiscal decisions by the UK executive can affect devolved nations in an essay on the balance of power between Westminster and the devolved administrations.",
+    "exam_use": "Use as evidence of executive fiscal action and devolution in an essay on the powers of the UK Cabinet.",
     "sources": [
      "3ffc4de85764"
     ]
    },
    {
-    "title": "Plaid Cymru attacks Budget as worst for Wales",
+    "title": "Plaid Cymru slams budget as worst for Wales",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Plaid Cymru accused the UK Labour government of delivering the \"worst funding settlement\" for Wales in years. The party called for more ambitious spending in the Budget.",
-    "why_it_matters": "The clash highlights party competition and the role of opposition parties in scrutinising government policy, a core A‑level theme on political parties and pressure groups.",
+    "what_happened": "Plaid Cymru accused the Burnham government of delivering the \"worst funding settlement for Wales in years\" in the new Budget. The party called for greater ambition in spending for the devolved nation.",
+    "why_it_matters": "The criticism highlights party competition and the role of opposition in holding the government to account, a core theme of the AQA Politics unit on parties and democracy.",
     "perspectives": [
      {
       "label": "From the left",
-      "text": "Plaid argues the Budget neglects social investment and widens regional inequality."
+      "text": "Plaid Cymru argues the budget fails social justice and regional equality."
+     },
+     {
+      "label": "From the centre",
+      "text": "Labour supporters say the budget marks a step toward a fairer economy despite constraints."
      },
      {
       "label": "From the right",
-      "text": "Labour defends the Budget as fiscally responsible given national economic constraints."
-     },
-     {
-      "label": "Pressure‑group view",
-      "text": "Welsh trade unions back Plaid’s call for greater spending to protect jobs."
+      "text": "Conservatives contend the budget reflects responsible spending amid economic pressures."
      }
     ],
     "key_term": {
-     "term": "political party",
-     "definition": "An organised group seeking to gain political power by contesting elections."
+     "term": "Opposition",
+     "definition": "Political parties or groups that challenge the policies of the government."
     },
-    "exam_use": "Cite as an example of how opposition parties use budget debates to challenge government policy in a comparative essay on party politics.",
+    "exam_use": "Cite as illustration of how opposition parties use budget debates to advance their agenda in a party‑system essay.",
     "sources": [
      "7c6cf4367b9b"
     ]
    },
    {
-    "title": "Father sacks MP over missed Commons debate",
-    "section": "ukpol",
-    "topic": "parliament",
-    "what_happened": "A campaigning father publicly withdrew his support from his local MP after the MP failed to secure an adjournment debate on medical negligence that affected his son. The incident was reported on 28 Oct.",
-    "why_it_matters": "The episode illustrates constituents’ expectations of parliamentary representation and the mechanisms for holding MPs to account, linking to the A‑level focus on the House of Commons and democratic participation.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The father’s action shows the importance of MPs responding to local concerns."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Some say the boycott undermines parliamentary procedures and sets a risky precedent."
-     },
-     {
-      "label": "From the left",
-      "text": "Campaigners stress the need for stronger oversight of MPs on health‑care issues."
-     }
-    ],
-    "key_term": {
-     "term": "adjournment debate",
-     "definition": "A short debate in the Commons on a specific issue, requested by an MP."
-    },
-    "exam_use": "Use as a case study of constituency pressure on MPs in an essay on representation and accountability.",
-    "sources": [
-     "9d3529defd38"
-    ]
-   },
-   {
-    "title": "Vice President Vance rallies North Carolina voters",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "Vice President Kamala Vance visited North Carolina to energise Republican voters ahead of the mid‑term elections. The trip is part of the GOP’s final push before the polls open next week.",
-    "why_it_matters": "The visit demonstrates the role of the US executive in campaigning and the influence of party leadership on electoral mobilisation, relevant to A‑level study of the US presidency and elections.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "Republicans view Vance’s rally as essential to counter Democratic momentum."
-     },
-     {
-      "label": "From the left",
-      "text": "Democrats warn that such rallies may inflame partisan tensions."
-     },
-     {
-      "label": "Neutral analysis",
-      "text": "Political scientists note the strategic use of high‑profile figures to boost turnout."
-     }
-    ],
-    "key_term": {
-     "term": "mid‑term elections",
-     "definition": "US congressional elections held halfway through a president’s four‑year term."
-    },
-    "exam_use": "Reference in an essay comparing the US presidential role in elections with the UK Prime Minister’s campaigning activities.",
-    "sources": [
-     "9fca68b64728"
-    ]
-   },
-   {
-    "title": "Democrats prepare for election‑fraud claims",
+    "title": "Federal Reserve holds rates steady ahead of US midterms",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Congressional Democrats are collaborating with governance groups to develop a response plan for potential election‑fraud allegations after the 2026 mid‑terms. The effort aims to protect the integrity of future elections.",
-    "why_it_matters": "The story highlights how US political parties and institutions respond to challenges to electoral legitimacy, a key theme in the A‑level curriculum on US elections and democratic safeguards.",
+    "what_happened": "The US central bank kept interest rates unchanged, citing economic stability as the mid‑term elections approach. The decision affects mortgages, loans and voter sentiment on the economy.",
+    "why_it_matters": "Monetary policy is a key factor in US electoral politics, linking economic performance to voter behaviour, a topic in the AQA unit on US elections and direct democracy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats say proactive planning safeguards democracy."
+      "text": "The Fed’s caution protects households from higher borrowing costs during a politically volatile period."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the move anticipates unfounded fraud claims and could suppress voter confidence."
+      "text": "Some economists say the rate pause delays necessary action to curb inflation."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive groups claim the policy favours financial markets over working‑class needs."
+     }
+    ],
+    "key_term": {
+     "term": "Monetary policy",
+     "definition": "Actions by a central bank to control money supply and interest rates."
+    },
+    "exam_use": "Use to discuss how economic institutions influence electoral outcomes in a US politics essay.",
+    "sources": [
+     "7bd338e59244"
+    ]
+   },
+   {
+    "title": "Trump alleges voter‑fraud in Alaska Senate race",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Former President Donald Trump called the Alaska Senate campaign a \"voter fraud at the highest level\" after allegations of a spoiler candidate colluding with Democrats. No formal investigation has been launched.",
+    "why_it_matters": "The claim reflects how political leaders use allegations of fraud to mobilise supporters, relevant to AQA study of US political parties and campaign tactics.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Trump’s base sees the statement as exposing systemic bias against Republicans."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Democratic officials dismiss the claim as unfounded political rhetoric."
      },
      {
       "label": "From the centre",
-      "text": "Election experts stress the importance of preparedness regardless of party."
+      "text": "Election analysts warn such accusations can undermine public confidence in the electoral system."
      }
     ],
     "key_term": {
-     "term": "election fraud",
-     "definition": "Illegitimate interference with the electoral process to alter the outcome."
+     "term": "Voter fraud allegations",
+     "definition": "Claims that illegal voting practices have affected an election’s outcome."
     },
-    "exam_use": "Use as evidence of party strategies to address electoral integrity in a comparative essay on US and UK election systems.",
+    "exam_use": "Reference when evaluating the impact of partisan rhetoric on public trust in US elections.",
     "sources": [
-     "b5110552e926"
+     "2415b20aec48"
+    ]
+   },
+   {
+    "title": "Civil‑rights icon Dolores Huerta dies at 96",
+    "section": "us",
+    "topic": "civil-rights",
+    "what_happened": "Dolores Huerta, a leading figure in the farm‑workers movement and advocate for immigration and voting rights, died aged 96. Her activism spanned the 1960s to recent civil‑rights campaigns.",
+    "why_it_matters": "Huerta’s legacy illustrates the role of social movements in shaping US civil‑rights policy, a key area of the AQA syllabus on civil rights and pressure groups.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Progressive groups hail her as a pioneer of labour and immigrant rights."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Some conservative commentators view her tactics as overly confrontational."
+     },
+     {
+      "label": "From the left",
+      "text": "Left‑wing activists cite her example to argue for stronger labour protections today."
+     }
+    ],
+    "key_term": {
+     "term": "Social movement",
+     "definition": "A collective effort by groups to promote or resist social change."
+    },
+    "exam_use": "Use as evidence of how pressure groups influence civil‑rights legislation in a UK‑US comparative essay.",
+    "sources": [
+     "addc61724c23"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "Prime Minister Burnham has ruled out an early general election, maintaining the current parliamentary timetable.",
-   "us": "Vice President Vance is campaigning ahead of the US mid‑term elections, illustrating a more frequent electoral cycle.",
-   "insight": "The contrast shows the UK’s fixed‑term system limits election timing, whereas the US has regular, staggered elections that keep parties continuously campaigning.",
+   "uk": "Burnham ruled out an early general election, stating the government will wait until at least 2027, reflecting the Prime Minister’s control over election timing under the Fixed‑Term Parliaments Act framework.",
+   "us": "The US Federal Reserve’s rate decision came just before the 2026 mid‑term elections, showing how economic policy can become a campaign issue in a system where elections are set by constitutional dates.",
+   "insight": "The contrast shows the UK’s flexible election timing versus the US’s fixed electoral calendar, highlighting different balances of executive influence and institutional independence.",
    "sources": [
     "99b8953536c1",
-    "9fca68b64728"
+    "7bd338e59244"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The death of civil‑rights leader Dolores Huerta, who fought for farm workers and voting rights, reflects liberalism’s emphasis on individual liberty and equal protection under the law, ideas championed by thinkers like John Locke.",
+   "text": "The Welsh energy payment reflects liberal ideas of state intervention to protect individual welfare, echoing John Stuart Mill’s view that government should act to prevent harm. Liberalism also underpins the US debate on voter‑fraud claims, where individual rights to fair representation are central.",
    "sources": [
-    "addc61724c23"
+    "3ffc4de85764",
+    "2415b20aec48"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which fiscal policy can be used by central governments to address regional inequalities in the UK and the US.",
+   "question": "Assess the extent to which fiscal policy can be used by governments to address regional inequalities in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Compare the UK’s £100 energy payment for Wales with US federal spending programmes tied to election cycles, evaluating effectiveness and political constraints."
+   "tip": "Compare the Welsh energy payment with US federal spending debates around the mid‑terms, linking each to the relevant constitutional powers."
   }
  },
  "refs": {
@@ -178,7 +183,7 @@
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-28T18:26:51Z"
+   "date": "2026-10-28T21:44:51Z"
   },
   "7c6cf4367b9b": {
    "id": "7c6cf4367b9b",
@@ -187,43 +192,25 @@
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-10-28T16:34:44Z"
+   "date": "2026-10-28T21:30:44Z"
   },
-  "9d3529defd38": {
-   "id": "9d3529defd38",
-   "title": "Campaigning father ‘sacks’ his MP for failing to secure a Commons debate",
-   "link": "https://nation.cymru/news/campaigning-father-sacks-his-mp-for-failing-to-secure-a-commons-debate/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-28T15:30:51Z"
+  "7bd338e59244": {
+   "id": "7bd338e59244",
+   "title": "US central bank holds interest rates steady ahead of midterm elections – here's what that means",
+   "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-10-28T19:42:42Z"
   },
-  "9fca68b64728": {
-   "id": "9fca68b64728",
-   "title": "Watch live: Vance rallies North Carolina voters as Election Day looms",
-   "link": "https://thehill.com/video-clips/6178673-watch-live-jd-vance-north-carolina-midterms-2026/",
+  "2415b20aec48": {
+   "id": "2415b20aec48",
+   "title": "Trump calls alleged Alaska Senate spoiler scheme 'voter fraud at the highest level'",
+   "link": "https://thehill.com/homenews/administration/6180002-trump-alaska-senate-voter-fraud/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-28T17:45:00Z"
-  },
-  "b5110552e926": {
-   "id": "b5110552e926",
-   "title": "Here's how Democrats in Congress are preparing for election fraud claims",
-   "link": "https://www.npr.org/2026/10/28/g-s1-150095/democrats-prepare-election-fraud-claims",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-10-28T09:00:00Z"
-  },
-  "99b8953536c1": {
-   "id": "99b8953536c1",
-   "title": "Burnham rules out early general election in next 12 months",
-   "link": "https://www.bbc.co.uk/news/articles/cqx29dj3vv50o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-10-28T18:41:42Z"
+   "date": "2026-10-29T01:30:50Z"
   },
   "addc61724c23": {
    "id": "addc61724c23",
@@ -233,6 +220,15 @@
    "sourceName": "BBC News (US)",
    "lean": "centre",
    "date": "2026-10-28T18:48:15Z"
+  },
+  "99b8953536c1": {
+   "id": "99b8953536c1",
+   "title": "Burnham rules out early general election in next 12 months",
+   "link": "https://www.bbc.co.uk/news/articles/cqx29dj3vv50o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-28T18:41:42Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
