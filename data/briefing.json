@@ -1,188 +1,216 @@
 {
- "generated_at": "2026-10-29T11:30:43Z",
+ "generated_at": "2026-10-29T18:57:29Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Mid‑term US elections, UK budget cuts and Welsh energy aid dominate headlines",
-  "overview": "The UK government is signalling further departmental spending cuts while Wales receives a £100 energy payment. In the US, conservative activists face charges over a voting‑stunt as the mid‑term election campaign intensifies.",
+  "headline": "Midterms, welfare cuts and devolution tensions dominate politics",
+  "overview": "US midterm battles intensify as parties probe campaign conduct, while the UK government faces pressure over welfare reform and Scottish energy payments. Devolved administrations also clash with Westminster over funding.",
   "stories": [
    {
-    "title": "Healey warns of further departmental cuts",
+    "title": "Treasury stalls welfare bill cuts",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Chancellor John Healey said major departmental spending cuts are needed to fund the government's policies for the next year. The announcement follows the 2026 Budget that promised a \"big wave of devolution\".",
-    "why_it_matters": "The Treasury's fiscal choices illustrate the tension between public spending and tax policy, a core issue in the A‑level Constitution and Government unit. It also shows how the executive uses budgetary power to implement its agenda.",
+    "what_happened": "The Treasury said it would not commit to reducing the welfare bill before the next election. The chancellor previously hinted at cuts, which the Treasury now disputes.",
+    "why_it_matters": "The issue illustrates executive control over fiscal policy and the political timing of reforms, a key part of the AQA syllabus on the Prime Minister and Cabinet. It also raises questions about parliamentary scrutiny of spending.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The cuts are necessary to keep public finances sustainable and avoid higher taxes."
+      "label": "Government view",
+      "text": "Officials argue the delay allows careful assessment of impacts on vulnerable groups."
      },
      {
-      "label": "Critics argue",
-      "text": "The reductions will damage public services and disproportionately affect poorer regions."
+      "label": "Opposition view",
+      "text": "Labour MPs claim the postponement is a tactic to avoid electoral backlash."
      },
      {
       "label": "From the right",
-      "text": "Fiscal restraint is essential for economic growth and to curb state intervention."
+      "text": "Conservative supporters say the Treasury is protecting fiscal responsibility ahead of the poll."
      }
     ],
     "key_term": {
-     "term": "Fiscal consolidation",
-     "definition": "A policy aimed at reducing government deficits and debt, usually by cutting spending or raising taxes."
+     "term": "Welfare state",
+     "definition": "A system in which the government provides financial aid and services to citizens in need."
     },
-    "exam_use": "Use as evidence of executive control over public finance in an essay on the limits of government spending.",
+    "exam_use": "Use as evidence in an essay on executive power versus parliamentary oversight of public spending.",
     "sources": [
-     "64d5c1397adc"
+     "d7de17be8eaf"
     ]
    },
    {
-    "title": "Labour backbenchers pressure leadership over Rosebank decision",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "A group of Labour MPs publicly urged the party leader not to overrule the energy secretary on the Rosebank oilfield decision. They warned the move could place the party in an \"intolerable\" position with voters.",
-    "why_it_matters": "The episode highlights intra‑party conflict and the role of backbenchers in shaping policy, key concepts in the AQA study of political parties and democracy.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Backbenchers are defending the party’s environmental credibility."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Intervening in ministerial decisions undermines collective responsibility."
-     },
-     {
-      "label": "From the left",
-      "text": "The stance reflects a commitment to climate action over fossil‑fuel interests."
-     }
-    ],
-    "key_term": {
-     "term": "Backbench rebellion",
-     "definition": "When MPs who are not ministers vote against their own party’s leadership."
-    },
-    "exam_use": "Cite as illustration of party discipline and its limits in a question on the effectiveness of party control.",
-    "sources": [
-     "aad42b31287b"
-    ]
-   },
-   {
-    "title": "Welsh households to receive £100 energy payment",
-    "section": "ukpol",
+    "title": "Scottish ministers roll out energy payment scheme",
+    "section": "ukgov",
     "topic": "devolution",
-    "what_happened": "Finance Minister announced a one‑off £100 payment to every household in Wales to help with energy bills. The scheme is funded from the UK Treasury as part of the 2026 Budget.",
-    "why_it_matters": "The payment demonstrates how devolution allows the UK government to target specific regions, linking to the AQA topic of devolution and fiscal federalism.",
+    "what_happened": "Deputy First Minister Jenny Gilruth announced a £100 energy payment scheme for Scottish households, modelled on a UK-wide programme. She acknowledged the plan is not a perfect solution.",
+    "why_it_matters": "The story shows how devolved governments can implement policies within their competencies, relevant to the AQA topic of Devolution and the balance of powers between Westminster and Scotland.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The aid provides immediate relief to vulnerable households."
+      "text": "The payment provides immediate relief to vulnerable households amid high energy costs."
      },
      {
       "label": "Critics argue",
-      "text": "A one‑off payment does not address long‑term energy costs."
-     },
-     {
-      "label": "From the right",
-      "text": "Targeted assistance is preferable to blanket spending increases."
-     }
-    ],
-    "key_term": {
-     "term": "Targeted fiscal transfer",
-     "definition": "A specific amount of money given to a region for a particular purpose."
-    },
-    "exam_use": "Use as evidence of how devolution can be used to address regional inequality in an essay on the benefits of devolution.",
-    "sources": [
-     "3ffc4de85764"
-    ]
-   },
-   {
-    "title": "Conservative activists charged over voting stunt",
-    "section": "us",
-    "topic": "us-pressure",
-    "what_happened": "Two conservative activists were charged with unlawful voting after they gave election judges false names to cast ballots. Prosecutors say the act was intended to influence the upcoming mid‑term elections.",
-    "why_it_matters": "The case illustrates the role of pressure groups and legal limits on political participation, relevant to the US Politics unit on civil rights and electoral integrity.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The activists were exercising free speech and political engagement."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Their actions undermine the legitimacy of the electoral process."
+      "text": "Opponents say the scheme is insufficient and highlights funding gaps from the UK government."
      },
      {
       "label": "From the left",
-      "text": "Such tactics reflect a broader trend of extremist tactics in US politics."
+      "text": "Labour supporters view it as a step towards broader social welfare reforms."
      }
     ],
     "key_term": {
-     "term": "Electoral fraud",
-     "definition": "Illegal interference with the election process, such as casting false votes."
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from central government to regional administrations."
     },
-    "exam_use": "Reference in an essay evaluating the effectiveness of legal safeguards against electoral misconduct.",
+    "exam_use": "Cite when discussing the limits and opportunities of devolved powers in a comparative essay on UK governance.",
     "sources": [
-     "b07ec393feaf"
+     "ed2fc146693e"
     ]
    },
    {
-    "title": "Key House races highlighted ahead of 2026 midterms",
+    "title": "US GOP probes Alaska ballot‑stacking claims",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "NPR identified 70 House districts where both Democrats and Republicans are spending six‑figure sums on advertising as the November 3 mid‑term election approaches. The races are seen as pivotal for control of the House.",
-    "why_it_matters": "The intense competition underscores the importance of campaign finance and media strategy in US elections, a core theme in the AQA study of US electoral politics.",
+    "what_happened": "House Oversight Committee Chair James Comer launched an investigation into allegations that Democrat Mary Peltola’s campaign recruited candidates to manipulate ballot listings. The probe follows similar concerns in Alaska.",
+    "why_it_matters": "The case highlights US electoral integrity issues and the role of Congress in overseeing elections, linking to the AQA unit on US Elections and Direct Democracy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "High spending shows robust democratic engagement and voter outreach."
+      "text": "Republicans say the probe is necessary to protect fair elections."
      },
      {
       "label": "Critics argue",
-      "text": "Large sums risk drowning out ordinary citizens’ voices."
+      "text": "Democrats contend the investigation is politically motivated."
      },
      {
       "label": "From the right",
-      "text": "Advertising is essential to communicate policy positions to voters."
+      "text": "Conservative activists view it as evidence of Democratic misconduct."
      }
     ],
     "key_term": {
-     "term": "Competitive district",
-     "definition": "A constituency where both major parties have a realistic chance of winning."
+     "term": "Ballot‑stacking",
+     "definition": "A tactic of influencing election outcomes by arranging candidates on the ballot to benefit a particular party."
     },
-    "exam_use": "Use as evidence when discussing factors that determine electoral outcomes in the US House of Representatives.",
+    "exam_use": "Use as a case study when evaluating the effectiveness of US electoral safeguards.",
     "sources": [
-     "49676c9c58dc"
+     "e3d288a28825"
+    ]
+   },
+   {
+    "title": "Supreme Court to hear Colorado preschool case",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court scheduled oral arguments for 3 November on a challenge by Catholic preschools claiming religious discrimination in Colorado’s universal preschool program.",
+    "why_it_matters": "The case tests the balance between religious liberty and state‑provided education, a core issue in the AQA US Constitution and Courts topic.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Religious groups say the program infringes on free exercise rights."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Civil‑rights advocates argue the challenge undermines equal access to public services."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive commentators warn it could set a precedent limiting anti‑discrimination policies."
+     }
+    ],
+    "key_term": {
+     "term": "Free Exercise Clause",
+     "definition": "Part of the First Amendment that protects individuals’ rights to practice their religion."
+    },
+    "exam_use": "Reference when discussing judicial review of state actions in a US Constitution essay.",
+    "sources": [
+     "7ce94d5f6c82"
+    ]
+   },
+   {
+    "title": "Labour MPs clash with government over Rosebank oilfield",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Backbench Labour MPs publicly urged the prime minister not to overrule the energy secretary’s decision on the Rosebank oilfield, accusing the leadership of ignoring their concerns.",
+    "why_it_matters": "The incident illustrates intra‑party conflict and the role of pressure groups within parties, relevant to the AQA study of Political Parties and internal party democracy.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Labour MPs claim they are defending environmental standards."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Party leaders argue the stance threatens energy security and jobs."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive members see it as a push for greener policy."
+     }
+    ],
+    "key_term": {
+     "term": "Backbenchers",
+     "definition": "Members of parliament who are not part of the government or shadow cabinet."
+    },
+    "exam_use": "Use as evidence of party discipline challenges in an essay on UK party politics.",
+    "sources": [
+     "aad42b31287b"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK Prime Minister leads the Cabinet and sets fiscal policy, as seen in Healey’s spending‑cut announcements.",
-   "us": "The US President influences foreign policy and election rhetoric, exemplified by the Republican president’s comments on Iran strikes ahead of the mid‑terms.",
-   "insight": "Both systems show strong executive influence, but the UK executive is tied to parliamentary confidence while the US president operates independently of Congress.",
+   "theme": "elections",
+   "uk": "UK parties are preparing for the next general election, with the Treasury delaying welfare cuts to avoid voter backlash.",
+   "us": "US parties are embroiled in midterm election disputes, with congressional probes into alleged ballot‑stacking.",
+   "insight": "Both systems show how electoral timing influences policy decisions, but the UK relies on parliamentary confidence while the US uses congressional oversight.",
    "sources": [
-    "64d5c1397adc",
-    "0611d52befbc"
+    "d7de17be8eaf",
+    "e3d288a28825"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in the US civil‑rights leader Dolores Huerta’s lifelong fight for workers’ voting rights, echoing thinkers like John Stuart Mill.",
+   "ideology": "conservatism",
+   "text": "Conservative arguments in both countries stress the need for fiscal prudence and electoral integrity, echoing Edmund Burke’s emphasis on tradition and cautious reform.",
    "sources": [
-    "addc61724c23"
+    "d7de17be8eaf",
+    "e3d288a28825"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which fiscal policy can be used by the executive to achieve political objectives in the UK and the US.",
+   "question": "Assess the extent to which electoral considerations shape policy decisions in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Compare the UK Chancellor’s budget cuts with the US President’s use of defence spending rhetoric, linking each to the constitutional powers of the executive."
+   "tip": "Compare the Treasury’s welfare‑bill timing with US congressional investigations into election conduct, using specific examples."
   }
  },
  "refs": {
-  "64d5c1397adc": {
-   "id": "64d5c1397adc",
-   "title": "Healey warns of more ‘hard decisions’ and departmental spending cuts",
-   "link": "https://nation.cymru/news/healey-warns-of-more-hard-decisions-and-departmental-spending-cuts/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-29T09:12:22Z"
+  "d7de17be8eaf": {
+   "id": "d7de17be8eaf",
+   "title": "Treasury will not commit to reducing welfare bill before next election",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-10-29T10:41:50Z"
+  },
+  "ed2fc146693e": {
+   "id": "ed2fc146693e",
+   "title": "Scottish ministers to work with councils on £100 energy payment rollout",
+   "link": "https://www.bbc.co.uk/news/articles/cjn5v39p94eeo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcscot",
+   "sourceName": "BBC Scotland",
+   "lean": "centre",
+   "date": "2026-10-29T11:51:48Z"
+  },
+  "e3d288a28825": {
+   "id": "e3d288a28825",
+   "title": "House GOP launches probe into Peltola campaign ballot stacking allegations",
+   "link": "https://thehill.com/homenews/house/6181949-comer-investigates-peltola-senate-allegations/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-10-29T18:20:19Z"
+  },
+  "7ce94d5f6c82": {
+   "id": "7ce94d5f6c82",
+   "title": "Court to hear argument in religious discrimination challenge brought by Catholic preschools in Colorado",
+   "link": "https://www.scotusblog.com/2026/10/court-to-hear-argument-in-religious-discrimination-challenge-brought-by-catholic-preschools-in-c/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-10-29T15:26:27Z"
   },
   "aad42b31287b": {
    "id": "aad42b31287b",
@@ -192,51 +220,6 @@
    "sourceName": "The Guardian",
    "lean": "centre-left",
    "date": "2026-10-29T06:00:26Z"
-  },
-  "3ffc4de85764": {
-   "id": "3ffc4de85764",
-   "title": "Households in Wales will receive £100 energy payment, minister confirms",
-   "link": "https://nation.cymru/news/households-in-wales-will-receive-100-energy-payment-minister-confirms/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-28T21:44:51Z"
-  },
-  "b07ec393feaf": {
-   "id": "b07ec393feaf",
-   "title": "US conservative activists charged with unlawful voting in election stunt",
-   "link": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-10-29T01:17:32Z"
-  },
-  "49676c9c58dc": {
-   "id": "49676c9c58dc",
-   "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
-   "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-10-29T09:00:00Z"
-  },
-  "0611d52befbc": {
-   "id": "0611d52befbc",
-   "title": "American taxpayers' bill for Iran war grows to estimated $47.1 billion",
-   "link": "https://www.pbs.org/newshour/world/american-taxpayers-bill-for-iran-war-grows-to-estimated-47-1-billion",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-10-28T19:40:33Z"
-  },
-  "addc61724c23": {
-   "id": "addc61724c23",
-   "title": "US civil rights leader Dolores Huerta dies aged 96",
-   "link": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-10-28T18:48:15Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
