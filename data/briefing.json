@@ -1,191 +1,228 @@
 {
- "generated_at": "2026-10-30T11:24:14Z",
+ "generated_at": "2026-10-30T18:38:14Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK and US political tensions rise amid elections and welfare debates",
-  "overview": "In the UK, the government faces criticism over its obesity plan and welfare cuts while devolution tensions grow. In the US, mid‑term races intensify with investigations into campaign tactics and high‑profile candidates.",
+  "headline": "Devolution talks, US election drama and UK party shifts dominate Friday",
+  "overview": "Britain’s regional powers are being reshaped as the Prime Minister meets first ministers. In the US, election intrigue surrounds Alaska and a high‑profile Halloween event at the White House.",
   "stories": [
    {
-    "title": "UK government obesity plan criticised",
+    "title": "Prime Minister meets first ministers on fiscal devolution",
     "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "A cross‑party committee warned that the government's ten‑year obesity ‘moonshot’ will likely fail without strong leadership from the prime minister. MPs said the plan lacks realistic targets and funding.",
-    "why_it_matters": "The story illustrates parliamentary scrutiny of executive policy, a key concept in the AQA Constitution and Parliament topics. It shows how MPs can hold the government to account.",
+    "topic": "devolution",
+    "what_happened": "Prime Minister Andy Burnham met the first ministers of Scotland, Wales, Northern Ireland and England to discuss giving regions more financial powers. The first ministers said any further devolution would be decided by their own legislatures, not Westminster.",
+    "why_it_matters": "The story illustrates the UK’s uncodified constitution and the principle of devolution, a key AQA topic. It shows how power can be transferred from the centre to sub‑national units.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The government claims the plan signals a long‑term commitment to public health and could reduce NHS costs."
+      "text": "Devolution can reduce regional inequality and bring decision‑making closer to citizens."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition MPs contend the plan is unrealistic and risks diverting resources from other priorities."
+      "text": "Without clear rules, further devolution may create fiscal fragmentation and weaken national cohesion."
      },
      {
-      "label": "From the left",
-      "text": "Labour and health charities stress the need for stronger regulation of food industries."
+      "label": "From the right",
+      "text": "Conservatives warn that too much fiscal autonomy could undermine the UK’s integrated market."
      }
     ],
     "key_term": {
-     "term": "scrutiny",
-     "definition": "Parliamentary examination of government actions and policies."
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from the central government to regional or local bodies."
     },
-    "exam_use": "Use as evidence in an essay on how Parliament checks the executive under the Constitution.",
+    "exam_use": "Use as evidence in an essay on the advantages and disadvantages of devolution in the UK.",
     "sources": [
-     "18f87f0bb946"
+     "f3eee6f05b4d",
+     "6018731fea36"
     ]
    },
    {
     "title": "Treasury refuses to pledge welfare cuts before election",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "The Treasury said it will not commit to reducing the welfare bill before the next general election, disputing claims that the chancellor had suggested cuts. The statement came after media reports of a possible pre‑election pledge.",
-    "why_it_matters": "Highlights the relationship between the Cabinet and fiscal policy, relevant to the AQA PM & Cabinet topic. Shows how political timing influences economic decisions.",
+    "what_happened": "The Treasury said it would not commit to reducing the welfare bill before the next general election, despite media reports that the Chancellor had suggested cuts. The statement was made after the Chancellor’s interview with the BBC.",
+    "why_it_matters": "Shows the relationship between the executive (Cabinet) and fiscal policy, a core part of the AQA Constitution and Parliament content. Highlights how election timing can influence policy announcements.",
     "perspectives": [
      {
       "label": "Government view",
-      "text": "Officials argue that fiscal stability must not be compromised by election cycles."
+      "text": "Keeping the welfare bill unchanged avoids destabilising vulnerable groups before an election."
      },
      {
       "label": "Opposition view",
-      "text": "Opposition parties claim the Treasury is avoiding promised reforms to protect voter support."
+      "text": "Labour argues the Treasury is using election timing to avoid necessary reforms."
      },
      {
-      "label": "From the right",
-      "text": "Conservatives often stress the need for welfare reform to reduce public spending."
+      "label": "From the left",
+      "text": "Progressive groups claim the lack of cuts shows a failure to address inequality."
      }
     ],
     "key_term": {
-     "term": "pre‑election pledge",
-     "definition": "A promise made by a party or government before an election to win votes."
+     "term": "Cabinet collective responsibility",
+     "definition": "The principle that all ministers must publicly support government decisions."
     },
-    "exam_use": "Cite when discussing the limits of executive discretion in economic policy.",
+    "exam_use": "Cite when discussing how the executive manages fiscal policy and election cycles.",
     "sources": [
      "d7de17be8eaf"
     ]
    },
    {
-    "title": "Burnham offers cooperation with devolved governments",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Prime Minister Andy Burnham said he will work with devolved administrations to spread power to regions. The proposal follows criticism from Welsh officials over budget cuts.",
-    "why_it_matters": "Relates to the AQA Devolution topic, showing how central‑government leaders can negotiate power sharing with Scotland, Wales and Northern Ireland.",
+    "title": "Mayor switches from Greens to Labour after Zionism motion",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Drew Creek left the Green Party and joined Labour following the party’s approval of a motion on Zionism. The move was reported by the BBC.",
+    "why_it_matters": "Illustrates party realignment and the impact of policy positions on membership, linking to the AQA topic on political parties and voter alignment.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Pro‑devolution groups welcome the chance for greater regional influence."
+      "label": "Labour supporters argue",
+      "text": "The party is broadening its appeal by taking clear stances on international issues."
      },
      {
-      "label": "Critics argue",
-      "text": "Some Westminster MPs fear it could weaken UK-wide cohesion."
+      "label": "Green critics argue",
+      "text": "The motion shows internal divisions that risk alienating members."
      },
      {
-      "label": "From the left",
-      "text": "Labour supporters see it as a step toward more equitable resource distribution."
+      "label": "From the centre",
+      "text": "Analysts suggest the switch reflects personal convictions more than strategic calculations."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The transfer of powers from central government to regional or local bodies."
+     "term": "party realignment",
+     "definition": "A significant shift in the composition of party support among voters or politicians."
     },
-    "exam_use": "Use to illustrate arguments for and against further devolution in an essay on the UK constitution.",
+    "exam_use": "Use as a case study of how policy disputes can trigger party defections.",
     "sources": [
-     "74f2f5e21e18",
-     "6018731fea36"
+     "1d1cd41c3a2a"
     ]
    },
    {
-    "title": "Alaska governor orders probe into Democratic campaign tactics",
+    "title": "Alaska governor orders probe into alleged Democratic spoiler scheme",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Alaska Governor ordered an investigation after a New York Times report alleged Democrats recruited a spoiler candidate named Dan Sullivan to split the Republican vote. The governor, a Republican, said the probe will be thorough.",
-    "why_it_matters": "Shows how election integrity issues can trigger official inquiries, linking to the AQA US Elections and Direct Democracy topic. Highlights the role of state executives in overseeing elections.",
+    "what_happened": "Republican Governor of Alaska launched an investigation after a New York Times report alleged Democrats recruited a candidate named Dan Sullivan to split the Republican vote. The incumbent senator denied knowledge of the plot.",
+    "why_it_matters": "Highlights issues of electoral integrity and party strategy, relevant to the AQA US Elections and Parties content. Shows how spoiler tactics can affect election outcomes.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Republicans claim the probe is necessary to protect fair voting."
+      "label": "Democratic view",
+      "text": "The party denies any wrongdoing and calls the probe politically motivated."
      },
      {
-      "label": "Critics argue",
-      "text": "Democrats warn the investigation could be politically motivated."
+      "label": "Republican view",
+      "text": "The governor says the investigation is needed to protect voters from manipulation."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups stress the need for transparent campaign finance rules."
+      "text": "Progressive observers warn that such tactics undermine democratic fairness."
      }
     ],
     "key_term": {
      "term": "spoiler candidate",
-     "definition": "A candidate who draws votes away from a major contender, potentially altering the election outcome."
+     "definition": "A candidate who has little chance of winning but can split the vote, potentially changing the election result."
     },
-    "exam_use": "Reference when discussing how campaign strategies affect electoral fairness in the US.",
+    "exam_use": "Reference when evaluating the impact of third‑party candidates on US elections.",
     "sources": [
-     "e8eb4e27e851"
+     "e8eb4e27e851",
+     "9513d1329393"
     ]
    },
    {
-    "title": "Senate Democrats spend in traditionally red South Carolina",
+    "title": "Trump hosts Halloween event at the White House",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "The Senate Majority PAC bought advertising in South Carolina for the first time as polls show a close Senate race in the deep‑red state. The move signals increased Democratic investment in the region.",
-    "why_it_matters": "Illustrates party competition and resource allocation, key to the AQA US Parties topic. Shows how parties adapt strategies in response to shifting electoral landscapes.",
+    "topic": "president",
+    "what_happened": "President Donald Trump and First Lady Melania welcomed trick‑or‑treaters to the White House for the annual Halloween celebration. The event took place hours after a major political news cycle.",
+    "why_it_matters": "Demonstrates the use of presidential symbolism and public outreach, linking to the AQA topic on the powers and role of the US President. Shows how presidents can shape public perception outside formal policy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats view the spending as a sign of growing competitiveness."
+      "text": "The event humanises the president and connects him with families."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans argue the ads are an outside interference in a traditionally conservative state."
+      "text": "Opponents say it distracts from pressing policy issues."
      },
      {
       "label": "From the right",
-      "text": "Conservative analysts warn that heavy spending may not overcome entrenched voter loyalties."
+      "text": "Conservatives view the tradition as a harmless cultural event."
      }
     ],
     "key_term": {
-     "term": "campaign spending",
-     "definition": "Money used by parties or candidates to promote their policies and persuade voters."
+     "term": "presidential soft power",
+     "definition": "The ability of a president to influence public opinion and culture through personal appeal and symbolism."
     },
-    "exam_use": "Use as evidence of how US parties target swing states in election essays.",
+    "exam_use": "Use as an example of informal presidential influence in an essay on the US executive.",
     "sources": [
-     "43fc3e3fbfa2"
+     "fe13278f0f21"
+    ]
+   },
+   {
+    "title": "Midterm House races attract six‑figure ad spending in 70 districts",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "NPR identified 70 House districts where both Democrats and Republicans are spending over £100,000 on advertising in the final days before the 2026 midterm election. The races are seen as highly competitive.",
+    "why_it_matters": "Shows the role of campaign finance and media in US elections, a key point in the AQA US Elections and Direct Democracy unit. Highlights how money influences voter outreach.",
+    "perspectives": [
+     {
+      "label": "Democratic view",
+      "text": "Heavy spending reflects the importance of protecting key seats."
+     },
+     {
+      "label": "Republican view",
+      "text": "Spending shows confidence in flipping traditionally Democratic districts."
+     },
+     {
+      "label": "From the centre",
+      "text": "Observers warn that escalating costs may disadvantage grassroots candidates."
+     }
+    ],
+    "key_term": {
+     "term": "campaign finance",
+     "definition": "The fundraising and expenditure activities of political parties and candidates during elections."
+    },
+    "exam_use": "Cite when discussing the impact of money on electoral competition in the US.",
+    "sources": [
+     "49676c9c58dc"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parties face scrutiny over welfare promises and regional funding ahead of the next general election, with MPs questioning executive commitments.",
-   "us": "US candidates and parties are intensifying campaign spending and investigations into alleged spoiler tactics ahead of the 2026 mid‑terms.",
-   "insight": "The contrast shows the UK’s parliamentary focus on policy scrutiny, while the US emphasises competitive campaigning and legal investigations.",
+   "uk": "The Treasury’s decision not to promise welfare cuts before the next election shows how UK parties may time policy announcements to avoid voter backlash.",
+   "us": "US midterm races see massive ad spending as parties vie for swing districts, illustrating the commercial nature of American elections.",
+   "insight": "Both systems reveal that election timing shapes political strategy, but the UK relies more on policy promises while the US emphasises campaign finance.",
    "sources": [
     "d7de17be8eaf",
-    "e8eb4e27e851",
-    "43fc3e3fbfa2"
+    "49676c9c58dc"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Liberalism stresses individual rights and limited government; the US probe into campaign tactics reflects liberal concerns about protecting fair voting, while the UK obesity plan debates balance public health intervention with personal responsibility.",
+   "text": "The devolution meetings echo liberal ideas of decentralisation and individual autonomy championed by thinkers such as John Stuart Mill, arguing that power should be as close to the people as possible.",
    "sources": [
-    "e8eb4e27e851",
-    "18f87f0bb946"
+    "f3eee6f05b4d"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which parliamentary scrutiny and party competition influence government policy making in the UK and the US.",
-   "section": "ukgov | us",
-   "tip": "Compare the UK committee’s criticism of the obesity plan with US party spending in swing states, linking each to the relevant constitutional or political structures."
+   "question": "Assess the extent to which devolution can address regional inequality in the UK.",
+   "section": "ukgov",
+   "tip": "Compare the arguments of supporters and critics, using recent devolution talks as evidence."
   }
  },
  "refs": {
-  "18f87f0bb946": {
-   "id": "18f87f0bb946",
-   "title": "UK government’s obesity plan ‘doomed to fail’, MPs warn",
-   "link": "https://www.theguardian.com/society/2026/oct/30/uk-government-obesity-plan-doomed-mps-warn",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-10-30T06:01:45Z"
+  "f3eee6f05b4d": {
+   "id": "f3eee6f05b4d",
+   "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcscot",
+   "sourceName": "BBC Scotland",
+   "lean": "centre",
+   "date": "2026-10-30T16:56:33Z"
+  },
+  "6018731fea36": {
+   "id": "6018731fea36",
+   "title": "First minister says Welsh spending powers takes step forward after Andy Burnham meeting",
+   "link": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-10-30T16:37:03Z"
   },
   "d7de17be8eaf": {
    "id": "d7de17be8eaf",
@@ -196,23 +233,14 @@
    "lean": "centre",
    "date": "2026-10-29T10:41:50Z"
   },
-  "74f2f5e21e18": {
-   "id": "74f2f5e21e18",
-   "title": "Burnham offers to work with devolved governments to spread power to regions",
-   "link": "https://nation.cymru/news/burnham-offers-to-work-with-devolved-governments-to-spread-power-to-regions/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-10-30T09:18:13Z"
-  },
-  "6018731fea36": {
-   "id": "6018731fea36",
-   "title": "First minister urges Burnham to be serious about Wales",
-   "link": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
+  "1d1cd41c3a2a": {
+   "id": "1d1cd41c3a2a",
+   "title": "Mayor defects from Greens after Zionism motion",
+   "link": "https://www.bbc.co.uk/news/articles/ck20r295pw2vo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-10-30T07:17:39Z"
+   "date": "2026-10-30T13:46:11Z"
   },
   "e8eb4e27e851": {
    "id": "e8eb4e27e851",
@@ -223,14 +251,32 @@
    "lean": "centre",
    "date": "2026-10-29T21:31:12Z"
   },
-  "43fc3e3fbfa2": {
-   "id": "43fc3e3fbfa2",
-   "title": "Senate Democrats' PAC spends in South Carolina for first time",
-   "link": "https://thehill.com/homenews/campaign/6183124-senate-democrats-buy-sc-ads/",
+  "9513d1329393": {
+   "id": "9513d1329393",
+   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-10-30T18:17:27Z"
+  },
+  "fe13278f0f21": {
+   "id": "fe13278f0f21",
+   "title": "Watch live: Trump, first lady host Halloween event at White House",
+   "link": "https://thehill.com/video-clips/6182768-watch-live-donald-trump-halloween-event-white-house/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-10-30T02:56:40Z"
+   "date": "2026-10-29T21:47:45Z"
+  },
+  "49676c9c58dc": {
+   "id": "49676c9c58dc",
+   "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+   "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-10-29T09:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
