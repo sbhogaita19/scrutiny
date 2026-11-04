@@ -1,208 +1,198 @@
 {
- "generated_at": "2026-11-04T12:59:11Z",
+ "generated_at": "2026-11-04T20:25:34Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Democrats seize US Congress as UK debates welfare spending",
-  "overview": "The US midterms have delivered a Democratic majority in both chambers, while in the UK the government and opposition clash over welfare funding and a new UK‑EU food export deal. These developments highlight key constitutional and political dynamics in both countries.",
+  "headline": "Midterms shift US Congress, UK budget debates intensify",
+  "overview": "Democrats have taken control of both US House and Senate, while the UK government pushes its 2026 Budget amid Welsh devolution disputes. Both events highlight parliamentary power and party dynamics.",
   "stories": [
    {
-    "title": "Democrats win control of US House and Senate",
+    "title": "Democrats win US House and Senate",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "The 2026 midterm elections gave Democrats a majority in the House and the Senate, marking a decisive rebuke of Republican leadership. Analysts described the outcome as a ‘tsunami’ of Democratic victories.",
-    "why_it_matters": "The result changes the balance of power in the US federal government, affecting legislative agenda and executive‑legislative relations, a core part of the A‑level US Constitution and Congress study.",
+    "what_happened": "The 2026 midterm elections resulted in Democrats flipping control of both the House of Representatives and the Senate. The outcome was described as a \"tsunami\" for the party.",
+    "why_it_matters": "This illustrates the impact of electoral cycles on party power in a presidential system, a key point in A-level US Politics. It also shows how voter sentiment can reshape legislative agendas.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats view the win as a mandate to reverse former President Trump’s policies."
+      "text": "Democrats view the win as a mandate for progressive policies such as climate action and voting rights."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the result reflects voter backlash against perceived over‑regulation."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive groups celebrate the opportunity to advance climate and social justice legislation."
-     }
-    ],
-    "key_term": {
-     "term": "majority government",
-     "definition": "When one party holds more than half the seats in a legislative chamber."
-    },
-    "exam_use": "Use as evidence of how electoral outcomes can shift legislative power in an essay on US Congress‑President relations.",
-    "sources": [
-     "5502bd147369",
-     "5a82cc246f43"
-    ]
-   },
-   {
-    "title": "UK and EU agree draft food export deal",
-    "section": "ukgov",
-    "topic": "eu",
-    "what_happened": "The UK and the EU signed a draft agreement to remove Brexit‑related red tape on food exports. The deal is set to be discussed at a forthcoming UK‑EU summit.",
-    "why_it_matters": "The agreement illustrates how the UK’s constitutional arrangements allow the executive to negotiate international agreements, relevant to the A‑level study of the UK Constitution and the role of the Prime Minister.",
-    "perspectives": [
-     {
-      "label": "Government view",
-      "text": "The cabinet argues the deal will boost trade and reduce costs for farmers."
-     },
-     {
-      "label": "Opposition view",
-      "text": "Opposition parties warn it may compromise UK standards and sovereignty."
+      "text": "Republicans claim the loss reflects overreach and warn of potential policy overhauls."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators see it as a pragmatic step to restore market access."
+      "text": "Conservative commentators warn that the new majority may increase government spending."
      }
     ],
     "key_term": {
-     "term": "international agreement",
-     "definition": "A formal arrangement between sovereign states on matters of mutual interest."
+     "term": "midterm elections",
+     "definition": "Elections held halfway through a president's term, often reshaping congressional control."
     },
-    "exam_use": "Cite as an example of executive power in foreign policy for an essay on the UK Constitution.",
+    "exam_use": "Use as evidence in an essay on how electoral outcomes affect party dominance in the US Congress.",
     "sources": [
-     "a90103c50444"
+     "341a19f08fed"
     ]
    },
    {
-    "title": "Welsh Government budget passes after £60m deal with Labour",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "The Senedd approved a supplementary Welsh Government budget, adding £60 million for schools, childcare and the NHS after Labour backed the deal. The funding aims to address real‑terms cuts.",
-    "why_it_matters": "The event shows devolution in action, demonstrating how Welsh institutions manage public spending, a key topic in the A‑level study of devolution and political parties.",
+    "title": "UK 2026 Budget presented to Parliament",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "Chancellor presented the 2026 Budget on 28 October and the Finance Bill was introduced on 3 November to enact its tax measures. The Bill now proceeds through parliamentary stages.",
+    "why_it_matters": "Shows the legislative process of fiscal policy and the role of Parliament in scrutinising the executive, relevant to the AQA Constitution and Parliament topics.",
     "perspectives": [
      {
-      "label": "Welsh Labour",
-      "text": "Labour claims the extra money will protect public services from austerity."
+      "label": "Government view",
+      "text": "The Treasury argues the Budget funds public services and supports economic growth."
      },
      {
-      "label": "Plaid Cymru",
-      "text": "Plaid Cymru argues the budget still falls short of Wales’s needs."
+      "label": "Opposition view",
+      "text": "Opposition parties claim the measures favour the wealthy and increase inequality."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups view the deal as a step toward greater social investment."
+      "text": "Labour critics say the Budget fails to address social spending adequately."
+     }
+    ],
+    "key_term": {
+     "term": "Finance Bill",
+     "definition": "Legislation that gives legal effect to the Budget's tax proposals."
+    },
+    "exam_use": "Cite when discussing the checks and balances between the executive and legislature in the UK.",
+    "sources": [
+     "d43945899627"
+    ]
+   },
+   {
+    "title": "Welsh Government supplementary budget approved",
+    "section": "ukpol",
+    "topic": "devolution",
+    "what_happened": "The Senedd approved a supplementary budget providing extra funding for schools, childcare and the NHS after Labour backed a £60 million deal with the UK Government. The deal follows negotiations over funding allocations.",
+    "why_it_matters": "Highlights devolution and intergovernmental relations, showing how regional governments depend on central funding, a key AQA topic on devolution.",
+    "perspectives": [
+     {
+      "label": "Welsh Labour perspective",
+      "text": "Welsh Labour says the deal secures needed resources for public services."
+     },
+     {
+      "label": "Plaid Cymru perspective",
+      "text": "Plaid Cymru argues the UK Budget still represents a real‑terms cut for Wales."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators warn the deal may increase Wales' fiscal dependence on Westminster."
      }
     ],
     "key_term": {
      "term": "devolution",
      "definition": "The transfer of powers from central government to regional or local bodies."
     },
-    "exam_use": "Use to illustrate how devolved governments can negotiate funding, suitable for a question on devolution’s impact on policy.",
+    "exam_use": "Use as evidence of fiscal tensions in devolved administrations for an essay on devolution.",
     "sources": [
      "d274107e5044"
     ]
    },
    {
-    "title": "Clash over welfare spending at Prime Minister’s Questions",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "During Prime Minister’s Questions, Labour’s Louise Haigh challenged Deputy Prime Minister Alex Burghart on the government’s plans to reduce welfare spending. The debate highlighted differing party positions on public finance.",
-    "why_it_matters": "The exchange reflects party politics and parliamentary scrutiny, central to the A‑level focus on parties, elections and parliamentary accountability.",
-    "perspectives": [
-     {
-      "label": "Government stance",
-      "text": "The Conservatives argue cuts are necessary to control the deficit."
-     },
-     {
-      "label": "Opposition stance",
-      "text": "Labour contends cuts will harm vulnerable groups and increase inequality."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators defend the fiscal prudence of the plan."
-     }
-    ],
-    "key_term": {
-     "term": "welfare spending",
-     "definition": "Government expenditure on social security and support programmes."
-    },
-    "exam_use": "Reference in an essay analysing how party ideology shapes policy proposals on welfare.",
-    "sources": [
-     "2791455f2104"
-    ]
-   },
-   {
-    "title": "Democratic win in Texas Senate seat historic",
+    "title": "Progressive Democrat wins Michigan Senate seat",
     "section": "us",
     "topic": "us-parties",
-    "what_happened": "James Talarico became the first Democrat to win a Texas Senate seat since 1988, contributing to the broader Democratic wave in the 2026 midterms.",
-    "why_it_matters": "The victory signals shifting party dynamics in traditionally Republican states, relevant to A‑level topics on US parties and electoral change.",
+    "what_happened": "Abdul El‑Sayed was elected as the first Muslim U.S. senator, representing Michigan. His victory adds to the Democratic gains in the Senate.",
+    "why_it_matters": "Demonstrates how demographic representation can influence party strategy and voter appeal, relevant to US politics sections on parties and representation.",
     "perspectives": [
      {
-      "label": "Democratic view",
-      "text": "Democrats see the win as evidence of growing diversity and changing voter attitudes."
+      "label": "Progressive view",
+      "text": "Supporters see his election as a breakthrough for diversity and progressive policies."
      },
      {
-      "label": "Republican view",
-      "text": "Republicans warn it may be a temporary anomaly due to national trends."
+      "label": "Conservative view",
+      "text": "Critics question his policy positions and potential impact on Senate dynamics."
      },
      {
       "label": "From the left",
-      "text": "Progressive activists celebrate the potential for more progressive legislation from Texas."
+      "text": "Left‑leaning analysts highlight the significance for minority representation."
      }
     ],
     "key_term": {
-     "term": "party realignment",
-     "definition": "A significant shift in the political support base of a party."
+     "term": "representation",
+     "definition": "The presence of diverse groups within elected bodies."
     },
-    "exam_use": "Use as a case study of party realignment in a US politics essay.",
+    "exam_use": "Reference when discussing how party identity and voter demographics shape electoral outcomes.",
     "sources": [
-     "74dab33a4157"
+     "6d0966b4a934"
+    ]
+   },
+   {
+    "title": "Legal challenge over Welsh quarry dumping",
+    "section": "ukgov",
+    "topic": "judiciary",
+    "what_happened": "An environmental campaigner launched a legal challenge against a quarry used for industrial dumping, alleging breaches of environmental law. The case will be heard in Welsh courts.",
+    "why_it_matters": "Illustrates judicial review of administrative decisions, a core concept in the AQA Constitution and Judiciary topics.",
+    "perspectives": [
+     {
+      "label": "Campaigner view",
+      "text": "The challenge seeks to enforce environmental protections and hold the quarry operator accountable."
+     },
+     {
+      "label": "Industry view",
+      "text": "The quarry argues compliance with existing regulations and economic necessity."
+     },
+     {
+      "label": "From the left",
+      "text": "Environmental groups see the case as a test of government commitment to green policies."
+     }
+    ],
+    "key_term": {
+     "term": "judicial review",
+     "definition": "A court process that examines the lawfulness of decisions made by public bodies."
+    },
+    "exam_use": "Use to illustrate the role of the judiciary in checking executive actions in an essay on the UK constitution.",
+    "sources": [
+     "5b1637b26a62"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "The UK’s next general election is scheduled for 2027, with parties campaigning on issues like welfare spending and Brexit reforms, but no election outcome is yet decided.",
-   "us": "The 2026 US midterms resulted in Democrats gaining control of both chambers, directly changing legislative priorities.",
-   "insight": "The contrast shows the UK’s fixed‑term parliamentary system versus the US’s staggered electoral cycles, highlighting how timing influences political stability and policy change.",
+   "theme": "legislatures",
+   "uk": "The UK Parliament scrutinises the Budget through multiple readings and committee stages, allowing opposition challenge.",
+   "us": "In the US, Congress gained Democratic control after the midterms, shifting legislative priorities without a formal budget approval process.",
+   "insight": "The contrast shows the UK’s more procedural scrutiny of fiscal policy versus the US’s partisan swings that can rapidly change legislative agendas.",
    "sources": [
-    "2791455f2104",
-    "5502bd147369"
+    "d43945899627",
+    "341a19f08fed"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The Democratic victories reflect liberal ideas of expanding civil rights and government action to address inequality, echoing thinkers like John Stuart Mill who argued for individual liberty combined with social welfare.",
+   "text": "Democratic gains in the US reflect liberal ideas of expanding civil rights and government responsiveness, echoing John Locke’s emphasis on consent of the governed. The Welsh budget deal also embodies liberal principles of providing public services to promote individual welfare.",
    "sources": [
-    "5502bd147369",
-    "5f9d40e846c9"
+    "341a19f08fed",
+    "d274107e5044"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which recent election outcomes in the US and the UK have reshaped the balance of power between the executive and legislature.",
-   "section": "ukgov | us",
-   "tip": "Structure your answer by comparing the US congressional shift with the UK’s parliamentary dynamics, using specific recent examples."
+   "question": "Assess the extent to which recent electoral outcomes have altered the balance of power between the executive and legislature in the US and the UK.",
+   "section": "us | ukgov",
+   "tip": "Compare the US midterm shift in Congress with the UK Parliament’s scrutiny of the 2026 Budget, focusing on party control and legislative oversight."
   }
  },
  "refs": {
-  "5502bd147369": {
-   "id": "5502bd147369",
-   "title": "Democrats win control of U.S. House, in major rebuke to Trump",
-   "link": "https://www.pbs.org/newshour/politics/democrats-win-control-of-the-u-s-house",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-04T06:27:26Z"
+  "341a19f08fed": {
+   "id": "341a19f08fed",
+   "title": "US midterms: Democrats flip the House and Senate",
+   "link": "https://www.newstatesman.com/podcasts/2026/11/us-midterms-democrats-flip-the-house-and-senate-2",
+   "source": "newstatesman",
+   "sourceName": "New Statesman",
+   "lean": "centre-left",
+   "date": "2026-11-04T17:07:24Z"
   },
-  "5a82cc246f43": {
-   "id": "5a82cc246f43",
-   "title": "2026 Midterm Elections: Live Updates",
-   "link": "https://www.nationalreview.com/2026/11/2026-midterm-elections-live-updates/",
-   "source": "natreview",
-   "sourceName": "National Review",
-   "lean": "centre-right",
-   "date": "2026-11-03T22:30:24Z"
-  },
-  "a90103c50444": {
-   "id": "a90103c50444",
-   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-11-03T20:53:03Z"
+  "d43945899627": {
+   "id": "d43945899627",
+   "title": "Budget 2026 and Finance Bill 2026-27",
+   "link": "https://commonslibrary.parliament.uk/research-briefings/cbp-12273/",
+   "source": "commonslib",
+   "sourceName": "House of Commons Library",
+   "lean": "non-partisan",
+   "date": "2026-11-04T16:40:03Z"
   },
   "d274107e5044": {
    "id": "d274107e5044",
@@ -213,32 +203,23 @@
    "lean": "centre-left",
    "date": "2026-11-03T21:38:37Z"
   },
-  "2791455f2104": {
-   "id": "2791455f2104",
-   "title": "Louise Haigh and deputy Conservative leader Alex Burghart clash over welfare spending at PMQS – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-04T12:47:14Z"
-  },
-  "74dab33a4157": {
-   "id": "74dab33a4157",
-   "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-   "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
+  "6d0966b4a934": {
+   "id": "6d0966b4a934",
+   "title": "Democrat Abdul El-Sayed wins election to U.S. Senate from Michigan",
+   "link": "https://www.pbs.org/newshour/politics/democrat-abdul-el-sayed-wins-election-to-u-s-senate-from-michigan",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-04T05:39:36Z"
+   "date": "2026-11-04T12:22:33Z"
   },
-  "5f9d40e846c9": {
-   "id": "5f9d40e846c9",
-   "title": "6 takeaways from Democrats' big wave on election night",
-   "link": "https://www.npr.org/2026/11/04/nx-s1-6022216/midterms-democrats-trump-republicans-analysis",
-   "source": "npr",
-   "sourceName": "NPR",
+  "5b1637b26a62": {
+   "id": "5b1637b26a62",
+   "title": "Campaigner launches legal challenge over quarry used as industrial dumping ground",
+   "link": "https://nation.cymru/news/campaigner-launches-legal-challenge-over-quarry-used-as-industrial-dumping-ground/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-04T12:02:38Z"
+   "date": "2026-11-04T19:04:07Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
