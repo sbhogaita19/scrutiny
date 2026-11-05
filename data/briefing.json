@@ -1,174 +1,178 @@
 {
- "generated_at": "2026-11-05T13:12:17Z",
+ "generated_at": "2026-11-05T20:40:03Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms reshape US Congress as UK debates EU market ties",
-  "overview": "US midterm elections have handed Democrats control of Congress, while in the UK Labour proposes joining the EU single market without a referendum. Both events highlight how electoral outcomes can drive policy direction.",
+  "headline": "Midterms reshape US Congress as UK devolution debates heat up",
+  "overview": "The US midterm elections have handed Democrats control of Congress while Republicans face internal criticism. In Wales, the Senedd is testing smart‑glass technology amid controversy over a data‑centre project.",
   "stories": [
    {
-    "title": "Democrats win US House and Senate",
+    "title": "Trump blames Iran war for Republican midterm losses",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "The 2026 midterm elections resulted in a Democratic majority in both the House of Representatives and the Senate. This outcome was described by analysts as a \"tsunami\" of blue votes.",
-    "why_it_matters": "The shift illustrates the impact of electoral cycles on legislative control, a key concept in A-level studies of the US Congress and party competition.",
+    "what_happened": "President Donald Trump, after the Republican defeat in the 2026 midterms, said the war in Iran cost his party votes and showcased a new White House ballroom. He framed the loss as a consequence of foreign policy choices.",
+    "why_it_matters": "The result illustrates how electoral outcomes can be linked to foreign policy decisions, a key point in the AQA unit on US elections and public opinion. It also shows the President’s role in shaping party narratives.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats see the win as a mandate to pursue progressive legislation on climate and health."
+      "text": "Trump’s base says the war diverted attention from domestic issues and hurt Republican prospects."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans warn the new majority will push policies that could raise taxes and stifle growth."
+      "text": "Opponents claim the blame shifts responsibility from party leadership failures."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups celebrate the potential for expanded social programmes."
+      "text": "Progressive commentators view the war as an unnecessary conflict that undermines democratic accountability."
      }
     ],
     "key_term": {
-     "term": "majority government",
-     "definition": "When one party holds more than half the seats in a legislative chamber."
+     "term": "midterm elections",
+     "definition": "US elections held halfway through a President’s four‑year term, determining control of Congress."
     },
-    "exam_use": "Use as evidence of how electoral outcomes can change the balance of power in a bicameral legislature for a comparative essay.",
+    "exam_use": "Use as evidence in an essay on how foreign policy influences voter behaviour in US elections.",
     "sources": [
-     "7e02f2d53ebd",
-     "341a19f08fed"
+     "7e02f2d53ebd"
     ]
    },
    {
     "title": "Mississippi Senate race lacks recount rule",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "The Senate contest in Mississippi ended in a tie with no statutory recount procedure. Candidates may seek judicial intervention to resolve the result.",
-    "why_it_matters": "The case highlights the role of courts in the US electoral system, linking to the AQA topic on the judiciary’s function in elections.",
+    "what_happened": "The Senate contest in Mississippi ended with a razor‑thin margin and no statutory recount procedure. Candidates prepared for a legal challenge in the courts.",
+    "why_it_matters": "Highlights the importance of electoral law and the role of the judiciary in resolving disputes, relevant to the AQA topic on US courts and elections.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Some argue the courts can ensure a fair outcome when legislation is silent."
+      "text": "Republicans say the existing rules are sufficient and courts will ensure fairness."
      },
      {
       "label": "Critics argue",
-      "text": "Others claim reliance on courts undermines democratic legitimacy."
+      "text": "Democrats call for reform, arguing the lack of a recount undermines confidence."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservatives warn that new recount rules could invite endless litigation."
      }
     ],
     "key_term": {
      "term": "recount",
-     "definition": "A review of ballot counts to verify election results."
+     "definition": "A review of ballot totals to verify the accuracy of an election result."
     },
-    "exam_use": "Cite as an example of judicial involvement in electoral disputes for a short answer on the US election process.",
+    "exam_use": "Cite when discussing checks and balances in the US electoral system.",
     "sources": [
      "4315041de52a"
     ]
    },
    {
-    "title": "Labour’s EU single‑market proposal",
-    "section": "ukpol",
-    "topic": "eu",
-    "what_happened": "Andy Burnham’s Labour Party suggested the UK could join the EU single market without holding a referendum. The Conservatives and Reform Party have pledged to reverse such a move.",
-    "why_it_matters": "The proposal raises questions about the role of referendums in UK constitutional change, relevant to the AQA Constitution and EU relations topics.",
+    "title": "DeSantis calls midterms a rebuke to Trump and Congress",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Florida Governor Ron DeSantis said the 2026 midterm results were a clear rebuke of both President Trump and the Republican‑controlled Congress. He positioned himself as a distinct voice within the party.",
+    "why_it_matters": "Shows intra‑party competition and the influence of party leaders on electoral strategy, a core theme in the AQA study of US parties.",
     "perspectives": [
      {
+      "label": "Supporters argue",
+      "text": "DeSantis supporters view his critique as a needed reset for the GOP."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Trump allies see the comment as disloyalty that could split the vote."
+     },
+     {
+      "label": "From the centre",
+      "text": "Analysts suggest the rebuke reflects broader voter fatigue with establishment politics."
+     }
+    ],
+    "key_term": {
+     "term": "intra‑party rivalry",
+     "definition": "Competition between members of the same political party for influence or leadership."
+    },
+    "exam_use": "Use to illustrate factionalism within US parties in an essay on party dynamics.",
+    "sources": [
+     "4a7787100205"
+    ]
+   },
+   {
+    "title": "Smart glasses approved for Senedd speeches",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "The Llywydd of the Welsh Senedd confirmed that members may use smart‑glass teleprompters during speeches after a Reform UK member raised concerns. The decision follows a debate on modernising parliamentary practice.",
+    "why_it_matters": "Relates to the AQA focus on the functions and modernisation of UK legislatures, showing how technology can affect parliamentary procedure.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Proponents say the glasses improve accessibility and efficiency for speakers."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents worry they could reduce spontaneity and increase reliance on devices."
+     },
+     {
       "label": "From the left",
-      "text": "Labour argues a referendum is unnecessary because the public already supports closer EU ties."
+      "text": "Progressive voices argue the move could democratise participation for disabled members."
+     }
+    ],
+    "key_term": {
+     "term": "teleprompter",
+     "definition": "A device that displays a script for speakers, allowing them to read without looking away from the audience."
+    },
+    "exam_use": "Reference when discussing how UK parliaments adapt to technological change.",
+    "sources": [
+     "4a84cdf43bb7"
+    ]
+   },
+   {
+    "title": "Burnham proposes EU single‑market deal without referendum",
+    "section": "ukpol",
+    "topic": "eu",
+    "what_happened": "Labour leader Andy Burnham suggested the party could negotiate a UK‑EU single‑market agreement without holding a public referendum, arguing it would speed up trade benefits. The Conservatives and Reform UK have pledged to reverse any such deal.",
+    "why_it_matters": "Illustrates the debate over democratic legitimacy versus economic pragmatism, a key issue in the AQA unit on the EU and UK political parties.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Burnham’s supporters claim a referendum would delay vital economic gains."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents say bypassing a referendum undermines democratic accountability."
      },
      {
       "label": "From the right",
-      "text": "Conservatives contend a referendum is essential for democratic legitimacy."
-     },
-     {
-      "label": "Neutral analysts",
-      "text": "Political scientists note the proposal could bypass public scrutiny, affecting trust in government."
+      "text": "Conservative critics warn it could erode sovereignty and set a precedent for executive overreach."
      }
     ],
     "key_term": {
      "term": "referendum",
      "definition": "A direct vote by the electorate on a specific political question."
     },
-    "exam_use": "Use to discuss the tension between representative and direct democracy in an essay on UK constitutional practices.",
+    "exam_use": "Use as evidence when evaluating arguments for and against direct democracy in UK‑EU relations.",
     "sources": [
      "6651d05d2187"
-    ]
-   },
-   {
-    "title": "Maternity care petition reaches Parliament",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "A petition with 900 signatures calling for better miscarriage assessment services was presented to the UK Parliament. It follows a case where a woman waited nine days for care.",
-    "why_it_matters": "The incident illustrates how pressure groups can influence policy and highlights devolution’s role in health services, linking to the AQA topics on pressure groups and devolution.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Advocates say the petition shows needed reforms in NHS maternity services."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Some officials claim existing protocols already meet standards."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour supporters view it as evidence of systemic under‑investment."
-     }
-    ],
-    "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking election."
-    },
-    "exam_use": "Reference as a case study of how civil society can prompt parliamentary debate in a short‑answer question.",
-    "sources": [
-     "970433e81a87"
-    ]
-   },
-   {
-    "title": "UK raises interest rates amid Middle‑East tensions",
-    "section": "ukgov",
-    "topic": "constitution",
-    "what_happened": "The Bank of England increased interest rates, citing uncertainty from ongoing Middle‑East conflict involving Iran. The move may be repeated if the situation persists.",
-    "why_it_matters": "Monetary policy decisions intersect with executive authority and economic governance, topics covered under the UK Constitution syllabus.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Economists say rate hikes protect inflation despite external shocks."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents warn higher rates could harm growth and increase debt burdens."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives view the action as prudent fiscal management."
-     }
-    ],
-    "key_term": {
-     "term": "interest rate",
-     "definition": "The percentage charged by central banks for borrowing money, influencing economic activity."
-    },
-    "exam_use": "Employ as evidence of executive economic decision‑making in an essay on the powers of the UK government.",
-    "sources": [
-     "956ff78e7d84"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "The Labour Party’s proposal to join the EU single market without a referendum reflects internal party debates rather than a public vote.",
-   "us": "The 2026 US midterms produced a clear shift in congressional control through a nationwide election.",
-   "insight": "The contrast shows the UK’s reliance on internal party mechanisms for policy change versus the US’s direct electoral mandate shaping legislative power.",
+   "uk": "The UK does not have regular midterm elections; parliamentary elections are called by the Prime Minister and can be triggered by a vote of no confidence.",
+   "us": "The US holds fixed midterm elections every two years, determining control of Congress and reflecting public opinion on the President’s performance.",
+   "insight": "The contrast shows how electoral timing and mechanisms shape accountability differently in each system.",
    "sources": [
-    "6651d05d2187",
-    "7e02f2d53ebd"
+    "7e02f2d53ebd",
+    "6651d05d2187"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Labour’s single‑market plan embodies liberal ideas of free trade and individual economic freedom, echoing thinkers like John Stuart Mill who argued for minimal barriers to commerce.",
+   "text": "The US midterm shift towards Democrats reflects liberal ideas of expanding civil rights and government intervention, echoing thinkers like John Locke on popular sovereignty. Burnham’s single‑market proposal also draws on liberal economic principles of free trade.",
    "sources": [
+    "7e02f2d53ebd",
     "6651d05d2187"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which electoral outcomes influence policy decisions in the US and the UK.",
-   "section": "us | ukgov | ukpol",
-   "tip": "Compare the US midterm shift in congressional control with Labour’s internal policy proposal, linking each to the role of elections and party decision‑making."
+   "question": "Assess the extent to which electoral outcomes can influence government policy in the US and the UK.",
+   "section": "us | ukgov",
+   "tip": "Compare the fixed midterm system in the US with the UK’s flexible parliamentary timetable, using recent election results as examples."
   }
  },
  "refs": {
@@ -181,15 +185,6 @@
    "lean": "centre",
    "date": "2026-11-05T00:56:00Z"
   },
-  "341a19f08fed": {
-   "id": "341a19f08fed",
-   "title": "US midterms: Democrats flip the House and Senate",
-   "link": "https://www.newstatesman.com/podcasts/2026/11/us-midterms-democrats-flip-the-house-and-senate-2",
-   "source": "newstatesman",
-   "sourceName": "New Statesman",
-   "lean": "centre-left",
-   "date": "2026-11-04T17:07:24Z"
-  },
   "4315041de52a": {
    "id": "4315041de52a",
    "title": "Mississippi has an unexpectedly close Senate race but no recount procedure",
@@ -199,6 +194,24 @@
    "lean": "centre",
    "date": "2026-11-05T11:00:00Z"
   },
+  "4a7787100205": {
+   "id": "4a7787100205",
+   "title": "DeSantis: 'No question' midterms a 'rebuke' of Trump, Congress",
+   "link": "https://thehill.com/homenews/campaign/6200226-ron-desantis-2026-midterms-result-rebuke-trump-congress/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-05T13:01:40Z"
+  },
+  "4a84cdf43bb7": {
+   "id": "4a84cdf43bb7",
+   "title": "Llywydd confirms smart glasses can be used for Senedd speeches",
+   "link": "https://nation.cymru/news/llywydd-confirms-smart-glasses-can-be-used-for-senedd-speeches/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-05T18:42:14Z"
+  },
   "6651d05d2187": {
    "id": "6651d05d2187",
    "title": "Is Burnham right about joining the EU single market without a referendum?",
@@ -207,24 +220,6 @@
    "sourceName": "LSE British Politics",
    "lean": "non-partisan",
    "date": "2026-11-05T12:31:15Z"
-  },
-  "970433e81a87": {
-   "id": "970433e81a87",
-   "title": "Woman who waited nine days for miscarriage assessment 'fighting against system'",
-   "link": "https://www.bbc.co.uk/news/articles/cqp8g0ee2knko?at_medium=RSS&at_campaign=rss",
-   "source": "bbcscot",
-   "sourceName": "BBC Scotland",
-   "lean": "centre",
-   "date": "2026-11-05T12:37:28Z"
-  },
-  "956ff78e7d84": {
-   "id": "956ff78e7d84",
-   "title": "UK hikes rates with eye on Trump’s next Middle East move",
-   "link": "https://www.politico.eu/article/uk-hikes-rates-with-eye-on-us-donald-trumps-next-middle-east-move-bank-of-england-andrew-bailey/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-11-05T12:42:11Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
