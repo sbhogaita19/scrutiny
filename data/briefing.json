@@ -1,197 +1,195 @@
 {
- "generated_at": "2026-11-06T12:57:09Z",
+ "generated_at": "2026-11-06T19:57:08Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms reshape US Congress, Welsh devolution debates tech and housing",
-  "overview": "US midterm elections have handed Democrats control of Congress and sparked calls for investigations into former President Trump. In Wales, a legal defeat over a leisure centre and a controversial data‑centre proposal highlight tensions in devolved governance.",
+  "headline": "Midterms reshape US Congress, UK devolution debates heat up",
+  "overview": "Democrats have taken control of the US Congress while UK local councils face criticism over fast‑tracked projects. Both events highlight how political institutions respond to electoral pressure and public scrutiny.",
   "stories": [
    {
-    "title": "Democrats take Congress, promise probes into Trump",
+    "title": "Democrats win US House and Senate",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Democrats won a majority in the House and Senate in the 2026 midterms. They pledged to launch investigations into alleged corruption linked to former President Trump.",
-    "why_it_matters": "The shift illustrates how electoral outcomes can alter the balance of power in the US legislature, a key A‑level topic on Congress and party politics. It also raises questions about accountability mechanisms in a presidential system.",
+    "what_happened": "Democrats flipped at least 40 House seats and seven Senate seats in the 2026 midterms. Their victory gives them control of both chambers of Congress.",
+    "why_it_matters": "The shift illustrates the impact of electoral outcomes on legislative power, a core A‑level concept. It also shows how party control can affect policy agendas and oversight of the executive.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats say investigations are needed to protect democratic integrity."
+      "text": "Democrats say the win reflects public demand for accountability on issues like the Iran war."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the probes are partisan revenge."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives warn that endless inquiries could destabilise governance."
+      "text": "Republicans claim the results are a temporary backlash and warn of over‑reach by the new majority."
      }
     ],
     "key_term": {
      "term": "majority government",
-     "definition": "When one party holds more than half the seats in a legislative chamber."
+     "definition": "When one party holds more than half the seats in a legislature, allowing it to pass legislation more easily."
     },
-    "exam_use": "Use as evidence of how election results can change legislative control in an essay on the US Congress and party competition.",
+    "exam_use": "Use as evidence in an essay on how elections shape legislative agendas in the US.",
     "sources": [
-     "95ecd8e7a547"
+     "768f13a510a3"
     ]
    },
    {
-    "title": "Midterm races still undecided",
+    "title": "Trump appoints new chief of staff",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Several Senate and House contests remained too close to call after the midterms. Analysts highlighted key battleground states where outcomes could shift the final balance.",
-    "why_it_matters": "Undecided races demonstrate the role of marginal constituencies and the impact of voter turnout, linking to A‑level study of elections and the first‑past‑the‑post system.",
+    "topic": "president",
+    "what_happened": "President Donald Trump named Stephen Miller as his new chief of staff after Susie Wiles stepped down. The change follows significant Republican losses in the midterms.",
+    "why_it_matters": "The appointment highlights the role of the executive office and how leadership changes can influence policy direction, relevant to the study of the US presidency.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Close races show a healthy, competitive democracy."
-     },
-     {
-      "label": "Critics argue",
-      "text": "They expose vulnerabilities to strategic voting and misinformation."
+      "label": "From the right",
+      "text": "Supporters say Miller will reinforce the administration’s original agenda."
      },
      {
       "label": "From the left",
-      "text": "Progressives stress the need for electoral reform to better reflect voter intent."
+      "text": "Critics warn the move could deepen partisan divisions and undermine institutional stability."
      }
     ],
     "key_term": {
-     "term": "marginal seat",
-     "definition": "A constituency where the winning party's majority is small enough that it could easily change in the next election."
+     "term": "chief of staff",
+     "definition": "The senior aide who manages the president’s schedule and advises on policy and political strategy."
     },
-    "exam_use": "Cite when discussing the significance of swing seats in US elections essays.",
+    "exam_use": "Cite when discussing the powers and influence of the US President’s staff.",
     "sources": [
-     "d5ce8d81a94d"
+     "edbb8ad8eb52"
+    ]
+   },
+   {
+    "title": "Welsh council accused of rushing data‑centre plan",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Cardiff council was criticised for fast‑tracking a controversial data‑centre proposal, attracting numerous objections from residents. The issue has sparked debate over local decision‑making powers.",
+    "why_it_matters": "The case illustrates devolution in practice, showing how regional authorities exercise powers delegated from Westminster and face accountability pressures.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Council leaders claim the project will bring jobs and investment to the area."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents say the process ignored proper public consultation and environmental concerns."
+     },
+     {
+      "label": "From the left",
+      "text": "Local activists view it as a manifestation of neoliberal development priorities."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The transfer of powers from central government to regional or local bodies."
+    },
+    "exam_use": "Use as a contemporary example of devolution and local governance in an essay on UK political structures.",
+    "sources": [
+     "ebcde50e7c5c"
     ]
    },
    {
     "title": "Legal challenge to leisure centre closure fails",
     "section": "ukgov",
     "topic": "judiciary",
-    "what_happened": "A judge dismissed a legal challenge against the closure of a local leisure centre in Caerphilly. The court upheld the council's decision.",
-    "why_it_matters": "The case illustrates judicial review of local government actions, a core concept in the A‑level study of the UK judiciary and devolution.",
+    "what_happened": "A court dismissed a legal challenge against the closure of a local leisure centre in Caerphilly. The judge upheld the council’s decision.",
+    "why_it_matters": "The ruling demonstrates judicial review of local authority actions, linking to the A‑level focus on the role of the judiciary in checking government power.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The decision respects local authority autonomy."
+      "text": "The decision shows courts respect elected officials’ discretion in service provision."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say it undermines community services."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive groups view it as evidence of austerity pressures on public amenities."
+      "text": "Campaigners argue the judgment limits community rights to challenge unpopular decisions."
      }
     ],
     "key_term": {
      "term": "judicial review",
      "definition": "A process by which courts examine the lawfulness of decisions or actions taken by public bodies."
     },
-    "exam_use": "Use as a case study of how courts can check devolved administrations in an essay on the UK judiciary.",
+    "exam_use": "Reference when discussing the checks and balances between the judiciary and local government.",
     "sources": [
      "5f1c74c2ced6"
     ]
    },
    {
-    "title": "Welsh MP urged to rethink data‑centre support",
+    "title": "UK parties face backlash over slavery comment",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "A campaign group called on former Welsh Secretary Jo Stevens to withdraw her backing for a controversial data‑centre project in her constituency. The group cited environmental concerns.",
-    "why_it_matters": "The episode highlights intra‑party pressure and the influence of interest groups on policy decisions, linking to A‑level topics on political parties and pressure groups.",
+    "what_happened": "Conservative leader Kemi Badenoch’s remarks against a national apology for slavery sparked anger among black voters, according to Operation Black Vote. The controversy has intensified scrutiny of party messaging.",
+    "why_it_matters": "The incident highlights how party leaders’ statements can affect voter perception and party support, a key theme in the study of political parties and elections.",
     "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Proponents say the data centre will bring jobs and investment."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Environmentalists warn of ecological damage and carbon emissions."
-     },
      {
       "label": "From the right",
-      "text": "Conservatives stress economic growth over environmental regulation."
-     }
-    ],
-    "key_term": {
-     "term": "interest group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
-    },
-    "exam_use": "Reference when analysing how pressure groups affect party policy in a UK politics essay.",
-    "sources": [
-     "2eb482947d29"
-    ]
-   },
-   {
-    "title": "Trump orders Oval Office to become national monument",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "President Trump signed an executive order designating the Oval Office as a national monument after altering its decor. The move follows his recent changes to White House interiors.",
-    "why_it_matters": "The order shows the use of presidential powers to shape national heritage, relevant to A‑level study of the US executive and its constitutional limits.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The designation preserves historic symbolism."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents view it as politicising heritage for personal legacy."
+      "text": "Supporters say the comment defends national pride and rejects what they view as symbolic gestures."
      },
      {
       "label": "From the left",
-      "text": "Progressives argue it distracts from pressing policy issues."
+      "text": "Critics argue it dismisses historical injustices and alienates minority communities."
+     },
+     {
+      "label": "From the centre",
+      "text": "Analysts note the risk of losing swing voters in upcoming elections."
      }
     ],
     "key_term": {
-     "term": "executive order",
-     "definition": "A directive issued by the US President that manages operations of the federal government."
+     "term": "party branding",
+     "definition": "The set of ideas, values and images a political party uses to present itself to voters."
     },
-    "exam_use": "Use to illustrate executive authority in an essay on the US presidency.",
+    "exam_use": "Use as evidence in an essay on how party leadership influences electoral appeal.",
     "sources": [
-     "462c6288e813"
+     "9c837a62eed3"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK Prime Minister leads the executive, accountable to Parliament and can be removed by a vote of no confidence.",
-   "us": "The US President heads the executive, elected separately from Congress and cannot be removed except by impeachment.",
-   "insight": "The contrast shows how the UK’s fused executive‑legislature system allows quicker removal of leaders, while the US’s separation creates a more stable but less flexible executive.",
+   "theme": "elections",
+   "uk": "UK general elections determine the composition of Parliament, influencing the executive through the Prime Minister’s majority. The first‑past‑the‑post system often produces single‑party governments.",
+   "us": "US midterm elections decide control of Congress, affecting the President’s ability to pass legislation and appoint judges. The separate election of the executive and legislature can lead to divided government.",
+   "insight": "The contrast shows how electoral systems shape the relationship between branches: the UK’s parliamentary system links executive and legislative power, while the US’s presidential system allows for more frequent checks and balances.",
    "sources": [
-    "fae1702af4ac",
-    "462c6288e813"
+    "768f13a510a3",
+    "9c837a62eed3"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Trump’s monument order reflects a conservative emphasis on preserving traditional symbols and national heritage, echoing Edmund Burke’s idea that institutions embody collective memory.",
+   "ideology": "liberalism",
+   "text": "The US midterm shift reflects liberal democratic principles of accountability through regular elections, while the Welsh data‑centre debate raises liberal concerns about individual rights versus economic development, echoing John Stuart Mill’s emphasis on protecting minority interests.",
    "sources": [
-    "462c6288e813"
+    "768f13a510a3",
+    "ebcde50e7c5c"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the US President can use executive orders to shape national policy, using recent examples.",
-   "section": "us",
-   "tip": "Analyse the legal basis, political context and potential challenges of each order."
+   "question": "Assess the extent to which electoral outcomes influence the balance of power between the executive and legislature in the US and the UK.",
+   "section": "us | ukgov",
+   "tip": "Compare the US midterm results with the UK parliamentary system, using specific examples from the news to illustrate how each system responds to election results."
   }
  },
  "refs": {
-  "95ecd8e7a547": {
-   "id": "95ecd8e7a547",
-   "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
-   "link": "https://www.pbs.org/newshour/politics/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-05T23:00:50Z"
+  "768f13a510a3": {
+   "id": "768f13a510a3",
+   "title": "Democrats won control of Congress. So what does that mean for the Supreme Court?",
+   "link": "https://www.scotusblog.com/2026/11/democrats-won-control-of-congress-what-might-that-mean-for-the-supreme-court/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-11-06T14:30:00Z"
   },
-  "d5ce8d81a94d": {
-   "id": "d5ce8d81a94d",
-   "title": "A look at the midterm races that remain undecided",
-   "link": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
+  "edbb8ad8eb52": {
+   "id": "edbb8ad8eb52",
+   "title": "Trump names Stephen Miller his next chief of staff after major Republican midterm losses",
+   "link": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-05T23:55:48Z"
+   "date": "2026-11-06T19:17:44Z"
+  },
+  "ebcde50e7c5c": {
+   "id": "ebcde50e7c5c",
+   "title": "Council accused of rushing controversial data centre plan",
+   "link": "https://nation.cymru/news/council-accused-of-rushing-controversial-data-centre-plan/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-06T19:35:33Z"
   },
   "5f1c74c2ced6": {
    "id": "5f1c74c2ced6",
@@ -202,32 +200,14 @@
    "lean": "centre-left",
    "date": "2026-11-06T12:23:48Z"
   },
-  "2eb482947d29": {
-   "id": "2eb482947d29",
-   "title": "MP urged to reconsider her backing for controversial data centre",
-   "link": "https://nation.cymru/news/mp-urged-to-reconsider-her-backing-for-controversial-data-centre/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "9c837a62eed3": {
+   "id": "9c837a62eed3",
+   "title": "‘Profound anger’ among black voters over Kemi Badenoch’s slavery remarks",
+   "link": "https://www.theguardian.com/politics/2026/nov/06/kemi-badenoch-slavery-comments-anger-black-voters-operation-black-vote",
+   "source": "guardian",
+   "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-05T21:30:09Z"
-  },
-  "462c6288e813": {
-   "id": "462c6288e813",
-   "title": "Trump signs order to preserve Oval Office as national monument",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-11-06T09:19:57Z"
-  },
-  "fae1702af4ac": {
-   "id": "fae1702af4ac",
-   "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
-   "link": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-05T23:46:36Z"
+   "date": "2026-11-06T13:00:42Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
