@@ -1,225 +1,233 @@
 {
- "generated_at": "2026-11-05T20:40:03Z",
+ "generated_at": "2026-11-06T12:57:09Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms reshape US Congress as UK devolution debates heat up",
-  "overview": "The US midterm elections have handed Democrats control of Congress while Republicans face internal criticism. In Wales, the Senedd is testing smart‑glass technology amid controversy over a data‑centre project.",
+  "headline": "Midterms reshape US Congress, Welsh devolution debates tech and housing",
+  "overview": "US midterm elections have handed Democrats control of Congress and sparked calls for investigations into former President Trump. In Wales, a legal defeat over a leisure centre and a controversial data‑centre proposal highlight tensions in devolved governance.",
   "stories": [
    {
-    "title": "Trump blames Iran war for Republican midterm losses",
+    "title": "Democrats take Congress, promise probes into Trump",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "President Donald Trump, after the Republican defeat in the 2026 midterms, said the war in Iran cost his party votes and showcased a new White House ballroom. He framed the loss as a consequence of foreign policy choices.",
-    "why_it_matters": "The result illustrates how electoral outcomes can be linked to foreign policy decisions, a key point in the AQA unit on US elections and public opinion. It also shows the President’s role in shaping party narratives.",
+    "what_happened": "Democrats won a majority in the House and Senate in the 2026 midterms. They pledged to launch investigations into alleged corruption linked to former President Trump.",
+    "why_it_matters": "The shift illustrates how electoral outcomes can alter the balance of power in the US legislature, a key A‑level topic on Congress and party politics. It also raises questions about accountability mechanisms in a presidential system.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s base says the war diverted attention from domestic issues and hurt Republican prospects."
+      "text": "Democrats say investigations are needed to protect democratic integrity."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim the blame shifts responsibility from party leadership failures."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive commentators view the war as an unnecessary conflict that undermines democratic accountability."
-     }
-    ],
-    "key_term": {
-     "term": "midterm elections",
-     "definition": "US elections held halfway through a President’s four‑year term, determining control of Congress."
-    },
-    "exam_use": "Use as evidence in an essay on how foreign policy influences voter behaviour in US elections.",
-    "sources": [
-     "7e02f2d53ebd"
-    ]
-   },
-   {
-    "title": "Mississippi Senate race lacks recount rule",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "The Senate contest in Mississippi ended with a razor‑thin margin and no statutory recount procedure. Candidates prepared for a legal challenge in the courts.",
-    "why_it_matters": "Highlights the importance of electoral law and the role of the judiciary in resolving disputes, relevant to the AQA topic on US courts and elections.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Republicans say the existing rules are sufficient and courts will ensure fairness."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Democrats call for reform, arguing the lack of a recount undermines confidence."
+      "text": "Republicans claim the probes are partisan revenge."
      },
      {
       "label": "From the right",
-      "text": "Conservatives warn that new recount rules could invite endless litigation."
+      "text": "Conservatives warn that endless inquiries could destabilise governance."
      }
     ],
     "key_term": {
-     "term": "recount",
-     "definition": "A review of ballot totals to verify the accuracy of an election result."
+     "term": "majority government",
+     "definition": "When one party holds more than half the seats in a legislative chamber."
     },
-    "exam_use": "Cite when discussing checks and balances in the US electoral system.",
+    "exam_use": "Use as evidence of how election results can change legislative control in an essay on the US Congress and party competition.",
     "sources": [
-     "4315041de52a"
+     "95ecd8e7a547"
     ]
    },
    {
-    "title": "DeSantis calls midterms a rebuke to Trump and Congress",
+    "title": "Midterm races still undecided",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Florida Governor Ron DeSantis said the 2026 midterm results were a clear rebuke of both President Trump and the Republican‑controlled Congress. He positioned himself as a distinct voice within the party.",
-    "why_it_matters": "Shows intra‑party competition and the influence of party leaders on electoral strategy, a core theme in the AQA study of US parties.",
+    "topic": "us-elections",
+    "what_happened": "Several Senate and House contests remained too close to call after the midterms. Analysts highlighted key battleground states where outcomes could shift the final balance.",
+    "why_it_matters": "Undecided races demonstrate the role of marginal constituencies and the impact of voter turnout, linking to A‑level study of elections and the first‑past‑the‑post system.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "DeSantis supporters view his critique as a needed reset for the GOP."
+      "text": "Close races show a healthy, competitive democracy."
      },
      {
       "label": "Critics argue",
-      "text": "Trump allies see the comment as disloyalty that could split the vote."
+      "text": "They expose vulnerabilities to strategic voting and misinformation."
      },
      {
-      "label": "From the centre",
-      "text": "Analysts suggest the rebuke reflects broader voter fatigue with establishment politics."
+      "label": "From the left",
+      "text": "Progressives stress the need for electoral reform to better reflect voter intent."
      }
     ],
     "key_term": {
-     "term": "intra‑party rivalry",
-     "definition": "Competition between members of the same political party for influence or leadership."
+     "term": "marginal seat",
+     "definition": "A constituency where the winning party's majority is small enough that it could easily change in the next election."
     },
-    "exam_use": "Use to illustrate factionalism within US parties in an essay on party dynamics.",
+    "exam_use": "Cite when discussing the significance of swing seats in US elections essays.",
     "sources": [
-     "4a7787100205"
+     "d5ce8d81a94d"
     ]
    },
    {
-    "title": "Smart glasses approved for Senedd speeches",
+    "title": "Legal challenge to leisure centre closure fails",
     "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "The Llywydd of the Welsh Senedd confirmed that members may use smart‑glass teleprompters during speeches after a Reform UK member raised concerns. The decision follows a debate on modernising parliamentary practice.",
-    "why_it_matters": "Relates to the AQA focus on the functions and modernisation of UK legislatures, showing how technology can affect parliamentary procedure.",
+    "topic": "judiciary",
+    "what_happened": "A judge dismissed a legal challenge against the closure of a local leisure centre in Caerphilly. The court upheld the council's decision.",
+    "why_it_matters": "The case illustrates judicial review of local government actions, a core concept in the A‑level study of the UK judiciary and devolution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the glasses improve accessibility and efficiency for speakers."
+      "text": "The decision respects local authority autonomy."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents worry they could reduce spontaneity and increase reliance on devices."
+      "text": "Opponents say it undermines community services."
      },
      {
       "label": "From the left",
-      "text": "Progressive voices argue the move could democratise participation for disabled members."
+      "text": "Progressive groups view it as evidence of austerity pressures on public amenities."
      }
     ],
     "key_term": {
-     "term": "teleprompter",
-     "definition": "A device that displays a script for speakers, allowing them to read without looking away from the audience."
+     "term": "judicial review",
+     "definition": "A process by which courts examine the lawfulness of decisions or actions taken by public bodies."
     },
-    "exam_use": "Reference when discussing how UK parliaments adapt to technological change.",
+    "exam_use": "Use as a case study of how courts can check devolved administrations in an essay on the UK judiciary.",
     "sources": [
-     "4a84cdf43bb7"
+     "5f1c74c2ced6"
     ]
    },
    {
-    "title": "Burnham proposes EU single‑market deal without referendum",
+    "title": "Welsh MP urged to rethink data‑centre support",
     "section": "ukpol",
-    "topic": "eu",
-    "what_happened": "Labour leader Andy Burnham suggested the party could negotiate a UK‑EU single‑market agreement without holding a public referendum, arguing it would speed up trade benefits. The Conservatives and Reform UK have pledged to reverse any such deal.",
-    "why_it_matters": "Illustrates the debate over democratic legitimacy versus economic pragmatism, a key issue in the AQA unit on the EU and UK political parties.",
+    "topic": "parties",
+    "what_happened": "A campaign group called on former Welsh Secretary Jo Stevens to withdraw her backing for a controversial data‑centre project in her constituency. The group cited environmental concerns.",
+    "why_it_matters": "The episode highlights intra‑party pressure and the influence of interest groups on policy decisions, linking to A‑level topics on political parties and pressure groups.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s supporters claim a referendum would delay vital economic gains."
+      "text": "Proponents say the data centre will bring jobs and investment."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say bypassing a referendum undermines democratic accountability."
+      "text": "Environmentalists warn of ecological damage and carbon emissions."
      },
      {
       "label": "From the right",
-      "text": "Conservative critics warn it could erode sovereignty and set a precedent for executive overreach."
+      "text": "Conservatives stress economic growth over environmental regulation."
      }
     ],
     "key_term": {
-     "term": "referendum",
-     "definition": "A direct vote by the electorate on a specific political question."
+     "term": "interest group",
+     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
     },
-    "exam_use": "Use as evidence when evaluating arguments for and against direct democracy in UK‑EU relations.",
+    "exam_use": "Reference when analysing how pressure groups affect party policy in a UK politics essay.",
     "sources": [
-     "6651d05d2187"
+     "2eb482947d29"
+    ]
+   },
+   {
+    "title": "Trump orders Oval Office to become national monument",
+    "section": "us",
+    "topic": "president",
+    "what_happened": "President Trump signed an executive order designating the Oval Office as a national monument after altering its decor. The move follows his recent changes to White House interiors.",
+    "why_it_matters": "The order shows the use of presidential powers to shape national heritage, relevant to A‑level study of the US executive and its constitutional limits.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The designation preserves historic symbolism."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents view it as politicising heritage for personal legacy."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressives argue it distracts from pressing policy issues."
+     }
+    ],
+    "key_term": {
+     "term": "executive order",
+     "definition": "A directive issued by the US President that manages operations of the federal government."
+    },
+    "exam_use": "Use to illustrate executive authority in an essay on the US presidency.",
+    "sources": [
+     "462c6288e813"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "The UK does not have regular midterm elections; parliamentary elections are called by the Prime Minister and can be triggered by a vote of no confidence.",
-   "us": "The US holds fixed midterm elections every two years, determining control of Congress and reflecting public opinion on the President’s performance.",
-   "insight": "The contrast shows how electoral timing and mechanisms shape accountability differently in each system.",
+   "theme": "executives",
+   "uk": "The UK Prime Minister leads the executive, accountable to Parliament and can be removed by a vote of no confidence.",
+   "us": "The US President heads the executive, elected separately from Congress and cannot be removed except by impeachment.",
+   "insight": "The contrast shows how the UK’s fused executive‑legislature system allows quicker removal of leaders, while the US’s separation creates a more stable but less flexible executive.",
    "sources": [
-    "7e02f2d53ebd",
-    "6651d05d2187"
+    "fae1702af4ac",
+    "462c6288e813"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The US midterm shift towards Democrats reflects liberal ideas of expanding civil rights and government intervention, echoing thinkers like John Locke on popular sovereignty. Burnham’s single‑market proposal also draws on liberal economic principles of free trade.",
+   "ideology": "conservatism",
+   "text": "Trump’s monument order reflects a conservative emphasis on preserving traditional symbols and national heritage, echoing Edmund Burke’s idea that institutions embody collective memory.",
    "sources": [
-    "7e02f2d53ebd",
-    "6651d05d2187"
+    "462c6288e813"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which electoral outcomes can influence government policy in the US and the UK.",
-   "section": "us | ukgov",
-   "tip": "Compare the fixed midterm system in the US with the UK’s flexible parliamentary timetable, using recent election results as examples."
+   "question": "Assess the extent to which the US President can use executive orders to shape national policy, using recent examples.",
+   "section": "us",
+   "tip": "Analyse the legal basis, political context and potential challenges of each order."
   }
  },
  "refs": {
-  "7e02f2d53ebd": {
-   "id": "7e02f2d53ebd",
-   "title": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
-   "link": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "95ecd8e7a547": {
+   "id": "95ecd8e7a547",
+   "title": "After taking control of Congress, Democrats vow major probes into Trump's 'tentacles of corruption'",
+   "link": "https://www.pbs.org/newshour/politics/after-taking-control-of-congress-democrats-vow-major-probes-into-trumps-tentacles-of-corruption",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-05T00:56:00Z"
+   "date": "2026-11-05T23:00:50Z"
   },
-  "4315041de52a": {
-   "id": "4315041de52a",
-   "title": "Mississippi has an unexpectedly close Senate race but no recount procedure",
-   "link": "https://thehill.com/homenews/campaign/6199322-mississippi-senate-race-recount-mail-ballots/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "d5ce8d81a94d": {
+   "id": "d5ce8d81a94d",
+   "title": "A look at the midterm races that remain undecided",
+   "link": "https://www.pbs.org/newshour/show/a-look-at-the-midterm-races-that-remain-undecided",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-05T11:00:00Z"
+   "date": "2026-11-05T23:55:48Z"
   },
-  "4a7787100205": {
-   "id": "4a7787100205",
-   "title": "DeSantis: 'No question' midterms a 'rebuke' of Trump, Congress",
-   "link": "https://thehill.com/homenews/campaign/6200226-ron-desantis-2026-midterms-result-rebuke-trump-congress/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-05T13:01:40Z"
-  },
-  "4a84cdf43bb7": {
-   "id": "4a84cdf43bb7",
-   "title": "Llywydd confirms smart glasses can be used for Senedd speeches",
-   "link": "https://nation.cymru/news/llywydd-confirms-smart-glasses-can-be-used-for-senedd-speeches/",
+  "5f1c74c2ced6": {
+   "id": "5f1c74c2ced6",
+   "title": "Legal challenge against closure of local leisure centre dismissed",
+   "link": "https://nation.cymru/news/legal-challenge-against-closure-of-local-leisure-centre-dismissed/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-05T18:42:14Z"
+   "date": "2026-11-06T12:23:48Z"
   },
-  "6651d05d2187": {
-   "id": "6651d05d2187",
-   "title": "Is Burnham right about joining the EU single market without a referendum?",
-   "link": "https://blogs.lse.ac.uk/politicsandpolicy/is-burnham-right-about-joining-the-eu-single-market-without-a-referendum/",
-   "source": "lse",
-   "sourceName": "LSE British Politics",
-   "lean": "non-partisan",
-   "date": "2026-11-05T12:31:15Z"
+  "2eb482947d29": {
+   "id": "2eb482947d29",
+   "title": "MP urged to reconsider her backing for controversial data centre",
+   "link": "https://nation.cymru/news/mp-urged-to-reconsider-her-backing-for-controversial-data-centre/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-05T21:30:09Z"
+  },
+  "462c6288e813": {
+   "id": "462c6288e813",
+   "title": "Trump signs order to preserve Oval Office as national monument",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-11-06T09:19:57Z"
+  },
+  "fae1702af4ac": {
+   "id": "fae1702af4ac",
+   "title": "After midterms, Trump is left to weigh his next move in Iran war that contributed to GOP loss",
+   "link": "https://www.pbs.org/newshour/politics/after-midterms-trump-is-left-to-weigh-his-next-move-in-iran-war-that-contributed-to-gop-loss",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-05T23:46:36Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
