@@ -1,188 +1,194 @@
 {
- "generated_at": "2026-11-08T11:56:23Z",
+ "generated_at": "2026-11-08T18:21:01Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Trump offers UFC boss White House press secretary role",
-  "overview": "President Donald Trump has nominated UFC chief Dana White as press secretary, sparking debate over media access and political appointments. In the UK, devolution issues surface as a community group risks losing a day‑centre lease, while Democrats prepare a legislative agenda after US midterm wins.",
+  "headline": "Trump pushes new staff while Democrats gear up for Congress",
+  "overview": "President Trump announced a cartoon press secretary and hinted at cabinet changes after a Democratic win in the US mid‑terms. In the UK, debate continues over the Prime Minister’s climate agenda and Welsh devolution projects.",
   "stories": [
    {
-    "title": "Trump taps UFC boss for press secretary",
+    "title": "Trump shares cartoon of Dana White as press secretary",
     "section": "us",
     "topic": "president",
-    "what_happened": "President Donald Trump announced he has offered the White House press secretary job to UFC boss Dana White. The offer was reported by NPR on 8 Nov 2026.",
-    "why_it_matters": "The appointment raises questions about the role of the press secretary in shaping government communication, a key element of the US executive. It also illustrates how personal networks can influence political staffing, relevant to A‑level study of the President’s powers.",
+    "what_happened": "President Donald Trump posted a cartoon depicting UFC boss Dana White as White House press secretary. The post followed Trump’s earlier comment that White could be a candidate for the role.",
+    "why_it_matters": "The episode illustrates how the US President can use social media to shape public perception of the executive office, a point relevant to the A‑level study of the Presidency’s powers and political communication.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say White's media savvy could improve the administration’s messaging and connect with younger audiences."
+      "text": "Trump’s followers say the joke shows his willingness to break with convention and bring fresh voices into government."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn the move blurs lines between entertainment and politics, risking credibility of official communications."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives view the choice as a bold challenge to established media elites."
+      "text": "Opponents warn it blurs the line between serious governance and entertainment, undermining the dignity of the press secretary role."
      }
     ],
     "key_term": {
-     "term": "Press secretary",
-     "definition": "A senior aide who acts as the government's spokesperson to the media."
+     "term": "Executive privilege",
+     "definition": "The right of the President to keep certain communications confidential."
     },
-    "exam_use": "Use as evidence in an essay on the limits of presidential appointment powers and media control.",
+    "exam_use": "Use as evidence in an essay on how modern Presidents use media to influence public opinion.",
     "sources": [
-     "3b8092eeb96f"
+     "0f7cf8c7e828"
     ]
    },
    {
-    "title": "Community group may lose day‑centre lease",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "A local community group that took over a former day‑centre faces lease termination after a campaign to reopen it. Reported by Nation.Cymru on 8 Nov 2026.",
-    "why_it_matters": "The case highlights how pressure groups use local campaigning to influence public services, linking to the AQA topic of pressure groups and their tactics. It also touches on democratic participation at the community level.",
+    "title": "Democrats plan legislative agenda after winning Congress",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Democrats secured majorities in both the House and Senate in the recent mid‑term elections. They began outlining a legislative programme focused on tariffs, climate policy and voting rights.",
+    "why_it_matters": "The shift demonstrates the impact of electoral outcomes on party control of the legislature, a core concept in the A‑level syllabus on US parties and Congress.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Advocates say the group provides essential services and should be supported by the council."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Council officials claim the lease breach violates planning regulations."
-     },
-     {
       "label": "From the left",
-      "text": "Left‑leaning observers view the dispute as evidence of austerity’s impact on social care."
+      "text": "Progressive groups celebrate the chance to reverse Trump‑era policies on trade and climate."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators warn that Democratic dominance could lead to over‑regulation and higher taxes."
      }
     ],
     "key_term": {
-     "term": "Pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking election."
+     "term": "Majority government",
+     "definition": "When one party holds more than half the seats in a legislative chamber."
     },
-    "exam_use": "Cite as a case study of local pressure group influence in an essay on civil society’s role in UK politics.",
+    "exam_use": "Cite when discussing how party control shapes legislative agendas in the US Congress.",
+    "sources": [
+     "004d97bad1c9"
+    ]
+   },
+   {
+    "title": "Climate agenda questioned as PM faces criticism",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Burnham reaffirmed his commitment to climate targets, but opposition MPs claim his government is lowering EV production goals and sidelining green policies.",
+    "why_it_matters": "The story highlights tensions within the executive over policy priorities, linking to the A‑level focus on the Prime Minister’s role and cabinet collective responsibility.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Burnham’s team says adjusting targets reflects economic realities and keeps jobs secure."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opposition parties contend the changes betray the UK’s climate commitments under the Paris Agreement."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators argue that market‑driven solutions, not government mandates, are best for green innovation."
+     }
+    ],
+    "key_term": {
+     "term": "Collective responsibility",
+     "definition": "The principle that cabinet members must publicly support government decisions."
+    },
+    "exam_use": "Use as a case study of executive‑legislative conflict over policy direction.",
+    "sources": [
+     "be3d24b8c30b"
+    ]
+   },
+   {
+    "title": "Welsh community group risks losing day‑centre lease",
+    "section": "ukpol",
+    "topic": "devolution",
+    "what_happened": "A local community group that revived a deteriorating day centre in Wales faces lease termination despite a long‑running campaign to keep it open.",
+    "why_it_matters": "The incident shows how devolved Welsh authorities manage local services and interact with pressure groups, relevant to the A‑level study of devolution and pressure‑group influence.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Activists argue the council is neglecting community needs and should protect the centre."
+     },
+     {
+      "label": "From the right",
+      "text": "Council officials claim the lease cannot be renewed due to financial and safety concerns."
+     },
+     {
+      "label": "Pressure groups argue",
+      "text": "Local charities warn the loss would reduce support for vulnerable residents."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from central government to regional bodies."
+    },
+    "exam_use": "Illustrate how devolved governments respond to local pressure‑group campaigns.",
     "sources": [
      "b568ac232ac2"
     ]
    },
    {
-    "title": "Democrats outline agenda after midterm wins",
-    "section": "us",
-    "topic": "congress",
-    "what_happened": "Following Democratic victories in both House and Senate, lawmakers began outlining their legislative priorities. The Hill reported this on 7 Nov 2026.",
-    "why_it_matters": "The shift in congressional control illustrates the impact of elections on policy direction, a core concept in the US politics syllabus. It also shows party competition and agenda‑setting power.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Democrats claim their agenda will address cost‑of‑living issues and reverse previous tariffs."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Republicans warn the agenda could increase government spending and taxes."
-     },
-     {
-      "label": "From the centre",
-      "text": "Analysts note the agenda reflects broader public demand for change after the midterms."
-     }
-    ],
-    "key_term": {
-     "term": "Congressional majority",
-     "definition": "When one party holds more than half the seats in both chambers, enabling it to pass legislation more easily."
-    },
-    "exam_use": "Use to illustrate how electoral outcomes affect legislative agendas in a comparative essay on US and UK parliaments.",
-    "sources": [
-     "fb8a22d2d8f2"
-    ]
-   },
-   {
-    "title": "EU‑UK trade rules warning",
+    "title": "UK spent £100m on unused Brexit border posts",
     "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Former EU negotiator David Lynch warned the UK cannot selectively adopt EU single‑market rules after Brexit. Reported by Nation.Cymru on 8 Nov 2026.",
-    "why_it_matters": "The comment underscores tensions between devolved administrations seeking trade autonomy and the central government’s constraints, relevant to the AQA devolution topic. It also touches on constitutional limits of UK trade policy.",
+    "topic": "eu",
+    "what_happened": "Five of seven post‑Brexit border inspection facilities in England and Wales never became operational, costing taxpayers at least £100 million.",
+    "why_it_matters": "The story provides evidence of the financial and administrative challenges of implementing Brexit, linking to the A‑level theme of the UK’s relationship with the EU and public‑policy making.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑Brexit voices say the UK should forge its own trade rules without EU constraints."
+      "text": "Pro‑Brexit voices claim the posts were necessary safeguards for future trade deals."
      },
      {
       "label": "Critics argue",
-      "text": "EU‑aligned commentators argue selective alignment is impractical and could breach WTO rules."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning analysts stress the need for coordinated policy to protect workers across the UK."
+      "text": "Opponents say the waste shows poor planning and the costs of leaving the EU."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory granting of powers from the central UK government to Scotland, Wales and Northern Ireland."
+     "term": "Policy implementation",
+     "definition": "The process of putting a government decision into effect."
     },
-    "exam_use": "Reference in an essay on the constitutional challenges of post‑Brexit trade policy.",
+    "exam_use": "Use to discuss the practical consequences of Brexit on UK public administration.",
     "sources": [
-     "dee0035b1341"
-    ]
-   },
-   {
-    "title": "Supreme Court justice hopes to overturn presidential immunity",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "Justice Sonia Sotomayor expressed hope that the Supreme Court will reverse its recent decision granting former presidents broad criminal immunity. Reported by The Hill on 8 Nov 2026.",
-    "why_it_matters": "The case highlights judicial review of executive actions, a key element of the US courts topic. It also raises constitutional questions about separation of powers.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Liberals view overturning immunity as essential for accountability."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Conservatives warn it could politicise the judiciary and destabilise the executive."
-     },
-     {
-      "label": "From the centre",
-      "text": "Legal scholars note the decision tests the balance between executive privilege and rule of law."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
-    },
-    "exam_use": "Use as evidence when discussing checks and balances in the US constitutional system.",
-    "sources": [
-     "8d3d8dd1faea"
+     "42939d3dc971"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK local elections often determine council control, influencing service delivery and local policy.",
-   "us": "US midterm elections shifted control of Congress to Democrats, reshaping national legislative priorities.",
-   "insight": "Both systems show how electoral outcomes at different levels can dramatically alter policy direction, highlighting the importance of voter behaviour.",
+   "uk": "The UK’s next general election will be decided by a first‑past‑the‑post system in single‑member constituencies, favouring larger parties.",
+   "us": "US mid‑term elections use a mixed system of single‑member districts for the House and statewide votes for the Senate, often producing split‑party control.",
+   "insight": "The contrast shows how electoral design shapes party dominance and the likelihood of coalition versus single‑party governments.",
    "sources": [
-    "b568ac232ac2",
-    "fb8a22d2d8f2"
+    "004d97bad1c9",
+    "42939d3dc971"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The push for a new press secretary from a media‑savvy background reflects liberal ideas of open communication and market‑driven messaging, echoing John Stuart Mill’s emphasis on free discourse. Critics invoke liberal concerns about equality of access, fearing a celebrity‑driven press office could marginalise ordinary voices.",
+   "text": "Trump’s use of a cartoon to promote a press‑secretary candidate reflects a liberal emphasis on individual expression and media freedom, while critics invoke liberal concerns about the need for accountable, merit‑based public service.",
    "sources": [
-    "3b8092eeb96f"
+    "0f7cf8c7e828"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which electoral outcomes influence policy agendas in the US and the UK.",
-   "section": "us | ukpol",
-   "tip": "Compare the US midterm shift in Congress with a recent UK local election result, analysing party control, agenda‑setting power and institutional constraints."
+   "question": "Assess the extent to which the media strategies of political leaders influence public perceptions of executive legitimacy in the UK and US.",
+   "section": "ideas",
+   "tip": "Compare a UK Prime Minister’s climate communication with a US President’s social‑media use, linking each to liberal ideas of free speech and accountability."
   }
  },
  "refs": {
-  "3b8092eeb96f": {
-   "id": "3b8092eeb96f",
-   "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
-   "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+  "0f7cf8c7e828": {
+   "id": "0f7cf8c7e828",
+   "title": "Trump shares cartoon of Dana White as press secretary",
+   "link": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-08T17:09:16Z"
+  },
+  "004d97bad1c9": {
+   "id": "004d97bad1c9",
+   "title": "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6030679/week-in-politics-democrats-plan-for-the-next-congress-trumps-new-chief-of-staff",
    "source": "npr",
    "sourceName": "NPR",
    "lean": "centre-left",
-   "date": "2026-11-08T07:35:29Z"
+   "date": "2026-11-08T13:16:05Z"
+  },
+  "be3d24b8c30b": {
+   "id": "be3d24b8c30b",
+   "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
+   "link": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-08T18:01:01Z"
   },
   "b568ac232ac2": {
    "id": "b568ac232ac2",
@@ -193,32 +199,14 @@
    "lean": "centre-left",
    "date": "2026-11-08T09:00:10Z"
   },
-  "fb8a22d2d8f2": {
-   "id": "fb8a22d2d8f2",
-   "title": "Sunday shows preview: Democrats lay out legislative agenda; Congress leadership sparks infighting",
-   "link": "https://thehill.com/homenews/sunday-talk-shows/6206302-congress-leadership-fight-democrats-agenda-midterms/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-07T23:27:18Z"
-  },
-  "dee0035b1341": {
-   "id": "dee0035b1341",
-   "title": "Former EU negotiator warns UK will not be able to pick and choose trade rules",
-   "link": "https://nation.cymru/news/former-eu-negotiator-warns-uk-will-not-be-able-to-pick-and-choose-trade-rules/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "42939d3dc971": {
+   "id": "42939d3dc971",
+   "title": "UK spent £100m on zombie Brexit border inspection posts",
+   "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
+   "source": "guardian",
+   "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-08T11:01:02Z"
-  },
-  "8d3d8dd1faea": {
-   "id": "8d3d8dd1faea",
-   "title": "Sotomayor says she hopes Supreme Court will overturn presidential immunity decision",
-   "link": "https://thehill.com/regulation/court-battles/6206392-sotomayor-hopes-immunity-overturned/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-08T03:49:29Z"
+   "date": "2026-11-08T13:32:58Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
