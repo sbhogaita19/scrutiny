@@ -1,194 +1,215 @@
 {
- "generated_at": "2026-11-08T18:21:01Z",
+ "generated_at": "2026-11-09T02:39:27Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Trump pushes new staff while Democrats gear up for Congress",
-  "overview": "President Trump announced a cartoon press secretary and hinted at cabinet changes after a Democratic win in the US mid‑terms. In the UK, debate continues over the Prime Minister’s climate agenda and Welsh devolution projects.",
+  "headline": "Midterms reshape US politics as Wales faces policy crossroads",
+  "overview": "US midterm results have shifted power to Democrats, prompting new strategies from both parties. In Wales, charities push for polluter taxes while a historic free school milk scheme faces possible closure.",
   "stories": [
    {
-    "title": "Trump shares cartoon of Dana White as press secretary",
+    "title": "Trump reacts to midterm defeat",
     "section": "us",
-    "topic": "president",
-    "what_happened": "President Donald Trump posted a cartoon depicting UFC boss Dana White as White House press secretary. The post followed Trump’s earlier comment that White could be a candidate for the role.",
-    "why_it_matters": "The episode illustrates how the US President can use social media to shape public perception of the executive office, a point relevant to the A‑level study of the Presidency’s powers and political communication.",
+    "topic": "us-elections",
+    "what_happened": "President Trump told 60 Minutes his immigration crackdown was \"too tough\" after Republicans lost heavily in the midterms. He said the defeat hurt him politically.",
+    "why_it_matters": "The story shows how election outcomes can influence executive policy choices, a key point in the AQA unit on the US President and elections. It also illustrates the link between public opinion and policy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s followers say the joke shows his willingness to break with convention and bring fresh voices into government."
+      "text": "Trump’s base claim the crackdown protected jobs and security."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn it blurs the line between serious governance and entertainment, undermining the dignity of the press secretary role."
-     }
-    ],
-    "key_term": {
-     "term": "Executive privilege",
-     "definition": "The right of the President to keep certain communications confidential."
-    },
-    "exam_use": "Use as evidence in an essay on how modern Presidents use media to influence public opinion.",
-    "sources": [
-     "0f7cf8c7e828"
-    ]
-   },
-   {
-    "title": "Democrats plan legislative agenda after winning Congress",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Democrats secured majorities in both the House and Senate in the recent mid‑term elections. They began outlining a legislative programme focused on tariffs, climate policy and voting rights.",
-    "why_it_matters": "The shift demonstrates the impact of electoral outcomes on party control of the legislature, a core concept in the A‑level syllabus on US parties and Congress.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Progressive groups celebrate the chance to reverse Trump‑era policies on trade and climate."
+      "text": "Opponents say the policy was inhumane and cost voters support."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators warn that Democratic dominance could lead to over‑regulation and higher taxes."
+      "text": "Republicans warn that softer immigration could weaken borders."
      }
     ],
     "key_term": {
-     "term": "Majority government",
+     "term": "midterm elections",
+     "definition": "US elections held halfway through a president's four‑year term, deciding control of Congress."
+    },
+    "exam_use": "Use as evidence of how electoral defeat can force a president to adjust policy in an essay on executive responsiveness.",
+    "sources": [
+     "34d920aa62d8"
+    ]
+   },
+   {
+    "title": "Congress returns after Republican losses",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "After the midterms, Congress reconvened with Democrats holding majorities in both chambers. Republicans now face internal leadership battles and a looming shutdown deadline.",
+    "why_it_matters": "Illustrates the legislative branch’s role in checking the executive and the impact of party composition on law‑making, relevant to the AQA focus on Congress.",
+    "perspectives": [
+     {
+      "label": "Democrats argue",
+      "text": "The new majority lets them advance their agenda on climate and health."
+     },
+     {
+      "label": "Republicans argue",
+      "text": "Losses reflect voter backlash against current policies."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressives see an opportunity for systemic reforms."
+     }
+    ],
+    "key_term": {
+     "term": "majority control",
      "definition": "When one party holds more than half the seats in a legislative chamber."
     },
-    "exam_use": "Cite when discussing how party control shapes legislative agendas in the US Congress.",
+    "exam_use": "Cite to discuss how party control of Congress influences policy outcomes in a comparative essay.",
     "sources": [
-     "004d97bad1c9"
+     "49560f2c80f6"
     ]
    },
    {
-    "title": "Climate agenda questioned as PM faces criticism",
+    "title": "Welsh charities call for polluter taxes at COP31",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Burnham reaffirmed his commitment to climate targets, but opposition MPs claim his government is lowering EV production goals and sidelining green policies.",
-    "why_it_matters": "The story highlights tensions within the executive over policy priorities, linking to the A‑level focus on the Prime Minister’s role and cabinet collective responsibility.",
+    "what_happened": "Welsh charities and campaign groups urged the Welsh Government to demand taxes on major polluters at the upcoming COP31 climate summit. They also called for stronger domestic protections.",
+    "why_it_matters": "Shows the executive’s role in international negotiations and environmental policy, linking to the AQA topic of the Prime Minister and Cabinet.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s team says adjusting targets reflects economic realities and keeps jobs secure."
+      "text": "Taxing polluters will drive greener investment and protect public health."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition parties contend the changes betray the UK’s climate commitments under the Paris Agreement."
+      "text": "Taxes could harm Welsh industry competitiveness."
      },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators argue that market‑driven solutions, not government mandates, are best for green innovation."
-     }
-    ],
-    "key_term": {
-     "term": "Collective responsibility",
-     "definition": "The principle that cabinet members must publicly support government decisions."
-    },
-    "exam_use": "Use as a case study of executive‑legislative conflict over policy direction.",
-    "sources": [
-     "be3d24b8c30b"
-    ]
-   },
-   {
-    "title": "Welsh community group risks losing day‑centre lease",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "A local community group that revived a deteriorating day centre in Wales faces lease termination despite a long‑running campaign to keep it open.",
-    "why_it_matters": "The incident shows how devolved Welsh authorities manage local services and interact with pressure groups, relevant to the A‑level study of devolution and pressure‑group influence.",
-    "perspectives": [
      {
       "label": "From the left",
-      "text": "Activists argue the council is neglecting community needs and should protect the centre."
-     },
-     {
-      "label": "From the right",
-      "text": "Council officials claim the lease cannot be renewed due to financial and safety concerns."
-     },
-     {
-      "label": "Pressure groups argue",
-      "text": "Local charities warn the loss would reduce support for vulnerable residents."
+      "text": "Progressive groups see it as essential climate justice."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from central government to regional bodies."
+     "term": "polluter tax",
+     "definition": "A levy on companies that emit large amounts of greenhouse gases."
     },
-    "exam_use": "Illustrate how devolved governments respond to local pressure‑group campaigns.",
+    "exam_use": "Use as evidence of executive influence on environmental policy in an essay on the UK Cabinet’s powers.",
     "sources": [
-     "b568ac232ac2"
+     "c83e24825ba0"
     ]
    },
    {
-    "title": "UK spent £100m on unused Brexit border posts",
-    "section": "ukgov",
-    "topic": "eu",
-    "what_happened": "Five of seven post‑Brexit border inspection facilities in England and Wales never became operational, costing taxpayers at least £100 million.",
-    "why_it_matters": "The story provides evidence of the financial and administrative challenges of implementing Brexit, linking to the A‑level theme of the UK’s relationship with the EU and public‑policy making.",
+    "title": "Free school milk scheme in Wales may end",
+    "section": "ukpol",
+    "topic": "democracy",
+    "what_happened": "The Welsh Government announced that the free school milk programme, running since the 1970s, could be discontinued. The decision follows budget pressures and policy review.",
+    "why_it_matters": "Highlights how devolved administrations make policy choices affecting citizens, a key point in the AQA study of devolution and public policy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑Brexit voices claim the posts were necessary safeguards for future trade deals."
+      "text": "Ending the scheme saves money for other essential services."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say the waste shows poor planning and the costs of leaving the EU."
+      "text": "It removes a vital support for low‑income families."
+     },
+     {
+      "label": "From the left",
+      "text": "Labour and community groups view it as an attack on welfare."
      }
     ],
     "key_term": {
-     "term": "Policy implementation",
-     "definition": "The process of putting a government decision into effect."
+     "term": "devolution",
+     "definition": "The transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
     },
-    "exam_use": "Use to discuss the practical consequences of Brexit on UK public administration.",
+    "exam_use": "Reference in an essay on how devolved governments balance budgets and social welfare.",
     "sources": [
-     "42939d3dc971"
+     "a698d7db4ce5"
+    ]
+   },
+   {
+    "title": "Community group risks losing former day centre",
+    "section": "ukpol",
+    "topic": "pressure",
+    "what_happened": "A local community group that took over a former day centre faces lease termination after a prolonged campaign to reopen it. The building remains unused.",
+    "why_it_matters": "Demonstrates the influence of pressure groups on local decision‑making, linking to the AQA topic of pressure groups and participation.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The group provides essential services for vulnerable residents."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The lease termination follows legal and financial obligations."
+     },
+     {
+      "label": "From the left",
+      "text": "Activists see it as a failure of public services."
+     }
+    ],
+    "key_term": {
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking election."
+    },
+    "exam_use": "Use as a case study of local pressure group impact in an essay on political participation.",
+    "sources": [
+     "b568ac232ac2"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "The UK’s next general election will be decided by a first‑past‑the‑post system in single‑member constituencies, favouring larger parties.",
-   "us": "US mid‑term elections use a mixed system of single‑member districts for the House and statewide votes for the Senate, often producing split‑party control.",
-   "insight": "The contrast shows how electoral design shapes party dominance and the likelihood of coalition versus single‑party governments.",
+   "uk": "The Welsh Government’s policy review of free school milk shows how devolved elections can shape welfare priorities at a regional level.",
+   "us": "US midterm elections shifted control of Congress to Democrats, altering national legislative agendas.",
+   "insight": "Both illustrate how electoral outcomes directly affect policy direction, though the UK example operates within a devolved framework while the US example reflects a federal system.",
    "sources": [
-    "004d97bad1c9",
-    "42939d3dc971"
+    "a698d7db4ce5",
+    "34d920aa62d8"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Trump’s use of a cartoon to promote a press‑secretary candidate reflects a liberal emphasis on individual expression and media freedom, while critics invoke liberal concerns about the need for accountable, merit‑based public service.",
+   "ideology": "ecologism",
+   "text": "Welsh charities’ call for polluter taxes reflects ecologism’s emphasis on protecting the environment through systemic change, echoing thinkers like Rachel Carson who argued for regulatory action against pollution.",
    "sources": [
-    "0f7cf8c7e828"
+    "c83e24825ba0"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the media strategies of political leaders influence public perceptions of executive legitimacy in the UK and US.",
-   "section": "ideas",
-   "tip": "Compare a UK Prime Minister’s climate communication with a US President’s social‑media use, linking each to liberal ideas of free speech and accountability."
+   "question": "Assess the extent to which electoral outcomes influence policy decisions in the US and the UK.",
+   "section": "us | ukgov | ukpol",
+   "tip": "Compare the US midterm impact on Congress with the Welsh Government’s policy review after local elections, using specific examples."
   }
  },
  "refs": {
-  "0f7cf8c7e828": {
-   "id": "0f7cf8c7e828",
-   "title": "Trump shares cartoon of Dana White as press secretary",
-   "link": "https://thehill.com/homenews/media/6206667-trump-shares-dana-white-cartoon/",
+  "34d920aa62d8": {
+   "id": "34d920aa62d8",
+   "title": "Trump says after midterms defeat his immigration crackdown was 'too tough'",
+   "link": "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-11-09T01:51:44Z"
+  },
+  "49560f2c80f6": {
+   "id": "49560f2c80f6",
+   "title": "This week on the Hill: Congress returns to leadership fights, shutdown deadline after GOP losses",
+   "link": "https://thehill.com/homenews/house/6205706-gop-leadership-elections-new-congress/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-08T17:09:16Z"
+   "date": "2026-11-08T22:00:00Z"
   },
-  "004d97bad1c9": {
-   "id": "004d97bad1c9",
-   "title": "Week in politics: Democrats plan for the next Congress, Trump's new Chief of Staff",
-   "link": "https://www.npr.org/2026/11/08/nx-s1-6030679/week-in-politics-democrats-plan-for-the-next-congress-trumps-new-chief-of-staff",
-   "source": "npr",
-   "sourceName": "NPR",
+  "c83e24825ba0": {
+   "id": "c83e24825ba0",
+   "title": "Welsh charities urge ministers to demand polluter taxes at COP31",
+   "link": "https://nation.cymru/news/welsh-charities-urge-ministers-to-demand-polluter-taxes-at-cop31/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-08T13:16:05Z"
+   "date": "2026-11-09T00:01:50Z"
   },
-  "be3d24b8c30b": {
-   "id": "be3d24b8c30b",
-   "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
-   "link": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-08T18:01:01Z"
+  "a698d7db4ce5": {
+   "id": "a698d7db4ce5",
+   "title": "Free school milk scheme could end after 50 years",
+   "link": "https://www.bbc.co.uk/news/articles/c6wydxxg8eexo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-08T21:51:43Z"
   },
   "b568ac232ac2": {
    "id": "b568ac232ac2",
@@ -198,15 +219,6 @@
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
    "date": "2026-11-08T09:00:10Z"
-  },
-  "42939d3dc971": {
-   "id": "42939d3dc971",
-   "title": "UK spent £100m on zombie Brexit border inspection posts",
-   "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-08T13:32:58Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
