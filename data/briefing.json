@@ -1,181 +1,238 @@
 {
- "generated_at": "2026-11-10T13:28:05Z",
+ "generated_at": "2026-11-10T21:17:58Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Devolution talks, UK election prep and US midterm shake‑up dominate headlines",
-  "overview": "The UK government is signalling new powers for Wales, while parties gear up for the next general election. In the US, midterm results have shifted congressional balance and revived impeachment discussions.",
+  "headline": "US Senate leadership, California tax, Welsh devolution and UK climate debates dominate",
+  "overview": "The US Senate grapples with leadership after a loss, while Californians reject a billionaire wealth tax. In the UK, Wales may gain more justice powers and the Prime Minister faces scrutiny over climate policy. These events illustrate key constitutional and political dynamics.",
   "stories": [
    {
-    "title": "Justice powers for Wales under review",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Justice Secretary Alex Norris said Wales could receive additional powers over its justice system, with youth‑justice reforms discussed next. The announcement follows a broader devolution agenda from Westminster.",
-    "why_it_matters": "Devolution is a key element of the UK constitution, showing how power can be transferred from the centre to nations. It illustrates the tension between unitary sovereignty and regional autonomy taught in A‑level.",
+    "title": "Senate Republicans keep Thune as leader",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Senate Republicans voted to retain John Thune as their leader after losing at least seven seats in the recent election. The vote followed three internal meetings where members expressed frustration.",
+    "why_it_matters": "The leadership decision shows how party structures respond to electoral setbacks, a core topic in A-level US Politics under parties and Congress. It also highlights the Senate’s role in internal party governance.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Devolution enhances democratic accountability by bringing decisions closer to Welsh citizens."
+      "text": "Republicans say keeping Thune provides continuity and experience needed to rebuild after losses."
      },
      {
       "label": "Critics argue",
-      "text": "Further devolution may fragment the UK’s legal system and weaken national cohesion."
+      "text": "Opponents claim the vote reflects resistance to change and ignores the electorate’s message."
      },
      {
-      "label": "From the left",
-      "text": "Greater powers could allow progressive reforms in youth justice, reducing incarceration."
+      "label": "From the right",
+      "text": "Conservatives view Thune’s leadership as a stabilising force for the party’s legislative agenda."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from the central government to regional or local bodies."
+     "term": "Party leadership",
+     "definition": "The individual who heads a political party in a legislative chamber, guiding strategy and discipline."
     },
-    "exam_use": "Use as evidence when evaluating the benefits and drawbacks of devolution in an essay on the UK constitution.",
+    "exam_use": "Use as evidence of how party leadership can be contested or affirmed after electoral defeat in an essay on party dynamics.",
+    "sources": [
+     "03396c5dafd5",
+     "30b6cbfa164a"
+    ]
+   },
+   {
+    "title": "California voters reject billionaire wealth tax",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "A California ballot measure proposing a one‑time 5% tax on individuals with net worth over $1 billion was defeated by voters. The proposal aimed to raise revenue for public services.",
+    "why_it_matters": "The result illustrates voter attitudes to taxation and wealth redistribution, linking to US political ideas about liberalism and the role of direct democracy in elections.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Proponents said the tax would address inequality and fund essential services."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warned it could drive capital away and harm the state’s economy."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressives view the defeat as a setback for redistributive fiscal policy."
+     }
+    ],
+    "key_term": {
+     "term": "Direct democracy",
+     "definition": "A form of governance where citizens vote directly on policy proposals rather than through representatives."
+    },
+    "exam_use": "Cite as a case study of how tax policy proposals are evaluated by the electorate in an essay on elections and public opinion.",
+    "sources": [
+     "e10cbab3af36"
+    ]
+   },
+   {
+    "title": "Justice Secretary hints at more powers for Wales",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "UK Justice Secretary Alex Norris said Wales could receive additional powers over its justice system, with discussions on youth justice moving forward. The announcement follows calls from Plaid Cymru for devolved justice.",
+    "why_it_matters": "The move reflects ongoing devolution debates, a key A-level topic on the UK constitution and the distribution of powers between Westminster and the nations.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Welsh officials claim devolved justice would better address local needs and reduce rough‑sleeping among ex‑prisoners."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Some UK officials warn that further devolution could fragment the legal system and create inconsistencies."
+     },
+     {
+      "label": "From the left",
+      "text": "Plaid Cymru sees this as a step towards greater Welsh autonomy."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the central government to regional or national administrations within a state."
+    },
+    "exam_use": "Use to illustrate arguments for and against further devolution in an essay on the UK constitution.",
     "sources": [
      "b7d3b0011ef4"
     ]
    },
    {
-    "title": "Labour deputy reflects on 2015 Miliband interview",
+    "title": "Scottish Labour leader calls for EU re‑entry",
     "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Labour’s deputy leader said Ed Miliband’s 2015 interview with Russell Brand was set in a ‘different era’. The comment was made on a political talk show.",
-    "why_it_matters": "Party image and media strategy are central to electoral success, linking to the AQA topic of political parties and elections. It shows how parties adapt narratives over time.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "The interview exemplifies Labour’s past willingness to embrace unconventional media, which may alienate traditional voters."
-     },
-     {
-      "label": "From the left",
-      "text": "It demonstrates Labour’s attempt to reach younger audiences and modernise its appeal."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Relying on celebrity interviews can distract from substantive policy discussion."
-     }
-    ],
-    "key_term": {
-     "term": "party image",
-     "definition": "The public perception of a political party, shaped by its policies, leaders and media presentation."
-    },
-    "exam_use": "Cite when discussing how parties manage their public image to win elections.",
-    "sources": [
-     "c60de1857b75"
-    ]
-   },
-   {
-    "title": "Government urges emergency supplies stock‑up",
-    "section": "ukgov",
-    "topic": "elections",
-    "what_happened": "The UK government launched the ‘Be Ready’ campaign, prompting a surge in sales of tinned food and bottled water. The move follows warnings about potential emergencies.",
-    "why_it_matters": "The campaign illustrates how governments can influence public behaviour ahead of elections, raising questions about state intervention and public confidence.",
+    "topic": "eu",
+    "what_happened": "Scottish Labour leader Michael Marra said the UK should re‑join the EU, emphasizing solidarity over separation. He acknowledged the difficulty of the process.",
+    "why_it_matters": "The statement touches on party positions regarding the EU, a core A-level theme on UK politics and the impact of Brexit on party policy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Preparing citizens for crises is a responsible use of state power."
+      "text": "Pro‑EU Labour members see re‑joining as restoring economic and political benefits."
      },
      {
       "label": "Critics argue",
-      "text": "The campaign may be a political stunt to boost the ruling party’s image before the next election."
+      "text": "Skeptics argue the political cost and public fatigue make re‑entry unrealistic."
      },
-     {
-      "label": "From the left",
-      "text": "Emergency preparedness should be paired with long‑term social welfare policies."
-     }
-    ],
-    "key_term": {
-     "term": "state intervention",
-     "definition": "Government action that influences or directs economic or social activity."
-    },
-    "exam_use": "Useful for essays on the role of government in managing public welfare and electoral politics.",
-    "sources": [
-     "a7ab6d555140"
-    ]
-   },
-   {
-    "title": "Democrats win big in US midterms amid cost‑of‑living worries",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Democratic candidates made significant gains in the November midterm elections, driven by voter concerns over grocery prices, tariffs and the war in Iran. Analysts link the outcome to affordability issues.",
-    "why_it_matters": "Midterm results affect congressional control and policy direction, illustrating the US electoral system’s impact on governance studied in A‑level.",
-    "perspectives": [
      {
       "label": "From the right",
-      "text": "The losses reflect voter backlash against Democratic economic policies."
-     },
-     {
-      "label": "From the left",
-      "text": "The gains show public demand for progressive solutions to cost‑of‑living pressures."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Midterm swings may be temporary, driven more by short‑term issues than lasting ideological shifts."
+      "text": "Conservatives view the call as undermining UK sovereignty."
      }
     ],
     "key_term": {
-     "term": "midterm elections",
-     "definition": "U.S. elections held halfway through a president’s four‑year term, primarily for Congress."
+     "term": "European Union",
+     "definition": "A supranational organisation of European states that share policies on trade, law, and governance."
     },
-    "exam_use": "Reference when analysing how electoral outcomes shape legislative agendas in the US.",
+    "exam_use": "Reference when discussing how parties position themselves on the EU in a comparative politics essay.",
     "sources": [
-     "ffa16ca1b813"
+     "c80415e89573"
     ]
    },
    {
-    "title": "Impeachment hearing looms for US Defence Secretary",
+    "title": "Defence Secretary Hegseth dismisses impeachment push",
     "section": "us",
     "topic": "congress",
-    "what_happened": "Secretary of Defence Pete Hegseth faced his first press conference since May as the House prepared an impeachment vote. The move follows articles of impeachment filed earlier this week.",
-    "why_it_matters": "Impeachment is a constitutional check on executive officials, a core concept in the US Constitution syllabus. It highlights congressional oversight powers.",
+    "what_happened": "Defence Secretary Pete Hegseth called the House impeachment effort a 'farce' and a political stunt during his first press conference in six months. He framed the move as driven by policy disagreements, not high crimes.",
+    "why_it_matters": "The episode highlights the constitutional checks and balances between the executive and Congress, a central A-level topic on US government structure.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Impeachment upholds accountability for alleged misconduct."
+      "text": "Republicans claim the impeachment is a partisan attack lacking legal basis."
      },
      {
       "label": "Critics argue",
-      "text": "The process is politically motivated and distracts from national security."
+      "text": "Democrats argue the effort reflects legitimate oversight of executive misconduct."
      },
      {
       "label": "From the left",
-      "text": "It reflects concerns over military actions and civilian oversight."
+      "text": "Progressives see the push as a necessary tool to hold the defence establishment accountable."
      }
     ],
     "key_term": {
-     "term": "impeachment",
-     "definition": "A formal charge by the legislature that can lead to removal of a public official."
+     "term": "Impeachment",
+     "definition": "A constitutional process by which a legislative body can charge and potentially remove a high official for misconduct."
     },
-    "exam_use": "Use as evidence when discussing checks and balances in the US political system.",
+    "exam_use": "Use as evidence of executive‑legislative tension in an essay on US constitutional mechanisms.",
     "sources": [
-     "e401a3e93ad1",
-     "cf2640d6922a"
+     "fa93e531c0b7"
+    ]
+   },
+   {
+    "title": "Prime Minister’s climate stance questioned",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Commentary noted that despite attending the UN COP31 summit, Prime Minister Rishi Sunak has not clarified the priority of climate change on his agenda. Critics argue the lack of clear policy direction.",
+    "why_it_matters": "The issue connects to the role of the executive in setting policy priorities and the political pressure from parties and the public, relevant to A-level study of the UK cabinet and policy making.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Government supporters say the PM is balancing economic recovery with environmental commitments."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents claim the vague stance undermines the UK's climate credibility."
+     },
+     {
+      "label": "From the left",
+      "text": "Green activists demand concrete action and see the silence as a betrayal of ecological goals."
+     }
+    ],
+    "key_term": {
+     "term": "Executive agenda",
+     "definition": "The set of policy priorities that the Prime Minister and cabinet choose to pursue."
+    },
+    "exam_use": "Cite when analysing how the UK executive responds to environmental pressures in a policy‑focused essay.",
+    "sources": [
+     "51cd2051bf6c"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "Prime Minister Rishi Milburn (as discussed in the welfare‑reform pressure on No 10) faces parliamentary scrutiny and party pressure while shaping policy.",
-   "us": "President Trump publicly softened his deportation stance to appeal to midterm voters, showing how US executives adjust rhetoric to electoral realities.",
-   "insight": "The contrast shows the UK PM operates within a parliamentary system where party dynamics dominate, whereas the US President must balance public opinion directly with electoral cycles.",
+   "theme": "elections",
+   "uk": "UK general elections determine the composition of Parliament, influencing the executive and policy direction through a first‑past‑the‑post system.",
+   "us": "US midterm elections affect the balance of power in Congress, shaping legislation and oversight of the President under a separate‑ballot system.",
+   "insight": "The contrast shows how different electoral systems produce distinct dynamics of party accountability and government stability.",
    "sources": [
-    "d22c20a97e88",
-    "7aa2ed76477d"
+    "e10cbab3af36",
+    "03396c5dafd5"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The US midterm focus on affordability reflects liberalism’s emphasis on individual welfare and market regulation, echoing thinkers like John Stuart Mill who argued for state action to protect citizens from economic hardship.",
+   "text": "The California wealth‑tax vote reflects liberal ideas about using state power to address inequality, while the UK’s devolution talks embody liberal principles of decentralising authority to better serve local preferences.",
    "sources": [
-    "ffa16ca1b813"
+    "e10cbab3af36",
+    "b7d3b0011ef4"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution and electoral politics shape government accountability in the UK and the US.",
+   "question": "Assess the extent to which recent developments in the US Senate and UK devolution illustrate the strengths and weaknesses of their respective constitutional arrangements.",
    "section": "ukgov | us",
-   "tip": "Compare the UK’s devolved powers with US federalism and link each to mechanisms of accountability such as parliamentary scrutiny and congressional oversight."
+   "tip": "Structure your answer by comparing the US Senate’s internal party mechanisms with the UK’s devolution process, using specific examples from the news."
   }
  },
  "refs": {
+  "03396c5dafd5": {
+   "id": "03396c5dafd5",
+   "title": "Senate Republicans vote to keep Thune as leader after election wipeout",
+   "link": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-10T21:05:55Z"
+  },
+  "30b6cbfa164a": {
+   "id": "30b6cbfa164a",
+   "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
+   "link": "https://www.pbs.org/newshour/politics/watch-live-senate-considers-bills-on-permitting-survivor-justice-as-gop-mulls-future-leadership",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-10T16:32:01Z"
+  },
+  "e10cbab3af36": {
+   "id": "e10cbab3af36",
+   "title": "California voters reject tax on net worth of billionaires",
+   "link": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-10T18:48:07Z"
+  },
   "b7d3b0011ef4": {
    "id": "b7d3b0011ef4",
    "title": "Justice Secretary says there is ‘more to come’ on devolution to Wales",
@@ -185,68 +242,32 @@
    "lean": "centre-left",
    "date": "2026-11-10T11:41:13Z"
   },
-  "c60de1857b75": {
-   "id": "c60de1857b75",
-   "title": "Miliband went on Russell Brand show in ‘different era’ Labour deputy leader says",
-   "link": "https://nation.cymru/news/miliband-went-on-russell-brand-show-in-different-era-labour-deputy-leader-says/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-10T12:26:34Z"
-  },
-  "a7ab6d555140": {
-   "id": "a7ab6d555140",
-   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "c80415e89573": {
+   "id": "c80415e89573",
+   "title": "Scottish Labour leader says the UK should re-join EU",
+   "link": "https://www.bbc.co.uk/news/articles/c820v0e43xr4o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcscot",
+   "sourceName": "BBC Scotland",
    "lean": "centre",
-   "date": "2026-11-10T11:43:06Z"
+   "date": "2026-11-10T17:53:39Z"
   },
-  "ffa16ca1b813": {
-   "id": "ffa16ca1b813",
-   "title": "Democrats won big. Can they lower your grocery bill?",
-   "link": "https://www.npr.org/2026/11/09/nx-s1-6030830/democrats-grocery-bill-affordability",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-09T10:00:00Z"
-  },
-  "e401a3e93ad1": {
-   "id": "e401a3e93ad1",
-   "title": "WATCH LIVE: Hegseth holds news conference as House impeachment vote looms",
-   "link": "https://www.pbs.org/newshour/politics/watch-live-hegseth-holds-news-conference-as-house-impeachment-vote-looms",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-10T13:00:25Z"
-  },
-  "cf2640d6922a": {
-   "id": "cf2640d6922a",
-   "title": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
-   "link": "https://www.npr.org/2026/11/10/nx-s1-6035039/former-pentagon-spokesman-on-articles-of-impeachment-filed-against-hegseth",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-10T11:52:24Z"
-  },
-  "d22c20a97e88": {
-   "id": "d22c20a97e88",
-   "title": "Is Burnham’s No 10 North working out?",
-   "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-burnhams-no-10-north-working-out/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-11-10T08:35:33Z"
-  },
-  "7aa2ed76477d": {
-   "id": "7aa2ed76477d",
-   "title": "Dana White declines Trump’s offer to be White House press secretary",
-   "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+  "fa93e531c0b7": {
+   "id": "fa93e531c0b7",
+   "title": "Hegseth: Impeachment effort is 'farce' and 'stunt'",
+   "link": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo?at_medium=RSS&at_campaign=rss",
    "source": "bbcus",
    "sourceName": "BBC News (US)",
    "lean": "centre",
-   "date": "2026-11-09T22:46:27Z"
+   "date": "2026-11-10T13:28:07Z"
+  },
+  "51cd2051bf6c": {
+   "id": "51cd2051bf6c",
+   "title": "Andy Burnham and climate change: where does the prime minister really stand?",
+   "link": "https://theconversation.com/andy-burnham-and-climate-change-where-does-the-prime-minister-really-stand-296200",
+   "source": "convuk",
+   "sourceName": "The Conversation UK",
+   "lean": "non-partisan",
+   "date": "2026-11-10T14:24:03Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
