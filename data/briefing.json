@@ -1,180 +1,208 @@
 {
- "generated_at": "2026-11-09T23:46:52Z",
+ "generated_at": "2026-11-10T13:28:05Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "US midterms reshape Congress; UK debates EV targets and devolution",
-  "overview": "US voters have delivered a Democratic surge in the midterm elections, while the UK sees Labour MPs warning on electric‑vehicle policy and Wales pushing for justice devolution. Both sides face pressure from parties and interest groups.",
+  "headline": "Devolution talks, UK election prep and US midterm shake‑up dominate headlines",
+  "overview": "The UK government is signalling new powers for Wales, while parties gear up for the next general election. In the US, midterm results have shifted congressional balance and revived impeachment discussions.",
   "stories": [
    {
-    "title": "Democrats win US midterms on cost‑of‑living concerns",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Democrats secured a large majority in the House in the 2026 midterm elections, driven by voter worries about food prices and inflation. The result reduces Republican control of Congress for the next two years.",
-    "why_it_matters": "The shift illustrates how electoral outcomes can alter policy agendas, a key point in the AQA study of US elections and party competition. It also shows the link between public opinion and legislative change.",
+    "title": "Justice powers for Wales under review",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Justice Secretary Alex Norris said Wales could receive additional powers over its justice system, with youth‑justice reforms discussed next. The announcement follows a broader devolution agenda from Westminster.",
+    "why_it_matters": "Devolution is a key element of the UK constitution, showing how power can be transferred from the centre to nations. It illustrates the tension between unitary sovereignty and regional autonomy taught in A‑level.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats claim the win reflects public demand for affordable groceries and stronger consumer protection."
+      "text": "Devolution enhances democratic accountability by bringing decisions closer to Welsh citizens."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans warn the loss may lead to higher taxes and over‑regulation of the economy."
+      "text": "Further devolution may fragment the UK’s legal system and weaken national cohesion."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups see the result as an opportunity to push for more aggressive climate and social policies."
+      "text": "Greater powers could allow progressive reforms in youth justice, reducing incarceration."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from the central government to regional or local bodies."
+    },
+    "exam_use": "Use as evidence when evaluating the benefits and drawbacks of devolution in an essay on the UK constitution.",
+    "sources": [
+     "b7d3b0011ef4"
+    ]
+   },
+   {
+    "title": "Labour deputy reflects on 2015 Miliband interview",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Labour’s deputy leader said Ed Miliband’s 2015 interview with Russell Brand was set in a ‘different era’. The comment was made on a political talk show.",
+    "why_it_matters": "Party image and media strategy are central to electoral success, linking to the AQA topic of political parties and elections. It shows how parties adapt narratives over time.",
+    "perspectives": [
+     {
+      "label": "From the right",
+      "text": "The interview exemplifies Labour’s past willingness to embrace unconventional media, which may alienate traditional voters."
+     },
+     {
+      "label": "From the left",
+      "text": "It demonstrates Labour’s attempt to reach younger audiences and modernise its appeal."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Relying on celebrity interviews can distract from substantive policy discussion."
+     }
+    ],
+    "key_term": {
+     "term": "party image",
+     "definition": "The public perception of a political party, shaped by its policies, leaders and media presentation."
+    },
+    "exam_use": "Cite when discussing how parties manage their public image to win elections.",
+    "sources": [
+     "c60de1857b75"
+    ]
+   },
+   {
+    "title": "Government urges emergency supplies stock‑up",
+    "section": "ukgov",
+    "topic": "elections",
+    "what_happened": "The UK government launched the ‘Be Ready’ campaign, prompting a surge in sales of tinned food and bottled water. The move follows warnings about potential emergencies.",
+    "why_it_matters": "The campaign illustrates how governments can influence public behaviour ahead of elections, raising questions about state intervention and public confidence.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Preparing citizens for crises is a responsible use of state power."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The campaign may be a political stunt to boost the ruling party’s image before the next election."
+     },
+     {
+      "label": "From the left",
+      "text": "Emergency preparedness should be paired with long‑term social welfare policies."
+     }
+    ],
+    "key_term": {
+     "term": "state intervention",
+     "definition": "Government action that influences or directs economic or social activity."
+    },
+    "exam_use": "Useful for essays on the role of government in managing public welfare and electoral politics.",
+    "sources": [
+     "a7ab6d555140"
+    ]
+   },
+   {
+    "title": "Democrats win big in US midterms amid cost‑of‑living worries",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Democratic candidates made significant gains in the November midterm elections, driven by voter concerns over grocery prices, tariffs and the war in Iran. Analysts link the outcome to affordability issues.",
+    "why_it_matters": "Midterm results affect congressional control and policy direction, illustrating the US electoral system’s impact on governance studied in A‑level.",
+    "perspectives": [
+     {
+      "label": "From the right",
+      "text": "The losses reflect voter backlash against Democratic economic policies."
+     },
+     {
+      "label": "From the left",
+      "text": "The gains show public demand for progressive solutions to cost‑of‑living pressures."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Midterm swings may be temporary, driven more by short‑term issues than lasting ideological shifts."
      }
     ],
     "key_term": {
      "term": "midterm elections",
-     "definition": "Regular elections held halfway through a president's term, often reshaping congressional control."
+     "definition": "U.S. elections held halfway through a president’s four‑year term, primarily for Congress."
     },
-    "exam_use": "Use as evidence in an essay on how US electoral cycles influence party strategy and policy direction.",
+    "exam_use": "Reference when analysing how electoral outcomes shape legislative agendas in the US.",
     "sources": [
      "ffa16ca1b813"
     ]
    },
    {
-    "title": "Trump signals softer stance on deportations",
+    "title": "Impeachment hearing looms for US Defence Secretary",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Former President Donald Trump said his deportation policy may have been too harsh and expressed willingness to work with Democrats on immigration legislation. He made the comments during a post‑election interview.",
-    "why_it_matters": "The statement shows how political leaders adjust rhetoric after electoral defeat, relevant to AQA topics on political behaviour and party repositioning. It also touches on civil‑rights concerns linked to immigration policy.",
+    "topic": "congress",
+    "what_happened": "Secretary of Defence Pete Hegseth faced his first press conference since May as the House prepared an impeachment vote. The move follows articles of impeachment filed earlier this week.",
+    "why_it_matters": "Impeachment is a constitutional check on executive officials, a core concept in the US Constitution syllabus. It highlights congressional oversight powers.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump supporters view the comment as a pragmatic move to regain influence in a Democrat‑led Congress."
+      "text": "Impeachment upholds accountability for alleged misconduct."
      },
      {
       "label": "Critics argue",
-      "text": "Immigration advocates say the shift is insufficient without concrete policy changes."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators see the tone as a concession that could weaken the party’s hard‑line base."
-     }
-    ],
-    "key_term": {
-     "term": "immigration policy",
-     "definition": "Government rules governing who may enter, stay in, or be removed from a country."
-    },
-    "exam_use": "Cite when discussing how US parties respond to electoral outcomes and public opinion.",
-    "sources": [
-     "ad7fd6d85784"
-    ]
-   },
-   {
-    "title": "Labour MPs warn EV targets could widen inequality",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "A group of Labour MPs urged Prime Minister Andy Burnham to relax electric‑vehicle (EV) targets, arguing the policy may leave poorer regions behind. The letter was published ahead of a cabinet meeting on climate policy.",
-    "why_it_matters": "The debate highlights tensions between environmental goals and social equity, a core issue in the AQA study of government policy making and the role of the cabinet. It also shows intra‑party pressure on the executive.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Labour MPs claim the current EV rollout risks deepening regional deprivation."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Environmental groups warn that easing targets would undermine climate commitments."
+      "text": "The process is politically motivated and distracts from national security."
      },
      {
       "label": "From the left",
-      "text": "Progressive voices stress the need for a just transition that protects low‑income communities."
+      "text": "It reflects concerns over military actions and civilian oversight."
      }
     ],
     "key_term": {
-     "term": "electric‑vehicle target",
-     "definition": "Government‑set goal for the proportion of new cars that must be zero‑emission."
+     "term": "impeachment",
+     "definition": "A formal charge by the legislature that can lead to removal of a public official."
     },
-    "exam_use": "Use as evidence when evaluating the balance between environmental policy and social justice in UK government decisions.",
+    "exam_use": "Use as evidence when discussing checks and balances in the US political system.",
     "sources": [
-     "c17a76ca11dc"
-    ]
-   },
-   {
-    "title": "Welsh government seeks justice devolution",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "The UK minister announced that the Welsh Government is pressing for the transfer of justice powers from Westminster to Cardiff. The move follows ongoing discussions about further devolution.",
-    "why_it_matters": "The story illustrates the constitutional principle of devolution and the shifting of powers within the UK, a key AQA topic. It also shows how regional governments can influence policy areas traditionally held by the centre.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Welsh officials say local control will improve justice delivery and reflect Welsh priorities."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Some Westminster officials warn that fragmentation could create legal inconsistencies across the UK."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators caution that further devolution may weaken national unity."
-     }
-    ],
-    "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from a central government to regional or local bodies."
-    },
-    "exam_use": "Reference when discussing the constitutional structure of the UK and the political arguments for and against further devolution.",
-    "sources": [
-     "448c12301f9d"
-    ]
-   },
-   {
-    "title": "Welsh charities push for polluter taxes at COP31",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "Welsh charities and campaign groups urged the Welsh Government to demand taxes on major polluters at the upcoming COP31 climate summit. They also called for stronger domestic climate action.",
-    "why_it_matters": "The lobbying effort demonstrates how pressure groups seek to shape policy, linking to the AQA focus on interest groups and their influence on government. It also ties into debates on environmental policy.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Environmental NGOs claim polluter taxes are essential to meet climate targets."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Industry bodies warn such taxes could raise costs for consumers and harm the economy."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive activists view the demand as a step toward climate justice."
-     }
-    ],
-    "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
-    },
-    "exam_use": "Cite when analysing the role of interest groups in shaping UK environmental policy.",
-    "sources": [
-     "c83e24825ba0"
+     "e401a3e93ad1",
+     "cf2640d6922a"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK general elections determine the composition of Parliament and the executive, with first‑past‑the‑post voting shaping party dominance.",
-   "us": "US midterm elections change the balance of power in Congress, using single‑member districts and a separate executive election.",
-   "insight": "The contrast shows how different electoral systems can produce rapid shifts in legislative control, affecting policy agendas in distinct ways.",
+   "theme": "executives",
+   "uk": "Prime Minister Rishi Milburn (as discussed in the welfare‑reform pressure on No 10) faces parliamentary scrutiny and party pressure while shaping policy.",
+   "us": "President Trump publicly softened his deportation stance to appeal to midterm voters, showing how US executives adjust rhetoric to electoral realities.",
+   "insight": "The contrast shows the UK PM operates within a parliamentary system where party dynamics dominate, whereas the US President must balance public opinion directly with electoral cycles.",
    "sources": [
-    "ffa16ca1b813",
-    "ad7fd6d85784"
+    "d22c20a97e88",
+    "7aa2ed76477d"
    ]
   },
   "ideas_lens": {
-   "ideology": "ecologism",
-   "text": "Welsh charities' call for polluter taxes reflects ecologism’s emphasis on sustainable development and the precautionary principle, echoing ideas of thinkers like Rachel Carson who argued for systemic environmental regulation.",
+   "ideology": "liberalism",
+   "text": "The US midterm focus on affordability reflects liberalism’s emphasis on individual welfare and market regulation, echoing thinkers like John Stuart Mill who argued for state action to protect citizens from economic hardship.",
    "sources": [
-    "c83e24825ba0"
+    "ffa16ca1b813"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution of justice powers to Wales could improve democratic accountability in the UK.",
-   "section": "ukgov",
-   "tip": "Compare arguments about local responsiveness with concerns about legal consistency across the UK."
+   "question": "Assess the extent to which devolution and electoral politics shape government accountability in the UK and the US.",
+   "section": "ukgov | us",
+   "tip": "Compare the UK’s devolved powers with US federalism and link each to mechanisms of accountability such as parliamentary scrutiny and congressional oversight."
   }
  },
  "refs": {
+  "b7d3b0011ef4": {
+   "id": "b7d3b0011ef4",
+   "title": "Justice Secretary says there is ‘more to come’ on devolution to Wales",
+   "link": "https://nation.cymru/news/justice-secretary-says-there-is-more-to-come-on-devolution-to-wales/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-10T11:41:13Z"
+  },
+  "c60de1857b75": {
+   "id": "c60de1857b75",
+   "title": "Miliband went on Russell Brand show in ‘different era’ Labour deputy leader says",
+   "link": "https://nation.cymru/news/miliband-went-on-russell-brand-show-in-different-era-labour-deputy-leader-says/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-10T12:26:34Z"
+  },
+  "a7ab6d555140": {
+   "id": "a7ab6d555140",
+   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-10T11:43:06Z"
+  },
   "ffa16ca1b813": {
    "id": "ffa16ca1b813",
    "title": "Democrats won big. Can they lower your grocery bill?",
@@ -184,41 +212,41 @@
    "lean": "centre-left",
    "date": "2026-11-09T10:00:00Z"
   },
-  "ad7fd6d85784": {
-   "id": "ad7fd6d85784",
-   "title": "Trump says his deportation policy 'might have been too tough' for midterm voters",
-   "link": "https://www.pbs.org/newshour/politics/trump-says-his-deportation-policy-might-have-been-too-tough-for-midterm-voters",
+  "e401a3e93ad1": {
+   "id": "e401a3e93ad1",
+   "title": "WATCH LIVE: Hegseth holds news conference as House impeachment vote looms",
+   "link": "https://www.pbs.org/newshour/politics/watch-live-hegseth-holds-news-conference-as-house-impeachment-vote-looms",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-09T15:56:08Z"
+   "date": "2026-11-10T13:00:25Z"
   },
-  "c17a76ca11dc": {
-   "id": "c17a76ca11dc",
-   "title": "Labour MPs Warn Electric Vehicle Transition Will Leave Poorer Areas Behind",
-   "link": "https://www.politicshome.com/news/article/labour-mps-warn-ev-transition-will-leave-poorer-areas-behind",
-   "source": "politicshome",
-   "sourceName": "PoliticsHome",
-   "lean": "centre",
-   "date": "2026-11-09T10:10:00Z"
-  },
-  "448c12301f9d": {
-   "id": "448c12301f9d",
-   "title": "More to come on devolution of Welsh justice, says UK minister",
-   "link": "https://www.bbc.co.uk/news/articles/cwrkyk2xrvx3o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-09T18:01:48Z"
-  },
-  "c83e24825ba0": {
-   "id": "c83e24825ba0",
-   "title": "Welsh charities urge ministers to demand polluter taxes at COP31",
-   "link": "https://nation.cymru/news/welsh-charities-urge-ministers-to-demand-polluter-taxes-at-cop31/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "cf2640d6922a": {
+   "id": "cf2640d6922a",
+   "title": "Former Pentagon spokesman on articles of impeachment filed against Hegseth",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6035039/former-pentagon-spokesman-on-articles-of-impeachment-filed-against-hegseth",
+   "source": "npr",
+   "sourceName": "NPR",
    "lean": "centre-left",
-   "date": "2026-11-09T00:01:50Z"
+   "date": "2026-11-10T11:52:24Z"
+  },
+  "d22c20a97e88": {
+   "id": "d22c20a97e88",
+   "title": "Is Burnham’s No 10 North working out?",
+   "link": "https://www.politico.eu/podcast/politics-at-sam-and-annes/is-burnhams-no-10-north-working-out/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
+   "lean": "centre",
+   "date": "2026-11-10T08:35:33Z"
+  },
+  "7aa2ed76477d": {
+   "id": "7aa2ed76477d",
+   "title": "Dana White declines Trump’s offer to be White House press secretary",
+   "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-11-09T22:46:27Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
