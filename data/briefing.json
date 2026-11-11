@@ -1,213 +1,186 @@
 {
- "generated_at": "2026-11-11T12:43:13Z",
+ "generated_at": "2026-11-11T20:12:06Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK and US political battles heat up as climate and elections dominate",
-  "overview": "The UK sees fresh debate over the new prime minister’s growth plan and Welsh student‑loan policy, while in the US Congress Republicans jockey for leadership and a high‑profile impeachment stalls. Both sides face internal splits and public scrutiny.",
+  "headline": "Midterms reshape US Congress, UK faces devolution and cabinet scrutiny",
+  "overview": "The US midterm results have intensified partisan battles over impeachment and oversight, while in the UK the welfare‑devolution mismatch and questions over the Prime Minister’s powers dominate debate.",
   "stories": [
    {
-    "title": "Prime Minister Burnham outlines ten‑year growth strategy",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Andy Burnham, in his first speech as Prime Minister, presented a ten‑year plan focused on re‑industrialisation and green growth. Labour MPs warned the plan lacked sufficient radical change.",
-    "why_it_matters": "The story illustrates the executive’s role in setting policy direction (AQA: UK Government – PM & Cabinet) and shows parliamentary scrutiny of government proposals (AQA: UK Politics – Parliament).",
+    "title": "House fails to impeach Hegseth",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "The House voted on an impeachment motion against Cabinet secretary Hegseth and it was defeated, with most Democrats supporting it and most Republicans opposing it. The vote reflects the deep partisan split after Republicans suffered heavy losses in the midterms.",
+    "why_it_matters": "The episode illustrates how the US Constitution’s impeachment clause operates in practice and shows the impact of electoral outcomes on congressional oversight. It also highlights the role of party discipline in the legislative process.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s plan balances economic growth with climate targets, offering a realistic roadmap."
+      "text": "Democrats say the vote shows a failure to hold the executive accountable for alleged misconduct."
      },
      {
       "label": "Critics argue",
-      "text": "Labour backbenchers say the plan does not go far enough to address inequality or the climate emergency."
-     }
-    ],
-    "key_term": {
-     "term": "Growth strategy",
-     "definition": "A government’s long‑term plan for economic development and employment."
-    },
-    "exam_use": "Use as evidence of executive agenda‑setting and parliamentary opposition in an essay on the relationship between the Prime Minister and Parliament.",
-    "sources": [
-     "2d123d2291f5"
-    ]
-   },
-   {
-    "title": "Welsh Government freezes student‑loan repayment threshold",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "The Welsh Government announced that the income threshold for student‑loan repayments will stay at £29,385 for three years starting April 2027. The move aims to protect graduates from rising living costs.",
-    "why_it_matters": "Shows how devolved administrations can set distinct education policies (AQA: UK Politics – Devolution) and reflects pressure‑group influence on public finance.",
-    "perspectives": [
-     {
-      "label": "From the Welsh Labour government",
-      "text": "The freeze provides stability for young people amid economic uncertainty."
-     },
-     {
-      "label": "From opposition parties",
-      "text": "Critics say it reduces revenue needed for other public services."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
-    },
-    "exam_use": "Cite as an example of devolved policy variation in an essay on the advantages and challenges of devolution.",
-    "sources": [
-     "5a08ca135388"
-    ]
-   },
-   {
-    "title": "Labour MPs question Burnham’s climate ambition",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Labour backbenchers raised concerns that Prime Minister Burnham’s ten‑year plan does not go far enough on climate action. They called for more radical measures in a parliamentary debate.",
-    "why_it_matters": "Highlights intra‑party dynamics and the role of pressure groups within parties (AQA: UK Politics – Political parties).",
-    "perspectives": [
-     {
-      "label": "From Labour MPs",
-      "text": "They argue stronger climate policies are needed to meet net‑zero targets."
-     },
-     {
-      "label": "From the government",
-      "text": "Burnham’s team says the plan balances economic growth with feasible environmental steps."
-     }
-    ],
-    "key_term": {
-     "term": "Intra‑party pressure",
-     "definition": "Influence exerted by members of a political party on its leadership or policy direction."
-    },
-    "exam_use": "Use to illustrate how party members can shape government policy in an essay on party politics.",
-    "sources": [
-     "e9718b0af7cd"
-    ]
-   },
-   {
-    "title": "House fails to impeach Pentagon secretary Hegseth",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "The House voted against impeaching Pentagon Secretary Hegseth, with Democrats supporting the motion and Republicans largely opposing it. The vote occurred after a strong Republican loss in the midterms.",
-    "why_it_matters": "Demonstrates congressional checks on the executive and partisan voting patterns (AQA: US Politics – Congress & Elections).",
-    "perspectives": [
-     {
-      "label": "Democrats argue",
-      "text": "Impeachment is necessary to hold the secretary accountable for policy failures."
-     },
-     {
-      "label": "Republicans argue",
-      "text": "The move is a partisan attack lacking sufficient evidence of high crimes."
+      "text": "Republicans claim the impeachment attempt is a partisan weapon aimed at destabilising the administration."
      }
     ],
     "key_term": {
      "term": "Impeachment",
-     "definition": "A formal charge by the legislature that can lead to removal from office if convicted."
+     "definition": "A constitutional process by which Congress can remove a federal official for \"high crimes and misdemeanors\"."
     },
-    "exam_use": "Reference as evidence of legislative oversight in an essay on the separation of powers in the US.",
+    "exam_use": "Use as evidence in an essay on the checks and balances between the US Congress and the Executive.",
     "sources": [
      "7641e974f9db"
     ]
    },
    {
-    "title": "Republicans elect Jim Jordan as minority leader",
+    "title": "White House warns Democrats over investigations",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "House Republicans chose Ohio Rep. Jim Jordan to lead the minority party after a secret ballot, defeating Rep. Steve Scalise. Jordan also chairs the Judiciary Committee.",
-    "why_it_matters": "Shows internal party leadership selection and its impact on legislative strategy (AQA: US Politics – Congress & Parties).",
+    "topic": "president",
+    "what_happened": "The White House issued a formal warning to Democratic lawmakers about their planned investigations into the former Trump administration, framing them as politically motivated. The warning was made public in a press briefing.",
+    "why_it_matters": "The incident shows how the Executive can use its communication powers to influence legislative oversight, a key aspect of the separation of powers. It also raises questions about the limits of executive privilege.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Jordan’s experience will strengthen Republican opposition to the Democratic agenda."
+      "label": "From the administration",
+      "text": "The White House argues the probes are an abuse of congressional power and threaten national security."
      },
      {
-      "label": "Critics argue",
-      "text": "His confrontational style may deepen partisan gridlock."
+      "label": "From the opposition",
+      "text": "Democrats contend the investigations are necessary for accountability and transparency."
      }
     ],
     "key_term": {
-     "term": "Minority leader",
-     "definition": "The head of the party with fewer seats in a legislative chamber."
+     "term": "Executive privilege",
+     "definition": "The right of the President and senior officials to keep certain communications confidential."
     },
-    "exam_use": "Use to discuss party leadership dynamics in a comparative essay on US and UK party structures.",
+    "exam_use": "Cite in a discussion of executive‑legislative relations in the US Constitution.",
     "sources": [
-     "5ceda6872c0b"
+     "f82e9c2e4ab0"
     ]
    },
    {
-    "title": "California voters reject billionaire wealth tax",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "California voters voted down a proposal for a one‑time 5% tax on individuals with net worth over $1 billion. The measure would have raised significant revenue for public services.",
-    "why_it_matters": "Illustrates direct democracy in US states and public attitudes toward wealth redistribution (AQA: US Politics – Elections & Direct Democracy).",
+    "title": "Welsh welfare system out of step with devolved priorities",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Wales’ deputy first minister said the UK‑wide welfare system does not align with Welsh Government principles of fairness and compassion. She called for reforms to better match devolved policy goals.",
+    "why_it_matters": "The comment highlights tensions between reserved and devolved powers, a core issue in the UK’s constitutional arrangement. It also raises the political question of how devolution can affect social policy.",
     "perspectives": [
      {
-      "label": "Progressive groups argue",
-      "text": "The tax was a needed step toward economic fairness."
+      "label": "Welsh Government view",
+      "text": "Welsh officials argue the current system undermines their ability to deliver a more equitable welfare model."
      },
      {
-      "label": "Fiscal conservatives argue",
-      "text": "The tax would discourage investment and hurt the economy."
+      "label": "UK Treasury view",
+      "text": "The Treasury maintains a uniform system is necessary for fiscal stability across the UK."
      }
     ],
     "key_term": {
-     "term": "Direct democracy",
-     "definition": "A system where citizens vote directly on policy proposals rather than through representatives."
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Cite as a case study of ballot‑initiative politics in an essay on US electoral mechanisms.",
+    "exam_use": "Useful for an essay on the advantages and challenges of devolution in the UK.",
     "sources": [
-     "e10cbab3af36"
+     "9d1d659812e8"
+    ]
+   },
+   {
+    "title": "Prime Minister attendance at PMQs since 1979",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "The House of Commons Library released data showing how often each Prime Minister has attended Prime Minister’s Questions, noting several absences for health or overseas trips. The record spans from 1979 to the present.",
+    "why_it_matters": "Attendance at PMQs is a key accountability mechanism for the executive, linking to the principle of parliamentary scrutiny. The data can be used to assess how different leaders balance executive duties with parliamentary responsibilities.",
+    "perspectives": [
+     {
+      "label": "From the opposition",
+      "text": "Labour MPs argue frequent absences weaken parliamentary oversight of the government."
+     },
+     {
+      "label": "From the government",
+      "text": "Supporters claim the Prime Minister’s overseas commitments are essential for national interests."
+     }
+    ],
+    "key_term": {
+     "term": "Prime Minister’s Questions",
+     "definition": "A weekly parliamentary session where MPs question the Prime Minister on government policy."
+    },
+    "exam_use": "Reference when evaluating the effectiveness of parliamentary scrutiny of the executive.",
+    "sources": [
+     "b3b8a35c7c6e"
+    ]
+   },
+   {
+    "title": "Labour MPs resist Rosebank oil drilling decision",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Senior Labour MPs publicly expressed opposition to granting a licence for drilling at the Rosebank oil field, saying it is not the answer to energy needs. The debate is ongoing as the decision looms.",
+    "why_it_matters": "The dispute illustrates intra‑party dynamics and the role of pressure groups in shaping party policy on energy and climate. It also connects to broader debates about the UK’s transition to green energy.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Labour members argue drilling contradicts climate commitments and harms local communities."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative supporters claim the project secures energy independence and jobs."
+     }
+    ],
+    "key_term": {
+     "term": "Pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+    },
+    "exam_use": "Use as evidence in an essay on how parties respond to environmental pressure groups.",
+    "sources": [
+     "f79dbd9308f7"
+    ]
+   },
+   {
+    "title": "Calls to curb quasi‑judicial powers of cabinet ministers",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Former chief of staff to the Prime Minister, Morgan McSweeney, urged a reform of the extensive quasi‑judicial powers held by cabinet ministers, arguing the rules are overly complex. He suggested clearer statutory limits.",
+    "why_it_matters": "The issue touches on the separation of powers within the UK system and the balance between executive discretion and rule of law. It raises constitutional questions about ministerial accountability.",
+    "perspectives": [
+     {
+      "label": "Reform advocates",
+      "text": "They argue that clearer limits would enhance transparency and protect citizens’ rights."
+     },
+     {
+      "label": "Government defenders",
+      "text": "They contend the powers are necessary for efficient decision‑making and already subject to judicial review."
+     }
+    ],
+    "key_term": {
+     "term": "Quasi‑judicial power",
+     "definition": "Authority exercised by an executive body to make decisions that affect individual rights, similar to a court’s function."
+    },
+    "exam_use": "Cite when discussing the limits of executive power in the UK constitution.",
+    "sources": [
+     "72a49903c059"
     ]
    }
   ],
   "compare": {
-   "theme": "parties",
-   "uk": "UK parties show internal debate, with Labour MPs challenging the Prime Minister’s climate agenda while the Conservatives grapple with pension reform proposals.",
-   "us": "US parties illustrate leadership contests, as Republicans elected Jim Jordan, and partisan splits over impeachment of a cabinet secretary.",
-   "insight": "Both systems reveal that party cohesion is contested, but the UK’s parliamentary context forces more immediate executive‑legislative interaction, whereas US parties operate within a separated‑powers framework.",
+   "theme": "executives",
+   "uk": "The UK Prime Minister’s accountability is exercised through PMQs and parliamentary scrutiny, with recent data on attendance highlighting variations in direct questioning.",
+   "us": "US Presidents face impeachment and congressional investigations as formal checks, illustrated by the failed impeachment of Hegseth and the White House’s warning to Democrats.",
+   "insight": "Both systems rely on legislative oversight, but the UK uses regular oral questioning while the US employs formal constitutional mechanisms like impeachment.",
    "sources": [
-    "e9718b0af7cd",
-    "5ceda6872c0b"
+    "b3b8a35c7c6e",
+    "7641e974f9db",
+    "f82e9c2e4ab0"
    ]
   },
   "ideas_lens": {
-   "ideology": "ecologism",
-   "text": "Burnham’s growth plan and the Welsh student‑loan freeze both invoke environmental concerns: the UK government links green transition to economic policy, while ecologists argue that fiscal measures must also address climate justice, echoing ideas from thinkers like Rachel Carson.",
+   "ideology": "socialism",
+   "text": "The surge of democratic socialist victories in the US midterms reflects a shift towards policies that prioritize economic equality and public ownership, echoing ideas from thinkers such as Karl Marx and contemporary advocates like Bernie Sanders.",
    "sources": [
-    "2d123d2291f5",
-    "5a08ca135388"
+    "04e2bcea9843"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party politics influences policy outcomes in the UK and the US, using examples from November 2026.",
-   "section": "ukpol | us",
-   "tip": "Structure your answer by comparing internal party debates (e.g., Labour MPs vs. Burnham) with leadership contests and impeachment votes in the US, linking each to the relevant AQA topics."
+   "question": "Assess the effectiveness of parliamentary and congressional mechanisms in holding the executive to account in the UK and the US.",
+   "section": "ukgov | us",
+   "tip": "Compare PMQs and attendance data with US impeachment and investigations, using recent examples as evidence."
   }
  },
  "refs": {
-  "2d123d2291f5": {
-   "id": "2d123d2291f5",
-   "title": "Burnham’s choices are about political economy, not theories of growth",
-   "link": "https://blogs.lse.ac.uk/politicsandpolicy/burnhams-choices-are-about-political-economy-not-theories-of-growth/",
-   "source": "lse",
-   "sourceName": "LSE British Politics",
-   "lean": "non-partisan",
-   "date": "2026-11-11T11:30:39Z"
-  },
-  "5a08ca135388": {
-   "id": "5a08ca135388",
-   "title": "Welsh Government freezes student loan repayment threshold for three years",
-   "link": "https://nation.cymru/news/welsh-government-freezes-student-loan-repayment-threshold-for-three-years/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-11T12:25:05Z"
-  },
-  "e9718b0af7cd": {
-   "id": "e9718b0af7cd",
-   "title": "Labour MPs raise concerns Burnham’s 10-year-plan will not be radical enough",
-   "link": "https://www.theguardian.com/politics/2026/nov/11/labour-mps-raise-concerns-andy-burnham-10-year-plan-not-radical-enough",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-11T06:00:30Z"
-  },
   "7641e974f9db": {
    "id": "7641e974f9db",
    "title": "House effort to impeach Hegseth fails, largely along party lines",
@@ -217,23 +190,59 @@
    "lean": "centre",
    "date": "2026-11-11T01:52:28Z"
   },
-  "5ceda6872c0b": {
-   "id": "5ceda6872c0b",
-   "title": "House Republicans pick Ohio Rep. Jim Jordan to lead them in the minority",
-   "link": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
+  "f82e9c2e4ab0": {
+   "id": "f82e9c2e4ab0",
+   "title": "White House sends warning to Democrats about investigating the Trump administration",
+   "link": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-10T19:52:21Z"
+   "date": "2026-11-11T17:06:10Z"
   },
-  "e10cbab3af36": {
-   "id": "e10cbab3af36",
-   "title": "California voters reject tax on net worth of billionaires",
-   "link": "https://www.pbs.org/newshour/politics/california-voters-reject-tax-on-net-worth-of-billionaires",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "9d1d659812e8": {
+   "id": "9d1d659812e8",
+   "title": "UK welfare system “does not always align with Welsh Government priorities”, says Wales deputy first minister",
+   "link": "https://nation.cymru/news/uk-welfare-system-does-not-always-align-with-welsh-government-priorities-says-wales-deputy-first-minister/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-11T18:35:44Z"
+  },
+  "b3b8a35c7c6e": {
+   "id": "b3b8a35c7c6e",
+   "title": "Attendance of the Prime Minister at Prime Minister’s Questions since 1979",
+   "link": "https://commonslibrary.parliament.uk/research-briefings/sn04401/",
+   "source": "commonslib",
+   "sourceName": "House of Commons Library",
+   "lean": "non-partisan",
+   "date": "2026-11-11T14:30:30Z"
+  },
+  "f79dbd9308f7": {
+   "id": "f79dbd9308f7",
+   "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+   "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-11-10T18:48:07Z"
+   "date": "2026-11-11T19:15:45Z"
+  },
+  "72a49903c059": {
+   "id": "72a49903c059",
+   "title": "Morgan McSweeney calls for rethink of UK cabinet ministers’ ‘quasi-judicial’ powers",
+   "link": "https://www.theguardian.com/politics/2026/nov/11/morgan-mcsweeney-calls-for-rethink-of-cabinet-ministers-quasi-judicial-powers",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-11T16:25:37Z"
+  },
+  "04e2bcea9843": {
+   "id": "04e2bcea9843",
+   "title": "What's behind democratic socialists' historic victories in the midterms?",
+   "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-11-11T16:41:48Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
