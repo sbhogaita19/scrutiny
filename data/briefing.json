@@ -1,169 +1,213 @@
 {
- "generated_at": "2026-11-11T02:46:51Z",
+ "generated_at": "2026-11-11T12:43:13Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Impeachment push, devolution talks and census debate dominate politics",
-  "overview": "The US House’s failed impeachment of a cabinet secretary highlights partisan divides, while in the UK the government and opposition debate devolution to Wales and census ethnicity options. These stories illustrate key constitutional and political concepts for A‑level study.",
+  "headline": "UK and US political battles heat up as climate and elections dominate",
+  "overview": "The UK sees fresh debate over the new prime minister’s growth plan and Welsh student‑loan policy, while in the US Congress Republicans jockey for leadership and a high‑profile impeachment stalls. Both sides face internal splits and public scrutiny.",
   "stories": [
    {
-    "title": "House impeachment effort fails",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "The House voted down a motion to impeach Pentagon Secretary Hegseth, with most Republicans opposing the measure and most Democrats supporting it. The vote reflects the party‑line split after a midterm loss for Republicans.",
-    "why_it_matters": "The episode shows how impeachment, a constitutional check on the executive, is used as a political tool, linking to the A‑level focus on the US Constitution and separation of powers.",
+    "title": "Prime Minister Burnham outlines ten‑year growth strategy",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Andy Burnham, in his first speech as Prime Minister, presented a ten‑year plan focused on re‑industrialisation and green growth. Labour MPs warned the plan lacked sufficient radical change.",
+    "why_it_matters": "The story illustrates the executive’s role in setting policy direction (AQA: UK Government – PM & Cabinet) and shows parliamentary scrutiny of government proposals (AQA: UK Politics – Parliament).",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats say impeachment is necessary to hold the secretary accountable for policy failures."
+      "text": "Burnham’s plan balances economic growth with climate targets, offering a realistic roadmap."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the move is a partisan revenge plot with no basis in high crimes."
+      "text": "Labour backbenchers say the plan does not go far enough to address inequality or the climate emergency."
+     }
+    ],
+    "key_term": {
+     "term": "Growth strategy",
+     "definition": "A government’s long‑term plan for economic development and employment."
+    },
+    "exam_use": "Use as evidence of executive agenda‑setting and parliamentary opposition in an essay on the relationship between the Prime Minister and Parliament.",
+    "sources": [
+     "2d123d2291f5"
+    ]
+   },
+   {
+    "title": "Welsh Government freezes student‑loan repayment threshold",
+    "section": "ukpol",
+    "topic": "devolution",
+    "what_happened": "The Welsh Government announced that the income threshold for student‑loan repayments will stay at £29,385 for three years starting April 2027. The move aims to protect graduates from rising living costs.",
+    "why_it_matters": "Shows how devolved administrations can set distinct education policies (AQA: UK Politics – Devolution) and reflects pressure‑group influence on public finance.",
+    "perspectives": [
+     {
+      "label": "From the Welsh Labour government",
+      "text": "The freeze provides stability for young people amid economic uncertainty."
+     },
+     {
+      "label": "From opposition parties",
+      "text": "Critics say it reduces revenue needed for other public services."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
+    },
+    "exam_use": "Cite as an example of devolved policy variation in an essay on the advantages and challenges of devolution.",
+    "sources": [
+     "5a08ca135388"
+    ]
+   },
+   {
+    "title": "Labour MPs question Burnham’s climate ambition",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Labour backbenchers raised concerns that Prime Minister Burnham’s ten‑year plan does not go far enough on climate action. They called for more radical measures in a parliamentary debate.",
+    "why_it_matters": "Highlights intra‑party dynamics and the role of pressure groups within parties (AQA: UK Politics – Political parties).",
+    "perspectives": [
+     {
+      "label": "From Labour MPs",
+      "text": "They argue stronger climate policies are needed to meet net‑zero targets."
+     },
+     {
+      "label": "From the government",
+      "text": "Burnham’s team says the plan balances economic growth with feasible environmental steps."
+     }
+    ],
+    "key_term": {
+     "term": "Intra‑party pressure",
+     "definition": "Influence exerted by members of a political party on its leadership or policy direction."
+    },
+    "exam_use": "Use to illustrate how party members can shape government policy in an essay on party politics.",
+    "sources": [
+     "e9718b0af7cd"
+    ]
+   },
+   {
+    "title": "House fails to impeach Pentagon secretary Hegseth",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "The House voted against impeaching Pentagon Secretary Hegseth, with Democrats supporting the motion and Republicans largely opposing it. The vote occurred after a strong Republican loss in the midterms.",
+    "why_it_matters": "Demonstrates congressional checks on the executive and partisan voting patterns (AQA: US Politics – Congress & Elections).",
+    "perspectives": [
+     {
+      "label": "Democrats argue",
+      "text": "Impeachment is necessary to hold the secretary accountable for policy failures."
+     },
+     {
+      "label": "Republicans argue",
+      "text": "The move is a partisan attack lacking sufficient evidence of high crimes."
      }
     ],
     "key_term": {
      "term": "Impeachment",
-     "definition": "A constitutional process by which a legislative body can remove a high official for misconduct."
+     "definition": "A formal charge by the legislature that can lead to removal from office if convicted."
     },
-    "exam_use": "Use as evidence of how constitutional mechanisms can become politicised in an essay on checks and balances.",
+    "exam_use": "Reference as evidence of legislative oversight in an essay on the separation of powers in the US.",
     "sources": [
      "7641e974f9db"
     ]
    },
    {
-    "title": "Justice Secretary hints at more Welsh devolution",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Justice Secretary Alex Norris said Wales could receive additional powers over its justice system, with further discussions on youth justice forthcoming. The announcement follows a commission set up to examine Wales’ constitutional future.",
-    "why_it_matters": "The story illustrates the evolving nature of the UK’s uncodified constitution and the principle of devolution, a core topic in the A‑level syllabus.",
-    "perspectives": [
-     {
-      "label": "From the government",
-      "text": "The minister argues extra powers will improve local accountability and address regional needs."
-     },
-     {
-      "label": "From the opposition",
-      "text": "Some MPs warn that further devolution could fragment the UK’s legal system."
-     },
-     {
-      "label": "From the Welsh perspective",
-      "text": "Plaid Cymru urges swift justice devolution to tackle rising rough‑sleeping among ex‑prisoners."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central government to regional administrations."
-    },
-    "exam_use": "Cite as evidence when discussing the flexibility of the UK constitution and the political debate over regional autonomy.",
-    "sources": [
-     "b7d3b0011ef4",
-     "720318948db9"
-    ]
-   },
-   {
-    "title": "MPs call for new census ethnicity options",
-    "section": "ukpol",
-    "topic": "parliament",
-    "what_happened": "MP Josh Babarinde proposed adding ‘Black English’ and ‘Asian English’ categories to the national census, gaining support from MPs across parties including David Lammy and Sir James Cleverly. The proposal is under consideration by the House of Commons.",
-    "why_it_matters": "The issue touches on representation, identity politics and the role of Parliament in shaping public policy, linking to the A‑level focus on democracy and participation.",
+    "title": "Republicans elect Jim Jordan as minority leader",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "House Republicans chose Ohio Rep. Jim Jordan to lead the minority party after a secret ballot, defeating Rep. Steve Scalise. Jordan also chairs the Judiciary Committee.",
+    "why_it_matters": "Shows internal party leadership selection and its impact on legislative strategy (AQA: US Politics – Congress & Parties).",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the new categories will give a more accurate picture of linguistic diversity."
+      "text": "Jordan’s experience will strengthen Republican opposition to the Democratic agenda."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents worry the changes could complicate data collection and increase costs."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative MPs stress the need for clear, simple census questions."
+      "text": "His confrontational style may deepen partisan gridlock."
      }
     ],
     "key_term": {
-     "term": "Census",
-     "definition": "A systematic collection of data about a population, used to inform government policy."
+     "term": "Minority leader",
+     "definition": "The head of the party with fewer seats in a legislative chamber."
     },
-    "exam_use": "Use to illustrate how parliamentary debate can shape policy on social inclusion.",
+    "exam_use": "Use to discuss party leadership dynamics in a comparative essay on US and UK party structures.",
     "sources": [
-     "a854d67a1a12"
+     "5ceda6872c0b"
     ]
    },
    {
-    "title": "California rejects billionaire wealth tax",
+    "title": "California voters reject billionaire wealth tax",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "California voters turned down a ballot measure that would have imposed a one‑time 5% tax on individuals with net worth over $1 billion. The defeat reflects voter scepticism about new taxes on the wealthy.",
-    "why_it_matters": "The vote demonstrates direct democracy in the US and raises questions about fiscal policy and wealth redistribution, relevant to the A‑level study of US politics and elections.",
+    "what_happened": "California voters voted down a proposal for a one‑time 5% tax on individuals with net worth over $1 billion. The measure would have raised significant revenue for public services.",
+    "why_it_matters": "Illustrates direct democracy in US states and public attitudes toward wealth redistribution (AQA: US Politics – Elections & Direct Democracy).",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Progressive groups said the tax would fund public services and reduce inequality."
+      "label": "Progressive groups argue",
+      "text": "The tax was a needed step toward economic fairness."
      },
      {
-      "label": "Critics argue",
-      "text": "Fiscal conservatives warned it would drive capital out of the state and hurt the economy."
+      "label": "Fiscal conservatives argue",
+      "text": "The tax would discourage investment and hurt the economy."
      }
     ],
     "key_term": {
      "term": "Direct democracy",
-     "definition": "A form of decision‑making where citizens vote directly on policy proposals."
+     "definition": "A system where citizens vote directly on policy proposals rather than through representatives."
     },
-    "exam_use": "Reference when discussing the role of ballot initiatives in US political participation.",
+    "exam_use": "Cite as a case study of ballot‑initiative politics in an essay on US electoral mechanisms.",
     "sources": [
      "e10cbab3af36"
-    ]
-   },
-   {
-    "title": "Scottish Labour calls for EU re‑entry",
-    "section": "ukpol",
-    "topic": "eu",
-    "what_happened": "Scottish Labour leader Michael Marra said the UK should re‑join the EU, arguing that solidarity, not separation, is needed and acknowledging the difficulty of the process. The statement adds pressure on Westminster’s EU policy.",
-    "why_it_matters": "The comment links to debates over the UK’s post‑Brexit relationship with Europe and the influence of regional parties on foreign policy, a key area of the A‑level syllabus.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Labour supporters view EU re‑entry as a way to protect workers’ rights and climate standards."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative critics see it as undermining UK sovereignty."
-     }
-    ],
-    "key_term": {
-     "term": "European Union",
-     "definition": "A supranational organisation of European states that share policies on trade, law and other areas."
-    },
-    "exam_use": "Use as evidence of how sub‑national parties can shape national foreign‑policy debates.",
-    "sources": [
-     "c80415e89573"
     ]
    }
   ],
   "compare": {
-   "theme": "devolution",
-   "uk": "Wales is being offered additional justice powers, reflecting the UK’s flexible, uncodified constitution and ongoing devolution settlements.",
-   "us": "US states already have independent criminal‑justice systems; further devolution would require constitutional amendment, highlighting a more rigid federal structure.",
-   "insight": "The contrast shows the UK’s ability to adjust regional powers without formal amendment, whereas US devolution is limited by a written constitution.",
+   "theme": "parties",
+   "uk": "UK parties show internal debate, with Labour MPs challenging the Prime Minister’s climate agenda while the Conservatives grapple with pension reform proposals.",
+   "us": "US parties illustrate leadership contests, as Republicans elected Jim Jordan, and partisan splits over impeachment of a cabinet secretary.",
+   "insight": "Both systems reveal that party cohesion is contested, but the UK’s parliamentary context forces more immediate executive‑legislative interaction, whereas US parties operate within a separated‑powers framework.",
    "sources": [
-    "b7d3b0011ef4",
-    "720318948db9"
+    "e9718b0af7cd",
+    "5ceda6872c0b"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The US billionaire tax proposal embodies liberal ideas of using state power to protect individual welfare and curb economic inequality, echoing John Stuart Mill’s advocacy for redistribution. Its defeat illustrates the tension between liberal reform and market‑oriented liberalism.",
+   "ideology": "ecologism",
+   "text": "Burnham’s growth plan and the Welsh student‑loan freeze both invoke environmental concerns: the UK government links green transition to economic policy, while ecologists argue that fiscal measures must also address climate justice, echoing ideas from thinkers like Rachel Carson.",
    "sources": [
-    "e10cbab3af36"
+    "2d123d2291f5",
+    "5a08ca135388"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution in the UK and federalism in the US allow regional governments to influence national policy.",
-   "section": "ukgov",
-   "tip": "Compare the Welsh justice devolution proposal with US state criminal‑justice autonomy, using specific examples to evaluate flexibility versus constitutional constraints."
+   "question": "Assess the extent to which party politics influences policy outcomes in the UK and the US, using examples from November 2026.",
+   "section": "ukpol | us",
+   "tip": "Structure your answer by comparing internal party debates (e.g., Labour MPs vs. Burnham) with leadership contests and impeachment votes in the US, linking each to the relevant AQA topics."
   }
  },
  "refs": {
+  "2d123d2291f5": {
+   "id": "2d123d2291f5",
+   "title": "Burnham’s choices are about political economy, not theories of growth",
+   "link": "https://blogs.lse.ac.uk/politicsandpolicy/burnhams-choices-are-about-political-economy-not-theories-of-growth/",
+   "source": "lse",
+   "sourceName": "LSE British Politics",
+   "lean": "non-partisan",
+   "date": "2026-11-11T11:30:39Z"
+  },
+  "5a08ca135388": {
+   "id": "5a08ca135388",
+   "title": "Welsh Government freezes student loan repayment threshold for three years",
+   "link": "https://nation.cymru/news/welsh-government-freezes-student-loan-repayment-threshold-for-three-years/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-11T12:25:05Z"
+  },
+  "e9718b0af7cd": {
+   "id": "e9718b0af7cd",
+   "title": "Labour MPs raise concerns Burnham’s 10-year-plan will not be radical enough",
+   "link": "https://www.theguardian.com/politics/2026/nov/11/labour-mps-raise-concerns-andy-burnham-10-year-plan-not-radical-enough",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-11T06:00:30Z"
+  },
   "7641e974f9db": {
    "id": "7641e974f9db",
    "title": "House effort to impeach Hegseth fails, largely along party lines",
@@ -173,32 +217,14 @@
    "lean": "centre",
    "date": "2026-11-11T01:52:28Z"
   },
-  "b7d3b0011ef4": {
-   "id": "b7d3b0011ef4",
-   "title": "Justice Secretary says there is ‘more to come’ on devolution to Wales",
-   "link": "https://nation.cymru/news/justice-secretary-says-there-is-more-to-come-on-devolution-to-wales/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-10T11:41:13Z"
-  },
-  "720318948db9": {
-   "id": "720318948db9",
-   "title": "New commission to examine Wales’ constitutional future announced",
-   "link": "https://nation.cymru/news/new-commission-to-examine-wales-constitutional-future-announced/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-10T19:35:54Z"
-  },
-  "a854d67a1a12": {
-   "id": "a854d67a1a12",
-   "title": "Census should include black English and Asian English options, says MP",
-   "link": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "5ceda6872c0b": {
+   "id": "5ceda6872c0b",
+   "title": "House Republicans pick Ohio Rep. Jim Jordan to lead them in the minority",
+   "link": "https://www.pbs.org/newshour/politics/house-republicans-pick-ohio-rep-jim-jordan-to-lead-them-in-the-minority",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-10T22:04:54Z"
+   "date": "2026-11-10T19:52:21Z"
   },
   "e10cbab3af36": {
    "id": "e10cbab3af36",
@@ -208,15 +234,6 @@
    "sourceName": "PBS NewsHour",
    "lean": "centre",
    "date": "2026-11-10T18:48:07Z"
-  },
-  "c80415e89573": {
-   "id": "c80415e89573",
-   "title": "Scottish Labour leader says the UK should re-join EU",
-   "link": "https://www.bbc.co.uk/news/articles/c820v0e43xr4o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcscot",
-   "sourceName": "BBC Scotland",
-   "lean": "centre",
-   "date": "2026-11-10T17:53:39Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
