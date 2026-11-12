@@ -1,161 +1,157 @@
 {
- "generated_at": "2026-11-12T13:45:40Z",
+ "generated_at": "2026-11-12T21:50:35Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Senator Colom elected; Welsh data centre called in; US impeachment fails",
-  "overview": "Democrat Scott Colom becomes Mississippi’s first Black senator in over a century, while the Welsh Government intervenes in a major data‑centre planning dispute. In the US, a House effort to impeach a cabinet secretary collapses along party lines.",
+  "headline": "Midterms reshape US politics, UK faces devolution disputes",
+  "overview": "US midterm results signal a shift away from Trump-era dominance while UK debates over Welsh devolution and Labour's internal tensions continue. Both arenas illustrate how parties respond to electoral pressures.",
   "stories": [
    {
     "title": "Mississippi elects first Black senator since Reconstruction",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Democrat Scott Colom won the Mississippi Senate seat, the first Black senator from the state since the 19th century. He secured the win in a state that Trump carried by 22 points two years ago.",
-    "why_it_matters": "The result shows how party realignment can shift electoral outcomes in traditionally red states, a key point for the A‑level study of US parties and elections. It also highlights the role of demographic change in political representation.",
+    "topic": "us-constitution",
+    "what_happened": "Democrat Scott Colom won the Mississippi Senate seat, becoming the state's first Black senator since the 19th century. He secured the seat in a state that Trump carried by 22 points two years ago.",
+    "why_it_matters": "The result shows how demographic change and party strategy can alter representation under the US Constitution's Senate structure. It also highlights the role of minority representation in a historically Republican stronghold.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Colom’s victory demonstrates growing Democratic appeal among Black voters and a backlash against Republican policies."
+      "text": "Colom's victory demonstrates progress on racial equality and the effectiveness of Democratic outreach in the South."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the win is an isolated anomaly and warn that national Democratic strategies may not translate elsewhere."
+      "text": "Republicans claim the win is an isolated anomaly and warn that national Democratic policies may alienate Southern voters."
      }
     ],
     "key_term": {
-     "term": "realignment",
-     "definition": "A lasting shift in the political support of groups from one party to another."
+     "term": "Senate",
+     "definition": "The upper chamber of the US Congress, with two members per state."
     },
-    "exam_use": "Use as evidence of changing party support in an essay on US electoral trends.",
+    "exam_use": "Use as evidence of how electoral outcomes can reshape party geography in a constitutional essay on the US Senate.",
     "sources": [
      "e4a5945bc19c"
     ]
    },
    {
-    "title": "Welsh Government calls in data‑centre planning application",
+    "title": "Alaska judge blocks request for absentee ballot data",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "An Alaska judge ruled that a request by Mary Peltola's campaign for a list of rejected absentee ballots was \"not reasonable\". The decision limits the campaign's ability to challenge ballot rejections.",
+    "why_it_matters": "The case illustrates judicial review of election administration, a key check within the US constitutional system. It raises questions about transparency and voter access in close races.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The ruling protects voter privacy and prevents misuse of personal data."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Election reform advocates say the decision hampers oversight of potential disenfranchisement."
+     }
+    ],
+    "key_term": {
+     "term": "Judicial review",
+     "definition": "Courts' power to assess the legality of government actions."
+    },
+    "exam_use": "Cite in an essay on the role of the judiciary in US elections.",
+    "sources": [
+     "6c8eb9d29495"
+    ]
+   },
+   {
+    "title": "Labour faces internal rebellion over welfare reforms",
     "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "Labour MPs are debating a proposed welfare reform that could trigger a rebellion similar to previous disputes. The issue is being discussed ahead of a key parliamentary session.",
+    "why_it_matters": "It shows how party cohesion in the UK Parliament can affect government stability and policy implementation. The episode links to the AQA focus on party discipline and parliamentary control of the executive.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Labour backbenchers argue the reforms betray the party's social justice commitments."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative critics claim the reforms are a sign of Labour's fiscal irresponsibility."
+     }
+    ],
+    "key_term": {
+     "term": "Party discipline",
+     "definition": "The extent to which party members vote in line with leadership."
+    },
+    "exam_use": "Use as a case study of parliamentary pressure on the executive in a UK Government essay.",
+    "sources": [
+     "5c927cdb18fc"
+    ]
+   },
+   {
+    "title": "Welsh Government takes control of Cardiff data centre plan",
+    "section": "ukpol",
     "topic": "devolution",
-    "what_happened": "The Welsh Government intervened to ‘call in’ the planning application for a large data centre on Cardiff’s eastern side. Opponents celebrated the move as a victory for local scrutiny.",
-    "why_it_matters": "The intervention illustrates how devolved administrations can exercise powers over regional development, linking to the AQA topic of devolution and the balance of authority between Westminster and Wales.",
+    "what_happened": "The Welsh planning minister approved the controversial data centre project just before a council meeting. The decision bypassed local consultation processes.",
+    "why_it_matters": "The move highlights tensions between devolved authority and local democratic accountability, a key theme in the AQA devolution topic. It also raises questions about the balance of power within the UK.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The call‑in protects local environments and ensures Welsh priorities are considered."
+      "text": "Welsh officials say swift action is needed for economic development."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say it delays economic investment and oversteps the Government’s role."
+      "text": "Local councillors claim the process undermines community participation."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from central government to regional bodies."
+     "term": "Devolution",
+     "definition": "Transfer of powers from central to regional governments."
     },
-    "exam_use": "Cite as an example of devolved decision‑making in an essay on the UK constitution.",
+    "exam_use": "Evidence for an essay on the challenges of devolved governance in the UK.",
     "sources": [
-     "91f60de8693b"
+     "a552fe44f3ca"
     ]
    },
    {
-    "title": "House impeachment effort against Hegseth fails",
-    "section": "us",
-    "topic": "congress",
-    "what_happened": "A bipartisan motion to impeach Cabinet Secretary Hegseth was defeated, with most Democrats supporting it and most Republicans opposing. The vote occurred after a midterm loss for Republicans.",
-    "why_it_matters": "The episode shows the high threshold for impeachment in the US Congress and the influence of party loyalty, relevant to the AQA study of congressional powers and checks on the executive.",
+    "title": "Reform UK claims election interference in Caerphilly by‑election",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "Reform UK candidate alleged interference in the Caerphilly council by‑election, but police and the council reported no complaints. The claim was made amid heightened scrutiny of election integrity.",
+    "why_it_matters": "The incident illustrates how parties use allegations of interference to shape public perception, linking to the AQA focus on election integrity and party strategy. It also shows the role of pressure groups in framing narratives.",
     "perspectives": [
+     {
+      "label": "From the right",
+      "text": "Reform UK argues the lack of complaints hides systemic vulnerabilities."
+     },
      {
       "label": "From the left",
-      "text": "Progressives view the failure as evidence that partisan loyalty still blocks accountability."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives argue the impeachment attempt was politically motivated and undermined stable governance."
+      "text": "Opponents say the claim is a political stunt without evidence."
      }
     ],
     "key_term": {
-     "term": "impeachment",
-     "definition": "A constitutional process by which a legislative body can charge and remove officials for misconduct."
+     "term": "Election interference",
+     "definition": "Attempts to influence the outcome of an election through illegal or unethical means."
     },
-    "exam_use": "Use to illustrate congressional checks on the executive in a comparative essay on US institutions.",
+    "exam_use": "Use to discuss how parties frame electoral legitimacy in a UK Politics essay.",
     "sources": [
-     "7641e974f9db"
-    ]
-   },
-   {
-    "title": "Labour MPs press for trophy‑hunting import ban",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Labour MPs urged the government to implement a promised ban on imports of parts from animals hunted for sport, two years after the pledge. The call came amid broader pressure on the cabinet to deliver on environmental commitments.",
-    "why_it_matters": "The demand highlights the relationship between the executive and Parliament in policy implementation, a core element of the UK Government syllabus.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Environmental groups say the ban is essential for wildlife protection and UK leadership on ethics."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Trade bodies warn the ban could breach WTO rules and harm exporters."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives claim the issue distracts from more urgent economic priorities."
-     }
-    ],
-    "key_term": {
-     "term": "executive‑legislative relations",
-     "definition": "The interaction between the government (executive) and Parliament in making and implementing policy."
-    },
-    "exam_use": "Reference when discussing the limits of executive power in a policy‑implementation essay.",
-    "sources": [
-     "060a1fbb5951"
-    ]
-   },
-   {
-    "title": "White House warns Democrats of future probes",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "The White House issued a warning to Democrats that upcoming congressional investigations could be framed as ‘criminality’. The statement came as the new Congress prepares to take office next year.",
-    "why_it_matters": "The warning illustrates executive use of rhetoric to influence legislative oversight, tying into AQA topics on the separation of powers and presidential authority.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Progressives see the warning as an attempt to intimidate legitimate oversight."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives argue the executive is defending against partisan witch‑hunts."
-     }
-    ],
-    "key_term": {
-     "term": "executive privilege",
-     "definition": "The right of the president to resist certain subpoenas and protect confidential communications."
-    },
-    "exam_use": "Use as evidence of executive‑legislative tension in a discussion of US checks and balances.",
-    "sources": [
-     "f3d1672005d8"
+     "ab480eb0821f"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK Prime Minister relies on collective cabinet responsibility and can be removed by a parliamentary vote of no confidence.",
-   "us": "The US President can be removed only through impeachment by Congress, a far rarer and more politicised process.",
-   "insight": "The contrast shows differing balances of power: the UK system allows quicker parliamentary control, while the US system provides stronger executive stability but higher removal thresholds.",
+   "theme": "elections",
+   "uk": "UK parties face internal disputes and devolution tensions that can affect local election outcomes, as seen in Wales.",
+   "us": "US midterm results and legal battles over ballot data show how national party fortunes shift and courts intervene.",
+   "insight": "The contrast shows the UK’s multi‑level electoral system versus the US’s federal structure, highlighting different checks on party power.",
    "sources": [
-    "060a1fbb5951",
-    "7641e974f9db"
+    "e4a5945bc19c",
+    "ab480eb0821f"
    ]
   },
   "ideas_lens": {
-   "ideology": "ecologism",
-   "text": "The push for a trophy‑hunting ban reflects ecologism’s emphasis on protecting wildlife and challenging human exploitation of nature, echoing ideas from thinkers like Aldo Leopold on a land ethic.",
+   "ideology": "liberalism",
+   "text": "Colom's historic win reflects liberalism's emphasis on individual rights and equal representation, echoing John Locke's ideas of consent and equality. Liberal thinkers argue that expanding political inclusion strengthens democratic legitimacy.",
    "sources": [
-    "060a1fbb5951"
+    "e4a5945bc19c"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party loyalty influences the effectiveness of checks and balances in the US Congress.",
-   "section": "us",
-   "tip": "Structure your answer by defining checks and balances, then examine recent impeachment and investigation cases, weighing party positions against constitutional intent."
+   "question": "Assess how recent electoral events in the US and UK illustrate the impact of party strategy on democratic representation.",
+   "section": "ukpol",
+   "tip": "Compare the US Senate win and the Welsh devolution dispute, linking each to party tactics and representation."
   }
  },
  "refs": {
@@ -168,41 +164,41 @@
    "lean": "centre",
    "date": "2026-11-12T12:56:55Z"
   },
-  "91f60de8693b": {
-   "id": "91f60de8693b",
-   "title": "Huge data centre planned for Cardiff ‘called in’ by Welsh Government",
-   "link": "https://nation.cymru/news/huge-data-centre-planned-for-cardiff-called-in-by-welsh-government/",
+  "6c8eb9d29495": {
+   "id": "6c8eb9d29495",
+   "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable'",
+   "link": "https://www.pbs.org/newshour/politics/alaska-judge-rules-a-request-by-peltola-campaign-for-ballot-data-in-senate-race-is-not-reasonable",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-12T20:24:30Z"
+  },
+  "5c927cdb18fc": {
+   "id": "5c927cdb18fc",
+   "title": "Are cracks showing in the Burnham project? – podcast",
+   "link": "https://www.theguardian.com/politics/audio/2026/nov/12/are-cracks-showing-in-the-burnham-project-podcast",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-12T16:25:06Z"
+  },
+  "a552fe44f3ca": {
+   "id": "a552fe44f3ca",
+   "title": "Welsh government takes control of controversial Cardiff data centre plan",
+   "link": "https://www.bbc.co.uk/news/articles/cr868lv54ejjo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-12T16:36:01Z"
+  },
+  "ab480eb0821f": {
+   "id": "ab480eb0821f",
+   "title": "Reform candidate claims election interference but council and police have received no complaints",
+   "link": "https://nation.cymru/news/reform-candidate-claims-election-interference-but-council-and-police-have-received-no-complaints/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-12T12:33:11Z"
-  },
-  "7641e974f9db": {
-   "id": "7641e974f9db",
-   "title": "House effort to impeach Hegseth fails, largely along party lines",
-   "link": "https://www.csmonitor.com/USA/Politics/2026/1110/hegseth-impeachment-iran-war?icid=rss",
-   "source": "csm",
-   "sourceName": "Christian Science Monitor",
-   "lean": "centre",
-   "date": "2026-11-11T01:52:28Z"
-  },
-  "060a1fbb5951": {
-   "id": "060a1fbb5951",
-   "title": "MPs urge Labour ministers to get on with trophy hunting ban",
-   "link": "https://www.bbc.co.uk/news/articles/ckdd17m79yldo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-11-12T12:48:37Z"
-  },
-  "f3d1672005d8": {
-   "id": "f3d1672005d8",
-   "title": "White House warns Democrats over future probes, citing possible 'criminality'",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6037548/white-house-warns-democrats-over-future-probes-citing-possible-criminality",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-12T09:18:04Z"
+   "date": "2026-11-12T20:28:17Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
