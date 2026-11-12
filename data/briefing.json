@@ -1,186 +1,182 @@
 {
- "generated_at": "2026-11-12T02:16:00Z",
+ "generated_at": "2026-11-12T13:45:40Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms reshape US politics as UK debates devolution and climate security",
-  "overview": "The US sees a historic Senate win and a failed impeachment, while UK parties clash over Welsh devolution issues and climate‑related security. Both sides illustrate how electoral outcomes and policy debates influence governance.",
+  "headline": "Senator Colom elected; Welsh data centre called in; US impeachment fails",
+  "overview": "Democrat Scott Colom becomes Mississippi’s first Black senator in over a century, while the Welsh Government intervenes in a major data‑centre planning dispute. In the US, a House effort to impeach a cabinet secretary collapses along party lines.",
   "stories": [
    {
-    "title": "Impeachment effort against Hegseth collapses",
+    "title": "Mississippi elects first Black senator since Reconstruction",
     "section": "us",
     "topic": "us-parties",
-    "what_happened": "The House voted down a motion to impeach Cabinet secretary Hegseth, with Democrats supporting and Republicans opposing the measure. The failure follows a severe midterm loss for Republicans.",
-    "why_it_matters": "The episode shows how party alignment can determine congressional oversight of the executive, a key theme in A‑level US Politics under the Constitution and Congress topics.",
+    "what_happened": "Democrat Scott Colom won the Mississippi Senate seat, the first Black senator from the state since the 19th century. He secured the win in a state that Trump carried by 22 points two years ago.",
+    "why_it_matters": "The result shows how party realignment can shift electoral outcomes in traditionally red states, a key point for the A‑level study of US parties and elections. It also highlights the role of demographic change in political representation.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats say the vote was necessary to hold the administration accountable for alleged misconduct."
+      "text": "Colom’s victory demonstrates growing Democratic appeal among Black voters and a backlash against Republican policies."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the impeachment was a partisan attack lacking sufficient evidence."
+      "text": "Republicans claim the win is an isolated anomaly and warn that national Democratic strategies may not translate elsewhere."
      }
     ],
     "key_term": {
-     "term": "Impeachment",
-     "definition": "A constitutional process by which Congress can remove a senior official for misconduct."
+     "term": "realignment",
+     "definition": "A lasting shift in the political support of groups from one party to another."
     },
-    "exam_use": "Use as evidence of partisan influence on congressional oversight in an essay on checks and balances.",
-    "sources": [
-     "7641e974f9db"
-    ]
-   },
-   {
-    "title": "Mississippi elects first Black senator in 140 years",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Democrat Scott Colom won the Mississippi Senate seat, becoming the first Black senator from the state since Reconstruction. His victory came amid a broader Democratic surge in the midterms.",
-    "why_it_matters": "The result highlights shifting electoral demographics and the impact of party strategy, linking to A‑level topics on elections and party competition.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Progressives view the win as evidence of growing support for diversity and progressive policies in the South."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives warn that demographic changes could undermine traditional voting patterns."
-     }
-    ],
-    "key_term": {
-     "term": "Demographic shift",
-     "definition": "Changes in the composition of the electorate that can affect voting behaviour."
-    },
-    "exam_use": "Cite as a case study of how demographic change influences party fortunes in an essay on elections.",
+    "exam_use": "Use as evidence of changing party support in an essay on US electoral trends.",
     "sources": [
      "e4a5945bc19c"
     ]
    },
    {
-    "title": "Prime Minister attendance at PMQs since 1979",
+    "title": "Welsh Government calls in data‑centre planning application",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "The Welsh Government intervened to ‘call in’ the planning application for a large data centre on Cardiff’s eastern side. Opponents celebrated the move as a victory for local scrutiny.",
+    "why_it_matters": "The intervention illustrates how devolved administrations can exercise powers over regional development, linking to the AQA topic of devolution and the balance of authority between Westminster and Wales.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The call‑in protects local environments and ensures Welsh priorities are considered."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents say it delays economic investment and oversteps the Government’s role."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from central government to regional bodies."
+    },
+    "exam_use": "Cite as an example of devolved decision‑making in an essay on the UK constitution.",
+    "sources": [
+     "91f60de8693b"
+    ]
+   },
+   {
+    "title": "House impeachment effort against Hegseth fails",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "A bipartisan motion to impeach Cabinet Secretary Hegseth was defeated, with most Democrats supporting it and most Republicans opposing. The vote occurred after a midterm loss for Republicans.",
+    "why_it_matters": "The episode shows the high threshold for impeachment in the US Congress and the influence of party loyalty, relevant to the AQA study of congressional powers and checks on the executive.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Progressives view the failure as evidence that partisan loyalty still blocks accountability."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservatives argue the impeachment attempt was politically motivated and undermined stable governance."
+     }
+    ],
+    "key_term": {
+     "term": "impeachment",
+     "definition": "A constitutional process by which a legislative body can charge and remove officials for misconduct."
+    },
+    "exam_use": "Use to illustrate congressional checks on the executive in a comparative essay on US institutions.",
+    "sources": [
+     "7641e974f9db"
+    ]
+   },
+   {
+    "title": "Labour MPs press for trophy‑hunting import ban",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "The House of Commons Library recorded the number of times each Prime Minister has attended Prime Minister’s Questions, noting periods of absence and full attendance since 1979.",
-    "why_it_matters": "Attendance reflects executive accountability to Parliament, a core concept in the UK Constitution and the relationship between the cabinet and legislature.",
+    "what_happened": "Labour MPs urged the government to implement a promised ban on imports of parts from animals hunted for sport, two years after the pledge. The call came amid broader pressure on the cabinet to deliver on environmental commitments.",
+    "why_it_matters": "The demand highlights the relationship between the executive and Parliament in policy implementation, a core element of the UK Government syllabus.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Regular attendance demonstrates a healthy check on the executive."
+      "text": "Environmental groups say the ban is essential for wildlife protection and UK leadership on ethics."
      },
      {
       "label": "Critics argue",
-      "text": "Frequent absences may signal a weakening of parliamentary scrutiny."
-     }
-    ],
-    "key_term": {
-     "term": "Prime Minister’s Questions",
-     "definition": "A weekly parliamentary session where the PM answers MPs' questions, providing direct accountability."
-    },
-    "exam_use": "Use to illustrate executive‑legislative relations in an essay on the UK constitution.",
-    "sources": [
-     "b3b8a35c7c6e"
-    ]
-   },
-   {
-    "title": "Labour MPs oppose Rosebank oil field decision",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Senior Labour MPs publicly criticised the government’s pending decision on the Rosebank oil field, urging a green light be denied. The debate reflects internal party pressure on environmental policy.",
-    "why_it_matters": "The clash shows how party factions influence policy making and highlights the role of pressure groups within party politics, relevant to the A‑level topics on parties and pressure groups.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Labour members argue the field should be blocked to meet climate targets."
+      "text": "Trade bodies warn the ban could breach WTO rules and harm exporters."
      },
      {
       "label": "From the right",
-      "text": "Conservatives contend the project is vital for energy security and jobs."
+      "text": "Conservatives claim the issue distracts from more urgent economic priorities."
      }
     ],
     "key_term": {
-     "term": "Pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+     "term": "executive‑legislative relations",
+     "definition": "The interaction between the government (executive) and Parliament in making and implementing policy."
     },
-    "exam_use": "Reference as evidence of intra‑party disagreement affecting policy decisions in a parties essay.",
+    "exam_use": "Reference when discussing the limits of executive power in a policy‑implementation essay.",
     "sources": [
-     "f79dbd9308f7"
+     "060a1fbb5951"
     ]
    },
    {
-    "title": "Campaigners challenge Cardiff data‑centre proposal",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "Environmental campaigners filed legal action claiming the Cardiff council may be breaking planning law by approving a large data‑centre project. The case is pending.",
-    "why_it_matters": "The dispute illustrates how local pressure groups can use legal routes to influence planning decisions, linking to A‑level study of pressure groups and devolution.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Activists say the project threatens local ecosystems and should be halted."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Council officials argue the centre will bring economic benefits and jobs."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The transfer of powers from central government to regional or local bodies."
-    },
-    "exam_use": "Use to show how devolution enables local groups to contest national‑level economic projects in an essay on pressure groups.",
-    "sources": [
-     "c9de8d3b839f"
-    ]
-   },
-   {
-    "title": "Foreign secretary links climate crisis to national security",
-    "section": "ideas",
-    "topic": "ecologism",
-    "what_happened": "The UK foreign secretary warned that climate change poses a risk to the national security of all countries, calling for urgent action ahead of COP31. The statement was made in a televised interview.",
-    "why_it_matters": "The comment connects ecological concerns with security policy, reflecting ecologism’s emphasis on environmental limits and the political idea of sustainable security.",
+    "title": "White House warns Democrats of future probes",
+    "section": "us",
+    "topic": "president",
+    "what_happened": "The White House issued a warning to Democrats that upcoming congressional investigations could be framed as ‘criminality’. The statement came as the new Congress prepares to take office next year.",
+    "why_it_matters": "The warning illustrates executive use of rhetoric to influence legislative oversight, tying into AQA topics on the separation of powers and presidential authority.",
     "perspectives": [
      {
       "label": "From the left",
-      "text": "Ecologists see the warning as validation of climate‑security links."
+      "text": "Progressives see the warning as an attempt to intimidate legitimate oversight."
      },
      {
       "label": "From the right",
-      "text": "Skeptics argue security should focus on traditional threats, not climate."
+      "text": "Conservatives argue the executive is defending against partisan witch‑hunts."
      }
     ],
     "key_term": {
-     "term": "Ecologism",
-     "definition": "A political ideology that prioritises environmental sustainability and the protection of ecosystems."
+     "term": "executive privilege",
+     "definition": "The right of the president to resist certain subpoenas and protect confidential communications."
     },
-    "exam_use": "Cite as contemporary evidence of ecologism influencing foreign policy in a political ideas essay.",
+    "exam_use": "Use as evidence of executive‑legislative tension in a discussion of US checks and balances.",
     "sources": [
-     "ef9c51ac439e"
+     "f3d1672005d8"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK general elections use a first‑past‑the‑post system, producing single‑party governments and often a clear majority.",
-   "us": "US midterm elections involve separate votes for the House, Senate and state offices, using single‑member districts and the Electoral College for the presidency.",
-   "insight": "The contrast shows how electoral design shapes party competition and government stability in each system.",
+   "theme": "executives",
+   "uk": "The UK Prime Minister relies on collective cabinet responsibility and can be removed by a parliamentary vote of no confidence.",
+   "us": "The US President can be removed only through impeachment by Congress, a far rarer and more politicised process.",
+   "insight": "The contrast shows differing balances of power: the UK system allows quicker parliamentary control, while the US system provides stronger executive stability but higher removal thresholds.",
    "sources": [
-    "7641e974f9db",
-    "e4a5945bc19c",
-    "b3b8a35c7c6e"
+    "060a1fbb5951",
+    "7641e974f9db"
    ]
   },
   "ideas_lens": {
    "ideology": "ecologism",
-   "text": "The foreign secretary’s climate‑security warning reflects ecologism’s core idea that environmental limits are integral to national wellbeing, echoing thinkers like Rachel Carson who linked ecological health to human security.",
+   "text": "The push for a trophy‑hunting ban reflects ecologism’s emphasis on protecting wildlife and challenging human exploitation of nature, echoing ideas from thinkers like Aldo Leopold on a land ethic.",
    "sources": [
-    "ef9c51ac439e"
+    "060a1fbb5951"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party politics influences policy decisions in the UK and the US, using recent examples.",
-   "section": "ukpol | us",
-   "tip": "Structure your answer by comparing a UK party‑policy case (e.g., Rosebank oil field) with a US party‑policy case (e.g., impeachment vote), analysing motivations, outcomes and institutional constraints."
+   "question": "Assess the extent to which party loyalty influences the effectiveness of checks and balances in the US Congress.",
+   "section": "us",
+   "tip": "Structure your answer by defining checks and balances, then examine recent impeachment and investigation cases, weighing party positions against constitutional intent."
   }
  },
  "refs": {
+  "e4a5945bc19c": {
+   "id": "e4a5945bc19c",
+   "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-11-12T12:56:55Z"
+  },
+  "91f60de8693b": {
+   "id": "91f60de8693b",
+   "title": "Huge data centre planned for Cardiff ‘called in’ by Welsh Government",
+   "link": "https://nation.cymru/news/huge-data-centre-planned-for-cardiff-called-in-by-welsh-government/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-12T12:33:11Z"
+  },
   "7641e974f9db": {
    "id": "7641e974f9db",
    "title": "House effort to impeach Hegseth fails, largely along party lines",
@@ -190,50 +186,23 @@
    "lean": "centre",
    "date": "2026-11-11T01:52:28Z"
   },
-  "e4a5945bc19c": {
-   "id": "e4a5945bc19c",
-   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-11-12T02:09:08Z"
-  },
-  "b3b8a35c7c6e": {
-   "id": "b3b8a35c7c6e",
-   "title": "Attendance of the Prime Minister at Prime Minister’s Questions since 1979",
-   "link": "https://commonslibrary.parliament.uk/research-briefings/sn04401/",
-   "source": "commonslib",
-   "sourceName": "House of Commons Library",
-   "lean": "non-partisan",
-   "date": "2026-11-11T14:30:30Z"
-  },
-  "f79dbd9308f7": {
-   "id": "f79dbd9308f7",
-   "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-   "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+  "060a1fbb5951": {
+   "id": "060a1fbb5951",
+   "title": "MPs urge Labour ministers to get on with trophy hunting ban",
+   "link": "https://www.bbc.co.uk/news/articles/ckdd17m79yldo?at_medium=RSS&at_campaign=rss",
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-11-11T21:42:20Z"
+   "date": "2026-11-12T12:48:37Z"
   },
-  "c9de8d3b839f": {
-   "id": "c9de8d3b839f",
-   "title": "Campaigners bid to block consideration of controversial data centre scheme",
-   "link": "https://nation.cymru/news/campaigners-bid-to-block-consideration-of-controversial-data-centre-scheme/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "f3d1672005d8": {
+   "id": "f3d1672005d8",
+   "title": "White House warns Democrats over future probes, citing possible 'criminality'",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6037548/white-house-warns-democrats-over-future-probes-citing-possible-criminality",
+   "source": "npr",
+   "sourceName": "NPR",
    "lean": "centre-left",
-   "date": "2026-11-11T12:26:45Z"
-  },
-  "ef9c51ac439e": {
-   "id": "ef9c51ac439e",
-   "title": "Tories would have to raise state pension age above 70 to keep triple lock, says minister",
-   "link": "https://www.theguardian.com/money/2026/nov/11/tories-raise-state-pension-age-70-triple-lock-torsten-bell",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-11T07:29:40Z"
+   "date": "2026-11-12T09:18:04Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
