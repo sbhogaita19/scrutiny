@@ -1,183 +1,183 @@
 {
- "generated_at": "2026-11-11T20:12:06Z",
+ "generated_at": "2026-11-12T02:16:00Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms reshape US Congress, UK faces devolution and cabinet scrutiny",
-  "overview": "The US midterm results have intensified partisan battles over impeachment and oversight, while in the UK the welfare‑devolution mismatch and questions over the Prime Minister’s powers dominate debate.",
+  "headline": "Midterms reshape US politics as UK debates devolution and climate security",
+  "overview": "The US sees a historic Senate win and a failed impeachment, while UK parties clash over Welsh devolution issues and climate‑related security. Both sides illustrate how electoral outcomes and policy debates influence governance.",
   "stories": [
    {
-    "title": "House fails to impeach Hegseth",
+    "title": "Impeachment effort against Hegseth collapses",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "The House voted on an impeachment motion against Cabinet secretary Hegseth and it was defeated, with most Democrats supporting it and most Republicans opposing it. The vote reflects the deep partisan split after Republicans suffered heavy losses in the midterms.",
-    "why_it_matters": "The episode illustrates how the US Constitution’s impeachment clause operates in practice and shows the impact of electoral outcomes on congressional oversight. It also highlights the role of party discipline in the legislative process.",
+    "topic": "us-parties",
+    "what_happened": "The House voted down a motion to impeach Cabinet secretary Hegseth, with Democrats supporting and Republicans opposing the measure. The failure follows a severe midterm loss for Republicans.",
+    "why_it_matters": "The episode shows how party alignment can determine congressional oversight of the executive, a key theme in A‑level US Politics under the Constitution and Congress topics.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats say the vote shows a failure to hold the executive accountable for alleged misconduct."
+      "text": "Democrats say the vote was necessary to hold the administration accountable for alleged misconduct."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the impeachment attempt is a partisan weapon aimed at destabilising the administration."
+      "text": "Republicans claim the impeachment was a partisan attack lacking sufficient evidence."
      }
     ],
     "key_term": {
      "term": "Impeachment",
-     "definition": "A constitutional process by which Congress can remove a federal official for \"high crimes and misdemeanors\"."
+     "definition": "A constitutional process by which Congress can remove a senior official for misconduct."
     },
-    "exam_use": "Use as evidence in an essay on the checks and balances between the US Congress and the Executive.",
+    "exam_use": "Use as evidence of partisan influence on congressional oversight in an essay on checks and balances.",
     "sources": [
      "7641e974f9db"
     ]
    },
    {
-    "title": "White House warns Democrats over investigations",
+    "title": "Mississippi elects first Black senator in 140 years",
     "section": "us",
-    "topic": "president",
-    "what_happened": "The White House issued a formal warning to Democratic lawmakers about their planned investigations into the former Trump administration, framing them as politically motivated. The warning was made public in a press briefing.",
-    "why_it_matters": "The incident shows how the Executive can use its communication powers to influence legislative oversight, a key aspect of the separation of powers. It also raises questions about the limits of executive privilege.",
+    "topic": "us-parties",
+    "what_happened": "Democrat Scott Colom won the Mississippi Senate seat, becoming the first Black senator from the state since Reconstruction. His victory came amid a broader Democratic surge in the midterms.",
+    "why_it_matters": "The result highlights shifting electoral demographics and the impact of party strategy, linking to A‑level topics on elections and party competition.",
     "perspectives": [
      {
-      "label": "From the administration",
-      "text": "The White House argues the probes are an abuse of congressional power and threaten national security."
+      "label": "From the left",
+      "text": "Progressives view the win as evidence of growing support for diversity and progressive policies in the South."
      },
      {
-      "label": "From the opposition",
-      "text": "Democrats contend the investigations are necessary for accountability and transparency."
+      "label": "From the right",
+      "text": "Conservatives warn that demographic changes could undermine traditional voting patterns."
      }
     ],
     "key_term": {
-     "term": "Executive privilege",
-     "definition": "The right of the President and senior officials to keep certain communications confidential."
+     "term": "Demographic shift",
+     "definition": "Changes in the composition of the electorate that can affect voting behaviour."
     },
-    "exam_use": "Cite in a discussion of executive‑legislative relations in the US Constitution.",
+    "exam_use": "Cite as a case study of how demographic change influences party fortunes in an essay on elections.",
     "sources": [
-     "f82e9c2e4ab0"
-    ]
-   },
-   {
-    "title": "Welsh welfare system out of step with devolved priorities",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Wales’ deputy first minister said the UK‑wide welfare system does not align with Welsh Government principles of fairness and compassion. She called for reforms to better match devolved policy goals.",
-    "why_it_matters": "The comment highlights tensions between reserved and devolved powers, a core issue in the UK’s constitutional arrangement. It also raises the political question of how devolution can affect social policy.",
-    "perspectives": [
-     {
-      "label": "Welsh Government view",
-      "text": "Welsh officials argue the current system undermines their ability to deliver a more equitable welfare model."
-     },
-     {
-      "label": "UK Treasury view",
-      "text": "The Treasury maintains a uniform system is necessary for fiscal stability across the UK."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
-    },
-    "exam_use": "Useful for an essay on the advantages and challenges of devolution in the UK.",
-    "sources": [
-     "9d1d659812e8"
+     "e4a5945bc19c"
     ]
    },
    {
     "title": "Prime Minister attendance at PMQs since 1979",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "The House of Commons Library released data showing how often each Prime Minister has attended Prime Minister’s Questions, noting several absences for health or overseas trips. The record spans from 1979 to the present.",
-    "why_it_matters": "Attendance at PMQs is a key accountability mechanism for the executive, linking to the principle of parliamentary scrutiny. The data can be used to assess how different leaders balance executive duties with parliamentary responsibilities.",
+    "what_happened": "The House of Commons Library recorded the number of times each Prime Minister has attended Prime Minister’s Questions, noting periods of absence and full attendance since 1979.",
+    "why_it_matters": "Attendance reflects executive accountability to Parliament, a core concept in the UK Constitution and the relationship between the cabinet and legislature.",
     "perspectives": [
      {
-      "label": "From the opposition",
-      "text": "Labour MPs argue frequent absences weaken parliamentary oversight of the government."
+      "label": "Supporters argue",
+      "text": "Regular attendance demonstrates a healthy check on the executive."
      },
      {
-      "label": "From the government",
-      "text": "Supporters claim the Prime Minister’s overseas commitments are essential for national interests."
+      "label": "Critics argue",
+      "text": "Frequent absences may signal a weakening of parliamentary scrutiny."
      }
     ],
     "key_term": {
      "term": "Prime Minister’s Questions",
-     "definition": "A weekly parliamentary session where MPs question the Prime Minister on government policy."
+     "definition": "A weekly parliamentary session where the PM answers MPs' questions, providing direct accountability."
     },
-    "exam_use": "Reference when evaluating the effectiveness of parliamentary scrutiny of the executive.",
+    "exam_use": "Use to illustrate executive‑legislative relations in an essay on the UK constitution.",
     "sources": [
      "b3b8a35c7c6e"
     ]
    },
    {
-    "title": "Labour MPs resist Rosebank oil drilling decision",
+    "title": "Labour MPs oppose Rosebank oil field decision",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Senior Labour MPs publicly expressed opposition to granting a licence for drilling at the Rosebank oil field, saying it is not the answer to energy needs. The debate is ongoing as the decision looms.",
-    "why_it_matters": "The dispute illustrates intra‑party dynamics and the role of pressure groups in shaping party policy on energy and climate. It also connects to broader debates about the UK’s transition to green energy.",
+    "what_happened": "Senior Labour MPs publicly criticised the government’s pending decision on the Rosebank oil field, urging a green light be denied. The debate reflects internal party pressure on environmental policy.",
+    "why_it_matters": "The clash shows how party factions influence policy making and highlights the role of pressure groups within party politics, relevant to the A‑level topics on parties and pressure groups.",
     "perspectives": [
      {
       "label": "From the left",
-      "text": "Labour members argue drilling contradicts climate commitments and harms local communities."
+      "text": "Labour members argue the field should be blocked to meet climate targets."
      },
      {
       "label": "From the right",
-      "text": "Conservative supporters claim the project secures energy independence and jobs."
+      "text": "Conservatives contend the project is vital for energy security and jobs."
      }
     ],
     "key_term": {
      "term": "Pressure group",
      "definition": "An organised group that seeks to influence public policy without seeking electoral office."
     },
-    "exam_use": "Use as evidence in an essay on how parties respond to environmental pressure groups.",
+    "exam_use": "Reference as evidence of intra‑party disagreement affecting policy decisions in a parties essay.",
     "sources": [
      "f79dbd9308f7"
     ]
    },
    {
-    "title": "Calls to curb quasi‑judicial powers of cabinet ministers",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Former chief of staff to the Prime Minister, Morgan McSweeney, urged a reform of the extensive quasi‑judicial powers held by cabinet ministers, arguing the rules are overly complex. He suggested clearer statutory limits.",
-    "why_it_matters": "The issue touches on the separation of powers within the UK system and the balance between executive discretion and rule of law. It raises constitutional questions about ministerial accountability.",
+    "title": "Campaigners challenge Cardiff data‑centre proposal",
+    "section": "ukpol",
+    "topic": "pressure",
+    "what_happened": "Environmental campaigners filed legal action claiming the Cardiff council may be breaking planning law by approving a large data‑centre project. The case is pending.",
+    "why_it_matters": "The dispute illustrates how local pressure groups can use legal routes to influence planning decisions, linking to A‑level study of pressure groups and devolution.",
     "perspectives": [
      {
-      "label": "Reform advocates",
-      "text": "They argue that clearer limits would enhance transparency and protect citizens’ rights."
+      "label": "Supporters argue",
+      "text": "Activists say the project threatens local ecosystems and should be halted."
      },
      {
-      "label": "Government defenders",
-      "text": "They contend the powers are necessary for efficient decision‑making and already subject to judicial review."
+      "label": "Critics argue",
+      "text": "Council officials argue the centre will bring economic benefits and jobs."
      }
     ],
     "key_term": {
-     "term": "Quasi‑judicial power",
-     "definition": "Authority exercised by an executive body to make decisions that affect individual rights, similar to a court’s function."
+     "term": "Devolution",
+     "definition": "The transfer of powers from central government to regional or local bodies."
     },
-    "exam_use": "Cite when discussing the limits of executive power in the UK constitution.",
+    "exam_use": "Use to show how devolution enables local groups to contest national‑level economic projects in an essay on pressure groups.",
     "sources": [
-     "72a49903c059"
+     "c9de8d3b839f"
+    ]
+   },
+   {
+    "title": "Foreign secretary links climate crisis to national security",
+    "section": "ideas",
+    "topic": "ecologism",
+    "what_happened": "The UK foreign secretary warned that climate change poses a risk to the national security of all countries, calling for urgent action ahead of COP31. The statement was made in a televised interview.",
+    "why_it_matters": "The comment connects ecological concerns with security policy, reflecting ecologism’s emphasis on environmental limits and the political idea of sustainable security.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Ecologists see the warning as validation of climate‑security links."
+     },
+     {
+      "label": "From the right",
+      "text": "Skeptics argue security should focus on traditional threats, not climate."
+     }
+    ],
+    "key_term": {
+     "term": "Ecologism",
+     "definition": "A political ideology that prioritises environmental sustainability and the protection of ecosystems."
+    },
+    "exam_use": "Cite as contemporary evidence of ecologism influencing foreign policy in a political ideas essay.",
+    "sources": [
+     "ef9c51ac439e"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK Prime Minister’s accountability is exercised through PMQs and parliamentary scrutiny, with recent data on attendance highlighting variations in direct questioning.",
-   "us": "US Presidents face impeachment and congressional investigations as formal checks, illustrated by the failed impeachment of Hegseth and the White House’s warning to Democrats.",
-   "insight": "Both systems rely on legislative oversight, but the UK uses regular oral questioning while the US employs formal constitutional mechanisms like impeachment.",
+   "theme": "elections",
+   "uk": "UK general elections use a first‑past‑the‑post system, producing single‑party governments and often a clear majority.",
+   "us": "US midterm elections involve separate votes for the House, Senate and state offices, using single‑member districts and the Electoral College for the presidency.",
+   "insight": "The contrast shows how electoral design shapes party competition and government stability in each system.",
    "sources": [
-    "b3b8a35c7c6e",
     "7641e974f9db",
-    "f82e9c2e4ab0"
+    "e4a5945bc19c",
+    "b3b8a35c7c6e"
    ]
   },
   "ideas_lens": {
-   "ideology": "socialism",
-   "text": "The surge of democratic socialist victories in the US midterms reflects a shift towards policies that prioritize economic equality and public ownership, echoing ideas from thinkers such as Karl Marx and contemporary advocates like Bernie Sanders.",
+   "ideology": "ecologism",
+   "text": "The foreign secretary’s climate‑security warning reflects ecologism’s core idea that environmental limits are integral to national wellbeing, echoing thinkers like Rachel Carson who linked ecological health to human security.",
    "sources": [
-    "04e2bcea9843"
+    "ef9c51ac439e"
    ]
   },
   "exam_question": {
-   "question": "Assess the effectiveness of parliamentary and congressional mechanisms in holding the executive to account in the UK and the US.",
-   "section": "ukgov | us",
-   "tip": "Compare PMQs and attendance data with US impeachment and investigations, using recent examples as evidence."
+   "question": "Assess the extent to which party politics influences policy decisions in the UK and the US, using recent examples.",
+   "section": "ukpol | us",
+   "tip": "Structure your answer by comparing a UK party‑policy case (e.g., Rosebank oil field) with a US party‑policy case (e.g., impeachment vote), analysing motivations, outcomes and institutional constraints."
   }
  },
  "refs": {
@@ -190,23 +190,14 @@
    "lean": "centre",
    "date": "2026-11-11T01:52:28Z"
   },
-  "f82e9c2e4ab0": {
-   "id": "f82e9c2e4ab0",
-   "title": "White House sends warning to Democrats about investigating the Trump administration",
-   "link": "https://www.pbs.org/newshour/politics/white-house-sends-warning-to-democrats-about-investigating-the-trump-administration",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "e4a5945bc19c": {
+   "id": "e4a5945bc19c",
+   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
    "lean": "centre",
-   "date": "2026-11-11T17:06:10Z"
-  },
-  "9d1d659812e8": {
-   "id": "9d1d659812e8",
-   "title": "UK welfare system “does not always align with Welsh Government priorities”, says Wales deputy first minister",
-   "link": "https://nation.cymru/news/uk-welfare-system-does-not-always-align-with-welsh-government-priorities-says-wales-deputy-first-minister/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-11T18:35:44Z"
+   "date": "2026-11-12T02:09:08Z"
   },
   "b3b8a35c7c6e": {
    "id": "b3b8a35c7c6e",
@@ -224,25 +215,25 @@
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-11-11T19:15:45Z"
+   "date": "2026-11-11T21:42:20Z"
   },
-  "72a49903c059": {
-   "id": "72a49903c059",
-   "title": "Morgan McSweeney calls for rethink of UK cabinet ministers’ ‘quasi-judicial’ powers",
-   "link": "https://www.theguardian.com/politics/2026/nov/11/morgan-mcsweeney-calls-for-rethink-of-cabinet-ministers-quasi-judicial-powers",
+  "c9de8d3b839f": {
+   "id": "c9de8d3b839f",
+   "title": "Campaigners bid to block consideration of controversial data centre scheme",
+   "link": "https://nation.cymru/news/campaigners-bid-to-block-consideration-of-controversial-data-centre-scheme/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-11T12:26:45Z"
+  },
+  "ef9c51ac439e": {
+   "id": "ef9c51ac439e",
+   "title": "Tories would have to raise state pension age above 70 to keep triple lock, says minister",
+   "link": "https://www.theguardian.com/money/2026/nov/11/tories-raise-state-pension-age-70-triple-lock-torsten-bell",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-11T16:25:37Z"
-  },
-  "04e2bcea9843": {
-   "id": "04e2bcea9843",
-   "title": "What's behind democratic socialists' historic victories in the midterms?",
-   "link": "https://www.npr.org/2026/11/11/nx-s1-6037432/whats-behind-democratic-socialists-historic-victories-in-the-midterms",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-11T16:41:48Z"
+   "date": "2026-11-11T07:29:40Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
