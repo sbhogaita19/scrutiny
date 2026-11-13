@@ -1,45 +1,132 @@
 {
- "generated_at": "2026-11-13T13:06:43Z",
+ "generated_at": "2026-11-13T20:29:17Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, UK‑EU talks and Welsh devolution disputes dominate headlines",
-  "overview": "US midterm results show shifting party fortunes, while the UK government pushes a new EU deal and Wales grapples with parliamentary technology bans. Both raise questions about executive power and democratic oversight.",
+  "headline": "UK and US political shifts dominate headlines",
+  "overview": "Britain faces debates over devolution and parliamentary discipline, while the US sees leadership contests in Congress and a Supreme Court case on asylum. Both countries grapple with party dynamics and constitutional questions.",
   "stories": [
    {
-    "title": "Burnham outlines ‘win‑win’ UK‑EU deal",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Rishi Burnham said a new trade and regulatory agreement with the EU could deliver the Brexit outcome voters expected in 2016. He presented the proposal as mutually beneficial for both sides.",
-    "why_it_matters": "The story illustrates the executive’s role in foreign policy and treaty making, a key AQA focus on the powers of the Prime Minister and Cabinet. It also raises issues of parliamentary scrutiny of international agreements.",
+    "title": "Van Hollen challenges Schumer for Senate Democratic leader",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Senator Chris Van Hollen announced he will run for Senate Majority Leader, setting up a contest with current leader Chuck Schumer. The challenge was made public on 13 November 2026.",
+    "why_it_matters": "The contest illustrates intra‑party leadership competition, a key concept in the AQA study of US parties and Congress. It shows how party leaders are chosen and how leadership can affect legislative agendas.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s supporters claim the deal restores economic stability and respects the referendum result."
+      "text": "Van Hollen supporters say fresh leadership could rejuvenate the Democratic agenda after two years of gridlock."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn the agreement may limit UK sovereignty and lack sufficient parliamentary debate."
+      "text": "Schumer allies warn that a leadership battle could distract from policy work and weaken party unity."
      },
      {
       "label": "From the right",
-      "text": "Conservative backers see it as a pragmatic fulfilment of Brexit promises."
+      "text": "Republicans view the contest as an opportunity to exploit Democratic disunity in upcoming elections."
      }
     ],
     "key_term": {
-     "term": "Treaty",
-     "definition": "A formal agreement between two or more sovereign states that requires ratification."
+     "term": "Party leadership contest",
+     "definition": "A competition within a party to select the person who will lead the party's members in a legislative chamber."
     },
-    "exam_use": "Use as evidence of executive initiative in foreign policy and the tension with parliamentary oversight in a ‘evaluate’ essay.",
+    "exam_use": "Use as evidence in an essay on how party structures influence policy outcomes in the US Congress.",
+    "sources": [
+     "d4ec9e0c3931"
+    ]
+   },
+   {
+    "title": "Trump administration seeks Supreme Court review of asylum ban",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The Trump administration filed a petition for the Supreme Court to hear a challenge to lower‑court rulings that declared its executive order suspending asylum at the southern border illegal. The case was scheduled for argument later in 2026.",
+    "why_it_matters": "The case highlights the constitutional balance between executive power and judicial review, a core AQA topic on the US Constitution and courts. It also raises civil‑rights issues around asylum seekers.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The administration claims the order is necessary for border security and within presidential authority."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Civil‑rights groups argue the order breaches international law and the Constitution’s due‑process guarantees."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive commentators see the case as part of a broader pattern of executive overreach on immigration."
+     }
+    ],
+    "key_term": {
+     "term": "Judicial review",
+     "definition": "The power of courts to assess whether a law or executive action complies with the constitution."
+    },
+    "exam_use": "Cite in a comparative essay on checks and balances between the US executive and judiciary.",
+    "sources": [
+     "567504dd51c4"
+    ]
+   },
+   {
+    "title": "Burnham promises ‘win‑win’ post‑Brexit trade deal",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Andy Burnham said a new trade agreement with the EU could deliver outcomes similar to the 2016 Brexit promise. He made the statement on 13 November 2026.",
+    "why_it_matters": "The announcement touches on the UK’s constitutional arrangement of executive power and the role of the Prime Minister in foreign policy, linking to the AQA focus on the constitution and devolution.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Pro‑Brexit voters welcome the claim that the deal fulfills the original referendum mandate."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warn the deal may compromise UK standards and sovereignty."
+     },
+     {
+      "label": "From the left",
+      "text": "Labour critics argue the government is using Brexit rhetoric to distract from domestic issues."
+     }
+    ],
+    "key_term": {
+     "term": "Executive prerogative",
+     "definition": "The powers historically exercised by the Crown, now largely exercised by the Prime Minister and Cabinet."
+    },
+    "exam_use": "Use as evidence when discussing the limits of executive authority in UK foreign affairs.",
     "sources": [
      "fa758c4e46ad"
     ]
    },
    {
-    "title": "Smart glasses banned in Senedd",
+    "title": "Welsh Labour reviews Senedd election defeat",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "Welsh Labour announced a review of its loss in the May 2026 Senedd election, citing a disconnect with voters. The review will be published by the party’s Welsh leader on 13 November 2026.",
+    "why_it_matters": "The story illustrates party accountability and voter behaviour, key themes in the AQA unit on democracy and participation. It also shows devolution’s impact on party strategy.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Labour insiders say the review will help the party reconnect with grassroots concerns."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opposition parties claim Labour’s analysis will be too little, too late to regain trust."
+     },
+     {
+      "label": "From the right",
+      "text": "Welsh Conservatives argue the loss reflects Labour’s outdated policies in Wales."
+     }
+    ],
+    "key_term": {
+     "term": "Electoral review",
+     "definition": "An internal party process that analyses election results to identify strengths and weaknesses."
+    },
+    "exam_use": "Reference in an essay on how parties adapt after electoral defeat in a devolved legislature.",
+    "sources": [
+     "82f95c32882e"
+    ]
+   },
+   {
+    "title": "Smart glasses banned in Welsh Parliament",
     "section": "ukgov",
     "topic": "parliament",
-    "what_happened": "The Senedd ruled that smart glasses are prohibited after a judge said they could be used to deliver speeches without permission. A review of the devices is underway.",
-    "why_it_matters": "The incident highlights parliamentary rules on conduct and the judiciary’s role in interpreting them, linking to AQA topics on the separation of powers and parliamentary privilege.",
+    "what_happened": "The Senedd ruled that smart glasses are prohibited during sessions, citing concerns they could be used to deliver unsanctioned speeches. The ban was announced on 13 November 2026.",
+    "why_it_matters": "The decision raises questions about parliamentary procedure and the balance between technology and decorum, linking to the AQA focus on the UK Parliament’s powers and rules.",
     "perspectives": [
      {
       "label": "Supporters argue",
@@ -47,163 +134,66 @@
      },
      {
       "label": "Critics argue",
-      "text": "Critics claim it restricts technological innovation and free expression."
+      "text": "Tech‑liberals argue it stifles innovation and free expression."
      },
      {
       "label": "From the left",
-      "text": "Left‑leaning voices view it as a necessary safeguard for democratic discourse."
+      "text": "Some members view the move as a distraction from more pressing policy issues."
      }
     ],
     "key_term": {
-     "term": "Parliamentary privilege",
-     "definition": "Special legal immunities and powers granted to members of parliament to perform their duties."
+     "term": "Parliamentary standing order",
+     "definition": "A rule that governs the conduct and procedures of a legislative chamber."
     },
-    "exam_use": "Cite when discussing limits on MPs’ freedom of speech in a ‘to what extent’ essay on parliamentary sovereignty.",
+    "exam_use": "Use to illustrate how procedural rules can evolve with new technology in a UK Parliament essay.",
     "sources": [
      "4c72a8432da0"
-    ]
-   },
-   {
-    "title": "Reform tables free‑speech motion after Senedd boycott",
-    "section": "ukpol",
-    "topic": "democracy",
-    "what_happened": "Reform UK tabled a motion in the Welsh Senedd calling for stronger protection of free speech after a member was barred from speaking by the Llywydd.",
-    "why_it_matters": "The case raises questions about the balance between free expression and parliamentary order, relevant to AQA’s study of democracy and civil liberties.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Reform UK says the motion defends fundamental democratic rights."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents argue the ban was necessary to maintain respectful debate."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning groups stress the need to protect vulnerable speakers from harassment."
-     }
-    ],
-    "key_term": {
-     "term": "Freedom of speech",
-     "definition": "The right to express opinions without censorship or restraint."
-    },
-    "exam_use": "Useful for an essay evaluating how democratic institutions manage competing rights.",
-    "sources": [
-     "e3956faa984b"
-    ]
-   },
-   {
-    "title": "Welsh Green leader campaigns while battling cancer",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Anthony Slaughter, leader of the Welsh Green Party, continued campaigning in the regional election despite undergoing intensive cancer treatment.",
-    "why_it_matters": "The story illustrates personal resilience within party politics and the impact of individual candidates on voter perception, linking to AQA’s focus on party organisation and election campaigning.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Supporters praise his dedication and view it as inspiring leadership."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Critics question whether his health might affect campaign effectiveness."
-     },
-     {
-      "label": "From the centre",
-      "text": "Centrist observers note the human element adds complexity to electoral dynamics."
-     }
-    ],
-    "key_term": {
-     "term": "Party leader",
-     "definition": "The most senior elected official of a political party, responsible for strategy and public representation."
-    },
-    "exam_use": "Can be used as a case study of candidate impact in a ‘discuss’ essay on party politics.",
-    "sources": [
-     "98136fe6c5a7"
-    ]
-   },
-   {
-    "title": "Trump comments on Mississippi Senate upset",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Former President Donald Trump praised Democrat Scott Colom after his surprise win in the Mississippi Senate race, acknowledging the candidate’s cross‑party appeal.",
-    "why_it_matters": "The reaction shows how party leaders influence voter perceptions and reflects intra‑party dynamics, key to AQA’s study of US parties and electoral behaviour.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Trump’s base sees his comment as a strategic move to broaden appeal."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents view it as opportunistic and undermining party unity."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning analysts note the significance of a Democrat winning in a traditionally red state."
-     }
-    ],
-    "key_term": {
-     "term": "Party realignment",
-     "definition": "A significant shift in the coalition of voters that support a political party."
-    },
-    "exam_use": "Reference when analysing changes in US party support in a ‘to what extent’ essay on electoral trends.",
-    "sources": [
-     "0cc0d27c4c5d"
-    ]
-   },
-   {
-    "title": "Cindy Holscher wins Kansas governorship",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Democratic state senator Cindy Holscher defeated Republican Ty Masterson to become Kansas governor, continuing a series of Democratic wins in 2026 midterms.",
-    "why_it_matters": "The result highlights shifting state‑level political landscapes and the role of campaign issues, aligning with AQA topics on US elections and direct democracy.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Democrats celebrate the win as evidence of growing voter concern over data‑center expansion."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Republicans attribute the loss to excessive spending and national party fatigue."
-     },
-     {
-      "label": "From the centre",
-      "text": "Centrist observers point to local issues driving the outcome more than national trends."
-     }
-    ],
-    "key_term": {
-     "term": "Gubernatorial election",
-     "definition": "An election to choose a state’s governor, the chief executive of that state."
-    },
-    "exam_use": "Use as a contemporary example of state‑level electoral change in a ‘evaluate’ essay on US political parties.",
-    "sources": [
-     "588ea8faec4c"
     ]
    }
   ],
   "compare": {
    "theme": "executives",
-   "uk": "The Burnham proposal shows the UK Prime Minister using executive authority to negotiate international agreements, subject to parliamentary approval.",
-   "us": "Trump’s public praise of a Senate candidate illustrates how a former US President can shape party narratives despite not holding executive office.",
-   "insight": "Both cases reveal how executive figures, current or former, influence political agendas and party dynamics, though the UK system requires direct parliamentary scrutiny while the US relies on party influence and media.",
+   "uk": "The UK Prime Minister uses executive prerogative to negotiate trade deals, as seen in Burnham’s post‑Brexit promise.",
+   "us": "The US President seeks Supreme Court review of an executive order on asylum, testing the limits of presidential power.",
+   "insight": "Both cases show executives pushing the boundaries of their constitutional authority, but the UK relies on parliamentary support while the US faces judicial checks.",
    "sources": [
     "fa758c4e46ad",
-    "0cc0d27c4c5d"
+    "567504dd51c4"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Holscher’s pledge to halt new data centres reflects liberalism’s emphasis on individual rights and limiting state‑driven corporate expansion, echoing John Stuart Mill’s advocacy for protecting personal liberty against economic intrusion.",
+   "text": "Burnham’s trade‑deal claim reflects liberal ideas of free trade and individual choice, echoing Adam Smith’s market principles. The US asylum case raises liberal concerns about protecting individual rights against state overreach.",
    "sources": [
-    "588ea8faec4c"
+    "fa758c4e46ad",
+    "567504dd51c4"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive actions are checked by parliamentary or legislative bodies in the UK and US.",
+   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Compare the UK Prime Minister’s treaty negotiations with the US President’s influence over party politics, using recent news examples."
+   "tip": "Compare the UK Prime Minister’s trade negotiations with the US President’s asylum order, focusing on parliamentary oversight and judicial review."
   }
  },
  "refs": {
+  "d4ec9e0c3931": {
+   "id": "d4ec9e0c3931",
+   "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
+   "link": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-13T14:26:31Z"
+  },
+  "567504dd51c4": {
+   "id": "567504dd51c4",
+   "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+   "link": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-13T19:16:41Z"
+  },
   "fa758c4e46ad": {
    "id": "fa758c4e46ad",
    "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
@@ -213,6 +203,15 @@
    "lean": "centre",
    "date": "2026-11-13T01:17:58Z"
   },
+  "82f95c32882e": {
+   "id": "82f95c32882e",
+   "title": "Labour lost its connection with voters, says Welsh leader",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-13T18:44:11Z"
+  },
   "4c72a8432da0": {
    "id": "4c72a8432da0",
    "title": "Smart glasses banned from Welsh Parliament after ruling they could be used for speeches",
@@ -221,42 +220,6 @@
    "sourceName": "BBC Wales",
    "lean": "centre",
    "date": "2026-11-13T07:33:10Z"
-  },
-  "e3956faa984b": {
-   "id": "e3956faa984b",
-   "title": "Reform tables free speech debate after Senedd boycott",
-   "link": "https://nation.cymru/news/reform-tables-free-speech-debate-after-senedd-boycott/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-12T20:45:41Z"
-  },
-  "98136fe6c5a7": {
-   "id": "98136fe6c5a7",
-   "title": "Welsh Green Party leader describes intense cancer treatment during election",
-   "link": "https://www.bbc.co.uk/news/articles/c91438z7pv6go?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-12T16:29:23Z"
-  },
-  "0cc0d27c4c5d": {
-   "id": "0cc0d27c4c5d",
-   "title": "Trump on Colom's Mississippi Senate win: 'I give him a lot of credit'",
-   "link": "https://thehill.com/homenews/campaign/6217818-trump-praises-colom-mississippi-victory/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-13T01:06:58Z"
-  },
-  "588ea8faec4c": {
-   "id": "588ea8faec4c",
-   "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
-   "link": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-12T23:15:50Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
