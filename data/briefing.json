@@ -1,170 +1,245 @@
 {
- "generated_at": "2026-11-13T03:25:04Z",
+ "generated_at": "2026-11-13T13:06:43Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, Welsh data centre, and Labour party tensions dominate",
-  "overview": "US midterm results are prompting analysis of Trump’s influence, while Wales wrestles with a data‑centre plan and Labour faces internal disputes over candidate selection. These events illustrate key constitutional and political dynamics in both countries.",
+  "headline": "Midterms, UK‑EU talks and Welsh devolution disputes dominate headlines",
+  "overview": "US midterm results show shifting party fortunes, while the UK government pushes a new EU deal and Wales grapples with parliamentary technology bans. Both raise questions about executive power and democratic oversight.",
   "stories": [
+   {
+    "title": "Burnham outlines ‘win‑win’ UK‑EU deal",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Rishi Burnham said a new trade and regulatory agreement with the EU could deliver the Brexit outcome voters expected in 2016. He presented the proposal as mutually beneficial for both sides.",
+    "why_it_matters": "The story illustrates the executive’s role in foreign policy and treaty making, a key AQA focus on the powers of the Prime Minister and Cabinet. It also raises issues of parliamentary scrutiny of international agreements.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Burnham’s supporters claim the deal restores economic stability and respects the referendum result."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warn the agreement may limit UK sovereignty and lack sufficient parliamentary debate."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative backers see it as a pragmatic fulfilment of Brexit promises."
+     }
+    ],
+    "key_term": {
+     "term": "Treaty",
+     "definition": "A formal agreement between two or more sovereign states that requires ratification."
+    },
+    "exam_use": "Use as evidence of executive initiative in foreign policy and the tension with parliamentary oversight in a ‘evaluate’ essay.",
+    "sources": [
+     "fa758c4e46ad"
+    ]
+   },
+   {
+    "title": "Smart glasses banned in Senedd",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "The Senedd ruled that smart glasses are prohibited after a judge said they could be used to deliver speeches without permission. A review of the devices is underway.",
+    "why_it_matters": "The incident highlights parliamentary rules on conduct and the judiciary’s role in interpreting them, linking to AQA topics on the separation of powers and parliamentary privilege.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Proponents say the ban protects the integrity of parliamentary debate."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Critics claim it restricts technological innovation and free expression."
+     },
+     {
+      "label": "From the left",
+      "text": "Left‑leaning voices view it as a necessary safeguard for democratic discourse."
+     }
+    ],
+    "key_term": {
+     "term": "Parliamentary privilege",
+     "definition": "Special legal immunities and powers granted to members of parliament to perform their duties."
+    },
+    "exam_use": "Cite when discussing limits on MPs’ freedom of speech in a ‘to what extent’ essay on parliamentary sovereignty.",
+    "sources": [
+     "4c72a8432da0"
+    ]
+   },
+   {
+    "title": "Reform tables free‑speech motion after Senedd boycott",
+    "section": "ukpol",
+    "topic": "democracy",
+    "what_happened": "Reform UK tabled a motion in the Welsh Senedd calling for stronger protection of free speech after a member was barred from speaking by the Llywydd.",
+    "why_it_matters": "The case raises questions about the balance between free expression and parliamentary order, relevant to AQA’s study of democracy and civil liberties.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Reform UK says the motion defends fundamental democratic rights."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents argue the ban was necessary to maintain respectful debate."
+     },
+     {
+      "label": "From the left",
+      "text": "Left‑leaning groups stress the need to protect vulnerable speakers from harassment."
+     }
+    ],
+    "key_term": {
+     "term": "Freedom of speech",
+     "definition": "The right to express opinions without censorship or restraint."
+    },
+    "exam_use": "Useful for an essay evaluating how democratic institutions manage competing rights.",
+    "sources": [
+     "e3956faa984b"
+    ]
+   },
+   {
+    "title": "Welsh Green leader campaigns while battling cancer",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Anthony Slaughter, leader of the Welsh Green Party, continued campaigning in the regional election despite undergoing intensive cancer treatment.",
+    "why_it_matters": "The story illustrates personal resilience within party politics and the impact of individual candidates on voter perception, linking to AQA’s focus on party organisation and election campaigning.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Supporters praise his dedication and view it as inspiring leadership."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Critics question whether his health might affect campaign effectiveness."
+     },
+     {
+      "label": "From the centre",
+      "text": "Centrist observers note the human element adds complexity to electoral dynamics."
+     }
+    ],
+    "key_term": {
+     "term": "Party leader",
+     "definition": "The most senior elected official of a political party, responsible for strategy and public representation."
+    },
+    "exam_use": "Can be used as a case study of candidate impact in a ‘discuss’ essay on party politics.",
+    "sources": [
+     "98136fe6c5a7"
+    ]
+   },
    {
     "title": "Trump comments on Mississippi Senate upset",
     "section": "us",
     "topic": "us-parties",
-    "what_happened": "President Donald Trump praised Democrat Scott Colom after his surprise win in the Mississippi Senate race. Trump said he gave Colom credit for attracting Republican voters.",
-    "why_it_matters": "The reaction shows how party leaders can shape narratives after electoral defeats, a point relevant to A‑level study of party politics and electoral strategy. It also highlights the role of personal influence in US party dynamics.",
+    "what_happened": "Former President Donald Trump praised Democrat Scott Colom after his surprise win in the Mississippi Senate race, acknowledging the candidate’s cross‑party appeal.",
+    "why_it_matters": "The reaction shows how party leaders influence voter perceptions and reflects intra‑party dynamics, key to AQA’s study of US parties and electoral behaviour.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s praise may help the Democratic candidate consolidate support among moderate voters."
+      "text": "Trump’s base sees his comment as a strategic move to broaden appeal."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say the comment undermines Republican confidence and signals internal party weakness."
+      "text": "Opponents view it as opportunistic and undermining party unity."
+     },
+     {
+      "label": "From the left",
+      "text": "Left‑leaning analysts note the significance of a Democrat winning in a traditionally red state."
      }
     ],
     "key_term": {
-     "term": "Party leadership",
-     "definition": "The individuals who guide a political party’s direction and public image."
+     "term": "Party realignment",
+     "definition": "A significant shift in the coalition of voters that support a political party."
     },
-    "exam_use": "Use as evidence of how party leaders influence post‑election narratives in an essay on party politics.",
+    "exam_use": "Reference when analysing changes in US party support in a ‘to what extent’ essay on electoral trends.",
     "sources": [
      "0cc0d27c4c5d"
     ]
    },
    {
-    "title": "Alaska judge blocks ballot‑data request",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "An Alaska judge ruled that a request by Mary Peltola’s Senate campaign for a list of rejected absentee ballots was unreasonable. The decision limits the campaign’s ability to challenge ballot rejections.",
-    "why_it_matters": "The case illustrates judicial review of electoral processes, linking to the AQA focus on the role of courts in safeguarding elections and voter rights.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "Some argue the ruling protects election integrity by preventing frivolous challenges."
-     },
-     {
-      "label": "From the left",
-      "text": "Others claim it restricts transparency and hampers fair scrutiny of vote counts."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "A court’s power to assess the legality of actions by public bodies."
-    },
-    "exam_use": "Cite as an example of courts influencing electoral administration in a short‑answer question on the judiciary.",
-    "sources": [
-     "6c8eb9d29495"
-    ]
-   },
-   {
-    "title": "Welsh government takes control of Cardiff data centre plan",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "The Welsh planning minister intervened to halt a controversial data‑centre proposal in Cardiff, acting before a council meeting could discuss it. The move centralises decision‑making at the devolved level.",
-    "why_it_matters": "The incident shows how devolved administrations can exercise powers over regional development, a key point in the AQA Constitution topic.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Proponents say the intervention protects local interests and environmental standards."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents claim it undermines local democratic processes and council autonomy."
-     },
-     {
-      "label": "From the right",
-      "text": "Right‑leaning commentators warn it sets a precedent for excessive central control."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional bodies."
-    },
-    "exam_use": "Use to illustrate devolution’s impact on regional policy decisions in an essay on the UK constitution.",
-    "sources": [
-     "a552fe44f3ca"
-    ]
-   },
-   {
-    "title": "Labour MP claims party parachuted candidate",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Former MP Geraint Davies alleges Labour prevented his re‑selection for Swansea West and installed a London‑based candidate. He describes the process as unjust.",
-    "why_it_matters": "The claim highlights internal party selection mechanisms and tensions between local branches and central leadership, relevant to the AQA study of political parties.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Labour supporters argue central oversight ensures candidate quality."
-     },
-     {
-      "label": "From the right",
-      "text": "Critics say it erodes grassroots democracy within parties."
-     },
-     {
-      "label": "Supporters argue",
-      "text": "Party officials claim the decision was based on strategic electoral considerations."
-     }
-    ],
-    "key_term": {
-     "term": "Candidate selection",
-     "definition": "The process by which a party chooses who will stand for election."
-    },
-    "exam_use": "Reference in a comparative essay on party democracy versus central control.",
-    "sources": [
-     "607f0ba52dd5"
-    ]
-   },
-   {
-    "title": "Midterm vote counting delays in Alaska",
+    "title": "Cindy Holscher wins Kansas governorship",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Alaska’s Senate race between Dan Sullivan and Mary Peltola remains unresolved as officials take longer to count votes. The delay is due to logistical challenges in remote areas.",
-    "why_it_matters": "The situation exemplifies the complexities of US election administration and the impact of geography on vote tabulation, linking to the AQA elections topic.",
+    "what_happened": "Democratic state senator Cindy Holscher defeated Republican Ty Masterson to become Kansas governor, continuing a series of Democratic wins in 2026 midterms.",
+    "why_it_matters": "The result highlights shifting state‑level political landscapes and the role of campaign issues, aligning with AQA topics on US elections and direct democracy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Delays ensure accurate results and prevent premature conclusions."
+      "text": "Democrats celebrate the win as evidence of growing voter concern over data‑center expansion."
      },
      {
       "label": "Critics argue",
-      "text": "Extended counts can undermine public confidence in the electoral system."
+      "text": "Republicans attribute the loss to excessive spending and national party fatigue."
+     },
+     {
+      "label": "From the centre",
+      "text": "Centrist observers point to local issues driving the outcome more than national trends."
      }
     ],
     "key_term": {
-     "term": "Vote counting",
-     "definition": "The process of tallying ballots to determine election outcomes."
+     "term": "Gubernatorial election",
+     "definition": "An election to choose a state’s governor, the chief executive of that state."
     },
-    "exam_use": "Use as a case study of electoral administration challenges in a short‑answer question on US elections.",
+    "exam_use": "Use as a contemporary example of state‑level electoral change in a ‘evaluate’ essay on US political parties.",
     "sources": [
-     "5a2a146e81ee"
+     "588ea8faec4c"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK parties use candidate selection processes that can be overseen by central party structures, as seen in Labour’s Swansea West dispute.",
-   "us": "US elections involve state‑level administration and judicial oversight, illustrated by Alaska’s ballot‑data ruling and vote‑counting delays.",
-   "insight": "The contrast shows the UK’s party‑centric control versus the US’s decentralized, legally contested electoral administration.",
+   "theme": "executives",
+   "uk": "The Burnham proposal shows the UK Prime Minister using executive authority to negotiate international agreements, subject to parliamentary approval.",
+   "us": "Trump’s public praise of a Senate candidate illustrates how a former US President can shape party narratives despite not holding executive office.",
+   "insight": "Both cases reveal how executive figures, current or former, influence political agendas and party dynamics, though the UK system requires direct parliamentary scrutiny while the US relies on party influence and media.",
    "sources": [
-    "607f0ba52dd5",
-    "6c8eb9d29495",
-    "5a2a146e81ee"
+    "fa758c4e46ad",
+    "0cc0d27c4c5d"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in the US judge’s protection of campaign access to ballot data, while the Welsh data‑centre intervention raises questions about balancing economic freedom with community welfare, echoing liberal debates on state intervention.",
+   "text": "Holscher’s pledge to halt new data centres reflects liberalism’s emphasis on individual rights and limiting state‑driven corporate expansion, echoing John Stuart Mill’s advocacy for protecting personal liberty against economic intrusion.",
    "sources": [
-    "6c8eb9d29495",
-    "a552fe44f3ca"
+    "588ea8faec4c"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party structures influence candidate selection in the UK and the US, using recent examples.",
-   "section": "ukpol | us",
-   "tip": "Compare Labour’s Swansea West case with US primary processes, noting the role of central parties versus state parties and legal frameworks."
+   "question": "Assess the extent to which executive actions are checked by parliamentary or legislative bodies in the UK and US.",
+   "section": "ukgov | us",
+   "tip": "Compare the UK Prime Minister’s treaty negotiations with the US President’s influence over party politics, using recent news examples."
   }
  },
  "refs": {
+  "fa758c4e46ad": {
+   "id": "fa758c4e46ad",
+   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+   "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-13T01:17:58Z"
+  },
+  "4c72a8432da0": {
+   "id": "4c72a8432da0",
+   "title": "Smart glasses banned from Welsh Parliament after ruling they could be used for speeches",
+   "link": "https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-13T07:33:10Z"
+  },
+  "e3956faa984b": {
+   "id": "e3956faa984b",
+   "title": "Reform tables free speech debate after Senedd boycott",
+   "link": "https://nation.cymru/news/reform-tables-free-speech-debate-after-senedd-boycott/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-12T20:45:41Z"
+  },
+  "98136fe6c5a7": {
+   "id": "98136fe6c5a7",
+   "title": "Welsh Green Party leader describes intense cancer treatment during election",
+   "link": "https://www.bbc.co.uk/news/articles/c91438z7pv6go?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-12T16:29:23Z"
+  },
   "0cc0d27c4c5d": {
    "id": "0cc0d27c4c5d",
    "title": "Trump on Colom's Mississippi Senate win: 'I give him a lot of credit'",
@@ -174,41 +249,14 @@
    "lean": "centre",
    "date": "2026-11-13T01:06:58Z"
   },
-  "6c8eb9d29495": {
-   "id": "6c8eb9d29495",
-   "title": "Alaska judge rules a request by Peltola campaign for ballot data in Senate race is 'not reasonable'",
-   "link": "https://www.pbs.org/newshour/politics/alaska-judge-rules-a-request-by-peltola-campaign-for-ballot-data-in-senate-race-is-not-reasonable",
+  "588ea8faec4c": {
+   "id": "588ea8faec4c",
+   "title": "Cindy Holscher wins election for Kansas governor, extending Democrats' wave of victories",
+   "link": "https://www.pbs.org/newshour/politics/cindy-holscher-wins-election-for-kansas-governor-extending-democrats-wave-of-victories",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-12T20:24:30Z"
-  },
-  "a552fe44f3ca": {
-   "id": "a552fe44f3ca",
-   "title": "Welsh government takes control of controversial Cardiff data centre plan",
-   "link": "https://www.bbc.co.uk/news/articles/cr868lv54ejjo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-12T16:36:01Z"
-  },
-  "607f0ba52dd5": {
-   "id": "607f0ba52dd5",
-   "title": "Why Labour dumped me as MP for Swansea West",
-   "link": "https://nation.cymru/opinion/why-labour-dumped-me-as-mp-for-swansea-west/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-12T20:36:40Z"
-  },
-  "5a2a146e81ee": {
-   "id": "5a2a146e81ee",
-   "title": "Why midterm vote-counting is taking so long in America's largest state",
-   "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-11-13T00:35:05Z"
+   "date": "2026-11-12T23:15:50Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
