@@ -1,168 +1,178 @@
 {
- "generated_at": "2026-11-12T21:50:35Z",
+ "generated_at": "2026-11-13T03:25:04Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms reshape US politics, UK faces devolution disputes",
-  "overview": "US midterm results signal a shift away from Trump-era dominance while UK debates over Welsh devolution and Labour's internal tensions continue. Both arenas illustrate how parties respond to electoral pressures.",
+  "headline": "Midterms, Welsh data centre, and Labour party tensions dominate",
+  "overview": "US midterm results are prompting analysis of Trump’s influence, while Wales wrestles with a data‑centre plan and Labour faces internal disputes over candidate selection. These events illustrate key constitutional and political dynamics in both countries.",
   "stories": [
    {
-    "title": "Mississippi elects first Black senator since Reconstruction",
+    "title": "Trump comments on Mississippi Senate upset",
     "section": "us",
-    "topic": "us-constitution",
-    "what_happened": "Democrat Scott Colom won the Mississippi Senate seat, becoming the state's first Black senator since the 19th century. He secured the seat in a state that Trump carried by 22 points two years ago.",
-    "why_it_matters": "The result shows how demographic change and party strategy can alter representation under the US Constitution's Senate structure. It also highlights the role of minority representation in a historically Republican stronghold.",
+    "topic": "us-parties",
+    "what_happened": "President Donald Trump praised Democrat Scott Colom after his surprise win in the Mississippi Senate race. Trump said he gave Colom credit for attracting Republican voters.",
+    "why_it_matters": "The reaction shows how party leaders can shape narratives after electoral defeats, a point relevant to A‑level study of party politics and electoral strategy. It also highlights the role of personal influence in US party dynamics.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Colom's victory demonstrates progress on racial equality and the effectiveness of Democratic outreach in the South."
+      "text": "Trump’s praise may help the Democratic candidate consolidate support among moderate voters."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the win is an isolated anomaly and warn that national Democratic policies may alienate Southern voters."
+      "text": "Opponents say the comment undermines Republican confidence and signals internal party weakness."
      }
     ],
     "key_term": {
-     "term": "Senate",
-     "definition": "The upper chamber of the US Congress, with two members per state."
+     "term": "Party leadership",
+     "definition": "The individuals who guide a political party’s direction and public image."
     },
-    "exam_use": "Use as evidence of how electoral outcomes can reshape party geography in a constitutional essay on the US Senate.",
+    "exam_use": "Use as evidence of how party leaders influence post‑election narratives in an essay on party politics.",
     "sources": [
-     "e4a5945bc19c"
+     "0cc0d27c4c5d"
     ]
    },
    {
-    "title": "Alaska judge blocks request for absentee ballot data",
+    "title": "Alaska judge blocks ballot‑data request",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "An Alaska judge ruled that a request by Mary Peltola's campaign for a list of rejected absentee ballots was \"not reasonable\". The decision limits the campaign's ability to challenge ballot rejections.",
-    "why_it_matters": "The case illustrates judicial review of election administration, a key check within the US constitutional system. It raises questions about transparency and voter access in close races.",
+    "what_happened": "An Alaska judge ruled that a request by Mary Peltola’s Senate campaign for a list of rejected absentee ballots was unreasonable. The decision limits the campaign’s ability to challenge ballot rejections.",
+    "why_it_matters": "The case illustrates judicial review of electoral processes, linking to the AQA focus on the role of courts in safeguarding elections and voter rights.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The ruling protects voter privacy and prevents misuse of personal data."
+      "label": "From the right",
+      "text": "Some argue the ruling protects election integrity by preventing frivolous challenges."
      },
      {
-      "label": "Critics argue",
-      "text": "Election reform advocates say the decision hampers oversight of potential disenfranchisement."
+      "label": "From the left",
+      "text": "Others claim it restricts transparency and hampers fair scrutiny of vote counts."
      }
     ],
     "key_term": {
      "term": "Judicial review",
-     "definition": "Courts' power to assess the legality of government actions."
+     "definition": "A court’s power to assess the legality of actions by public bodies."
     },
-    "exam_use": "Cite in an essay on the role of the judiciary in US elections.",
+    "exam_use": "Cite as an example of courts influencing electoral administration in a short‑answer question on the judiciary.",
     "sources": [
      "6c8eb9d29495"
     ]
    },
    {
-    "title": "Labour faces internal rebellion over welfare reforms",
+    "title": "Welsh government takes control of Cardiff data centre plan",
     "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "Labour MPs are debating a proposed welfare reform that could trigger a rebellion similar to previous disputes. The issue is being discussed ahead of a key parliamentary session.",
-    "why_it_matters": "It shows how party cohesion in the UK Parliament can affect government stability and policy implementation. The episode links to the AQA focus on party discipline and parliamentary control of the executive.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Labour backbenchers argue the reforms betray the party's social justice commitments."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative critics claim the reforms are a sign of Labour's fiscal irresponsibility."
-     }
-    ],
-    "key_term": {
-     "term": "Party discipline",
-     "definition": "The extent to which party members vote in line with leadership."
-    },
-    "exam_use": "Use as a case study of parliamentary pressure on the executive in a UK Government essay.",
-    "sources": [
-     "5c927cdb18fc"
-    ]
-   },
-   {
-    "title": "Welsh Government takes control of Cardiff data centre plan",
-    "section": "ukpol",
     "topic": "devolution",
-    "what_happened": "The Welsh planning minister approved the controversial data centre project just before a council meeting. The decision bypassed local consultation processes.",
-    "why_it_matters": "The move highlights tensions between devolved authority and local democratic accountability, a key theme in the AQA devolution topic. It also raises questions about the balance of power within the UK.",
+    "what_happened": "The Welsh planning minister intervened to halt a controversial data‑centre proposal in Cardiff, acting before a council meeting could discuss it. The move centralises decision‑making at the devolved level.",
+    "why_it_matters": "The incident shows how devolved administrations can exercise powers over regional development, a key point in the AQA Constitution topic.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Welsh officials say swift action is needed for economic development."
+      "text": "Proponents say the intervention protects local interests and environmental standards."
      },
      {
       "label": "Critics argue",
-      "text": "Local councillors claim the process undermines community participation."
+      "text": "Opponents claim it undermines local democratic processes and council autonomy."
+     },
+     {
+      "label": "From the right",
+      "text": "Right‑leaning commentators warn it sets a precedent for excessive central control."
      }
     ],
     "key_term": {
      "term": "Devolution",
-     "definition": "Transfer of powers from central to regional governments."
+     "definition": "The statutory transfer of powers from the central UK government to regional bodies."
     },
-    "exam_use": "Evidence for an essay on the challenges of devolved governance in the UK.",
+    "exam_use": "Use to illustrate devolution’s impact on regional policy decisions in an essay on the UK constitution.",
     "sources": [
      "a552fe44f3ca"
     ]
    },
    {
-    "title": "Reform UK claims election interference in Caerphilly by‑election",
+    "title": "Labour MP claims party parachuted candidate",
     "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "Reform UK candidate alleged interference in the Caerphilly council by‑election, but police and the council reported no complaints. The claim was made amid heightened scrutiny of election integrity.",
-    "why_it_matters": "The incident illustrates how parties use allegations of interference to shape public perception, linking to the AQA focus on election integrity and party strategy. It also shows the role of pressure groups in framing narratives.",
+    "topic": "parties",
+    "what_happened": "Former MP Geraint Davies alleges Labour prevented his re‑selection for Swansea West and installed a London‑based candidate. He describes the process as unjust.",
+    "why_it_matters": "The claim highlights internal party selection mechanisms and tensions between local branches and central leadership, relevant to the AQA study of political parties.",
     "perspectives": [
      {
-      "label": "From the right",
-      "text": "Reform UK argues the lack of complaints hides systemic vulnerabilities."
+      "label": "From the left",
+      "text": "Labour supporters argue central oversight ensures candidate quality."
      },
      {
-      "label": "From the left",
-      "text": "Opponents say the claim is a political stunt without evidence."
+      "label": "From the right",
+      "text": "Critics say it erodes grassroots democracy within parties."
+     },
+     {
+      "label": "Supporters argue",
+      "text": "Party officials claim the decision was based on strategic electoral considerations."
      }
     ],
     "key_term": {
-     "term": "Election interference",
-     "definition": "Attempts to influence the outcome of an election through illegal or unethical means."
+     "term": "Candidate selection",
+     "definition": "The process by which a party chooses who will stand for election."
     },
-    "exam_use": "Use to discuss how parties frame electoral legitimacy in a UK Politics essay.",
+    "exam_use": "Reference in a comparative essay on party democracy versus central control.",
     "sources": [
-     "ab480eb0821f"
+     "607f0ba52dd5"
+    ]
+   },
+   {
+    "title": "Midterm vote counting delays in Alaska",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Alaska’s Senate race between Dan Sullivan and Mary Peltola remains unresolved as officials take longer to count votes. The delay is due to logistical challenges in remote areas.",
+    "why_it_matters": "The situation exemplifies the complexities of US election administration and the impact of geography on vote tabulation, linking to the AQA elections topic.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Delays ensure accurate results and prevent premature conclusions."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Extended counts can undermine public confidence in the electoral system."
+     }
+    ],
+    "key_term": {
+     "term": "Vote counting",
+     "definition": "The process of tallying ballots to determine election outcomes."
+    },
+    "exam_use": "Use as a case study of electoral administration challenges in a short‑answer question on US elections.",
+    "sources": [
+     "5a2a146e81ee"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK parties face internal disputes and devolution tensions that can affect local election outcomes, as seen in Wales.",
-   "us": "US midterm results and legal battles over ballot data show how national party fortunes shift and courts intervene.",
-   "insight": "The contrast shows the UK’s multi‑level electoral system versus the US’s federal structure, highlighting different checks on party power.",
+   "uk": "UK parties use candidate selection processes that can be overseen by central party structures, as seen in Labour’s Swansea West dispute.",
+   "us": "US elections involve state‑level administration and judicial oversight, illustrated by Alaska’s ballot‑data ruling and vote‑counting delays.",
+   "insight": "The contrast shows the UK’s party‑centric control versus the US’s decentralized, legally contested electoral administration.",
    "sources": [
-    "e4a5945bc19c",
-    "ab480eb0821f"
+    "607f0ba52dd5",
+    "6c8eb9d29495",
+    "5a2a146e81ee"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Colom's historic win reflects liberalism's emphasis on individual rights and equal representation, echoing John Locke's ideas of consent and equality. Liberal thinkers argue that expanding political inclusion strengthens democratic legitimacy.",
+   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in the US judge’s protection of campaign access to ballot data, while the Welsh data‑centre intervention raises questions about balancing economic freedom with community welfare, echoing liberal debates on state intervention.",
    "sources": [
-    "e4a5945bc19c"
+    "6c8eb9d29495",
+    "a552fe44f3ca"
    ]
   },
   "exam_question": {
-   "question": "Assess how recent electoral events in the US and UK illustrate the impact of party strategy on democratic representation.",
-   "section": "ukpol",
-   "tip": "Compare the US Senate win and the Welsh devolution dispute, linking each to party tactics and representation."
+   "question": "Assess the extent to which party structures influence candidate selection in the UK and the US, using recent examples.",
+   "section": "ukpol | us",
+   "tip": "Compare Labour’s Swansea West case with US primary processes, noting the role of central parties versus state parties and legal frameworks."
   }
  },
  "refs": {
-  "e4a5945bc19c": {
-   "id": "e4a5945bc19c",
-   "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-   "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
+  "0cc0d27c4c5d": {
+   "id": "0cc0d27c4c5d",
+   "title": "Trump on Colom's Mississippi Senate win: 'I give him a lot of credit'",
+   "link": "https://thehill.com/homenews/campaign/6217818-trump-praises-colom-mississippi-victory/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-12T12:56:55Z"
+   "date": "2026-11-13T01:06:58Z"
   },
   "6c8eb9d29495": {
    "id": "6c8eb9d29495",
@@ -173,15 +183,6 @@
    "lean": "centre",
    "date": "2026-11-12T20:24:30Z"
   },
-  "5c927cdb18fc": {
-   "id": "5c927cdb18fc",
-   "title": "Are cracks showing in the Burnham project? – podcast",
-   "link": "https://www.theguardian.com/politics/audio/2026/nov/12/are-cracks-showing-in-the-burnham-project-podcast",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-12T16:25:06Z"
-  },
   "a552fe44f3ca": {
    "id": "a552fe44f3ca",
    "title": "Welsh government takes control of controversial Cardiff data centre plan",
@@ -191,14 +192,23 @@
    "lean": "centre",
    "date": "2026-11-12T16:36:01Z"
   },
-  "ab480eb0821f": {
-   "id": "ab480eb0821f",
-   "title": "Reform candidate claims election interference but council and police have received no complaints",
-   "link": "https://nation.cymru/news/reform-candidate-claims-election-interference-but-council-and-police-have-received-no-complaints/",
+  "607f0ba52dd5": {
+   "id": "607f0ba52dd5",
+   "title": "Why Labour dumped me as MP for Swansea West",
+   "link": "https://nation.cymru/opinion/why-labour-dumped-me-as-mp-for-swansea-west/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-12T20:28:17Z"
+   "date": "2026-11-12T20:36:40Z"
+  },
+  "5a2a146e81ee": {
+   "id": "5a2a146e81ee",
+   "title": "Why midterm vote-counting is taking so long in America's largest state",
+   "link": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-11-13T00:35:05Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
