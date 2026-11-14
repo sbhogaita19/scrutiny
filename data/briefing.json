@@ -1,207 +1,189 @@
 {
- "generated_at": "2026-11-13T20:29:17Z",
+ "generated_at": "2026-11-14T12:11:34Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK and US political shifts dominate headlines",
-  "overview": "Britain faces debates over devolution and parliamentary discipline, while the US sees leadership contests in Congress and a Supreme Court case on asylum. Both countries grapple with party dynamics and constitutional questions.",
+  "headline": "Governments grapple with reform, elections and courts",
+  "overview": "Britain’s government is preparing a new electoral‑reform commission while Welsh Labour reviews its recent defeat. In the US, the Supreme Court will hear a challenge to a Trump asylum order. Across both sides of the Atlantic, parties and courts are under pressure.",
   "stories": [
    {
-    "title": "Van Hollen challenges Schumer for Senate Democratic leader",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Senator Chris Van Hollen announced he will run for Senate Majority Leader, setting up a contest with current leader Chuck Schumer. The challenge was made public on 13 November 2026.",
-    "why_it_matters": "The contest illustrates intra‑party leadership competition, a key concept in the AQA study of US parties and Congress. It shows how party leaders are chosen and how leadership can affect legislative agendas.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Van Hollen supporters say fresh leadership could rejuvenate the Democratic agenda after two years of gridlock."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Schumer allies warn that a leadership battle could distract from policy work and weaken party unity."
-     },
-     {
-      "label": "From the right",
-      "text": "Republicans view the contest as an opportunity to exploit Democratic disunity in upcoming elections."
-     }
-    ],
-    "key_term": {
-     "term": "Party leadership contest",
-     "definition": "A competition within a party to select the person who will lead the party's members in a legislative chamber."
-    },
-    "exam_use": "Use as evidence in an essay on how party structures influence policy outcomes in the US Congress.",
-    "sources": [
-     "d4ec9e0c3931"
-    ]
-   },
-   {
-    "title": "Trump administration seeks Supreme Court review of asylum ban",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The Trump administration filed a petition for the Supreme Court to hear a challenge to lower‑court rulings that declared its executive order suspending asylum at the southern border illegal. The case was scheduled for argument later in 2026.",
-    "why_it_matters": "The case highlights the constitutional balance between executive power and judicial review, a core AQA topic on the US Constitution and courts. It also raises civil‑rights issues around asylum seekers.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The administration claims the order is necessary for border security and within presidential authority."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Civil‑rights groups argue the order breaches international law and the Constitution’s due‑process guarantees."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive commentators see the case as part of a broader pattern of executive overreach on immigration."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess whether a law or executive action complies with the constitution."
-    },
-    "exam_use": "Cite in a comparative essay on checks and balances between the US executive and judiciary.",
-    "sources": [
-     "567504dd51c4"
-    ]
-   },
-   {
-    "title": "Burnham promises ‘win‑win’ post‑Brexit trade deal",
+    "title": "Government plans national electoral‑reform commission",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham said a new trade agreement with the EU could deliver outcomes similar to the 2016 Brexit promise. He made the statement on 13 November 2026.",
-    "why_it_matters": "The announcement touches on the UK’s constitutional arrangement of executive power and the role of the Prime Minister in foreign policy, linking to the AQA focus on the constitution and devolution.",
+    "what_happened": "The Prime Minister announced that a high‑profile figure will head a new commission to examine Britain’s voting system. The launch is expected before Christmas.",
+    "why_it_matters": "Electoral reform links to the A‑level topic of the Constitution and the role of the executive in shaping legislation. It shows how the cabinet can use its agenda‑setting power.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑Brexit voters welcome the claim that the deal fulfills the original referendum mandate."
+      "text": "Reform could make elections fairer and increase public confidence in democracy."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn the deal may compromise UK standards and sovereignty."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour critics argue the government is using Brexit rhetoric to distract from domestic issues."
-     }
-    ],
-    "key_term": {
-     "term": "Executive prerogative",
-     "definition": "The powers historically exercised by the Crown, now largely exercised by the Prime Minister and Cabinet."
-    },
-    "exam_use": "Use as evidence when discussing the limits of executive authority in UK foreign affairs.",
-    "sources": [
-     "fa758c4e46ad"
-    ]
-   },
-   {
-    "title": "Welsh Labour reviews Senedd election defeat",
-    "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "Welsh Labour announced a review of its loss in the May 2026 Senedd election, citing a disconnect with voters. The review will be published by the party’s Welsh leader on 13 November 2026.",
-    "why_it_matters": "The story illustrates party accountability and voter behaviour, key themes in the AQA unit on democracy and participation. It also shows devolution’s impact on party strategy.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Labour insiders say the review will help the party reconnect with grassroots concerns."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opposition parties claim Labour’s analysis will be too little, too late to regain trust."
+      "text": "Changing the system may advantage the governing party and undermine stability."
      },
      {
       "label": "From the right",
-      "text": "Welsh Conservatives argue the loss reflects Labour’s outdated policies in Wales."
+      "text": "A new commission respects parliamentary sovereignty by keeping changes within UK institutions."
      }
     ],
     "key_term": {
-     "term": "Electoral review",
-     "definition": "An internal party process that analyses election results to identify strengths and weaknesses."
+     "term": "electoral reform",
+     "definition": "Changes to the rules or systems that determine how votes are translated into seats."
     },
-    "exam_use": "Reference in an essay on how parties adapt after electoral defeat in a devolved legislature.",
+    "exam_use": "Use as evidence in a essay on how the executive can influence the constitution through policy initiatives.",
+    "sources": [
+     "06a5df4a20ea"
+    ]
+   },
+   {
+    "title": "Welsh Labour reviews election defeat",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "Welsh Labour will publish a review of why it lost the Senedd election after 27 years in power. The party says it may have lost touch with voters.",
+    "why_it_matters": "The case illustrates the concept of party accountability and voter behaviour, core to the AQA topic of Parties and Elections.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "The review could help Labour reconnect with progressive voters and rebuild its base."
+     },
+     {
+      "label": "From the right",
+      "text": "Opponents suggest the loss shows Labour’s policies no longer resonate in Wales."
+     },
+     {
+      "label": "Analysts argue",
+      "text": "Electoral defeat often triggers internal reforms and strategic shifts within parties."
+     }
+    ],
+    "key_term": {
+     "term": "party review",
+     "definition": "An internal analysis by a political party of its recent electoral performance."
+    },
+    "exam_use": "Cite when discussing why parties adapt their platforms after losing elections.",
     "sources": [
      "82f95c32882e"
     ]
    },
    {
-    "title": "Smart glasses banned in Welsh Parliament",
-    "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "The Senedd ruled that smart glasses are prohibited during sessions, citing concerns they could be used to deliver unsanctioned speeches. The ban was announced on 13 November 2026.",
-    "why_it_matters": "The decision raises questions about parliamentary procedure and the balance between technology and decorum, linking to the AQA focus on the UK Parliament’s powers and rules.",
+    "title": "Supreme Court to hear Trump asylum order case",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court scheduled arguments on the Trump administration’s executive order that blocks asylum applications at the southern border. The administration asks the Court to overturn lower‑court rulings that declared the order illegal.",
+    "why_it_matters": "The case highlights the US Constitution’s separation of powers and the judiciary’s role in checking executive action, a key idea in the US Politics syllabus.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the ban protects the integrity of parliamentary debate."
+      "text": "The order is a lawful exercise of the President’s immigration powers."
      },
      {
       "label": "Critics argue",
-      "text": "Tech‑liberals argue it stifles innovation and free expression."
+      "text": "Blocking asylum violates international law and the Constitution’s due‑process guarantees."
      },
      {
       "label": "From the left",
-      "text": "Some members view the move as a distraction from more pressing policy issues."
+      "text": "The challenge reflects concerns about human rights and the courts protecting vulnerable groups."
      }
     ],
     "key_term": {
-     "term": "Parliamentary standing order",
-     "definition": "A rule that governs the conduct and procedures of a legislative chamber."
+     "term": "judicial review",
+     "definition": "The process by which courts examine the legality of actions taken by the executive or legislature."
     },
-    "exam_use": "Use to illustrate how procedural rules can evolve with new technology in a UK Parliament essay.",
+    "exam_use": "Use as evidence when analysing the checks and balances between the US executive and judiciary.",
     "sources": [
-     "4c72a8432da0"
+     "567504dd51c4"
+    ]
+   },
+   {
+    "title": "Tories pay artist after legal threat over Burnham portrait",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "The Conservative Party agreed to compensate an artist who threatened legal action after the party used his portrait of Andy Burnham in a political mock‑up. The settlement ends the dispute.",
+    "why_it_matters": "The incident touches on issues of intellectual property and the limits of political satire, linking to the A‑level theme of the Constitution and individual rights.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The payment respects the artist’s copyright and avoids costly litigation."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Paying may set a precedent that discourages political satire."
+     },
+     {
+      "label": "From the right",
+      "text": "The case shows the importance of respecting private property even in political debate."
+     }
+    ],
+    "key_term": {
+     "term": "copyright",
+     "definition": "Legal protection that gives creators exclusive rights to use and profit from their work."
+    },
+    "exam_use": "Reference when discussing how constitutional rights intersect with political expression.",
+    "sources": [
+     "8b005ec70b05"
+    ]
+   },
+   {
+    "title": "Senate Democrats eye oversight of Elon Musk",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Democratic senators plan to use new oversight powers to question Elon Musk’s influence over the federal government during the second Trump presidency. The move follows concerns about corporate lobbying.",
+    "why_it_matters": "The story illustrates party‑based use of congressional oversight, a key element of US political institutions and the balance of power between branches.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Oversight protects democratic accountability and curbs undue corporate influence."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Targeting a private individual may be seen as partisan overreach."
+     },
+     {
+      "label": "From the left",
+      "text": "The action reflects progressive concerns about tech monopolies and wealth concentration."
+     }
+    ],
+    "key_term": {
+     "term": "oversight",
+     "definition": "The authority of a legislative body to monitor and investigate actions of the executive and other entities."
+    },
+    "exam_use": "Use when evaluating how parties use institutional powers to achieve policy goals.",
+    "sources": [
+     "4aebb9b8f399"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK Prime Minister uses executive prerogative to negotiate trade deals, as seen in Burnham’s post‑Brexit promise.",
-   "us": "The US President seeks Supreme Court review of an executive order on asylum, testing the limits of presidential power.",
-   "insight": "Both cases show executives pushing the boundaries of their constitutional authority, but the UK relies on parliamentary support while the US faces judicial checks.",
+   "theme": "courts",
+   "uk": "The UK Supreme Court can strike down government actions that breach human‑rights law, as seen in the asylum case debate, but its power is limited by parliamentary sovereignty.",
+   "us": "The US Supreme Court can invalidate executive orders that conflict with the Constitution, exemplified by the pending Trump asylum case.",
+   "insight": "Both systems use courts to check executive power, yet the UK balances this with parliamentary supremacy while the US relies on a stronger judicial veto.",
    "sources": [
-    "fa758c4e46ad",
-    "567504dd51c4"
+    "567504dd51c4",
+    "8b005ec70b05"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Burnham’s trade‑deal claim reflects liberal ideas of free trade and individual choice, echoing Adam Smith’s market principles. The US asylum case raises liberal concerns about protecting individual rights against state overreach.",
+   "text": "Liberalism stresses individual rights and limited government; the US asylum case raises liberal concerns about due‑process, while the UK electoral‑reform commission reflects liberal ideas of fair representation.",
    "sources": [
-    "fa758c4e46ad",
-    "567504dd51c4"
+    "567504dd51c4",
+    "06a5df4a20ea"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US.",
-   "section": "ukgov | us",
-   "tip": "Compare the UK Prime Minister’s trade negotiations with the US President’s asylum order, focusing on parliamentary oversight and judicial review."
+   "question": "Assess the extent to which courts can limit executive power in the UK and the US, using recent cases as examples.",
+   "section": "ideas",
+   "tip": "Compare the constitutional basis for judicial review in each country and evaluate the political context of the selected cases."
   }
  },
  "refs": {
-  "d4ec9e0c3931": {
-   "id": "d4ec9e0c3931",
-   "title": "Van Hollen to challenge Schumer for Senate Democratic leader",
-   "link": "https://www.pbs.org/newshour/politics/van-hollen-to-challenge-schumer-for-senate-democratic-leader",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "06a5df4a20ea": {
+   "id": "06a5df4a20ea",
+   "title": "Government Eyes High-Profile Figure To Lead Electoral Reform Commission",
+   "link": "https://www.politicshome.com/news/article/government-eyes-high-profile-figure-chair-electoral-reform-commission",
+   "source": "politicshome",
+   "sourceName": "PoliticsHome",
    "lean": "centre",
-   "date": "2026-11-13T14:26:31Z"
-  },
-  "567504dd51c4": {
-   "id": "567504dd51c4",
-   "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
-   "link": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-13T19:16:41Z"
-  },
-  "fa758c4e46ad": {
-   "id": "fa758c4e46ad",
-   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
-   "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-11-13T01:17:58Z"
+   "date": "2026-11-14T06:58:00Z"
   },
   "82f95c32882e": {
    "id": "82f95c32882e",
@@ -212,14 +194,32 @@
    "lean": "centre",
    "date": "2026-11-13T18:44:11Z"
   },
-  "4c72a8432da0": {
-   "id": "4c72a8432da0",
-   "title": "Smart glasses banned from Welsh Parliament after ruling they could be used for speeches",
-   "link": "https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
+  "567504dd51c4": {
+   "id": "567504dd51c4",
+   "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+   "link": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-13T07:33:10Z"
+   "date": "2026-11-13T19:16:41Z"
+  },
+  "8b005ec70b05": {
+   "id": "8b005ec70b05",
+   "title": "Tories agree to pay artist for Burnham image after legal threat",
+   "link": "https://nation.cymru/news/tories-agree-to-pay-artist-for-burnham-image-after-legal-threat/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-14T10:30:09Z"
+  },
+  "4aebb9b8f399": {
+   "id": "4aebb9b8f399",
+   "title": "Senate Democrats prepare to flex new oversight powers against Musk",
+   "link": "https://thehill.com/the-120/6219817-musk-faces-democratic-oversight/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-14T11:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
