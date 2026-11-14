@@ -1,178 +1,178 @@
 {
- "generated_at": "2026-11-14T12:11:34Z",
+ "generated_at": "2026-11-14T18:44:06Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Governments grapple with reform, elections and courts",
-  "overview": "Britain’s government is preparing a new electoral‑reform commission while Welsh Labour reviews its recent defeat. In the US, the Supreme Court will hear a challenge to a Trump asylum order. Across both sides of the Atlantic, parties and courts are under pressure.",
+  "headline": "Governments grapple with reform, courts, and party shifts",
+  "overview": "Britain’s Labour government is moving to set up an electoral‑reform commission while Welsh Labour faces voter backlash. In the US, the Supreme Court will hear a challenge to Trump’s asylum ban and Democrats are gearing up to scrutinise Elon Musk’s influence.",
   "stories": [
    {
-    "title": "Government plans national electoral‑reform commission",
+    "title": "UK government plans electoral‑reform commission",
     "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "The Prime Minister announced that a high‑profile figure will head a new commission to examine Britain’s voting system. The launch is expected before Christmas.",
-    "why_it_matters": "Electoral reform links to the A‑level topic of the Constitution and the role of the executive in shaping legislation. It shows how the cabinet can use its agenda‑setting power.",
+    "topic": "parliament",
+    "what_happened": "The UK government announced it will launch a national commission to consider changes to the voting system within months. The commission is expected to report before Christmas.",
+    "why_it_matters": "Electoral reform touches the constitution and the operation of Parliament, key A‑level topics. It shows how the executive can use its agenda‑setting power to shape legislative change.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Reform could make elections fairer and increase public confidence in democracy."
+      "text": "Proponents say a commission could make elections fairer and increase public confidence."
      },
      {
       "label": "Critics argue",
-      "text": "Changing the system may advantage the governing party and undermine stability."
+      "text": "Opponents warn it may be a partisan move to benefit Labour after recent defeats."
      },
      {
       "label": "From the right",
-      "text": "A new commission respects parliamentary sovereignty by keeping changes within UK institutions."
+      "text": "Conservatives caution that frequent changes could destabilise the electoral system."
      }
     ],
     "key_term": {
      "term": "electoral reform",
-     "definition": "Changes to the rules or systems that determine how votes are translated into seats."
+     "definition": "Changes to the rules governing how votes are translated into seats."
     },
-    "exam_use": "Use as evidence in a essay on how the executive can influence the constitution through policy initiatives.",
+    "exam_use": "Use as evidence in an essay on how the executive can influence constitutional change.",
     "sources": [
      "06a5df4a20ea"
     ]
    },
    {
-    "title": "Welsh Labour reviews election defeat",
+    "title": "Welsh Labour apologises after election loss",
     "section": "ukpol",
     "topic": "elections",
-    "what_happened": "Welsh Labour will publish a review of why it lost the Senedd election after 27 years in power. The party says it may have lost touch with voters.",
-    "why_it_matters": "The case illustrates the concept of party accountability and voter behaviour, core to the AQA topic of Parties and Elections.",
+    "what_happened": "Welsh Labour leader Ken Skates publicly apologised to voters after the party’s historic defeat in the Senedd elections. He admitted the party had focused too much on expanding Senedd powers.",
+    "why_it_matters": "The story illustrates party accountability and voter behaviour, linking to the AQA topics of elections and political parties.",
     "perspectives": [
      {
       "label": "From the left",
-      "text": "The review could help Labour reconnect with progressive voters and rebuild its base."
+      "text": "Party members argue the loss shows a need to reconnect with grassroots concerns."
      },
      {
       "label": "From the right",
-      "text": "Opponents suggest the loss shows Labour’s policies no longer resonate in Wales."
+      "text": "Opposition parties claim Labour’s focus on devolution alienated voters seeking broader UK policies."
      },
      {
-      "label": "Analysts argue",
-      "text": "Electoral defeat often triggers internal reforms and strategic shifts within parties."
+      "label": "Critics argue",
+      "text": "Some analysts suggest the defeat reflects wider dissatisfaction with Labour’s national leadership."
      }
     ],
     "key_term": {
-     "term": "party review",
-     "definition": "An internal analysis by a political party of its recent electoral performance."
+     "term": "accountability",
+     "definition": "The requirement that elected officials answer to voters for their actions."
     },
-    "exam_use": "Cite when discussing why parties adapt their platforms after losing elections.",
+    "exam_use": "Cite as evidence when discussing how parties respond to electoral defeat.",
     "sources": [
      "82f95c32882e"
     ]
    },
    {
-    "title": "Supreme Court to hear Trump asylum order case",
+    "title": "US Supreme Court to hear Trump asylum order case",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "The US Supreme Court scheduled arguments on the Trump administration’s executive order that blocks asylum applications at the southern border. The administration asks the Court to overturn lower‑court rulings that declared the order illegal.",
-    "why_it_matters": "The case highlights the US Constitution’s separation of powers and the judiciary’s role in checking executive action, a key idea in the US Politics syllabus.",
+    "what_happened": "The US Supreme Court agreed to review the Trump administration’s executive order that blocks asylum applications at the southern border. The administration seeks to overturn lower‑court rulings that declared the order illegal.",
+    "why_it_matters": "The case highlights the judiciary’s role in checking executive power, a core part of the US Constitution syllabus.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The order is a lawful exercise of the President’s immigration powers."
+      "text": "The administration says the order is necessary for border security."
      },
      {
       "label": "Critics argue",
-      "text": "Blocking asylum violates international law and the Constitution’s due‑process guarantees."
+      "text": "Civil‑rights groups contend it violates international law and refugees’ rights."
      },
      {
       "label": "From the left",
-      "text": "The challenge reflects concerns about human rights and the courts protecting vulnerable groups."
+      "text": "Progressives view the challenge as a test of the courts protecting vulnerable migrants."
      }
     ],
     "key_term": {
      "term": "judicial review",
-     "definition": "The process by which courts examine the legality of actions taken by the executive or legislature."
+     "definition": "The power of courts to assess the legality of government actions."
     },
-    "exam_use": "Use as evidence when analysing the checks and balances between the US executive and judiciary.",
+    "exam_use": "Use to illustrate judicial checks on executive authority in a constitutional essay.",
     "sources": [
      "567504dd51c4"
     ]
    },
    {
-    "title": "Tories pay artist after legal threat over Burnham portrait",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "The Conservative Party agreed to compensate an artist who threatened legal action after the party used his portrait of Andy Burnham in a political mock‑up. The settlement ends the dispute.",
-    "why_it_matters": "The incident touches on issues of intellectual property and the limits of political satire, linking to the A‑level theme of the Constitution and individual rights.",
+    "title": "Alaska voters keep ranked‑choice voting",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Alaska voters rejected a proposal to repeal the state’s ranked‑choice voting and top‑four primary system for the second time, maintaining the system first approved in 2020.",
+    "why_it_matters": "The story provides a case study of electoral system design and voter preferences, relevant to the US elections and direct‑democracy topics.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The payment respects the artist’s copyright and avoids costly litigation."
+      "text": "Proponents say the system gives voters more choice and reduces partisan extremes."
      },
      {
       "label": "Critics argue",
-      "text": "Paying may set a precedent that discourages political satire."
+      "text": "Opponents claim it is confusing and can produce unintended outcomes."
      },
      {
       "label": "From the right",
-      "text": "The case shows the importance of respecting private property even in political debate."
+      "text": "Conservative groups worry it disadvantages traditional party candidates."
      }
     ],
     "key_term": {
-     "term": "copyright",
-     "definition": "Legal protection that gives creators exclusive rights to use and profit from their work."
+     "term": "ranked‑choice voting",
+     "definition": "An electoral system where voters rank candidates by preference."
     },
-    "exam_use": "Reference when discussing how constitutional rights intersect with political expression.",
+    "exam_use": "Reference when comparing different electoral systems in a comparative politics essay.",
     "sources": [
-     "8b005ec70b05"
+     "6722fc2091ca"
     ]
    },
    {
-    "title": "Senate Democrats eye oversight of Elon Musk",
+    "title": "Senate Democrats plan oversight of Elon Musk",
     "section": "us",
     "topic": "us-parties",
-    "what_happened": "Democratic senators plan to use new oversight powers to question Elon Musk’s influence over the federal government during the second Trump presidency. The move follows concerns about corporate lobbying.",
-    "why_it_matters": "The story illustrates party‑based use of congressional oversight, a key element of US political institutions and the balance of power between branches.",
+    "what_happened": "Democratic senators announced they will use new oversight powers to investigate Elon Musk’s influence over federal policy during the second Trump presidency. The move follows several high‑profile controversies.",
+    "why_it_matters": "The episode shows how parties use institutional powers to check the executive and private interests, linking to AQA themes of party politics and checks and balances.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Oversight protects democratic accountability and curbs undue corporate influence."
+      "text": "Democrats say oversight is essential to protect democratic integrity."
      },
      {
       "label": "Critics argue",
-      "text": "Targeting a private individual may be seen as partisan overreach."
+      "text": "Republicans claim the investigations are partisan attacks."
      },
      {
       "label": "From the left",
-      "text": "The action reflects progressive concerns about tech monopolies and wealth concentration."
+      "text": "Progressives view it as a necessary challenge to corporate power in politics."
      }
     ],
     "key_term": {
      "term": "oversight",
-     "definition": "The authority of a legislative body to monitor and investigate actions of the executive and other entities."
+     "definition": "The process by which legislative bodies monitor and review executive actions."
     },
-    "exam_use": "Use when evaluating how parties use institutional powers to achieve policy goals.",
+    "exam_use": "Use as evidence of party strategies to exert legislative control over the executive.",
     "sources": [
      "4aebb9b8f399"
     ]
    }
   ],
   "compare": {
-   "theme": "courts",
-   "uk": "The UK Supreme Court can strike down government actions that breach human‑rights law, as seen in the asylum case debate, but its power is limited by parliamentary sovereignty.",
-   "us": "The US Supreme Court can invalidate executive orders that conflict with the Constitution, exemplified by the pending Trump asylum case.",
-   "insight": "Both systems use courts to check executive power, yet the UK balances this with parliamentary supremacy while the US relies on a stronger judicial veto.",
+   "theme": "constitutions",
+   "uk": "The UK government’s move to set up an electoral‑reform commission shows how constitutional change can be initiated by the executive without a single written constitution.",
+   "us": "The US Supreme Court’s review of the asylum ban demonstrates how a written constitution empowers the judiciary to limit executive actions.",
+   "insight": "The contrast highlights the UK’s flexible, uncodified constitution versus the US’s rigid, written constitution that gives courts a stronger formal role.",
    "sources": [
-    "567504dd51c4",
-    "8b005ec70b05"
+    "06a5df4a20ea",
+    "567504dd51c4"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Liberalism stresses individual rights and limited government; the US asylum case raises liberal concerns about due‑process, while the UK electoral‑reform commission reflects liberal ideas of fair representation.",
+   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in the US asylum case, where courts protect refugees’ freedoms, and in the UK’s electoral‑reform push, which seeks to enhance voter choice. Thinkers such as John Locke argue that government must be accountable to protect liberty.",
    "sources": [
     "567504dd51c4",
     "06a5df4a20ea"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which courts can limit executive power in the UK and the US, using recent cases as examples.",
-   "section": "ideas",
-   "tip": "Compare the constitutional basis for judicial review in each country and evaluate the political context of the selected cases."
+   "question": "Assess the extent to which institutional checks on executive power differ between the UK and the US, using recent examples.",
+   "section": "ukgov | us",
+   "tip": "Compare the UK’s executive‑led electoral‑reform commission with the US Supreme Court’s review of the asylum order, focusing on the role of written versus uncodified constitutions."
   }
  },
  "refs": {
@@ -187,12 +187,12 @@
   },
   "82f95c32882e": {
    "id": "82f95c32882e",
-   "title": "Labour lost its connection with voters, says Welsh leader",
+   "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
    "link": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
    "source": "bbcwales",
    "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-11-13T18:44:11Z"
+   "date": "2026-11-14T14:56:05Z"
   },
   "567504dd51c4": {
    "id": "567504dd51c4",
@@ -203,14 +203,14 @@
    "lean": "centre",
    "date": "2026-11-13T19:16:41Z"
   },
-  "8b005ec70b05": {
-   "id": "8b005ec70b05",
-   "title": "Tories agree to pay artist for Burnham image after legal threat",
-   "link": "https://nation.cymru/news/tories-agree-to-pay-artist-for-burnham-image-after-legal-threat/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "6722fc2091ca": {
+   "id": "6722fc2091ca",
+   "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
+   "source": "npr",
+   "sourceName": "NPR",
    "lean": "centre-left",
-   "date": "2026-11-14T10:30:09Z"
+   "date": "2026-11-14T13:08:05Z"
   },
   "4aebb9b8f399": {
    "id": "4aebb9b8f399",
