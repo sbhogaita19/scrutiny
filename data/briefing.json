@@ -1,207 +1,195 @@
 {
- "generated_at": "2026-11-15T02:39:32Z",
+ "generated_at": "2026-11-15T12:44:13Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Parliamentary reforms, US court case and election shocks dominate",
-  "overview": "The UK government is weighing a change to the age of consent, Welsh Labour faces criticism after a defeat, and US courts will hear a challenge to a Trump asylum order. Meanwhile, Alaska voters again rejected changes to their primary system.",
+  "headline": "Midterms reshape US Congress as Wales grapples with devolution",
+  "overview": "Democrats have taken control of both houses of the US Congress after the November midterms, while Welsh Labour faces criticism over its devolution agenda following a historic defeat. Both events highlight how electoral outcomes can shift policy priorities.",
   "stories": [
    {
-    "title": "Government to review age of consent",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Deputy Prime Minister announced the government will consider changing the age of consent following allegations involving a public figure. The proposal is described as a \"massive step\" that will be scrutinised.",
-    "why_it_matters": "The issue tests the executive's role in shaping social policy and illustrates ministerial responsibility. It also raises questions about the balance between parliamentary scrutiny and ministerial discretion.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Changing the age could better protect young people and reflect modern social values."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents warn it may criminalise consensual relationships and over‑reach executive power."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives stress the need for clear, stable legislation rather than political experimentation."
-     }
-    ],
-    "key_term": {
-     "term": "Ministerial discretion",
-     "definition": "The ability of a minister to make decisions within the scope of their authority without needing prior parliamentary approval."
-    },
-    "exam_use": "Use as evidence in an essay on the executive’s policy‑making powers and limits of ministerial discretion.",
-    "sources": [
-     "5430714d670a"
-    ]
-   },
-   {
-    "title": "Welsh Labour criticised after election loss",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Welsh Labour leader acknowledged the party lost focus on devolution after a historic defeat. Party members blamed an over‑emphasis on Senedd powers for alienating voters.",
-    "why_it_matters": "The case highlights intra‑party debate over strategy and the role of devolution in party identity, linking to the A‑level topic of political parties and their adaptation.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Labour activists argue the party should refocus on social justice issues rather than constitutional reforms."
-     },
-     {
-      "label": "From the right",
-      "text": "Opposition parties claim Labour’s devolution focus shows a disconnect from everyday concerns."
-     },
-     {
-      "label": "Supporters argue",
-      "text": "Some members believe emphasizing local power is essential for a distinct Welsh agenda."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional bodies such as the Scottish Parliament or Senedd."
-    },
-    "exam_use": "Cite when discussing how parties adjust policy to electoral feedback in a political parties essay.",
-    "sources": [
-     "b1113657379f"
-    ]
-   },
-   {
-    "title": "Supreme Court to hear Trump asylum order challenge",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The US Supreme Court agreed to review the Trump administration’s executive order that blocks asylum applications at the southern border. The administration seeks to overturn lower‑court rulings that deemed the order illegal.",
-    "why_it_matters": "The case tests the limits of executive power versus judicial review, a core theme in US constitutional studies and the A‑level focus on the courts.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The administration says the order protects national security and immigration control."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Civil‑rights groups contend it violates international law and constitutional protections."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressives view the challenge as a fight for humanitarian obligations."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "The process by which courts examine the legality of actions taken by the executive or legislature."
-    },
-    "exam_use": "Use as evidence in an essay on the separation of powers and judicial review in the US system.",
-    "sources": [
-     "567504dd51c4"
-    ]
-   },
-   {
-    "title": "Alaska voters reject primary system repeal",
+    "title": "Alaska voters keep open primaries and ranked voting",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Alaska voters voted against a ballot measure that would have ended the state’s open primary and ranked‑choice voting system. This is the second rejection in two years.",
-    "why_it_matters": "The result illustrates voter attitudes toward electoral reform and the durability of alternative voting methods, linking to the A‑level topic of elections and voting systems.",
+    "what_happened": "In the Nov 3 election, Alaska voters rejected a ballot measure that would have repealed the state's open primary and ranked‑choice voting system. This marks the second defeat of such a repeal in two years.",
+    "why_it_matters": "The result shows voter support for electoral reforms that aim to increase voter choice, a key issue in A‑level US politics when studying the impact of electoral systems. It also illustrates how direct democracy mechanisms can shape election law.",
     "perspectives": [
      {
-      "label": "Supporters of reform argue",
-      "text": "Open primaries and ranked voting increase voter choice and reduce partisanship."
+      "label": "Supporters argue",
+      "text": "Proponents say open primaries and ranked voting reduce partisanship and give voters more influence over outcomes."
      },
      {
-      "label": "Opponents argue",
-      "text": "Critics claim the system confuses voters and undermines party cohesion."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators warn that ranked voting can dilute traditional party platforms."
+      "label": "Critics argue",
+      "text": "Opponents claim the system is confusing and can lead to less decisive results, favouring third‑party candidates."
      }
     ],
     "key_term": {
-     "term": "Ranked‑choice voting",
-     "definition": "An electoral system where voters rank candidates by preference, and votes are redistributed until one reaches a majority."
+     "term": "ranked‑choice voting",
+     "definition": "A voting system where voters rank candidates by preference, and votes are redistributed until one reaches a majority."
     },
-    "exam_use": "Reference when comparing different electoral systems in a comparative elections essay.",
+    "exam_use": "Use as evidence of how electoral reforms can affect party competition in an essay on the advantages and disadvantages of different voting systems.",
     "sources": [
      "d6e773fd4b41"
     ]
    },
    {
-    "title": "Florida city cancels St Patrick’s Day parade over DEI law",
-    "section": "ideas",
-    "topic": "multiculturalism",
-    "what_happened": "Delray Beach, Florida, cancelled its St Patrick’s Day parade after a state law prohibited public funding for diversity, equity and inclusion initiatives. The parade had run for nearly 60 years.",
-    "why_it_matters": "The incident shows how multicultural policies can clash with legislative restrictions, relevant to the study of political ideas and the tension between cultural expression and legal frameworks.",
+    "title": "Democrat Jonathan Kreiss‑Tomkins elected Alaska governor",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Jonathan Kreiss‑Tomkins became the first Democrat elected governor of Alaska since 1998. His win adds to a broader pattern of Democratic gains in traditionally Republican states.",
+    "why_it_matters": "The victory illustrates shifting party alignments, a core topic in the A‑level study of US parties and electoral change. It also shows how state elections can influence national party strategies.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Proponents of the law say it prevents government endorsement of specific cultural agendas."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents claim it suppresses cultural diversity and community traditions."
-     },
-     {
       "label": "From the left",
-      "text": "Progressives view the cancellation as an attack on multiculturalism."
+      "text": "Democrats view the win as evidence that progressive policies are resonating in the West."
+     },
+     {
+      "label": "From the right",
+      "text": "Republicans warn that the result may be a temporary backlash rather than a lasting shift."
      }
     ],
     "key_term": {
-     "term": "Multiculturalism",
-     "definition": "A political ideology that promotes the recognition and accommodation of diverse cultural groups within a society."
+     "term": "party realignment",
+     "definition": "A significant, lasting change in the political system where voter loyalties shift from one party to another."
     },
-    "exam_use": "Use as a case study when discussing the impact of political ideas on public policy.",
+    "exam_use": "Cite as a recent example of party realignment in an essay on the dynamics of US party systems.",
     "sources": [
-     "a5bcef2fd5a2"
+     "74340488d93f"
+    ]
+   },
+   {
+    "title": "Welsh Labour under pressure over devolution promises",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Welsh Labour leader Ken Skates reaffirmed the party’s commitment to greater Senedd powers, denying that it had abandoned calls for devolving the crown estate and policing. The party also faced criticism for focusing too much on powers rather than services.",
+    "why_it_matters": "Devolution is a key component of the UK Government specification, illustrating how parties balance constitutional change with electoral appeal. The story shows internal party debate over policy priorities.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Labour supporters say expanding Senedd powers strengthens Welsh self‑government and democratic accountability."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents claim the focus on powers distracts from delivering public services and may alienate voters."
+     },
+     {
+      "label": "From the right",
+      "text": "Welsh Conservatives argue that further devolution creates unnecessary complexity and costs."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from the central UK government to regional bodies such as the Senedd."
+    },
+    "exam_use": "Use to discuss the political challenges of devolution in an essay on the UK constitution and regional governance.",
+    "sources": [
+     "bd6c09d5351a",
+     "82f95c32882e"
+    ]
+   },
+   {
+    "title": "Welsh Labour blamed for election defeat",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "After a historic loss, Welsh Labour leader Ken Skates apologized, saying the party had focused too much on Senedd powers and angered voters. The defeat ended 27 years of Labour rule in Wales.",
+    "why_it_matters": "The episode highlights the link between party strategy, voter behaviour and electoral outcomes, a central theme in the UK Politics specification on elections and participation.",
+    "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Labour insiders argue the loss reflects a broader national swing rather than policy failures."
+     },
+     {
+      "label": "From the right",
+      "text": "Opposition parties claim the defeat proves voters reject Labour’s devolution‑focused agenda."
+     }
+    ],
+    "key_term": {
+     "term": "electoral accountability",
+     "definition": "The principle that elected officials must answer to voters for their performance, especially at elections."
+    },
+    "exam_use": "Reference as a case study of how policy focus can impact electoral success in a comparative essay on party performance.",
+    "sources": [
+     "0806e0855b8c",
+     "82f95c32882e"
+    ]
+   },
+   {
+    "title": "Work and Pensions Secretary backs legal right to youth job support",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "The Work and Pensions Secretary said current youth job‑support schemes were too vague and advocated for a legally enforceable right to such support. The proposal aims to clarify eligibility and funding.",
+    "why_it_matters": "The move touches on the role of the cabinet in policy development and the use of legislation to secure social rights, linking to the UK Government study of the executive and welfare state reforms.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Advocates say a legal right ensures consistent support for young people entering the labour market."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Fiscal conservatives warn it could increase public spending and create bureaucratic burdens."
+     }
+    ],
+    "key_term": {
+     "term": "social right",
+     "definition": "A legally protected entitlement to a specific form of social welfare or service."
+    },
+    "exam_use": "Use as evidence when evaluating the effectiveness of executive action in expanding welfare provisions.",
+    "sources": [
+     "ffb362cc5584"
+    ]
+   },
+   {
+    "title": "Crypto industry braces for Democratic Congress scrutiny",
+    "section": "us",
+    "topic": "congress",
+    "what_happened": "With Democrats controlling both the House and Senate, the cryptocurrency sector anticipates increased investigations and possible regulation. Industry leaders express concern over legislative uncertainty.",
+    "why_it_matters": "The story illustrates how changes in congressional composition affect regulatory policy, a key area in the US Politics specification on the role of Congress and interest groups.",
+    "perspectives": [
+     {
+      "label": "Industry perspective",
+      "text": "Crypto firms argue that heavy regulation could stifle innovation and competitiveness."
+     },
+     {
+      "label": "Democratic perspective",
+      "text": "Lawmakers claim stricter oversight is needed to protect consumers and prevent fraud."
+     },
+     {
+      "label": "Libertarian perspective",
+      "text": "Some critics view congressional action as an overreach that threatens financial freedom."
+     }
+    ],
+    "key_term": {
+     "term": "regulatory oversight",
+     "definition": "The monitoring and enforcement actions taken by government bodies to ensure compliance with laws."
+    },
+    "exam_use": "Cite when discussing how congressional majorities influence policy outcomes in an essay on US legislative power.",
+    "sources": [
+     "7ef6d55da566"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "Welsh Labour’s loss prompted internal debate over devolution strategy, showing how party positioning can affect electoral outcomes.",
-   "us": "Alaska voters twice rejected changes to their primary system, indicating voter resistance to altering established voting methods.",
-   "insight": "Both cases illustrate that electoral reforms or strategic shifts must align with voter preferences, highlighting the importance of public opinion in shaping party and system changes.",
+   "uk": "Welsh Labour’s loss after focusing on devolution powers shows how party strategy can affect voter support in a regional election.",
+   "us": "Democratic gains in the 2026 midterms illustrate how national swings can reshape congressional control.",
+   "insight": "Both cases demonstrate that electoral outcomes are shaped by party positioning and broader political trends, highlighting the importance of strategy and public sentiment.",
    "sources": [
-    "b1113657379f",
-    "d6e773fd4b41"
+    "0806e0855b8c",
+    "7412e1c6108b"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The US Supreme Court asylum case reflects liberalism’s emphasis on individual rights and the rule of law, echoing thinkers like John Locke who argued for protection of life and liberty against arbitrary state power.",
+   "text": "Alaska’s retention of open primaries reflects liberal ideas of individual choice and political competition, echoing John Stuart Mill’s emphasis on diverse opinions. The move aligns with liberal arguments for minimizing state interference in electoral processes.",
    "sources": [
-    "567504dd51c4"
+    "d6e773fd4b41"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive actions can be constrained by judicial review in the United States and the United Kingdom.",
-   "section": "ideas",
-   "tip": "Compare the US Supreme Court asylum case with the UK government’s proposed age‑of‑consent change, focusing on the role of courts and parliamentary scrutiny."
+   "question": "Assess the extent to which electoral reforms can influence party performance in the UK and US, using recent examples.",
+   "section": "ukpol | us",
+   "tip": "Structure your answer by comparing the impact of ranked‑choice voting in Alaska with Welsh Labour’s devolution focus, linking each to party success or failure."
   }
  },
  "refs": {
-  "5430714d670a": {
-   "id": "5430714d670a",
-   "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-   "link": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-15T00:17:14Z"
-  },
-  "b1113657379f": {
-   "id": "b1113657379f",
-   "title": "Burnham suggests Welsh Labour lost sight of devolution as review criticises ex-first minister's strategy",
-   "link": "https://www.bbc.co.uk/news/articles/cmgj340w6g8yo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-14T16:12:38Z"
-  },
-  "567504dd51c4": {
-   "id": "567504dd51c4",
-   "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
-   "link": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-13T19:16:41Z"
-  },
   "d6e773fd4b41": {
    "id": "d6e773fd4b41",
    "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
@@ -211,14 +199,68 @@
    "lean": "centre",
    "date": "2026-11-14T18:43:07Z"
   },
-  "a5bcef2fd5a2": {
-   "id": "a5bcef2fd5a2",
-   "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-   "source": "npr",
-   "sourceName": "NPR",
+  "74340488d93f": {
+   "id": "74340488d93f",
+   "title": "Jonathan Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+   "link": "https://www.pbs.org/newshour/politics/jonathan-kreiss-tomkins-becomes-first-democrat-since-1998-elected-governor-in-alaska",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-14T16:38:34Z"
+  },
+  "bd6c09d5351a": {
+   "id": "bd6c09d5351a",
+   "title": "Welsh Labour still committed to demands for more Senedd powers, says Skates",
+   "link": "https://www.bbc.co.uk/news/articles/crz9dx0jje7zo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-15T12:15:17Z"
+  },
+  "82f95c32882e": {
+   "id": "82f95c32882e",
+   "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
+   "link": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-14T14:56:05Z"
+  },
+  "0806e0855b8c": {
+   "id": "0806e0855b8c",
+   "title": "Labour angered voters before election defeat, Welsh leader tells conference",
+   "link": "https://nation.cymru/news/devolution-not-about-more-powers-for-politicians-says-welsh-labour-leader/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-15T00:03:52Z"
+   "date": "2026-11-14T17:03:53Z"
+  },
+  "ffb362cc5584": {
+   "id": "ffb362cc5584",
+   "title": "Minister backs legal right to job support for young people",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-15T11:51:19Z"
+  },
+  "7ef6d55da566": {
+   "id": "7ef6d55da566",
+   "title": "Crypto was hoping for a breakthrough in Congress. Now it's bracing for investigations",
+   "link": "https://thehill.com/policy/technology/6219609-democrats-congress-control-crypto/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-15T11:00:00Z"
+  },
+  "7412e1c6108b": {
+   "id": "7412e1c6108b",
+   "title": "Democrats bullish on South after historic midterms gains",
+   "link": "https://thehill.com/homenews/campaign/6219610-south-democrats-strategy-midterm-wins/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-15T11:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
