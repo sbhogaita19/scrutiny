@@ -1,245 +1,282 @@
 {
- "generated_at": "2026-11-16T13:38:47Z",
+ "generated_at": "2026-11-16T23:44:38Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK debates Brexit benefits as US midterms reshape Congress",
-  "overview": "The UK prime minister will claim Brexit has failed ahead of an EU summit, while the US sees a Democratic surge after the midterms and legal battles over a Trump‑linked development. Both sides face pressure from parties and interest groups.",
+  "headline": "Midterms reshape US Congress as UK debates post‑Brexit ties",
+  "overview": "US midterm elections have given Democrats control of more state legislatures and sparked leadership challenges in the Senate. In the UK the prime minister warns Brexit has harmed the economy while ministers plan to replace a US tech contract in the NHS.",
   "stories": [
    {
-    "title": "Burnham says Brexit ‘has not worked’",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham will argue that the UK’s post‑Brexit arrangement has delivered fewer benefits than expected and will propose a new deal with the EU. The speech is scheduled for Monday ahead of an EU summit.",
-    "why_it_matters": "The claim touches on the constitutional role of the executive in foreign policy and the political debate over devolution of powers to the EU. It also illustrates how the government frames policy success to the electorate.",
+    "title": "Democrats gain state legislature majorities",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Democrats secured majorities in several state legislatures after the recent midterm elections. The wins increase pressure on the party to deliver policy results at both state and national levels.",
+    "why_it_matters": "The result illustrates how electoral outcomes affect policy implementation, a key point in the AQA unit on US elections and direct democracy. It also shows the role of state governments in the federal system.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s supporters say a revised EU deal could boost GDP by 0.4% and restore trade benefits."
+      "text": "The victories confirm public demand for Democratic policies on health, climate and voting rights."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn that renegotiating may undermine sovereignty and delay Brexit reforms."
+      "text": "Opponents warn that rapid Democratic control could lead to over‑reach and higher taxes."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators claim the speech admits a failure of the Brexit project."
+      "text": "Conservatives caution that the shift may undermine fiscal restraint."
      }
     ],
     "key_term": {
-     "term": "executive prerogative",
-     "definition": "The powers the Prime Minister and Cabinet have to act without parliamentary approval in certain areas."
+     "term": "midterm elections",
+     "definition": "US elections held halfway through a president's four‑year term, often reshaping Congress."
     },
-    "exam_use": "Use as evidence in an essay on the executive’s role in shaping foreign policy and its political limits.",
+    "exam_use": "Use as evidence in an essay on how electoral cycles influence policy agendas in the US.",
     "sources": [
-     "bca39723b925",
-     "4b39e7f903c2"
+     "cfa699ed04a8"
     ]
    },
    {
-    "title": "AI minister opens Hay Festival",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "The UK’s first dedicated Minister for Artificial Intelligence will open the Hay Festival Winter Weekend with a discussion on AI’s future. The event highlights the new ministerial post.",
-    "why_it_matters": "Creates a case study of how the executive creates new departments to address emerging policy areas, linking to the constitutional principle of ministerial responsibility.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Tech advocates say the role shows proactive governance on innovation."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Skeptics worry the post may duplicate existing digital ministries."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour voices question whether AI regulation will protect workers."
-     }
-    ],
-    "key_term": {
-     "term": "ministerial responsibility",
-     "definition": "The duty of ministers to answer to Parliament for their department’s actions."
-    },
-    "exam_use": "Cite when discussing how new policy challenges lead to changes in the structure of government.",
-    "sources": [
-     "c2dc68ea7adb"
-    ]
-   },
-   {
-    "title": "Rewilding charity launches match‑funding appeal",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "A rewilding charity announced a £20,000 match‑funding campaign to restore 1,200 acres in the Cambrian Mountains. Donations will be doubled by a corporate partner.",
-    "why_it_matters": "Illustrates how pressure groups mobilise public support and funding to influence environmental policy, a key aspect of interest‑group politics.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Environmentalists claim the scheme will boost biodiversity and rural economies."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Local landowners worry increased rewilding could restrict farming activities."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative voices caution against public‑private partnerships that may bypass parliamentary scrutiny."
-     }
-    ],
-    "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
-    },
-    "exam_use": "Use as a contemporary example when evaluating the impact of interest groups on policy making.",
-    "sources": [
-     "2fa23554535e"
-    ]
-   },
-   {
-    "title": "Democrats gain after US midterm rout",
+    "title": "Senate Democratic leader faces challenge",
     "section": "us",
     "topic": "us-parties",
-    "what_happened": "The 2026 midterm elections resulted in a significant Democratic gain in the House, reshaping the balance of power ahead of a potential shutdown. The outcome also sparked internal GOP debates over leadership.",
-    "why_it_matters": "Shows how electoral outcomes affect party dynamics and legislative agendas, linking to the US Constitution’s separation of powers.",
+    "what_happened": "Senator Chuck Schumer faces a leadership challenge from Senator Chris Van Hollen after the Democrats' strong midterm performance. The contest reflects internal party dynamics following electoral gains.",
+    "why_it_matters": "Leadership contests illustrate party cohesion and the balance of power within Congress, relevant to the AQA study of US parties and their structures. It also shows how electoral success can trigger leadership ambition.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats say the win reflects public rejection of the President’s policies."
+      "text": "A new leader could inject fresh energy and better represent progressive voters."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the results are a temporary backlash and warn of over‑reach."
+      "text": "Changing leadership may destabilise the party's legislative agenda."
      },
      {
       "label": "From the left",
-      "text": "Progressives argue the gains will enable more ambitious reforms."
+      "text": "Progressives view Van Hollen as more aligned with their policy goals."
      }
     ],
     "key_term": {
-     "term": "majority party",
-     "definition": "The political party that holds the most seats in a legislative chamber."
+     "term": "leadership challenge",
+     "definition": "A contest within a party to replace its current leader."
     },
-    "exam_use": "Reference when discussing how party control influences legislative priorities in the US Congress.",
+    "exam_use": "Cite in an essay on party organization and internal competition in US politics.",
     "sources": [
-     "ba6cc7fa9afd",
-     "f90a77275da3"
+     "79b14787c764"
     ]
    },
    {
-    "title": "Trump attacks court halt to golf project",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "Former President Donald Trump condemned a judge’s two‑week injunction that stopped work on his Washington golf development and announced plans to appeal. He described the court as “in a terrible state of disrepair”.",
-    "why_it_matters": "Highlights tensions between the executive and judiciary, a core feature of the US constitutional system of checks and balances.",
+    "title": "UK PM says Brexit has harmed the economy",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Burnham told the Lord Mayor's Banquet that Brexit has not delivered the promised benefits and has left the UK more isolated. He described Brexit as the first domino in a global move toward protectionism.",
+    "why_it_matters": "The statement links to the AQA topic on the executive and its policy agenda, showing how the prime minister frames foreign‑policy outcomes. It also connects to the study of the UK's constitutional arrangements and devolution, as economic impacts affect devolved administrations.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s base view the injunction as political interference with private property rights."
+      "text": "Pro‑EU voices say Burnham’s admission validates calls for closer EU ties."
      },
      {
       "label": "Critics argue",
-      "text": "Legal analysts say the judge acted within judicial authority to enforce environmental regulations."
+      "text": "Brexit supporters claim the comment ignores benefits such as regulatory freedom."
      },
      {
       "label": "From the right",
-      "text": "Conservatives warn the decision reflects judicial activism."
+      "text": "Conservatives warn the speech may fuel calls for a second referendum."
      }
     ],
     "key_term": {
-     "term": "judicial review",
-     "definition": "The power of courts to assess the legality of legislative and executive actions."
+     "term": "Brexit",
+     "definition": "The UK's withdrawal from the European Union, completed in 2020."
     },
-    "exam_use": "Use as a case study of judicial review in an essay on the separation of powers.",
+    "exam_use": "Use as evidence when evaluating the impact of executive statements on public policy debates.",
     "sources": [
-     "a2d31dc81769"
+     "4b39e7f903c2",
+     "4680bccd9082"
+    ]
+   },
+   {
+    "title": "NHS to end Palantir contract by 2029",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "The Department of Health and Social Care announced it will terminate its contract with US tech firm Palantir in 2029, extending it for two years to allow British firms to take over. The move follows criticism of Palantir’s data‑handling practices.",
+    "why_it_matters": "This illustrates ministerial decision‑making and the role of the executive in public‑sector procurement, a key AQA focus on the UK constitution and the cabinet. It also raises questions about devolution of health policy to England.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Replacing Palantir protects patient data and supports UK tech industry."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The extension delays needed reforms and may waste public money."
+     },
+     {
+      "label": "From the left",
+      "text": "Labour groups see the move as a step toward greater public control of health data."
+     }
+    ],
+    "key_term": {
+     "term": "public procurement",
+     "definition": "The process by which government bodies purchase goods and services."
+    },
+    "exam_use": "Reference in an essay on executive power and accountability in the UK government.",
+    "sources": [
+     "6ed8ff198f2a"
+    ]
+   },
+   {
+    "title": "Plaid Cymru seeks first Welsh budget deal",
+    "section": "ukpol",
+    "topic": "devolution",
+    "what_happened": "Plaid Cymru entered negotiations with other parties to secure its first share of the Welsh government budget for the upcoming financial year. The finance minister will present a £30 billion spending plan.",
+    "why_it_matters": "The story highlights the operation of devolved legislatures and party politics in Wales, linking to the AQA topics of devolution and political parties. It shows how coalition‑building affects policy outcomes at the sub‑national level.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Plaid sees the deal as a step toward greater Welsh autonomy."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Unionist parties warn it could fragment fiscal responsibility."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive groups welcome the focus on public spending for social services."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The transfer of powers from the central UK government to regional bodies."
+    },
+    "exam_use": "Use as a case study of how devolved parties negotiate budgets within a parliamentary system.",
+    "sources": [
+     "23960d995d64"
+    ]
+   },
+   {
+    "title": "SCOTUS declines review of DEI and gun‑ban cases",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court denied certiorari in several cases, including a dispute over university DEI policies and a challenge to gun bans in sensitive places. The Court thus left lower‑court rulings in place.",
+    "why_it_matters": "The decision demonstrates judicial restraint and the Court’s role in constitutional interpretation, central to the AQA unit on US courts and the Constitution. It also touches on civil‑rights issues.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Conservatives view the refusals as a win for limited judicial activism."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Progressives say the Court missed an opportunity to protect civil‑rights protections."
+     },
+     {
+      "label": "From the right",
+      "text": "Libertarians argue the Court should stay out of policy disputes altogether."
+     }
+    ],
+    "key_term": {
+     "term": "certiorari",
+     "definition": "A Supreme Court order to review a lower‑court decision."
+    },
+    "exam_use": "Cite when discussing the balance of power between the judiciary and legislature in the US.",
+    "sources": [
+     "8713a48e3c95"
     ]
    }
   ],
   "compare": {
-   "theme": "courts",
-   "uk": "UK courts interpret statutes and can strike down secondary legislation, but do not have the power of judicial review over primary legislation.",
-   "us": "US courts can invalidate both federal statutes and executive actions through judicial review, as seen in Trump’s challenge to the injunction.",
-   "insight": "The contrast shows a stronger check on legislative power in the US, reflecting a more robust separation of powers.",
+   "theme": "executives",
+   "uk": "The UK prime minister publicly critiques Brexit and directs ministerial policy on NHS contracts, showing executive influence over both foreign and domestic agendas.",
+   "us": "US presidents influence policy through memos requiring agency approval before congressional testimony, reflecting executive control over the bureaucracy.",
+   "insight": "The contrast shows the UK’s parliamentary executive is directly accountable to Parliament, while the US executive operates through administrative directives within a separation of powers system.",
    "sources": [
-    "a2d31dc81769",
-    "c2dc68ea7adb"
+    "e135f3f56587",
+    "4b39e7f903c2"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Burnham’s proposal for a new EU deal reflects liberal ideas of cooperation and free trade championed by thinkers like Adam Smith, while the US midterm shift illustrates liberal emphasis on representative government and civil rights.",
+   "text": "The US midterm gains for Democrats and the UK prime minister’s call for closer EU ties both echo liberal ideas of individual rights, free trade and multilateral cooperation, echoing thinkers such as John Locke and John Stuart Mill.",
    "sources": [
-    "bca39723b925",
-    "ba6cc7fa9afd"
+    "cfa699ed04a8",
+    "4680bccd9082"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the executive can shape foreign policy in the UK and the US, using recent examples.",
+   "question": "Evaluate the extent to which recent electoral outcomes have shaped executive policy decisions in the United Kingdom and the United States.",
    "section": "ukgov | us",
-   "tip": "Compare Burnham’s EU deal proposal with the US President’s influence over judicial appointments and policy direction."
+   "tip": "Compare the UK prime minister’s Brexit remarks with US congressional leadership changes and discuss how each executive responded to electoral pressures."
   }
  },
  "refs": {
-  "bca39723b925": {
-   "id": "bca39723b925",
-   "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
-   "link": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-16T07:00:38Z"
+  "cfa699ed04a8": {
+   "id": "cfa699ed04a8",
+   "title": "Democrats’ midterm wave reached state legislatures. That brings pressure to deliver.",
+   "link": "https://www.csmonitor.com/USA/Politics/2026/1116/democrats-midterms-state-legislatures?icid=rss",
+   "source": "csm",
+   "sourceName": "Christian Science Monitor",
+   "lean": "centre",
+   "date": "2026-11-16T18:46:00Z"
+  },
+  "79b14787c764": {
+   "id": "79b14787c764",
+   "title": "Whip List: Schumer faces challenge from Van Hollen for Senate Democratic leader",
+   "link": "https://thehill.com/homenews/senate/6223162-whip-schumer-van-hollen-leadership-race/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-16T23:33:00Z"
   },
   "4b39e7f903c2": {
    "id": "4b39e7f903c2",
-   "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+   "title": "UK lost more than it gained from Brexit, Burnham says ahead of EU summit",
    "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
    "source": "bbc",
    "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-11-16T11:27:53Z"
+   "date": "2026-11-16T22:10:26Z"
   },
-  "c2dc68ea7adb": {
-   "id": "c2dc68ea7adb",
-   "title": "UK’s first AI minister to open Hay Festival Winter Weekend",
-   "link": "https://nation.cymru/news/uks-first-ai-minister-to-open-hay-festival-winter-weekend/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-16T12:01:45Z"
-  },
-  "2fa23554535e": {
-   "id": "2fa23554535e",
-   "title": "Rewilding charity launches £20,000 match-funding appeal",
-   "link": "https://nation.cymru/news/rewilding-charity-launches-20000-match-funding-appeal/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-16T12:43:15Z"
-  },
-  "ba6cc7fa9afd": {
-   "id": "ba6cc7fa9afd",
-   "title": "A blue wave, Trump’s Iran demands, and a leadership fight are rattling shutdown talks",
-   "link": "https://thehill.com/homenews/house/6219857-democrats-clash-funding-iran/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "4680bccd9082": {
+   "id": "4680bccd9082",
+   "title": "Brexit diminished us, Burnham says as he tees up closer EU ties",
+   "link": "https://www.politico.eu/article/andy-burnham-brexit-diminished-britain-pushes-closer-eu-ties-lord-mayors-speech/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
    "lean": "centre",
-   "date": "2026-11-16T11:00:00Z"
+   "date": "2026-11-16T22:48:21Z"
   },
-  "f90a77275da3": {
-   "id": "f90a77275da3",
-   "title": "Democrats’ majority is bigger — and far more fragile — than it looks",
-   "link": "https://thehill.com/opinion/campaign/6219512-democrats-narrower-mandate/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "6ed8ff198f2a": {
+   "id": "6ed8ff198f2a",
+   "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+   "link": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-16T19:59:31Z"
+  },
+  "23960d995d64": {
+   "id": "23960d995d64",
+   "title": "Plaid Cymru seeks deal to secure its first Welsh government budget",
+   "link": "https://www.bbc.co.uk/news/articles/crgqx1vleyv0o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-11-16T13:30:00Z"
+   "date": "2026-11-16T22:56:17Z"
   },
-  "a2d31dc81769": {
-   "id": "a2d31dc81769",
-   "title": "Trump blasts judge's 2-week halt to his Washington golf project and says administration will appeal",
-   "link": "https://www.pbs.org/newshour/politics/trump-blasts-judges-2-week-halt-to-his-washington-golf-project-and-says-administration-will-appeal",
+  "8713a48e3c95": {
+   "id": "8713a48e3c95",
+   "title": "Supreme Court turns down DEI-related disputes and Second Amendment challenge to gun bans in “sensitive places”",
+   "link": "https://www.scotusblog.com/2026/11/supreme-court-turns-down-dei-related-disputes-and-second-amendment-challenge-to-gun-bans-in-sens/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-11-16T18:30:00Z"
+  },
+  "e135f3f56587": {
+   "id": "e135f3f56587",
+   "title": "Read the full White House memo requiring agencies to get approval before testifying in front of Congress",
+   "link": "https://www.pbs.org/newshour/politics/read-the-full-white-house-memo-requiring-agencies-to-get-approval-before-testifying-in-front-of-congress",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-15T17:39:22Z"
+   "date": "2026-11-16T21:00:32Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
