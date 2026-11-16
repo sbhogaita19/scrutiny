@@ -1,180 +1,190 @@
 {
- "generated_at": "2026-11-15T19:22:21Z",
+ "generated_at": "2026-11-16T01:01:36Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Parliamentary rebellion, devolution talks and US court clash dominate headlines",
-  "overview": "Labour MPs are organising a large rebellion over the Rosebank oilfield plan, while Welsh Labour defends its devolution agenda. In the US, former President Trump attacks a judge’s order halting his golf project.",
+  "headline": "Brexit reset, US court clash and party rebellions dominate politics",
+  "overview": "Britain’s prime minister says the current Brexit deal has failed and outlines a new EU strategy. In the US, former president Trump attacks a judge’s order halting his golf project, while internal party disputes surface on both sides of the Atlantic.",
   "stories": [
    {
-    "title": "Labour MPs threaten mass rebellion over Rosebank oilfield",
+    "title": "PM calls for Brexit reset ahead of EU summit",
     "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "A letter opposing the Rosebank oilfield plan has been signed by 75 Labour MPs, with expectations that up to 100 may join. The rebellion reflects growing dissent within the party over energy policy and Europe‑related reforms.",
-    "why_it_matters": "The episode illustrates parliamentary dissent and the role of backbenchers in shaping government policy, a key concept in the AQA Constitution and Parliament unit. It also highlights the tension between party leadership and individual MPs.",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Andy Burnham announced that the Brexit arrangement ‘has not worked’ and set conditions for a new UK‑EU deal. The speech precedes a summit with EU leaders later this week.",
+    "why_it_matters": "The issue links to the A‑level study of the executive’s role in shaping foreign policy and constitutional change. It also illustrates how the cabinet can drive policy shifts within the uncodified constitution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Backbenchers say the plan breaches climate commitments and should be scrapped."
+      "text": "Burnham’s reset could restore economic ties and give the UK more influence in European regulation."
      },
      {
       "label": "Critics argue",
-      "text": "Party leaders warn the rebellion could destabilise the government’s agenda."
+      "text": "Opponents warn the new deal may compromise sovereignty and repeat past negotiation failures."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators see the reset as a pragmatic correction to a flawed Brexit."
+     }
+    ],
+    "key_term": {
+     "term": "Executive",
+     "definition": "The branch of government headed by the prime minister that implements laws and conducts foreign policy."
+    },
+    "exam_use": "Use as evidence of how the executive can initiate constitutional change in an essay on the UK’s uncodified constitution.",
+    "sources": [
+     "d3b90e91c871"
+    ]
+   },
+   {
+    "title": "Labour MPs rebel over Rosebank oilfield plans",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "At least 75 Labour MPs signed a letter opposing the government’s Rosebank oilfield development, with expectations that up to 100 may join. The rebellion reflects wider discontent over Europe and welfare reforms.",
+    "why_it_matters": "Shows intra‑party dissent, a key concept in the study of political parties and parliamentary democracy. Highlights how backbenchers can influence policy decisions.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The rebellion protects environmental standards and challenges unchecked fossil‑fuel expansion."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Proponents claim the project secures jobs and energy security for the UK."
      },
      {
       "label": "From the left",
-      "text": "Labour’s left wing views the oilfield as a betrayal of progressive environmental goals."
+      "text": "Labour’s left wing sees the move as a stand for climate justice."
      }
     ],
     "key_term": {
      "term": "Backbench rebellion",
-     "definition": "When a large group of MPs not in the government opposes the party line."
+     "definition": "When MPs not holding ministerial office collectively oppose their party leadership."
     },
-    "exam_use": "Use as evidence of intra‑party conflict in an essay on parliamentary sovereignty and party discipline.",
+    "exam_use": "Cite as evidence of party cohesion challenges in an essay on the UK party system.",
     "sources": [
      "2089f2fd368a"
     ]
    },
    {
-    "title": "Welsh Labour reaffirms push for greater Senedd powers",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "Ken Skates said Welsh Labour remains committed to expanding the Senedd’s powers over the crown estate and policing. The statement follows criticism that the party has neglected devolution promises.",
-    "why_it_matters": "Devolution is a core topic in the AQA Democracy & Participation unit, showing how regional parties negotiate authority within the UK. It also links to debates on the balance of power between Westminster and devolved bodies.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Advocates claim more powers will improve local accountability."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents warn it could create policy fragmentation across the UK."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives caution against weakening the central state."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central government to regional bodies."
-    },
-    "exam_use": "Cite when discussing the advantages and challenges of devolution in a comparative essay on UK governance.",
-    "sources": [
-     "bd6c09d5351a"
-    ]
-   },
-   {
-    "title": "Trump attacks judge’s order halting Washington golf project",
+    "title": "Trump attacks judge’s halt to golf project",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "Former President Donald Trump condemned a judge’s two‑week injunction that stopped work on his Washington golf course, saying the court is in “disrepair”. He announced the administration will appeal the decision.",
-    "why_it_matters": "The case highlights the US judiciary’s power to check executive actions, a key point in the AQA Constitution unit. It also raises questions about judicial independence and political influence.",
+    "what_happened": "Former President Donald Trump criticised a judge who ordered a two‑week suspension of his Washington golf development, calling the court’s condition ‘terrible’. He said his administration will appeal the decision.",
+    "why_it_matters": "Illustrates the tension between the executive and the judiciary, a core theme in the US Constitution study. Highlights judicial review and executive responses.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s base sees the injunction as partisan overreach."
+      "text": "Trump’s supporters view the halt as political bias against him."
      },
      {
       "label": "Critics argue",
-      "text": "Legal experts stress the need for courts to enforce environmental and planning laws."
+      "text": "Legal analysts say the judge is enforcing environmental and zoning laws."
      },
      {
       "label": "From the left",
-      "text": "Progressives view the challenge as a test of judicial independence against political pressure."
+      "text": "Progressive voices see the appeal as an attempt to sidestep accountability."
      }
     ],
     "key_term": {
      "term": "Judicial review",
-     "definition": "A court’s power to assess the legality of executive actions."
+     "definition": "The power of courts to assess the legality of executive actions."
     },
-    "exam_use": "Use as a contemporary example of checks and balances in a US Constitution essay.",
+    "exam_use": "Use to discuss checks and balances in a US Constitution essay.",
     "sources": [
      "a2d31dc81769"
     ]
    },
    {
-    "title": "Alaska voters reject repeal of open primaries and ranked voting",
+    "title": "Alaska voters reject changes to primary system",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "In the November 3 election, Alaskans voted against a measure to eliminate open primaries and ranked‑choice voting, marking the second rejection of such reforms in two years. The existing system remains in place.",
-    "why_it_matters": "The story illustrates how electoral systems can be contested and changed through direct democracy, relevant to the AQA Elections & Direct Democracy unit. It also shows voter attitudes toward electoral reform.",
+    "what_happened": "In the November 3 election, Alaskans voted against a measure to repeal open primaries and ranked‑choice voting, keeping the current system intact for a second time in two years.",
+    "why_it_matters": "Relevant to the study of US electoral systems and direct democracy. Shows voter attitudes toward electoral reform.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents of the measure said ranked voting would increase fairness."
+      "text": "Proponents of the repeal say open primaries dilute party identity."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claimed the current system works and reforms are unnecessary."
+      "text": "Opponents claim the current system encourages broader participation and reduces partisanship."
      },
      {
-      "label": "From the right",
-      "text": "Conservatives often defend existing primary structures as stable."
+      "label": "From the centre",
+      "text": "Analysts note the repeated rejections reflect satisfaction with existing voting methods."
      }
     ],
     "key_term": {
-     "term": "Ranked‑choice voting",
-     "definition": "An electoral system where voters rank candidates by preference."
+     "term": "Open primary",
+     "definition": "A primary election in which voters are not required to be affiliated with a political party."
     },
-    "exam_use": "Reference when discussing the impact of electoral system design on party competition.",
+    "exam_use": "Reference when comparing US primary structures in an essay on electoral reforms.",
     "sources": [
      "d6e773fd4b41"
     ]
    },
    {
-    "title": "Reform UK loses support to Labour after leadership change",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "MP Danny Kruger said Reform UK is losing voters to Labour following Andy Burnham’s rise as a more plausible leader. The party faces a “difficult year” amid shifting voter loyalties.",
-    "why_it_matters": "Party dynamics and leadership influence are central to the AQA Political Parties topic. The shift illustrates how leadership perception can affect party fortunes.",
+    "title": "Welsh Labour reaffirms devolution demands",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Welsh Labour politician Ken Skates said the party remains committed to expanding Senedd powers, including control over the crown estate and policing. This follows criticism that Labour had abandoned these promises.",
+    "why_it_matters": "Connects to the A‑level focus on devolution and the distribution of powers within the UK constitution. Highlights party positioning on regional authority.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Reform UK supporters claim the party still offers a distinct alternative."
+      "text": "Devolution advocates see the pledge as a step toward greater Welsh self‑government."
      },
      {
       "label": "Critics argue",
-      "text": "Analysts suggest Labour’s centrist appeal is drawing voters away."
+      "text": "Skeptics warn that further devolution could fragment UK governance."
      },
      {
       "label": "From the left",
-      "text": "Labour’s left wing worries the party may move too far centre."
+      "text": "Labour’s left wing views it as fulfilling progressive decentralisation."
      }
     ],
     "key_term": {
-     "term": "Party realignment",
-     "definition": "A significant shift in the composition of party support among voters."
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the central UK government to regional bodies."
     },
-    "exam_use": "Use as evidence of how leadership changes can trigger party realignment in a UK politics essay.",
+    "exam_use": "Use as evidence of how parties influence constitutional change in a devolution essay.",
     "sources": [
-     "305032683978"
+     "bd6c09d5351a"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK parliamentary elections use a first‑past‑the‑post system, favouring major parties and often producing single‑party governments.",
-   "us": "US elections include primary systems and ranked‑choice voting in some states, allowing more voter choice and influencing party strategies.",
-   "insight": "The contrast shows how electoral rules shape party competition and representation in each country.",
+   "theme": "executives",
+   "uk": "The UK prime minister is using a major speech to propose a new EU relationship, showing executive leadership in foreign policy without a written constitution.",
+   "us": "Former US president Trump publicly attacks a judicial decision, illustrating executive opposition to the judiciary within a codified constitutional framework.",
+   "insight": "The contrast shows how executive power is exercised differently: the UK relies on political persuasion and parliamentary support, while the US features formal checks by an independent judiciary.",
    "sources": [
-    "2089f2fd368a",
-    "d6e773fd4b41"
+    "d3b90e91c871",
+    "a2d31dc81769"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Trump’s criticism of the judge reflects a conservative emphasis on limited government and suspicion of judicial activism, echoing ideas from Edmund Burke about preserving traditional institutions.",
+   "ideology": "liberalism",
+   "text": "Burnham’s Brexit reset reflects liberal ideas of free trade and individual economic liberty, echoing Adam Smith’s market principles. Conversely, the US court clash raises liberal concerns about protecting individual rights against governmental overreach.",
    "sources": [
+    "d3b90e91c871",
     "a2d31dc81769"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which internal party dissent can influence government policy in the UK and the US.",
+   "question": "Assess the extent to which executive actions can shape constitutional change in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Compare the Labour rebellion over Rosebank with the US judicial challenge to Trump’s project, focusing on party discipline and checks on executive power."
+   "tip": "Compare the UK prime minister’s policy speech with the US president’s challenge to a judicial ruling, using specific examples."
   }
  },
  "refs": {
+  "d3b90e91c871": {
+   "id": "d3b90e91c871",
+   "title": "PM to say 'Brexit hasn't worked' and set out conditions for future EU deal in major speech",
+   "link": "https://news.sky.com/story/pm-to-say-brexit-hasnt-worked-and-set-out-conditions-for-future-eu-deal-in-major-speech-13612600",
+   "source": "sky",
+   "sourceName": "Sky News",
+   "lean": "centre",
+   "date": "2026-11-15T21:33:00Z"
+  },
   "2089f2fd368a": {
    "id": "2089f2fd368a",
    "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
@@ -183,15 +193,6 @@
    "sourceName": "The Guardian",
    "lean": "centre-left",
    "date": "2026-11-15T18:35:10Z"
-  },
-  "bd6c09d5351a": {
-   "id": "bd6c09d5351a",
-   "title": "Welsh Labour still committed to demands for more Senedd powers, says Skates",
-   "link": "https://www.bbc.co.uk/news/articles/crz9dx0jje7zo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-15T12:15:17Z"
   },
   "a2d31dc81769": {
    "id": "a2d31dc81769",
@@ -211,14 +212,14 @@
    "lean": "centre",
    "date": "2026-11-14T18:43:07Z"
   },
-  "305032683978": {
-   "id": "305032683978",
-   "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
-   "link": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-15T11:53:01Z"
+  "bd6c09d5351a": {
+   "id": "bd6c09d5351a",
+   "title": "Welsh Labour still committed to demands for more Senedd powers, says Skates",
+   "link": "https://www.bbc.co.uk/news/articles/crz9dx0jje7zo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-15T12:15:17Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
