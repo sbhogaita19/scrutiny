@@ -1,198 +1,236 @@
 {
- "generated_at": "2026-11-16T01:01:36Z",
+ "generated_at": "2026-11-16T13:38:47Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Brexit reset, US court clash and party rebellions dominate politics",
-  "overview": "Britain’s prime minister says the current Brexit deal has failed and outlines a new EU strategy. In the US, former president Trump attacks a judge’s order halting his golf project, while internal party disputes surface on both sides of the Atlantic.",
+  "headline": "UK debates Brexit benefits as US midterms reshape Congress",
+  "overview": "The UK prime minister will claim Brexit has failed ahead of an EU summit, while the US sees a Democratic surge after the midterms and legal battles over a Trump‑linked development. Both sides face pressure from parties and interest groups.",
   "stories": [
    {
-    "title": "PM calls for Brexit reset ahead of EU summit",
+    "title": "Burnham says Brexit ‘has not worked’",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham announced that the Brexit arrangement ‘has not worked’ and set conditions for a new UK‑EU deal. The speech precedes a summit with EU leaders later this week.",
-    "why_it_matters": "The issue links to the A‑level study of the executive’s role in shaping foreign policy and constitutional change. It also illustrates how the cabinet can drive policy shifts within the uncodified constitution.",
+    "what_happened": "Prime Minister Andy Burnham will argue that the UK’s post‑Brexit arrangement has delivered fewer benefits than expected and will propose a new deal with the EU. The speech is scheduled for Monday ahead of an EU summit.",
+    "why_it_matters": "The claim touches on the constitutional role of the executive in foreign policy and the political debate over devolution of powers to the EU. It also illustrates how the government frames policy success to the electorate.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s reset could restore economic ties and give the UK more influence in European regulation."
+      "text": "Burnham’s supporters say a revised EU deal could boost GDP by 0.4% and restore trade benefits."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn the new deal may compromise sovereignty and repeat past negotiation failures."
+      "text": "Opponents warn that renegotiating may undermine sovereignty and delay Brexit reforms."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators see the reset as a pragmatic correction to a flawed Brexit."
+      "text": "Conservative commentators claim the speech admits a failure of the Brexit project."
      }
     ],
     "key_term": {
-     "term": "Executive",
-     "definition": "The branch of government headed by the prime minister that implements laws and conducts foreign policy."
+     "term": "executive prerogative",
+     "definition": "The powers the Prime Minister and Cabinet have to act without parliamentary approval in certain areas."
     },
-    "exam_use": "Use as evidence of how the executive can initiate constitutional change in an essay on the UK’s uncodified constitution.",
+    "exam_use": "Use as evidence in an essay on the executive’s role in shaping foreign policy and its political limits.",
     "sources": [
-     "d3b90e91c871"
+     "bca39723b925",
+     "4b39e7f903c2"
     ]
    },
    {
-    "title": "Labour MPs rebel over Rosebank oilfield plans",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "At least 75 Labour MPs signed a letter opposing the government’s Rosebank oilfield development, with expectations that up to 100 may join. The rebellion reflects wider discontent over Europe and welfare reforms.",
-    "why_it_matters": "Shows intra‑party dissent, a key concept in the study of political parties and parliamentary democracy. Highlights how backbenchers can influence policy decisions.",
+    "title": "AI minister opens Hay Festival",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "The UK’s first dedicated Minister for Artificial Intelligence will open the Hay Festival Winter Weekend with a discussion on AI’s future. The event highlights the new ministerial post.",
+    "why_it_matters": "Creates a case study of how the executive creates new departments to address emerging policy areas, linking to the constitutional principle of ministerial responsibility.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The rebellion protects environmental standards and challenges unchecked fossil‑fuel expansion."
+      "text": "Tech advocates say the role shows proactive governance on innovation."
      },
      {
       "label": "Critics argue",
-      "text": "Proponents claim the project secures jobs and energy security for the UK."
+      "text": "Skeptics worry the post may duplicate existing digital ministries."
      },
      {
       "label": "From the left",
-      "text": "Labour’s left wing sees the move as a stand for climate justice."
+      "text": "Labour voices question whether AI regulation will protect workers."
      }
     ],
     "key_term": {
-     "term": "Backbench rebellion",
-     "definition": "When MPs not holding ministerial office collectively oppose their party leadership."
+     "term": "ministerial responsibility",
+     "definition": "The duty of ministers to answer to Parliament for their department’s actions."
     },
-    "exam_use": "Cite as evidence of party cohesion challenges in an essay on the UK party system.",
+    "exam_use": "Cite when discussing how new policy challenges lead to changes in the structure of government.",
     "sources": [
-     "2089f2fd368a"
+     "c2dc68ea7adb"
     ]
    },
    {
-    "title": "Trump attacks judge’s halt to golf project",
+    "title": "Rewilding charity launches match‑funding appeal",
+    "section": "ukpol",
+    "topic": "pressure",
+    "what_happened": "A rewilding charity announced a £20,000 match‑funding campaign to restore 1,200 acres in the Cambrian Mountains. Donations will be doubled by a corporate partner.",
+    "why_it_matters": "Illustrates how pressure groups mobilise public support and funding to influence environmental policy, a key aspect of interest‑group politics.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Environmentalists claim the scheme will boost biodiversity and rural economies."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Local landowners worry increased rewilding could restrict farming activities."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative voices caution against public‑private partnerships that may bypass parliamentary scrutiny."
+     }
+    ],
+    "key_term": {
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
+    },
+    "exam_use": "Use as a contemporary example when evaluating the impact of interest groups on policy making.",
+    "sources": [
+     "2fa23554535e"
+    ]
+   },
+   {
+    "title": "Democrats gain after US midterm rout",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "The 2026 midterm elections resulted in a significant Democratic gain in the House, reshaping the balance of power ahead of a potential shutdown. The outcome also sparked internal GOP debates over leadership.",
+    "why_it_matters": "Shows how electoral outcomes affect party dynamics and legislative agendas, linking to the US Constitution’s separation of powers.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Democrats say the win reflects public rejection of the President’s policies."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Republicans claim the results are a temporary backlash and warn of over‑reach."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressives argue the gains will enable more ambitious reforms."
+     }
+    ],
+    "key_term": {
+     "term": "majority party",
+     "definition": "The political party that holds the most seats in a legislative chamber."
+    },
+    "exam_use": "Reference when discussing how party control influences legislative priorities in the US Congress.",
+    "sources": [
+     "ba6cc7fa9afd",
+     "f90a77275da3"
+    ]
+   },
+   {
+    "title": "Trump attacks court halt to golf project",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "Former President Donald Trump criticised a judge who ordered a two‑week suspension of his Washington golf development, calling the court’s condition ‘terrible’. He said his administration will appeal the decision.",
-    "why_it_matters": "Illustrates the tension between the executive and the judiciary, a core theme in the US Constitution study. Highlights judicial review and executive responses.",
+    "what_happened": "Former President Donald Trump condemned a judge’s two‑week injunction that stopped work on his Washington golf development and announced plans to appeal. He described the court as “in a terrible state of disrepair”.",
+    "why_it_matters": "Highlights tensions between the executive and judiciary, a core feature of the US constitutional system of checks and balances.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump’s supporters view the halt as political bias against him."
+      "text": "Trump’s base view the injunction as political interference with private property rights."
      },
      {
       "label": "Critics argue",
-      "text": "Legal analysts say the judge is enforcing environmental and zoning laws."
+      "text": "Legal analysts say the judge acted within judicial authority to enforce environmental regulations."
      },
      {
-      "label": "From the left",
-      "text": "Progressive voices see the appeal as an attempt to sidestep accountability."
+      "label": "From the right",
+      "text": "Conservatives warn the decision reflects judicial activism."
      }
     ],
     "key_term": {
-     "term": "Judicial review",
-     "definition": "The power of courts to assess the legality of executive actions."
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of legislative and executive actions."
     },
-    "exam_use": "Use to discuss checks and balances in a US Constitution essay.",
+    "exam_use": "Use as a case study of judicial review in an essay on the separation of powers.",
     "sources": [
      "a2d31dc81769"
-    ]
-   },
-   {
-    "title": "Alaska voters reject changes to primary system",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "In the November 3 election, Alaskans voted against a measure to repeal open primaries and ranked‑choice voting, keeping the current system intact for a second time in two years.",
-    "why_it_matters": "Relevant to the study of US electoral systems and direct democracy. Shows voter attitudes toward electoral reform.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Proponents of the repeal say open primaries dilute party identity."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents claim the current system encourages broader participation and reduces partisanship."
-     },
-     {
-      "label": "From the centre",
-      "text": "Analysts note the repeated rejections reflect satisfaction with existing voting methods."
-     }
-    ],
-    "key_term": {
-     "term": "Open primary",
-     "definition": "A primary election in which voters are not required to be affiliated with a political party."
-    },
-    "exam_use": "Reference when comparing US primary structures in an essay on electoral reforms.",
-    "sources": [
-     "d6e773fd4b41"
-    ]
-   },
-   {
-    "title": "Welsh Labour reaffirms devolution demands",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Welsh Labour politician Ken Skates said the party remains committed to expanding Senedd powers, including control over the crown estate and policing. This follows criticism that Labour had abandoned these promises.",
-    "why_it_matters": "Connects to the A‑level focus on devolution and the distribution of powers within the UK constitution. Highlights party positioning on regional authority.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Devolution advocates see the pledge as a step toward greater Welsh self‑government."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Skeptics warn that further devolution could fragment UK governance."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour’s left wing views it as fulfilling progressive decentralisation."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional bodies."
-    },
-    "exam_use": "Use as evidence of how parties influence constitutional change in a devolution essay.",
-    "sources": [
-     "bd6c09d5351a"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK prime minister is using a major speech to propose a new EU relationship, showing executive leadership in foreign policy without a written constitution.",
-   "us": "Former US president Trump publicly attacks a judicial decision, illustrating executive opposition to the judiciary within a codified constitutional framework.",
-   "insight": "The contrast shows how executive power is exercised differently: the UK relies on political persuasion and parliamentary support, while the US features formal checks by an independent judiciary.",
+   "theme": "courts",
+   "uk": "UK courts interpret statutes and can strike down secondary legislation, but do not have the power of judicial review over primary legislation.",
+   "us": "US courts can invalidate both federal statutes and executive actions through judicial review, as seen in Trump’s challenge to the injunction.",
+   "insight": "The contrast shows a stronger check on legislative power in the US, reflecting a more robust separation of powers.",
    "sources": [
-    "d3b90e91c871",
-    "a2d31dc81769"
+    "a2d31dc81769",
+    "c2dc68ea7adb"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Burnham’s Brexit reset reflects liberal ideas of free trade and individual economic liberty, echoing Adam Smith’s market principles. Conversely, the US court clash raises liberal concerns about protecting individual rights against governmental overreach.",
+   "text": "Burnham’s proposal for a new EU deal reflects liberal ideas of cooperation and free trade championed by thinkers like Adam Smith, while the US midterm shift illustrates liberal emphasis on representative government and civil rights.",
    "sources": [
-    "d3b90e91c871",
-    "a2d31dc81769"
+    "bca39723b925",
+    "ba6cc7fa9afd"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive actions can shape constitutional change in the UK and the US.",
+   "question": "Assess the extent to which the executive can shape foreign policy in the UK and the US, using recent examples.",
    "section": "ukgov | us",
-   "tip": "Compare the UK prime minister’s policy speech with the US president’s challenge to a judicial ruling, using specific examples."
+   "tip": "Compare Burnham’s EU deal proposal with the US President’s influence over judicial appointments and policy direction."
   }
  },
  "refs": {
-  "d3b90e91c871": {
-   "id": "d3b90e91c871",
-   "title": "PM to say 'Brexit hasn't worked' and set out conditions for future EU deal in major speech",
-   "link": "https://news.sky.com/story/pm-to-say-brexit-hasnt-worked-and-set-out-conditions-for-future-eu-deal-in-major-speech-13612600",
-   "source": "sky",
-   "sourceName": "Sky News",
-   "lean": "centre",
-   "date": "2026-11-15T21:33:00Z"
-  },
-  "2089f2fd368a": {
-   "id": "2089f2fd368a",
-   "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-   "link": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
+  "bca39723b925": {
+   "id": "bca39723b925",
+   "title": "Andy Burnham to say Brexit ‘has not worked’ and he will sign new deal with EU",
+   "link": "https://www.theguardian.com/politics/2026/nov/16/andy-burnham-brexit-has-not-worked-sign-new-deal-with-eu",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-15T18:35:10Z"
+   "date": "2026-11-16T07:00:38Z"
+  },
+  "4b39e7f903c2": {
+   "id": "4b39e7f903c2",
+   "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+   "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-16T11:27:53Z"
+  },
+  "c2dc68ea7adb": {
+   "id": "c2dc68ea7adb",
+   "title": "UK’s first AI minister to open Hay Festival Winter Weekend",
+   "link": "https://nation.cymru/news/uks-first-ai-minister-to-open-hay-festival-winter-weekend/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-16T12:01:45Z"
+  },
+  "2fa23554535e": {
+   "id": "2fa23554535e",
+   "title": "Rewilding charity launches £20,000 match-funding appeal",
+   "link": "https://nation.cymru/news/rewilding-charity-launches-20000-match-funding-appeal/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-16T12:43:15Z"
+  },
+  "ba6cc7fa9afd": {
+   "id": "ba6cc7fa9afd",
+   "title": "A blue wave, Trump’s Iran demands, and a leadership fight are rattling shutdown talks",
+   "link": "https://thehill.com/homenews/house/6219857-democrats-clash-funding-iran/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-16T11:00:00Z"
+  },
+  "f90a77275da3": {
+   "id": "f90a77275da3",
+   "title": "Democrats’ majority is bigger — and far more fragile — than it looks",
+   "link": "https://thehill.com/opinion/campaign/6219512-democrats-narrower-mandate/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-16T13:30:00Z"
   },
   "a2d31dc81769": {
    "id": "a2d31dc81769",
@@ -202,24 +240,6 @@
    "sourceName": "PBS NewsHour",
    "lean": "centre",
    "date": "2026-11-15T17:39:22Z"
-  },
-  "d6e773fd4b41": {
-   "id": "d6e773fd4b41",
-   "title": "Alaska voters reject ballot measure seeking to repeal open primaries and ranked voting system",
-   "link": "https://www.pbs.org/newshour/politics/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-and-ranked-voting-system",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-14T18:43:07Z"
-  },
-  "bd6c09d5351a": {
-   "id": "bd6c09d5351a",
-   "title": "Welsh Labour still committed to demands for more Senedd powers, says Skates",
-   "link": "https://www.bbc.co.uk/news/articles/crz9dx0jje7zo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-15T12:15:17Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
