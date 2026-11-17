@@ -1,207 +1,158 @@
 {
- "generated_at": "2026-11-17T14:24:03Z",
+ "generated_at": "2026-11-17T22:52:41Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Government moves on asylum removals and NHS tech contract amid US Senate hearings",
-  "overview": "The UK plans to end notice periods for failed asylum seekers and to replace a controversial NHS tech contract, while the US Senate scrutinises a Navy secretary nominee. Both sides see political push‑back and debate over policy direction.",
+  "headline": "UK sets faster asylum removals as US Senate races tighten",
+  "overview": "The UK government moves to end notice periods for failed asylum seekers, while US midterms see Democrats eyeing key Senate seats. Both developments highlight executive actions and party dynamics.",
   "stories": [
    {
-    "title": "Removal of notice period for failed asylum seekers",
+    "title": "UK plans to remove failed asylum seekers without notice",
     "section": "ukgov",
     "topic": "constitution",
-    "what_happened": "The Home Office announced plans to remove the notice period that currently protects failed asylum seekers before they are expelled. The change would speed up removals without prior warning.",
-    "why_it_matters": "The proposal raises questions about the balance between executive power and individual rights, a core issue in the A‑level Constitution unit. It also touches on the rule of law and parliamentary oversight.",
+    "what_happened": "The Home Secretary announced plans to eliminate the notice period before deporting failed asylum seekers. The change aims to speed up removals.",
+    "why_it_matters": "It raises questions about the balance between executive power and individual rights under the UK constitution. The issue links to A-level topics on the constitution and human rights.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The government says faster removals protect borders and deter illegal migration."
+      "text": "Proponents say faster removals protect borders and deter illegal migration."
      },
      {
       "label": "Critics argue",
-      "text": "Human‑rights groups warn the move breaches international obligations and due‑process rights."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators view it as a necessary enforcement of sovereignty."
+      "text": "Opponents warn it undermines due process and could breach international law."
      }
     ],
     "key_term": {
-     "term": "Executive prerogative",
-     "definition": "The authority the government can exercise without parliamentary approval."
+     "term": "Executive discretion",
+     "definition": "The authority of the government to make decisions without prior legislative approval."
     },
-    "exam_use": "Use as evidence when evaluating how executive decisions can be checked by courts or Parliament in a constitutional essay.",
+    "exam_use": "Use as evidence in an essay on the limits of executive power in the UK constitution.",
     "sources": [
      "56a4c0963c30"
     ]
    },
    {
-    "title": "NHS Palantir contract to end in 2029",
+    "title": "Burnham to outline long‑term EU relationship",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "The Department of Health and Social Care will let the current NHS contract with US tech firm Palantir run until 2029, then seek British suppliers to replace it. The extension gives time for a domestic transition.",
-    "why_it_matters": "The decision illustrates cabinet responsibility for public‑service procurement and the political pressure over foreign tech involvement, linking to the A‑level study of the Prime Minister and Cabinet.",
+    "what_happened": "Prime Minister Burnham said he will present options for the UK's future EU relationship alongside his ten‑year economic plan. The announcement is scheduled for next month.",
+    "why_it_matters": "It illustrates the Prime Minister's role in shaping foreign policy and the interplay between the cabinet and Parliament. Relevant to the AQA unit on the executive and EU relations.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Extending the contract avoids disruption to NHS services while supporting a future UK tech sector."
+      "label": "From the government",
+      "text": "Burnham argues the options will secure trade and sovereignty."
      },
      {
-      "label": "Critics argue",
-      "text": "Opponents claim the deal risks data security and undermines British industry."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour voices concern about public‑sector privatisation and accountability."
+      "label": "From the opposition",
+      "text": "Opponents claim the proposals lack clarity and risk economic disruption."
      }
     ],
     "key_term": {
-     "term": "Cabinet collective responsibility",
-     "definition": "The principle that all ministers must publicly support government decisions."
+     "term": "Foreign policy",
+     "definition": "A government's strategy for dealing with other nations."
     },
-    "exam_use": "Cite when discussing how the Cabinet manages complex policy areas like health and technology.",
+    "exam_use": "Cite when discussing the Prime Minister's influence over international agreements.",
     "sources": [
-     "6ed8ff198f2a"
+     "821a6ce90ace"
     ]
    },
    {
-    "title": "Plaid Cymru seeks first Welsh government budget",
+    "title": "Police drop probe into former Reform UK Wales leader",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Plaid Cymru announced plans to negotiate Wales' first ever budget as the party prepares to form a government. The budget will allocate around £30 billion for the next year.",
-    "why_it_matters": "The story shows how political parties translate electoral success into policy implementation, a key theme in the A‑level Parties unit. It also highlights devolution's impact on regional governance.",
+    "what_happened": "Gwent Police discontinued the criminal investigation into Dan Thomas, former Reform UK Wales leader, after his arrest in September. No further action was taken.",
+    "why_it_matters": "The case highlights how political parties interact with law enforcement and public perception. It connects to the AQA topic on political parties and accountability.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Plaid sees the budget as a chance to deliver progressive policies for Wales."
+      "text": "Reform UK says the drop shows the police acted fairly."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition parties warn fiscal constraints could limit ambitious spending."
-     },
-     {
-      "label": "From the centre",
-      "text": "Analysts note the budget will test Plaid's ability to govern effectively."
+      "text": "Opponents suggest the investigation was mishandled and raises concerns about party misconduct."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The transfer of powers from the central UK government to regional bodies."
+     "term": "Accountability",
+     "definition": "The requirement that politicians answer for their actions."
     },
-    "exam_use": "Use as a case study of how party politics operate within devolved administrations.",
+    "exam_use": "Useful for an essay on the role of pressure groups and parties in democratic oversight.",
     "sources": [
-     "23960d995d64"
+     "8f2f64da2b3f"
     ]
    },
    {
-    "title": "Senate hearing for Navy secretary nominee",
-    "section": "us",
-    "topic": "congress",
-    "what_happened": "The Senate Armed Services Committee held a confirmation hearing for acting Navy Secretary Hung Cao, assessing his suitability for the permanent role. Senators questioned his experience and policy positions.",
-    "why_it_matters": "The hearing exemplifies legislative oversight of executive appointments, a core concept in the US Congress unit. It also reflects partisan dynamics in confirmation processes.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Republicans praise Cao’s military background as fitting for the role."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Democrats raise concerns about his lack of senior leadership experience."
-     },
-     {
-      "label": "From the centre",
-      "text": "Neutral observers note the hearing follows standard Senate procedures."
-     }
-    ],
-    "key_term": {
-     "term": "Advice and consent",
-     "definition": "The Senate’s constitutional power to approve presidential appointments."
-    },
-    "exam_use": "Reference when analysing checks and balances between the US executive and legislature.",
-    "sources": [
-     "8e40a8f72670"
-    ]
-   },
-   {
-    "title": "Conservatives aim to protect Electoral College",
+    "title": "US Senate Democrats target Alaska seat",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Following Democratic gains in state legislatures, Republican leaders are pushing reforms to safeguard the Electoral College from future changes. Proposals include constitutional amendments and state‑level safeguards.",
-    "why_it_matters": "The move highlights how parties seek to influence electoral institutions, linking to the A‑level Elections & direct democracy topic. It also raises debate over federalism and representation.",
+    "what_happened": "Democrats see a potential win in Alaska as Mary Peltola leads incumbent Dan Sullivan in the Senate race. The outcome could affect Senate control.",
+    "why_it_matters": "Midterm results illustrate how electoral outcomes shape party power in Congress, a core A-level US politics theme. It also shows the impact of regional races on national politics.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Republicans claim the College ensures balanced regional influence."
+      "label": "From the Democrats",
+      "text": "They view the race as crucial for advancing their legislative agenda."
      },
      {
-      "label": "Critics argue",
-      "text": "Democrats argue it entrenches unequal voting power and hinders democracy."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive voices call for a move to a popular‑vote system."
+      "label": "From the Republicans",
+      "text": "They warn that losing the seat would hinder their ability to block Democratic initiatives."
      }
     ],
     "key_term": {
-     "term": "Electoral College",
-     "definition": "The body of electors that formally elects the US President."
+     "term": "Senate majority",
+     "definition": "The party that holds more than half the seats in the US Senate."
     },
-    "exam_use": "Use as evidence when discussing how electoral systems can be contested by political parties.",
+    "exam_use": "Reference when analysing how elections affect party control of the US Congress.",
     "sources": [
-     "61773ee322f2"
+     "75f5eed1c816"
     ]
    },
    {
-    "title": "DEI resurgence after Democratic midterm wins",
-    "section": "ideas",
-    "topic": "liberalism",
-    "what_happened": "A Democratic congressman announced that diversity, equity and inclusion (DEI) initiatives are back on the agenda after the party’s midterm successes. The statement follows previous Republican attempts to curb DEI programs.",
-    "why_it_matters": "The revival of DEI reflects liberal ideas about individual rights and equality, central to the Liberalism unit. It also shows how political change can affect policy priorities.",
+    "title": "Supreme Court to hear transgender service member cases",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court scheduled a private conference to consider petitions on transgender servicemembers, among other civil‑rights issues. No decision has been made yet.",
+    "why_it_matters": "The cases demonstrate judicial review of executive and legislative policies, linking to the AQA focus on the US courts and civil rights. They also reflect ongoing rights debates.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Liberals view DEI as essential for protecting minority rights."
+      "label": "From civil‑rights groups",
+      "text": "They argue the Court should protect transgender service members' rights."
      },
      {
-      "label": "Critics argue",
-      "text": "Conservatives see DEI as unnecessary government overreach."
-     },
-     {
-      "label": "From the centre",
-      "text": "Centrist observers note the policy shift depends on electoral outcomes."
+      "label": "From conservative commentators",
+      "text": "They contend the issue should be decided by the military, not the judiciary."
      }
     ],
     "key_term": {
-     "term": "Liberalism",
-     "definition": "A political ideology emphasizing individual liberty, equality before the law and limited government."
+     "term": "Judicial review",
+     "definition": "The power of courts to assess the legality of government actions."
     },
-    "exam_use": "Cite when evaluating how liberal ideas shape contemporary policy debates.",
+    "exam_use": "Use as evidence in an essay on the role of the US Supreme Court in shaping civil‑rights policy.",
     "sources": [
-     "b29375f9b500"
+     "51ebc0124f1b"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK government can alter asylum policy and NHS contracts through executive decisions, subject to parliamentary scrutiny and legal challenges.",
-   "us": "US executives require Senate confirmation for senior appointments, illustrating legislative oversight of executive power.",
-   "insight": "The contrast shows the UK’s more centralized executive authority versus the US’s built‑in checks by a separate legislative chamber.",
+   "theme": "elections",
+   "uk": "UK general elections use a first‑past‑the‑post system, determining the composition of the House of Commons.",
+   "us": "US elections include both direct votes for the President and indirect Electoral College votes, plus separate Senate and House races.",
+   "insight": "The contrast shows how electoral systems affect party representation and government stability in each country.",
    "sources": [
-    "56a4c0963c30",
-    "6ed8ff198f2a",
-    "8e40a8f72670"
+    "821a6ce90ace",
+    "75f5eed1c816"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The DEI push after US midterm gains reflects liberalism’s focus on protecting individual rights and promoting equality, echoing thinkers like John Stuart Mill who argued for social reforms to enhance liberty.",
+   "text": "Liberalism stresses individual rights and limited government; the UK asylum policy debate raises liberal concerns about due process, while US court cases on transgender service members reflect liberal arguments for personal liberty.",
    "sources": [
-    "b29375f9b500"
+    "56a4c0963c30",
+    "51ebc0124f1b"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive actions in the UK and the US are constrained by other branches of government.",
+   "question": "Assess the extent to which executive decisions on immigration in the UK and on military personnel in the US are constrained by legal and political checks.",
    "section": "ukgov | us",
-   "tip": "Compare the UK’s use of prerogative powers with the US Senate’s advice‑and‑consent role, using recent examples."
+   "tip": "Compare the role of courts, Parliament/Congress, and public opinion in each case."
   }
  },
  "refs": {
@@ -214,50 +165,41 @@
    "lean": "centre-left",
    "date": "2026-11-17T12:45:47Z"
   },
-  "6ed8ff198f2a": {
-   "id": "6ed8ff198f2a",
-   "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-   "link": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-   "source": "guardian",
-   "sourceName": "The Guardian",
+  "821a6ce90ace": {
+   "id": "821a6ce90ace",
+   "title": "Burnham to set out options next month for long-term EU relationship",
+   "link": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-17T20:00:00Z"
+  },
+  "8f2f64da2b3f": {
+   "id": "8f2f64da2b3f",
+   "title": "Police drop assault probe into former Reform UK Wales leader Dan Thomas",
+   "link": "https://nation.cymru/news/police-drop-assault-probe-into-former-reform-uk-wales-leader-dan-thomas/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-16T19:59:31Z"
+   "date": "2026-11-17T20:40:36Z"
   },
-  "23960d995d64": {
-   "id": "23960d995d64",
-   "title": "Plaid Cymru seeks deal to secure its first Welsh government budget",
-   "link": "https://www.bbc.co.uk/news/articles/crgqx1vleyv0o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-17T06:09:58Z"
-  },
-  "8e40a8f72670": {
-   "id": "8e40a8f72670",
-   "title": "WATCH LIVE: Senate Armed Services Committee confirmation hearing for Hung Cao as Navy secretary",
-   "link": "https://www.pbs.org/newshour/politics/watch-live-senate-armed-services-committee-confirmation-hearing-for-hung-cao-as-navy-secretary",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-17T14:21:52Z"
-  },
-  "61773ee322f2": {
-   "id": "61773ee322f2",
-   "title": "Conservatives look to protect Electoral College from Democrats",
-   "link": "https://thehill.com/newsletters/the-movement/6224084-conservatives-protect-electoral-college-democrats/",
+  "75f5eed1c816": {
+   "id": "75f5eed1c816",
+   "title": "Why an Alaska win by Peltola is so important to Democrats",
+   "link": "https://thehill.com/homenews/campaign/6226081-alaska-senate-peltola-democrats-majority/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-17T13:00:00Z"
+   "date": "2026-11-17T20:52:22Z"
   },
-  "b29375f9b500": {
-   "id": "b29375f9b500",
-   "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6036795/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-17T09:46:10Z"
+  "51ebc0124f1b": {
+   "id": "51ebc0124f1b",
+   "title": "Justices to consider disputes over transgender servicemembers, E. Jean Carroll’s jury award, and acting U.S. attorneys at next private conference",
+   "link": "https://www.scotusblog.com/2026/11/justices-to-consider-disputes-over-transgender-servicemembers-e-jean-carrolls-jury-award-and-act/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-11-17T20:41:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
