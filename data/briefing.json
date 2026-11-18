@@ -1,174 +1,178 @@
 {
- "generated_at": "2026-11-18T13:58:09Z",
+ "generated_at": "2026-11-18T22:35:54Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK and US elections reshape party dynamics",
-  "overview": "Mid‑term results in the US saw Democrats win the Alaska Senate seat, while UK politics focuses on the prime minister’s EU strategy and welfare reforms. Pressure groups and devolution debates add further complexity.",
+  "headline": "White House pushes back on oversight as UK debates EU ties",
+  "overview": "The US executive resisted Democratic oversight requests while the UK Prime Minister prepares new EU relationship options. Both illustrate tensions between branches of government and party strategies.",
   "stories": [
+   {
+    "title": "White House rejects Democratic oversight letters",
+    "section": "us",
+    "topic": "president",
+    "what_happened": "White House counsel Will Scharf told incoming Democratic committee chairs that the executive is under no obligation to respond to their letters. The statement was made during live updates on 18 Nov 2026.",
+    "why_it_matters": "The episode shows the constitutional separation of powers between the US executive and Congress, a key A‑level topic. It also highlights partisan conflict over oversight.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The administration says the move protects executive independence and prevents partisan abuse of oversight powers."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Democrats claim the refusal undermines accountability and breaches the spirit of checks and balances."
+     }
+    ],
+    "key_term": {
+     "term": "separation of powers",
+     "definition": "Division of government responsibilities into distinct branches to limit any one branch's power."
+    },
+    "exam_use": "Use as evidence in an essay on the strengths and weaknesses of the US constitutional system.",
+    "sources": [
+     "b9376caede4e"
+    ]
+   },
    {
     "title": "Democrats secure Alaska Senate seat",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Mary Peltola was projected to win the Alaska Senate race, giving Democrats a sweep of the contested seats. The victory was confirmed two weeks after mid‑term counting began.",
-    "why_it_matters": "The result illustrates how party performance in mid‑terms can shift Senate balance, a key element of US electoral politics. It also shows the impact of regional voting patterns on national party strength.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Democrats view the win as validation of their policy agenda and a rebuke to Republican messaging."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Republicans contend the result reflects a temporary backlash against former President Trump rather than a lasting shift."
-     }
-    ],
-    "key_term": {
-     "term": "mid‑term elections",
-     "definition": "Regular elections held halfway through a president's term, often used to gauge public support for the governing party."
-    },
-    "exam_use": "Use as evidence in an essay on how US electoral cycles affect party strategy and legislative outcomes.",
-    "sources": [
-     "ce596294a090",
-     "55134f7fb917",
-     "fbfed203e4e2"
-    ]
-   },
-   {
-    "title": "PM Burnham to outline new EU relationship",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Rishi Burnham announced he will set out options for the UK's long‑term relationship with the EU alongside his ten‑year economic plan. The announcement follows pressure from Labour figures urging a pro‑EU stance.",
-    "why_it_matters": "The move highlights executive power in shaping foreign policy and the constitutional role of the cabinet in negotiating international agreements. It also ties to debates over the UK's post‑Brexit constitutional arrangements.",
+    "what_happened": "Mary Peltola won the Alaska Senate race, giving Democrats a 56‑44 majority in the Senate after midterm results were finalized. The race concluded on 18 Nov 2026.",
+    "why_it_matters": "The result shifts the balance of power in Congress, affecting legislative agendas and party strategy, linking to A‑level study of US elections and party politics.",
     "perspectives": [
      {
       "label": "From the left",
-      "text": "Labour and pro‑EU advocates see the plan as a chance to re‑engage with Europe and protect workers' rights."
+      "text": "Progressives view the win as a boost for climate and indigenous rights legislation."
      },
      {
       "label": "From the right",
-      "text": "Brexit supporters argue the proposal risks eroding UK sovereignty and undermines the 2016 referendum outcome."
+      "text": "Conservatives warn the new majority may push a larger federal agenda."
+     }
+    ],
+    "key_term": {
+     "term": "majority government",
+     "definition": "When one party holds more than half the seats, allowing it to pass legislation more easily."
+    },
+    "exam_use": "Cite when discussing how electoral outcomes influence policy direction in the US Senate.",
+    "sources": [
+     "931d76e03eb5",
+     "55134f7fb917"
+    ]
+   },
+   {
+    "title": "Burnham to outline long‑term EU relationship",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Andy Burnham announced he will set out options for the UK's future relationship with the EU alongside his ten‑year economic plan. The statement was made on 17 Nov 2026.",
+    "why_it_matters": "The plan illustrates executive leadership in foreign policy and the use of strategic planning, relevant to the A‑level study of the UK constitution and the role of the Prime Minister.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Pro‑EU advocates say the approach offers a clear, forward‑looking strategy for trade and cooperation."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Skeptics claim the plan may compromise UK sovereignty and lacks parliamentary scrutiny."
      }
     ],
     "key_term": {
      "term": "executive prerogative",
-     "definition": "The authority of the prime minister and cabinet to make decisions without prior parliamentary approval, especially in foreign affairs."
+     "definition": "Powers exercised by the Prime Minister and Cabinet without needing prior parliamentary approval."
     },
-    "exam_use": "Cite in an essay analysing the balance of power between the executive and Parliament in UK constitutional practice.",
+    "exam_use": "Useful when analysing the balance of power between the UK executive and Parliament on foreign policy.",
     "sources": [
-     "821a6ce90ace",
-     "600f03a89796"
+     "821a6ce90ace"
     ]
    },
    {
-    "title": "Welfare reform sparks parliamentary clash",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "At Prime Minister’s Questions, opposition leader Andy Burnham accused the government of worsening welfare cuts for young people, while Home Secretary Shabana Mahmood defended the proposals. The debate centred on rising NEET figures.",
-    "why_it_matters": "The exchange illustrates party competition over policy and the role of parliamentary scrutiny in shaping social welfare legislation. It also reflects broader ideological divides on the state's role in supporting citizens.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Government supporters claim the reforms incentivise work and reduce dependency."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opposition critics say the cuts increase youth unemployment and inequality."
-     }
-    ],
-    "key_term": {
-     "term": "NEET",
-     "definition": "A statistical category for young people Not in Education, Employment, or Training."
-    },
-    "exam_use": "Use as evidence when discussing how party politics influences welfare policy decisions in the UK.",
-    "sources": [
-     "92794bdb7e52",
-     "3e192911af4b"
-    ]
-   },
-   {
-    "title": "YesCymru joins Celtic independence summit",
+    "title": "Tory MPs asked to sign ECHR‑leaving pledge",
     "section": "ukpol",
     "topic": "pressure",
-    "what_happened": "Representatives of YesCymru attended a summit in Dublin with Irish and Scottish independence groups to coordinate campaigns. The meeting aimed to strengthen cross‑border cooperation on self‑determination.",
-    "why_it_matters": "The event shows how pressure groups collaborate across devolution arrangements to influence constitutional debates. It highlights the role of civil society in shaping public discourse on national identity.",
+    "what_happened": "Conservative MPs were asked to sign a pledge confirming support for the UK leaving the European Convention on Human Rights. The request was reported on 18 Nov 2026.",
+    "why_it_matters": "The episode highlights pressure‑group influence within parties and debates over human‑rights legislation, key themes in the A‑level politics syllabus.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Independence advocates view the partnership as a democratic expression of regional aspirations."
+      "label": "From the right",
+      "text": "Supporters say leaving the ECHR restores parliamentary sovereignty over law‑making."
      },
      {
-      "label": "From the right",
-      "text": "Unionist voices warn that such cooperation threatens the integrity of the United Kingdom."
+      "label": "From the left",
+      "text": "Opponents warn it could weaken civil liberties and international legal standards."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The statutory granting of powers from the central UK government to regional administrations."
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking electoral office."
     },
-    "exam_use": "Reference in an essay on the impact of pressure groups on constitutional change within the UK.",
+    "exam_use": "Can be used as evidence when discussing how interest groups shape party policy in the UK.",
     "sources": [
-     "1fbf6c976def",
-     "ad86f557b3b7"
+     "8a5b5dd45da9"
     ]
    },
    {
-    "title": "Air traffic control funding faces bipartisan pushback",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Transportation Secretary Sean Duffy’s request for $50 billion to upgrade air traffic control technology met resistance from lawmakers in both parties. Critics questioned the cost and implementation plan.",
-    "why_it_matters": "The episode demonstrates how party politics and fiscal scrutiny shape executive proposals in the US, reflecting the checks and balances between the administration and Congress.",
+    "title": "Reform UK cancels Senedd free‑speech debate",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Reform UK withdrew plans for a debate on freedom of speech after its members continued to boycott Senedd proceedings. Reported on 18 Nov 2026.",
+    "why_it_matters": "The incident shows intra‑party strategy and the impact of party decisions on parliamentary participation, linking to the study of political parties and democratic engagement.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the investment is essential for safety and modernising infrastructure."
+      "text": "The party claims the boycott highlights the need for reform of parliamentary rules."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents contend the spending is excessive and could increase the deficit."
+      "text": "Opponents say abandoning the debate undermines democratic discourse."
      }
     ],
     "key_term": {
-     "term": "fiscal oversight",
-     "definition": "Parliamentary (or congressional) review of government spending to ensure accountability and budgetary control."
+     "term": "party discipline",
+     "definition": "The extent to which party members follow the official party line."
     },
-    "exam_use": "Apply when discussing the role of Congress in limiting executive authority over budgetary matters.",
+    "exam_use": "Relevant for essays on the role of parties in shaping parliamentary debate.",
     "sources": [
-     "cfc79aaaf789"
+     "36eed19138c9"
     ]
    }
   ],
   "compare": {
    "theme": "executives",
-   "uk": "The UK prime minister can set out EU policy options without a prior parliamentary vote, using executive prerogative.",
-   "us": "The US president must obtain congressional approval for major spending, as shown by the air‑traffic control funding request.",
-   "insight": "The contrast shows the UK’s more flexible executive in foreign policy versus the US’s stronger legislative check on executive spending.",
+   "uk": "The UK Prime Minister uses the executive prerogative to set out a ten‑year EU strategy, reflecting strong cabinet control over foreign policy.",
+   "us": "The US President, via counsel, asserted executive independence by refusing to comply with congressional oversight letters, illustrating a more contested executive‑legislative relationship.",
+   "insight": "The contrast shows the UK’s more coordinated executive planning versus the US’s sharper separation that can lead to inter‑branch conflict.",
    "sources": [
     "821a6ce90ace",
-    "cfc79aaaf789"
+    "b9376caede4e"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in US debates over fiscal restraint and in UK calls for a more open EU relationship that protects personal freedoms.",
+   "ideology": "conservatism",
+   "text": "Conservative MPs urging a pledge to leave the ECHR echo traditional conservative emphasis on national sovereignty and scepticism of supranational authority, ideas traced to Burke’s defence of established institutions.",
    "sources": [
-    "cfc79aaaf789",
-    "600f03a89796"
+    "8a5b5dd45da9"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US, using recent examples.",
+   "question": "Assess the extent to which executive power is checked by other branches of government in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Compare the prime minister’s EU policy announcement with the US president’s need for congressional approval on spending."
+   "tip": "Compare the UK Prime Minister’s EU strategy with the US President’s refusal to meet congressional oversight, using specific examples."
   }
  },
  "refs": {
-  "ce596294a090": {
-   "id": "ce596294a090",
-   "title": "Peltola victory in Alaska completes sweeping Senate wins for Democrats",
-   "link": "https://thehill.com/homenews/campaign/6227287-mary-peltola-projects-victory-alaska-senate/",
+  "b9376caede4e": {
+   "id": "b9376caede4e",
+   "title": "Live updates: White House pushes back against probes; Democrats pick Jeffries as Speaker",
+   "link": "https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-18T13:18:29Z"
+   "date": "2026-11-18T20:31:38Z"
+  },
+  "931d76e03eb5": {
+   "id": "931d76e03eb5",
+   "title": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
+   "link": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-18T14:25:22Z"
   },
   "55134f7fb917": {
    "id": "55134f7fb917",
@@ -179,15 +183,6 @@
    "lean": "centre",
    "date": "2026-11-18T10:23:57Z"
   },
-  "fbfed203e4e2": {
-   "id": "fbfed203e4e2",
-   "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
-   "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-   "source": "bbcus",
-   "sourceName": "BBC News (US)",
-   "lean": "centre",
-   "date": "2026-11-18T08:33:21Z"
-  },
   "821a6ce90ace": {
    "id": "821a6ce90ace",
    "title": "Burnham to set out options next month for long-term EU relationship",
@@ -197,59 +192,23 @@
    "lean": "centre",
    "date": "2026-11-17T23:40:58Z"
   },
-  "600f03a89796": {
-   "id": "600f03a89796",
-   "title": "David Lammy urges Andy Burnham to fight next election on rejoining EU",
-   "link": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-18T08:42:41Z"
-  },
-  "92794bdb7e52": {
-   "id": "92794bdb7e52",
-   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-18T13:42:50Z"
-  },
-  "3e192911af4b": {
-   "id": "3e192911af4b",
-   "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
-   "link": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "8a5b5dd45da9": {
+   "id": "8a5b5dd45da9",
+   "title": "Tory MPs Told To Sign Pledge Supporting Leaving The ECHR",
+   "link": "https://www.politicshome.com/news/article/tory-mps-told-to-sign-echr-pledge",
+   "source": "politicshome",
+   "sourceName": "PoliticsHome",
    "lean": "centre",
-   "date": "2026-11-18T06:00:38Z"
+   "date": "2026-11-18T20:00:00Z"
   },
-  "1fbf6c976def": {
-   "id": "1fbf6c976def",
-   "title": "YesCymru joins Irish and Scottish independence campaigners for Celtic Partnership summit in Dublin",
-   "link": "https://nation.cymru/news/yescymru-joins-irish-and-scottish-independence-campaigners-for-celtic-partnership-summit-in-dublin/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-18T13:29:59Z"
-  },
-  "ad86f557b3b7": {
-   "id": "ad86f557b3b7",
-   "title": "Wales joins international protest against arms race",
-   "link": "https://nation.cymru/news/wales-joins-international-protest-against-arms-race/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-18T10:51:00Z"
-  },
-  "cfc79aaaf789": {
-   "id": "cfc79aaaf789",
-   "title": "Duffy’s $50 billion air traffic control push hits bipartisan resistance",
-   "link": "https://thehill.com/homenews/house/6226580-lawmakers-fight-duffy-funding/",
-   "source": "thehill",
-   "sourceName": "The Hill",
+  "36eed19138c9": {
+   "id": "36eed19138c9",
+   "title": "Reform cancels debate on freedom of speech as Senedd boycott continues",
+   "link": "https://www.bbc.co.uk/news/articles/cjvg294zw9pzo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-11-18T11:00:00Z"
+   "date": "2026-11-18T17:13:33Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
