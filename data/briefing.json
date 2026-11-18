@@ -1,177 +1,192 @@
 {
- "generated_at": "2026-11-18T04:20:42Z",
+ "generated_at": "2026-11-18T13:58:09Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK govt plans asylum‑seeker expulsions; US Senate seat flips in Alaska",
-  "overview": "The UK government is moving to remove failed asylum seekers without notice, while in the US Democrat Mary Peltola wins a Senate seat in Alaska. Prime Minister Burnham prepares new EU options and US political tensions rise around nominations and mid‑term results.",
+  "headline": "UK and US elections reshape party dynamics",
+  "overview": "Mid‑term results in the US saw Democrats win the Alaska Senate seat, while UK politics focuses on the prime minister’s EU strategy and welfare reforms. Pressure groups and devolution debates add further complexity.",
   "stories": [
    {
-    "title": "Expulsion of failed asylum seekers",
-    "section": "ukgov",
-    "topic": "constitution",
-    "what_happened": "The Home Office announced it will end the notice period for removing people whose asylum claims have been refused. The change aims to speed up deportations.",
-    "why_it_matters": "The policy touches on the rule of law and executive power, key themes in the A‑level Constitution unit. It raises questions about due‑process protections for individuals.",
+    "title": "Democrats secure Alaska Senate seat",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Mary Peltola was projected to win the Alaska Senate race, giving Democrats a sweep of the contested seats. The victory was confirmed two weeks after mid‑term counting began.",
+    "why_it_matters": "The result illustrates how party performance in mid‑terms can shift Senate balance, a key element of US electoral politics. It also shows the impact of regional voting patterns on national party strength.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The government says faster removals protect borders and deter illegal migration."
+      "text": "Democrats view the win as validation of their policy agenda and a rebuke to Republican messaging."
      },
      {
       "label": "Critics argue",
-      "text": "Human‑rights groups warn the loss of notice undermines legal safeguards and could breach international obligations."
+      "text": "Republicans contend the result reflects a temporary backlash against former President Trump rather than a lasting shift."
      }
     ],
     "key_term": {
-     "term": "due process",
-     "definition": "Legal requirement that the state must respect all legal rights owed to a person."
+     "term": "mid‑term elections",
+     "definition": "Regular elections held halfway through a president's term, often used to gauge public support for the governing party."
     },
-    "exam_use": "Use as evidence when discussing the balance between executive authority and individual rights in an essay on the UK constitution.",
+    "exam_use": "Use as evidence in an essay on how US electoral cycles affect party strategy and legislative outcomes.",
     "sources": [
-     "56a4c0963c30"
+     "ce596294a090",
+     "55134f7fb917",
+     "fbfed203e4e2"
     ]
    },
    {
-    "title": "Mary Peltola wins Alaska Senate seat",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Democrat Mary Peltola narrowly defeated the Republican incumbent in Alaska’s U.S. Senate race. The Associated Press called the result on election night.",
-    "why_it_matters": "The outcome shifts the Senate balance and illustrates the impact of party competition, a core topic in US Politics. It also shows how regional issues can affect national party dynamics.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Democrats celebrate the win as a sign that progressive candidates can succeed in traditionally red states."
-     },
-     {
-      "label": "From the right",
-      "text": "Republicans warn the loss reflects national backlash against the current administration’s policies."
-     }
-    ],
-    "key_term": {
-     "term": "majority party",
-     "definition": "The party that holds more than half the seats in a legislative chamber."
-    },
-    "exam_use": "Cite when answering a question on how party competition shapes legislative outcomes in the US Congress.",
-    "sources": [
-     "e4b774a1e4bd"
-    ]
-   },
-   {
-    "title": "Burnham to outline new EU relationship",
+    "title": "PM Burnham to outline new EU relationship",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Burnham announced he will publish options for the UK’s long‑term relationship with the EU alongside his ten‑year economic plan. The statement was made at a press conference.",
-    "why_it_matters": "The move highlights the executive’s role in foreign policy and the interplay between the cabinet and Parliament in shaping major policy directions, relevant to the UK Government syllabus.",
+    "what_happened": "Prime Minister Rishi Burnham announced he will set out options for the UK's long‑term relationship with the EU alongside his ten‑year economic plan. The announcement follows pressure from Labour figures urging a pro‑EU stance.",
+    "why_it_matters": "The move highlights executive power in shaping foreign policy and the constitutional role of the cabinet in negotiating international agreements. It also ties to debates over the UK's post‑Brexit constitutional arrangements.",
     "perspectives": [
      {
-      "label": "From the right",
-      "text": "Supporters say a fresh EU strategy will boost trade and restore the UK’s global standing."
+      "label": "From the left",
+      "text": "Labour and pro‑EU advocates see the plan as a chance to re‑engage with Europe and protect workers' rights."
      },
      {
-      "label": "From the left",
-      "text": "Opponents fear the proposals may compromise sovereignty and undermine workers’ rights."
+      "label": "From the right",
+      "text": "Brexit supporters argue the proposal risks eroding UK sovereignty and undermines the 2016 referendum outcome."
      }
     ],
     "key_term": {
-     "term": "foreign policy",
-     "definition": "Government actions aimed at influencing other countries to achieve national objectives."
+     "term": "executive prerogative",
+     "definition": "The authority of the prime minister and cabinet to make decisions without prior parliamentary approval, especially in foreign affairs."
     },
-    "exam_use": "Useful for essays on the powers of the Prime Minister and Cabinet in directing international relations.",
+    "exam_use": "Cite in an essay analysing the balance of power between the executive and Parliament in UK constitutional practice.",
     "sources": [
-     "821a6ce90ace"
+     "821a6ce90ace",
+     "600f03a89796"
     ]
    },
    {
-    "title": "Police drop probe into former Reform UK Wales leader",
+    "title": "Welfare reform sparks parliamentary clash",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Gwent Police discontinued its criminal investigation into Dan Thomas, former leader of Reform UK in Wales, after his arrest in September. No further action was taken.",
-    "why_it_matters": "The case illustrates how political parties interact with law‑enforcement and media scrutiny, linking to the A‑level topic of political parties and pressure groups.",
+    "what_happened": "At Prime Minister’s Questions, opposition leader Andy Burnham accused the government of worsening welfare cuts for young people, while Home Secretary Shabana Mahmood defended the proposals. The debate centred on rising NEET figures.",
+    "why_it_matters": "The exchange illustrates party competition over policy and the role of parliamentary scrutiny in shaping social welfare legislation. It also reflects broader ideological divides on the state's role in supporting citizens.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Reform UK claims the investigation was politically motivated."
+      "text": "Government supporters claim the reforms incentivise work and reduce dependency."
      },
      {
       "label": "Critics argue",
-      "text": "Others say dropping the probe may undermine accountability for public figures."
+      "text": "Opposition critics say the cuts increase youth unemployment and inequality."
      }
     ],
     "key_term": {
-     "term": "political accountability",
-     "definition": "The obligation of politicians to answer for their actions to the public and institutions."
+     "term": "NEET",
+     "definition": "A statistical category for young people Not in Education, Employment, or Training."
     },
-    "exam_use": "Can be used as a case study when discussing the role of pressure groups and media in holding parties to account.",
+    "exam_use": "Use as evidence when discussing how party politics influences welfare policy decisions in the UK.",
     "sources": [
-     "8f2f64da2b3f"
+     "92794bdb7e52",
+     "3e192911af4b"
     ]
    },
    {
-    "title": "Navy nominee faces bipartisan questioning on Iran war",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "President Trump’s nominee for Navy chief, Hung Cao, acknowledged the strain of the Iran conflict during a Senate confirmation hearing. Senators from both parties pressed him on the issue.",
-    "why_it_matters": "The hearing shows the Senate’s advice‑and‑consent role and how foreign‑policy crises can influence judicial‑type scrutiny of executive appointments, a key point in the US Constitution unit.",
+    "title": "YesCymru joins Celtic independence summit",
+    "section": "ukpol",
+    "topic": "pressure",
+    "what_happened": "Representatives of YesCymru attended a summit in Dublin with Irish and Scottish independence groups to coordinate campaigns. The meeting aimed to strengthen cross‑border cooperation on self‑determination.",
+    "why_it_matters": "The event shows how pressure groups collaborate across devolution arrangements to influence constitutional debates. It highlights the role of civil society in shaping public discourse on national identity.",
     "perspectives": [
      {
-      "label": "From the right",
-      "text": "Republicans argue the nominee’s experience makes him fit for the role despite the war."
+      "label": "From the left",
+      "text": "Independence advocates view the partnership as a democratic expression of regional aspirations."
      },
      {
-      "label": "From the left",
-      "text": "Democrats contend the war raises serious strategic concerns that the nominee must address."
+      "label": "From the right",
+      "text": "Unionist voices warn that such cooperation threatens the integrity of the United Kingdom."
      }
     ],
     "key_term": {
-     "term": "advice and consent",
-     "definition": "The Senate’s constitutional power to approve or reject presidential nominations."
+     "term": "devolution",
+     "definition": "The statutory granting of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Reference when evaluating checks and balances between the US executive and legislative branches.",
+    "exam_use": "Reference in an essay on the impact of pressure groups on constitutional change within the UK.",
     "sources": [
-     "8e40a8f72670"
+     "1fbf6c976def",
+     "ad86f557b3b7"
+    ]
+   },
+   {
+    "title": "Air traffic control funding faces bipartisan pushback",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Transportation Secretary Sean Duffy’s request for $50 billion to upgrade air traffic control technology met resistance from lawmakers in both parties. Critics questioned the cost and implementation plan.",
+    "why_it_matters": "The episode demonstrates how party politics and fiscal scrutiny shape executive proposals in the US, reflecting the checks and balances between the administration and Congress.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Proponents say the investment is essential for safety and modernising infrastructure."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents contend the spending is excessive and could increase the deficit."
+     }
+    ],
+    "key_term": {
+     "term": "fiscal oversight",
+     "definition": "Parliamentary (or congressional) review of government spending to ensure accountability and budgetary control."
+    },
+    "exam_use": "Apply when discussing the role of Congress in limiting executive authority over budgetary matters.",
+    "sources": [
+     "cfc79aaaf789"
     ]
    }
   ],
   "compare": {
    "theme": "executives",
-   "uk": "The UK Prime Minister can set out foreign‑policy options unilaterally, as seen in Burnham’s EU plan, but must ultimately secure parliamentary support.",
-   "us": "In the US, the President’s choice of senior officials, such as the Navy nominee, requires Senate approval, illustrating a stronger legislative check.",
-   "insight": "The contrast shows the UK’s more centralized executive authority versus the US’s constitutionally mandated separation of powers.",
+   "uk": "The UK prime minister can set out EU policy options without a prior parliamentary vote, using executive prerogative.",
+   "us": "The US president must obtain congressional approval for major spending, as shown by the air‑traffic control funding request.",
+   "insight": "The contrast shows the UK’s more flexible executive in foreign policy versus the US’s stronger legislative check on executive spending.",
    "sources": [
     "821a6ce90ace",
-    "8e40a8f72670"
+    "cfc79aaaf789"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Burnham’s EU‑reset reflects a conservative emphasis on national sovereignty and economic stability, echoing Edmund Burke’s ideas about preserving established institutions while adapting to change.",
+   "ideology": "liberalism",
+   "text": "Liberalism’s emphasis on individual rights and limited government is reflected in US debates over fiscal restraint and in UK calls for a more open EU relationship that protects personal freedoms.",
    "sources": [
-    "821a6ce90ace"
+    "cfc79aaaf789",
+    "600f03a89796"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US.",
+   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US, using recent examples.",
    "section": "ukgov | us",
-   "tip": "Compare the Prime Minister’s ability to set foreign‑policy options with the US President’s need for Senate confirmation of senior appointments."
+   "tip": "Compare the prime minister’s EU policy announcement with the US president’s need for congressional approval on spending."
   }
  },
  "refs": {
-  "56a4c0963c30": {
-   "id": "56a4c0963c30",
-   "title": "UK Government plans to expel failed asylum seekers without notice",
-   "link": "https://nation.cymru/news/uk-government-plans-to-expel-failed-asylum-seekers-without-notice/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-17T12:45:47Z"
+  "ce596294a090": {
+   "id": "ce596294a090",
+   "title": "Peltola victory in Alaska completes sweeping Senate wins for Democrats",
+   "link": "https://thehill.com/homenews/campaign/6227287-mary-peltola-projects-victory-alaska-senate/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-18T13:18:29Z"
   },
-  "e4b774a1e4bd": {
-   "id": "e4b774a1e4bd",
-   "title": "Mary Peltola flips Alaska's Senate seat into Democrats' column",
-   "link": "https://www.npr.org/2026/11/17/g-s1-151567/alaska-senate-results-peltola-sullivan",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-18T03:27:23Z"
+  "55134f7fb917": {
+   "id": "55134f7fb917",
+   "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-11-18T10:23:57Z"
+  },
+  "fbfed203e4e2": {
+   "id": "fbfed203e4e2",
+   "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+   "source": "bbcus",
+   "sourceName": "BBC News (US)",
+   "lean": "centre",
+   "date": "2026-11-18T08:33:21Z"
   },
   "821a6ce90ace": {
    "id": "821a6ce90ace",
@@ -182,23 +197,59 @@
    "lean": "centre",
    "date": "2026-11-17T23:40:58Z"
   },
-  "8f2f64da2b3f": {
-   "id": "8f2f64da2b3f",
-   "title": "Police drop assault probe into former Reform UK Wales leader Dan Thomas",
-   "link": "https://nation.cymru/news/police-drop-assault-probe-into-former-reform-uk-wales-leader-dan-thomas/",
+  "600f03a89796": {
+   "id": "600f03a89796",
+   "title": "David Lammy urges Andy Burnham to fight next election on rejoining EU",
+   "link": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-18T08:42:41Z"
+  },
+  "92794bdb7e52": {
+   "id": "92794bdb7e52",
+   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-18T13:42:50Z"
+  },
+  "3e192911af4b": {
+   "id": "3e192911af4b",
+   "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
+   "link": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-18T06:00:38Z"
+  },
+  "1fbf6c976def": {
+   "id": "1fbf6c976def",
+   "title": "YesCymru joins Irish and Scottish independence campaigners for Celtic Partnership summit in Dublin",
+   "link": "https://nation.cymru/news/yescymru-joins-irish-and-scottish-independence-campaigners-for-celtic-partnership-summit-in-dublin/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-17T20:40:36Z"
+   "date": "2026-11-18T13:29:59Z"
   },
-  "8e40a8f72670": {
-   "id": "8e40a8f72670",
-   "title": "WATCH: Navy nominee Hung Cao acknowledges Iran war is 'a strain' in confirmation hearing",
-   "link": "https://www.pbs.org/newshour/politics/watch-live-senate-armed-services-committee-confirmation-hearing-for-hung-cao-as-navy-secretary",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "ad86f557b3b7": {
+   "id": "ad86f557b3b7",
+   "title": "Wales joins international protest against arms race",
+   "link": "https://nation.cymru/news/wales-joins-international-protest-against-arms-race/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-18T10:51:00Z"
+  },
+  "cfc79aaaf789": {
+   "id": "cfc79aaaf789",
+   "title": "Duffy’s $50 billion air traffic control push hits bipartisan resistance",
+   "link": "https://thehill.com/homenews/house/6226580-lawmakers-fight-duffy-funding/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-17T14:21:52Z"
+   "date": "2026-11-18T11:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
