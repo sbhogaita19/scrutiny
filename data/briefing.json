@@ -1,236 +1,180 @@
 {
- "generated_at": "2026-11-19T14:25:55Z",
+ "generated_at": "2026-11-19T22:40:26Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, mayoral bids and devolution debates dominate politics",
-  "overview": "The US midterm elections saw massive spending and a shift in Senate control, while the UK Conservatives selected a London mayoral candidate and Wales and Scotland debated devolution‑related policies. Both sides of each issue present clear arguments.",
+  "headline": "Midterms, mayoral bids and UK defence aid dominate politics",
+  "overview": "US mid‑term results reshape Congress, the Conservatives pick a new London mayoral candidate, and Britain announces long‑range drones for Ukraine. These developments touch on elections, party politics and executive decision‑making.",
   "stories": [
    {
-    "title": "Conservatives pick London mayoral candidate",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "The Conservative Party chose former Home Secretary James Cleverly as its candidate for the 2028 London mayoral election, winning 86% support in a membership vote. The selection was announced on 19 November 2026.",
-    "why_it_matters": "The choice illustrates party leadership selection processes and the role of the executive in shaping local government, linking to the AQA topics of the Prime Minister, Cabinet and elections. It also shows how party structures influence candidate selection.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Party members say Cleverly’s experience will boost the Conservatives’ chances in a city that has voted Labour since 2016."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents claim the selection favours establishment figures and ignores grassroots concerns about housing and transport."
-     },
-     {
-      "label": "From the right",
-      "text": "Right‑leaning commentators praise Cleverly’s law‑and‑order record as essential for London’s safety."
-     }
-    ],
-    "key_term": {
-     "term": "Candidate selection",
-     "definition": "The internal party process by which a person is chosen to stand for election."
-    },
-    "exam_use": "Use as evidence of how party mechanisms affect executive influence in an essay on the relationship between parties and the executive.",
-    "sources": [
-     "e481cf0ebb47"
-    ]
-   },
-   {
-    "title": "Scotland proposes mansion‑tax increase",
-    "section": "ukpol",
-    "topic": "parliament",
-    "what_happened": "Holyrood ministers published a bill to raise council tax on homes valued over £1 million, describing it as a ‘mansion tax’. The proposal moves forward in the Scottish Parliament.",
-    "why_it_matters": "The bill demonstrates devolution in action, showing how the Scottish Parliament can legislate on taxation, a key element of the AQA devolution topic. It also raises questions about fiscal autonomy versus UK‑wide policy.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Proponents say the tax will raise revenue for public services and address housing inequality."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents warn it could discourage investment and hurt the property market."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning groups view it as a step toward progressive taxation."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
-    },
-    "exam_use": "Cite as evidence of devolved legislatures exercising fiscal powers in a comparative essay on UK devolution.",
-    "sources": [
-     "c81a153a043c"
-    ]
-   },
-   {
-    "title": "Elon Musk regrets $442m midterm spend",
+    "title": "Democrats secure Alaska Senate seat",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "Tesla CEO Elon Musk said he felt \"pretty foolish\" after spending $442 million on Republican campaigns in the 2026 midterm elections, which saw the GOP lose nine Senate seats. The spending did not prevent a Democratic majority.",
-    "why_it_matters": "The episode highlights the influence of private wealth on US elections and the limits of campaign spending, linking to the AQA US elections and parties topics. It also raises issues of political accountability.",
+    "what_happened": "Democrat Mary Peltola defeated Republican incumbent Dan Sullivan to win Alaska’s Senate seat. The victory gave Democrats a 56‑44 majority in the Senate.",
+    "why_it_matters": "The result changes the balance of power in the US Congress, affecting how legislation can be passed. It illustrates the impact of mid‑term elections on party control, a key A‑level topic.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Some say Musk’s spending reflects legitimate political participation by wealthy citizens."
+      "text": "Democrats say the win reflects voter demand for climate action and Indigenous rights, priorities of the new senator."
      },
      {
       "label": "Critics argue",
-      "text": "Others argue it demonstrates how money can distort democratic outcomes."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive voices view the spending as evidence for campaign finance reform."
-     }
-    ],
-    "key_term": {
-     "term": "Campaign finance",
-     "definition": "The fundraising and spending of money to influence election outcomes."
-    },
-    "exam_use": "Use to illustrate arguments about the role of money in US elections in an essay on electoral fairness.",
-    "sources": [
-     "75c12444c6ea"
-    ]
-   },
-   {
-    "title": "Democrat Mary Peltola wins Alaska Senate seat",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Mary Peltola, a Democrat, defeated incumbent Republican Dan Sullivan to win Alaska’s Senate seat, giving Democrats a 56‑44 majority in the Senate. The result was the final Senate race of the 2026 midterms.",
-    "why_it_matters": "The win shifts the balance of power in Congress, illustrating how individual races affect party control, a core AQA US politics concept. It also shows regional political dynamics.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Democrats celebrate the victory as a sign of growing appeal in traditionally Republican states."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Republicans claim the result reflects national anti‑incumbent sentiment rather than a lasting shift."
+      "text": "Republicans claim the loss shows a national swing against their economic policies."
      },
      {
       "label": "From the right",
-      "text": "Conservative analysts warn the loss could lead to more progressive legislation."
+      "text": "Conservatives warn the tighter Democratic majority could push progressive legislation faster."
      }
     ],
     "key_term": {
-     "term": "Senate majority",
-     "definition": "The party that holds more than half the seats in the US Senate, allowing it to control the agenda."
+     "term": "majority",
+     "definition": "Having more than half the seats, allowing a party to control votes."
     },
-    "exam_use": "Reference in an essay on how party control of Congress influences policy making.",
+    "exam_use": "Use as evidence of how electoral outcomes alter legislative dynamics in a comparative essay on US Congress.",
     "sources": [
      "931d76e03eb5"
     ]
    },
    {
-    "title": "Conservatives urge MPs to sign ECHR‑exit pledge",
-    "section": "ukgov",
-    "topic": "judiciary",
-    "what_happened": "Conservative MPs were asked to sign a pledge supporting the UK’s departure from the European Convention on Human Rights (ECHR). The move was reported on 18 November 2026.",
-    "why_it_matters": "The pledge touches on the relationship between domestic courts and international human‑rights law, linking to the AQA judiciary topic and debates over judicial sovereignty.",
+    "title": "Conservatives name London mayoral candidate",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "The Conservative Party selected former Home Secretary James Cleverly as its candidate for the 2028 London mayoral election. He won 86% support in a party membership vote.",
+    "why_it_matters": "The choice shows how party leadership influences candidate selection, a core concept in the study of political parties. It also highlights internal party democracy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say leaving the ECHR would restore parliamentary sovereignty over human‑rights issues."
+      "text": "Party members view Cleverly as a proven leader who can win back the mayoralty."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn it could weaken protections for citizens and damage the UK’s international reputation."
+      "text": "Opponents say the selection process favours establishment figures over grassroots voices."
      },
      {
       "label": "From the left",
-      "text": "Left‑wing groups view the pledge as an attack on civil liberties."
+      "text": "Labour supporters argue the candidate will continue Conservative policies that they oppose."
      }
     ],
     "key_term": {
-     "term": "Sovereignty",
-     "definition": "The authority of a state to govern itself without external interference."
+     "term": "candidate selection",
+     "definition": "The process by which a party chooses who will stand for election."
     },
-    "exam_use": "Use as evidence of tensions between domestic courts and international law in an essay on the UK judiciary.",
+    "exam_use": "Cite when discussing the role of party structures in candidate selection for a UK politics essay.",
     "sources": [
-     "8a5b5dd45da9"
+     "e481cf0ebb47"
     ]
    },
    {
-    "title": "Trump team asks Supreme Court to block TPS ruling",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The Trump administration filed a petition with the US Supreme Court seeking to overturn a lower‑court decision that kept Temporary Protected Status (TPS) for Venezuelan nationals in place. The request was made on 18 November 2026.",
-    "why_it_matters": "The case illustrates the Supreme Court’s role in reviewing executive actions and immigration policy, relevant to the AQA US courts and executive topics. It also raises questions about checks and balances.",
+    "title": "UK to supply Ukraine with long‑range drones",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Rishi Sunak announced the provision of 1,000 long‑range strike drones to Ukraine at a Berlin meeting of the Coalition of the Willing. The decision was part of a broader defence aid package.",
+    "why_it_matters": "The move demonstrates executive power in foreign policy and the use of the cabinet to coordinate defence commitments, linking to the A‑level study of the UK executive.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Administration officials claim the lower court overstepped its authority."
+      "text": "Proponents say the aid strengthens Ukraine’s defence and upholds UK values."
      },
      {
       "label": "Critics argue",
-      "text": "Immigration advocates say the move threatens vulnerable migrants."
+      "text": "Opponents warn it could deepen military involvement and strain public finances."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators view the petition as defending executive prerogative."
+      "text": "Conservatives stress the importance of supporting allies against aggression."
      }
     ],
     "key_term": {
-     "term": "Judicial review",
-     "definition": "The process by which courts examine the legality of actions by the executive or legislature."
+     "term": "executive power",
+     "definition": "Authority exercised by the Prime Minister and Cabinet to make policy decisions."
     },
-    "exam_use": "Cite in an essay on the separation of powers and the courts’ check on the executive.",
+    "exam_use": "Use as a case study of executive decision‑making in foreign affairs for a UK Government essay.",
+    "sources": [
+     "344f7429572d"
+    ]
+   },
+   {
+    "title": "Trump administration ends Supreme Court challenge",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The Trump administration withdrew its application to the Supreme Court seeking to block a lower‑court ruling that granted Temporary Protected Status to Venezuelan nationals. The withdrawal was reported on 19 Nov.",
+    "why_it_matters": "The episode highlights the interaction between the executive and judiciary, illustrating checks and balances—a key idea in the US Constitution unit.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Immigration advocates view the withdrawal as a win for humanitarian protection."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Immigration restrictionists claim the decision shows executive weakness."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressives see it as affirmation of judicial protection of vulnerable groups."
+     }
+    ],
+    "key_term": {
+     "term": "checks and balances",
+     "definition": "A system where each branch of government can limit the powers of the others."
+    },
+    "exam_use": "Reference when analysing judicial review of executive actions in a US Politics essay.",
     "sources": [
      "4c18689c8e8a"
+    ]
+   },
+   {
+    "title": "Welsh Conservatives clash with anti‑war activists",
+    "section": "ukpol",
+    "topic": "pressure",
+    "what_happened": "Welsh Conservative leader Martin Shipton reported a dispute with anti‑war campaigners after the party condemned a planned protest against rising military spending. The disagreement was covered on 19 Nov.",
+    "why_it_matters": "The incident illustrates how pressure groups attempt to influence party policy and public debate, a core topic in the study of interest groups.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The party says the protest undermines national security."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Activists argue the protest highlights unnecessary defence expenditure."
+     },
+     {
+      "label": "From the left",
+      "text": "Labour supporters view the clash as evidence of Conservative militarism."
+     }
+    ],
+    "key_term": {
+     "term": "pressure group",
+     "definition": "An organised group that seeks to influence public policy without seeking election."
+    },
+    "exam_use": "Use as evidence of pressure‑group tactics in a UK Politics essay on interest groups.",
+    "sources": [
+     "28adff591624"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "The Conservative Party’s selection of James Cleverly as London mayoral candidate shows internal party mechanisms shaping local elections.",
-   "us": "The 2026 US midterms resulted in a Democratic Senate majority after extensive private spending, highlighting the impact of campaign finance on national elections.",
-   "insight": "The contrast reveals that UK elections are heavily influenced by party structures, whereas US elections are more affected by individual donor spending and broader national swings.",
+   "uk": "The Conservatives are selecting a mayoral candidate ahead of the 2028 London election, showing internal party processes before a local election.",
+   "us": "Mid‑term Senate races, such as the Alaska contest, have shifted the balance of power in Congress, demonstrating how national elections can change legislative majorities.",
+   "insight": "Both systems show that election outcomes directly affect party control, but the UK example focuses on candidate selection within a party, whereas the US example reflects the final vote’s impact on national governance.",
    "sources": [
     "e481cf0ebb47",
-    "75c12444c6ea"
+    "931d76e03eb5"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "The Conservative push to leave the ECHR reflects a core conservative belief in national sovereignty and limited external constraints, echoing Edmund Burke’s emphasis on tradition and cautious reform.",
+   "ideology": "liberalism",
+   "text": "The US Senate’s new Democratic majority, highlighted by Mary Peltola’s win, aligns with liberal ideas of individual rights and government action to protect minorities, echoing John Locke’s emphasis on consent and protection of life, liberty and property.",
    "sources": [
-    "8a5b5dd45da9"
+    "931d76e03eb5"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party structures influence electoral outcomes in the UK and the US.",
-   "section": "ukpol | us",
-   "tip": "Compare the Conservative mayoral selection process with US campaign‑finance dynamics, using the Cleverly and Musk stories as evidence."
+   "question": "Assess the extent to which recent election outcomes have reshaped the balance of power in the US Senate and the UK Conservative Party’s candidate selection process.",
+   "section": "us | ukpol",
+   "tip": "Compare the impact of voter decisions on legislative control in the US with internal party mechanisms influencing candidate choice in the UK."
   }
  },
  "refs": {
-  "e481cf0ebb47": {
-   "id": "e481cf0ebb47",
-   "title": "Tories select James Cleverly as candidate for London mayor",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-19T11:53:11Z"
-  },
-  "c81a153a043c": {
-   "id": "c81a153a043c",
-   "title": "Scotland's 'mansion tax' law a step closer as bill published",
-   "link": "https://www.bbc.co.uk/news/articles/crgqx922qj20o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcscot",
-   "sourceName": "BBC Scotland",
-   "lean": "centre",
-   "date": "2026-11-19T14:08:53Z"
-  },
-  "75c12444c6ea": {
-   "id": "75c12444c6ea",
-   "title": "Musk on midterms spending: 'I feel pretty foolish'",
-   "link": "https://thehill.com/homenews/campaign/6229195-musk-regrets-gop-spending/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-19T01:11:24Z"
-  },
   "931d76e03eb5": {
    "id": "931d76e03eb5",
    "title": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
@@ -240,23 +184,41 @@
    "lean": "centre",
    "date": "2026-11-18T14:25:22Z"
   },
-  "8a5b5dd45da9": {
-   "id": "8a5b5dd45da9",
-   "title": "Tory MPs Told To Sign Pledge Supporting Leaving The ECHR",
-   "link": "https://www.politicshome.com/news/article/tory-mps-told-to-sign-echr-pledge",
-   "source": "politicshome",
-   "sourceName": "PoliticsHome",
+  "e481cf0ebb47": {
+   "id": "e481cf0ebb47",
+   "title": "Tories select James Cleverly as candidate for London mayor",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-19T11:53:11Z"
+  },
+  "344f7429572d": {
+   "id": "344f7429572d",
+   "title": "UK to provide Ukraine with 1,000 long-range strike drones",
+   "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
    "lean": "centre",
-   "date": "2026-11-18T20:00:00Z"
+   "date": "2026-11-19T17:59:01Z"
   },
   "4c18689c8e8a": {
    "id": "4c18689c8e8a",
-   "title": "Trump administration asks Supreme Court to block lower court ruling keeping protected status in place for Venezuelan nationals",
+   "title": "Trump administration withdraws application to Supreme Court to block lower court ruling on protected status for Venezuelan nationals",
    "link": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-block-lower-court-ruling-keeping-protected-status-in-/",
    "source": "scotusblog",
    "sourceName": "SCOTUSblog",
    "lean": "non-partisan",
-   "date": "2026-11-18T23:36:34Z"
+   "date": "2026-11-19T21:35:00Z"
+  },
+  "28adff591624": {
+   "id": "28adff591624",
+   "title": "Tories clash with peace activists over anti-war demo",
+   "link": "https://nation.cymru/news/tories-clash-with-peace-activists-over-anti-war-demo/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-19T13:54:47Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
