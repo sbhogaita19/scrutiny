@@ -1,181 +1,227 @@
 {
- "generated_at": "2026-11-19T04:11:53Z",
+ "generated_at": "2026-11-19T14:25:55Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, EU talks and human‑rights pledges dominate politics",
-  "overview": "The US midterm election sees huge spending by Elon Musk, while the UK prime minister prepares new EU relationship options. In Westminster, Conservative MPs are urged to sign a pledge to leave the ECHR, sparking debate over Britain’s human‑rights commitments.",
+  "headline": "Midterms, mayoral bids and devolution debates dominate politics",
+  "overview": "The US midterm elections saw massive spending and a shift in Senate control, while the UK Conservatives selected a London mayoral candidate and Wales and Scotland debated devolution‑related policies. Both sides of each issue present clear arguments.",
   "stories": [
    {
-    "title": "Musk admits costly midterm spending",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Elon Musk said he feels \"pretty foolish\" after spending $442 million supporting Republican candidates in the 2026 US midterm elections. The Republicans won a large majority in the House of Representatives.",
-    "why_it_matters": "The story illustrates the influence of private money on electoral outcomes, a key issue in the A‑level study of US elections and campaign finance. It also raises questions about the balance of power between wealthy donors and democratic equality.",
+    "title": "Conservatives pick London mayoral candidate",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "The Conservative Party chose former Home Secretary James Cleverly as its candidate for the 2028 London mayoral election, winning 86% support in a membership vote. The selection was announced on 19 November 2026.",
+    "why_it_matters": "The choice illustrates party leadership selection processes and the role of the executive in shaping local government, linking to the AQA topics of the Prime Minister, Cabinet and elections. It also shows how party structures influence candidate selection.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Musk claims his spending was a legitimate exercise of free speech and a way to support policies he favours."
+      "text": "Party members say Cleverly’s experience will boost the Conservatives’ chances in a city that has voted Labour since 2016."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents say such large donations distort the political process and undermine fair competition."
+      "text": "Opponents claim the selection favours establishment figures and ignores grassroots concerns about housing and transport."
      },
      {
-      "label": "From the left",
-      "text": "Progressive commentators warn that billionaire influence entrenches inequality."
+      "label": "From the right",
+      "text": "Right‑leaning commentators praise Cleverly’s law‑and‑order record as essential for London’s safety."
      }
     ],
     "key_term": {
-     "term": "campaign finance",
-     "definition": "Money raised and spent to influence the outcome of elections."
+     "term": "Candidate selection",
+     "definition": "The internal party process by which a person is chosen to stand for election."
     },
-    "exam_use": "Use as evidence in an essay on the impact of money on US elections, discussing arguments for and against regulation of political donations.",
+    "exam_use": "Use as evidence of how party mechanisms affect executive influence in an essay on the relationship between parties and the executive.",
+    "sources": [
+     "e481cf0ebb47"
+    ]
+   },
+   {
+    "title": "Scotland proposes mansion‑tax increase",
+    "section": "ukpol",
+    "topic": "parliament",
+    "what_happened": "Holyrood ministers published a bill to raise council tax on homes valued over £1 million, describing it as a ‘mansion tax’. The proposal moves forward in the Scottish Parliament.",
+    "why_it_matters": "The bill demonstrates devolution in action, showing how the Scottish Parliament can legislate on taxation, a key element of the AQA devolution topic. It also raises questions about fiscal autonomy versus UK‑wide policy.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Proponents say the tax will raise revenue for public services and address housing inequality."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warn it could discourage investment and hurt the property market."
+     },
+     {
+      "label": "From the left",
+      "text": "Left‑leaning groups view it as a step toward progressive taxation."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The transfer of powers from the central UK government to Scotland, Wales and Northern Ireland."
+    },
+    "exam_use": "Cite as evidence of devolved legislatures exercising fiscal powers in a comparative essay on UK devolution.",
+    "sources": [
+     "c81a153a043c"
+    ]
+   },
+   {
+    "title": "Elon Musk regrets $442m midterm spend",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Tesla CEO Elon Musk said he felt \"pretty foolish\" after spending $442 million on Republican campaigns in the 2026 midterm elections, which saw the GOP lose nine Senate seats. The spending did not prevent a Democratic majority.",
+    "why_it_matters": "The episode highlights the influence of private wealth on US elections and the limits of campaign spending, linking to the AQA US elections and parties topics. It also raises issues of political accountability.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Some say Musk’s spending reflects legitimate political participation by wealthy citizens."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Others argue it demonstrates how money can distort democratic outcomes."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive voices view the spending as evidence for campaign finance reform."
+     }
+    ],
+    "key_term": {
+     "term": "Campaign finance",
+     "definition": "The fundraising and spending of money to influence election outcomes."
+    },
+    "exam_use": "Use to illustrate arguments about the role of money in US elections in an essay on electoral fairness.",
     "sources": [
      "75c12444c6ea"
     ]
    },
    {
-    "title": "Burnham to outline long‑term EU relationship",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham announced he will publish options for the UK’s future relationship with the EU alongside his ten‑year economic plan. The announcement follows calls from Labour figures to consider re‑joining the EU.",
-    "why_it_matters": "The move touches on the constitutional role of the executive in shaping foreign policy and the political debate over Brexit’s legacy, both covered in the UK Government specification.",
+    "title": "Democrat Mary Peltola wins Alaska Senate seat",
+    "section": "us",
+    "topic": "us-parties",
+    "what_happened": "Mary Peltola, a Democrat, defeated incumbent Republican Dan Sullivan to win Alaska’s Senate seat, giving Democrats a 56‑44 majority in the Senate. The result was the final Senate race of the 2026 midterms.",
+    "why_it_matters": "The win shifts the balance of power in Congress, illustrating how individual races affect party control, a core AQA US politics concept. It also shows regional political dynamics.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑EU politicians say the options will restore trade benefits and strengthen the UK’s global standing."
+      "text": "Democrats celebrate the victory as a sign of growing appeal in traditionally Republican states."
      },
      {
       "label": "Critics argue",
-      "text": "Brexit supporters warn that any move toward the EU could undermine sovereignty and the 2016 referendum result."
+      "text": "Republicans claim the result reflects national anti‑incumbent sentiment rather than a lasting shift."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators view the proposal as a betrayal of the Brexit mandate."
+      "text": "Conservative analysts warn the loss could lead to more progressive legislation."
      }
     ],
     "key_term": {
-     "term": "executive prerogative",
-     "definition": "The powers exercised by the Prime Minister and Cabinet without needing parliamentary approval."
+     "term": "Senate majority",
+     "definition": "The party that holds more than half the seats in the US Senate, allowing it to control the agenda."
     },
-    "exam_use": "Cite when discussing the executive’s role in foreign policy and the political implications of Brexit in a UK Government essay.",
+    "exam_use": "Reference in an essay on how party control of Congress influences policy making.",
     "sources": [
-     "821a6ce90ace"
+     "931d76e03eb5"
     ]
    },
    {
-    "title": "Conservative MPs urged to sign ECHR pledge",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The Conservative Party has asked its MPs to sign a pledge supporting the UK’s departure from the European Convention on Human Rights. The move follows pressure from right‑wing factions within the party.",
-    "why_it_matters": "The pledge raises issues of party discipline, human‑rights law, and the relationship between domestic and supranational legal frameworks, all relevant to the A‑level study of political parties and rights.",
+    "title": "Conservatives urge MPs to sign ECHR‑exit pledge",
+    "section": "ukgov",
+    "topic": "judiciary",
+    "what_happened": "Conservative MPs were asked to sign a pledge supporting the UK’s departure from the European Convention on Human Rights (ECHR). The move was reported on 18 November 2026.",
+    "why_it_matters": "The pledge touches on the relationship between domestic courts and international human‑rights law, linking to the AQA judiciary topic and debates over judicial sovereignty.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents claim leaving the ECHR will restore parliamentary sovereignty over human‑rights legislation."
+      "text": "Proponents say leaving the ECHR would restore parliamentary sovereignty over human‑rights issues."
      },
      {
       "label": "Critics argue",
-      "text": "Human‑rights groups warn it could weaken protections for minorities and breach international obligations."
+      "text": "Opponents warn it could weaken protections for citizens and damage the UK’s international reputation."
      },
      {
       "label": "From the left",
-      "text": "Labour politicians view the pledge as an attack on civil liberties."
+      "text": "Left‑wing groups view the pledge as an attack on civil liberties."
      }
     ],
     "key_term": {
-     "term": "sovereignty",
-     "definition": "The supreme authority of a state to govern itself without external interference."
+     "term": "Sovereignty",
+     "definition": "The authority of a state to govern itself without external interference."
     },
-    "exam_use": "Use as evidence when evaluating how parties influence constitutional change and rights policy in a UK Politics essay.",
+    "exam_use": "Use as evidence of tensions between domestic courts and international law in an essay on the UK judiciary.",
     "sources": [
      "8a5b5dd45da9"
     ]
    },
    {
-    "title": "Bernie Sanders plans Medicare for All push",
+    "title": "Trump team asks Supreme Court to block TPS ruling",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Senator Bernie Sanders announced he will use his chair of a powerful Senate committee to advance legislation for Medicare for All once Democrats control Congress. The proposal will test the party’s ability to deliver on progressive promises.",
-    "why_it_matters": "The story highlights the role of party leadership and legislative agenda‑setting in US politics, linking to the A‑level focus on Congress and party dynamics.",
+    "topic": "us-courts",
+    "what_happened": "The Trump administration filed a petition with the US Supreme Court seeking to overturn a lower‑court decision that kept Temporary Protected Status (TPS) for Venezuelan nationals in place. The request was made on 18 November 2026.",
+    "why_it_matters": "The case illustrates the Supreme Court’s role in reviewing executive actions and immigration policy, relevant to the AQA US courts and executive topics. It also raises questions about checks and balances.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Progressives say universal healthcare is a moral imperative and a cornerstone of social justice."
+      "text": "Administration officials claim the lower court overstepped its authority."
      },
      {
       "label": "Critics argue",
-      "text": "Conservatives contend the plan would be financially unsustainable and expand government overreach."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑wing analysts view the move as a chance to reshape the US welfare state."
-     }
-    ],
-    "key_term": {
-     "term": "legislative agenda",
-     "definition": "The set of policies and bills a party or leader prioritises for passage."
-    },
-    "exam_use": "Reference when discussing how party control of Congress affects policy outcomes in a US Politics essay.",
-    "sources": [
-     "d73eb2790774"
-    ]
-   },
-   {
-    "title": "Reform UK leader cleared of assault",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "Gwent Police dropped the criminal investigation into former Reform UK Wales leader Dan Thomas after his arrest in September. The decision was announced amid ongoing political tensions in the Senedd.",
-    "why_it_matters": "The case illustrates how pressure groups and minor parties interact with devolved institutions, a topic in the UK Politics specification on devolution and political parties.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Reform UK supporters claim the investigation was politically motivated."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents argue the drop may undermine accountability for public figures."
+      "text": "Immigration advocates say the move threatens vulnerable migrants."
      },
      {
       "label": "From the right",
-      "text": "Right‑wing commentators see the outcome as a vindication of the party’s stance against establishment bias."
+      "text": "Conservative commentators view the petition as defending executive prerogative."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional bodies."
+     "term": "Judicial review",
+     "definition": "The process by which courts examine the legality of actions by the executive or legislature."
     },
-    "exam_use": "Use to illustrate the challenges faced by smaller parties within devolved legislatures in an essay on devolution.",
+    "exam_use": "Cite in an essay on the separation of powers and the courts’ check on the executive.",
     "sources": [
-     "8f2f64da2b3f"
+     "4c18689c8e8a"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "The UK is preparing for a general election later in the year, with parties debating EU relations and human‑rights policy as key campaign issues.",
-   "us": "The US midterm elections have just concluded, with significant private spending influencing the Republican sweep of the House.",
-   "insight": "The contrast shows the UK’s parliamentary system centres on party platforms and constitutional debates, while the US system highlights the impact of individual donors and separate‑branch competition.",
+   "uk": "The Conservative Party’s selection of James Cleverly as London mayoral candidate shows internal party mechanisms shaping local elections.",
+   "us": "The 2026 US midterms resulted in a Democratic Senate majority after extensive private spending, highlighting the impact of campaign finance on national elections.",
+   "insight": "The contrast reveals that UK elections are heavily influenced by party structures, whereas US elections are more affected by individual donor spending and broader national swings.",
    "sources": [
-    "821a6ce90ace",
+    "e481cf0ebb47",
     "75c12444c6ea"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Musk’s spending raises liberal questions about the balance between free‑speech rights for donors and the liberal principle of equal political participation. Sanders’ Medicare for All push reflects liberalism’s emphasis on individual rights to health and equality before the law.",
+   "ideology": "conservatism",
+   "text": "The Conservative push to leave the ECHR reflects a core conservative belief in national sovereignty and limited external constraints, echoing Edmund Burke’s emphasis on tradition and cautious reform.",
    "sources": [
-    "75c12444c6ea",
-    "d73eb2790774"
+    "8a5b5dd45da9"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which private money influences electoral outcomes in the United States and the United Kingdom.",
-   "section": "us | ukpol",
-   "tip": "Compare the US midterm spending case with UK party funding rules and discuss how each system’s constitutional arrangements shape the impact of money on elections."
+   "question": "Assess the extent to which party structures influence electoral outcomes in the UK and the US.",
+   "section": "ukpol | us",
+   "tip": "Compare the Conservative mayoral selection process with US campaign‑finance dynamics, using the Cleverly and Musk stories as evidence."
   }
  },
  "refs": {
+  "e481cf0ebb47": {
+   "id": "e481cf0ebb47",
+   "title": "Tories select James Cleverly as candidate for London mayor",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-19T11:53:11Z"
+  },
+  "c81a153a043c": {
+   "id": "c81a153a043c",
+   "title": "Scotland's 'mansion tax' law a step closer as bill published",
+   "link": "https://www.bbc.co.uk/news/articles/crgqx922qj20o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcscot",
+   "sourceName": "BBC Scotland",
+   "lean": "centre",
+   "date": "2026-11-19T14:08:53Z"
+  },
   "75c12444c6ea": {
    "id": "75c12444c6ea",
    "title": "Musk on midterms spending: 'I feel pretty foolish'",
@@ -185,14 +231,14 @@
    "lean": "centre",
    "date": "2026-11-19T01:11:24Z"
   },
-  "821a6ce90ace": {
-   "id": "821a6ce90ace",
-   "title": "Burnham to set out options next month for long-term EU relationship",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "931d76e03eb5": {
+   "id": "931d76e03eb5",
+   "title": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
+   "link": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-17T23:40:58Z"
+   "date": "2026-11-18T14:25:22Z"
   },
   "8a5b5dd45da9": {
    "id": "8a5b5dd45da9",
@@ -203,23 +249,14 @@
    "lean": "centre",
    "date": "2026-11-18T20:00:00Z"
   },
-  "d73eb2790774": {
-   "id": "d73eb2790774",
-   "title": "AP report: Bernie Sanders unveils how he'll push for Medicare for All when Democrats take power",
-   "link": "https://www.pbs.org/newshour/politics/ap-report-bernie-sanders-unveils-how-hell-push-for-medicare-for-all-when-democrats-take-power",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-18T22:38:31Z"
-  },
-  "8f2f64da2b3f": {
-   "id": "8f2f64da2b3f",
-   "title": "Police drop assault probe into former Reform UK Wales leader Dan Thomas",
-   "link": "https://nation.cymru/news/police-drop-assault-probe-into-former-reform-uk-wales-leader-dan-thomas/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-17T20:40:36Z"
+  "4c18689c8e8a": {
+   "id": "4c18689c8e8a",
+   "title": "Trump administration asks Supreme Court to block lower court ruling keeping protected status in place for Venezuelan nationals",
+   "link": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-block-lower-court-ruling-keeping-protected-status-in-/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-11-18T23:36:34Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
