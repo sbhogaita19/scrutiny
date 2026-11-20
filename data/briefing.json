@@ -1,224 +1,262 @@
 {
- "generated_at": "2026-11-20T03:58:25Z",
+ "generated_at": "2026-11-20T14:00:23Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, UK mayoral race and EU‑UK defence talks dominate headlines",
-  "overview": "US midterm results and campaign spending are shaping the political landscape, while the Conservatives have chosen a London mayoral candidate and Britain looks to Nordic models for crisis preparedness. Debates over EU relations and human‑rights commitments also feature.",
+  "headline": "Europe‑UK reset, US cyber chief, and shifting party dynamics dominate",
+  "overview": "Britain’s new EU deal and a Senedd renovation debate highlight devolution and parliamentary scrutiny. In the US, a cyber‑security appointment and changing Republican poll numbers show executive and electoral pressures.",
   "stories": [
    {
-    "title": "Conservatives pick London mayoral candidate",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The Conservative Party selected former Home Secretary James Cleverly as its candidate for the 2028 London mayoral election, winning 86% support in a membership vote. The decision was announced after a contested selection process.",
-    "why_it_matters": "The story illustrates party organisation and candidate selection, a key part of the AQA unit on Political parties. It also shows how internal party democracy can affect electoral strategy.",
+    "title": "Burnham secures EU reset deal",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Prime Minister Andy Burnham announced a landmark agreement with the EU covering food, drink, emissions trading and youth mobility. The deal was presented as a \"reset\" of post‑Brexit relations.",
+    "why_it_matters": "The story illustrates the executive’s role in foreign policy and the limits of parliamentary oversight, key for the AQA unit on the UK Constitution. It also shows how the UK government can shape the country's international standing.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Party members say Cleverly’s experience will boost the Conservatives’ chances in a city that has leaned Labour."
+      "text": "Burnham’s team says the deal restores economic stability and strengthens the UK’s global influence."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim the choice reflects a lack of fresh talent and may alienate younger voters."
+      "text": "Opposition MPs claim the agreement compromises UK sovereignty and lacks parliamentary scrutiny."
      },
      {
       "label": "From the right",
-      "text": "Right‑leaning commentators praise the focus on law‑and‑order credentials."
+      "text": "Conservative commentators warn the deal may lock the UK into EU regulations without a vote."
      }
     ],
     "key_term": {
-     "term": "candidate selection",
-     "definition": "The process by which a political party chooses who will stand for election."
+     "term": "Executive power",
+     "definition": "The authority of the Prime Minister and Cabinet to make policy decisions, especially in foreign affairs."
     },
-    "exam_use": "Use as evidence of how party structures influence electoral outcomes in an essay on the role of parties.",
+    "exam_use": "Use as evidence of how the executive can negotiate international agreements and the constitutional debate over parliamentary control.",
     "sources": [
-     "e481cf0ebb47"
+     "71c26b19046c"
     ]
    },
    {
-    "title": "White House pushes back on congressional probes",
+    "title": "Senedd office block renovation sparks concern",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Welsh Conservatives and Reform Party members questioned a £42 million plan to refurbish the Senedd’s office block after the budget was approved. Critics say the spending is excessive.",
+    "why_it_matters": "The case highlights devolution, showing how the Welsh Assembly manages its own finances and the checks on executive spending, relevant to the AQA devolution topic.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Welsh officials say the upgrade is needed for efficient parliamentary work."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opposition members argue the money could be better spent on public services."
+     },
+     {
+      "label": "From the left",
+      "text": "Labour voices worry the project reflects a lack of accountability in devolved budgets."
+     }
+    ],
+    "key_term": {
+     "term": "Devolution",
+     "definition": "The transfer of powers from the central UK government to regional bodies such as the Welsh Senedd."
+    },
+    "exam_use": "Cite as an example of devolved institutions exercising fiscal autonomy and facing political scrutiny.",
+    "sources": [
+     "ea3c02d0d988"
+    ]
+   },
+   {
+    "title": "Labour MP rejects EU re‑entry and electoral reform",
+    "section": "ukpol",
+    "topic": "parliament",
+    "what_happened": "MP Jonathan Hinder defended the police, opposed re‑joining the EU and dismissed electoral reform as a middle‑class hobby. He criticised Labour leader Andy Burnham’s EU stance.",
+    "why_it_matters": "Shows how individual MPs use parliamentary debate to shape party policy on democracy and participation, a core AQA theme.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Hinder’s supporters say his stance protects national security and reflects voter priorities."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Labour activists argue his view blocks progressive reforms and EU cooperation."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive commentators see his opposition to electoral reform as protecting the status quo."
+     }
+    ],
+    "key_term": {
+     "term": "Parliamentary sovereignty",
+     "definition": "The principle that Parliament can make or repeal any law without legal restraint."
+    },
+    "exam_use": "Use to illustrate how backbench MPs influence party positions on constitutional issues.",
+    "sources": [
+     "0e4de2dc5e36"
+    ]
+   },
+   {
+    "title": "Reform UK wins Risca East by‑election",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "A Reform UK candidate, backed by a supporter of far‑right activist Tommy Robinson, won a landslide victory in the Risca East council by‑election. The result was seen as a protest against mainstream parties.",
+    "why_it_matters": "Provides a case study of voter behaviour, party competition and the impact of fringe parties on the UK electoral system, all covered in the AQA elections syllabus.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Reform UK claims the win shows demand for anti‑establishment policies."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Mainstream parties warn the result signals growing extremist influence."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators view it as a warning that traditional voters are drifting left."
+     }
+    ],
+    "key_term": {
+     "term": "First‑past‑the‑post",
+     "definition": "An electoral system where the candidate with the most votes wins, without needing a majority."
+    },
+    "exam_use": "Reference when discussing how FPTP can produce disproportionate outcomes for smaller parties.",
+    "sources": [
+     "83880d0fa5ee"
+    ]
+   },
+   {
+    "title": "White House appoints new cyber director",
     "section": "us",
     "topic": "president",
-    "what_happened": "White House counsel Will Scharf told incoming Democratic committee chairs that the executive branch is under no obligation to respond to their letters, signalling resistance to congressional investigations. This follows heightened tensions between the White House and Congress.",
-    "why_it_matters": "The episode highlights the constitutional separation of powers and executive privilege, core to the US Constitution topic. It also shows the political dynamics of oversight.",
+    "what_happened": "President’s office named Kirsten Davies as the national cyber director after a series of nationwide service outages. She will lead the federal response to cyber threats.",
+    "why_it_matters": "Illustrates the executive’s role in national security and the growing importance of cyber policy, linking to the US Constitution’s allocation of powers to the President.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The administration claims executive privilege protects national security and efficient governance."
+      "text": "Tech experts praise the appointment as a needed step to protect critical infrastructure."
      },
      {
       "label": "Critics argue",
-      "text": "Congressional leaders argue the stance undermines accountability and checks and balances."
+      "text": "Privacy advocates warn increased surveillance could infringe civil liberties."
      },
      {
       "label": "From the left",
-      "text": "Progressive voices see this as an attempt to shield wrongdoing from scrutiny."
+      "text": "Progressive groups question the lack of congressional oversight on cyber operations."
      }
     ],
     "key_term": {
-     "term": "executive privilege",
-     "definition": "The right of the president and executive officials to withhold information from Congress."
+     "term": "Executive authority",
+     "definition": "The powers granted to the President to enforce laws and direct national policy."
     },
-    "exam_use": "Cite as a contemporary example of executive‑legislative conflict in a constitutional essay.",
+    "exam_use": "Use as evidence of how the US executive responds to emerging security challenges within constitutional limits.",
     "sources": [
-     "b9376caede4e"
+     "e399ad94c79d"
     ]
    },
    {
-    "title": "Trump administration withdraws Supreme Court petition",
+    "title": "Republicans favour Rubio over Vance in polls",
     "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The Trump administration withdrew its application to the Supreme Court seeking to block a lower‑court ruling that granted Temporary Protected Status to Venezuelan nationals. The move ends a legal battle over the program.",
-    "why_it_matters": "The case illustrates judicial review and the role of courts in immigration policy, linking to the US Courts topic. It also shows how political actors use litigation strategically.",
+    "topic": "us-parties",
+    "what_happened": "New polling shows Republican voters shifting support from Vice‑President Mike Vance to Secretary of State Marco Rubio ahead of the 2028 presidential election. Analysts cite foreign‑policy credibility as a factor.",
+    "why_it_matters": "Shows intra‑party dynamics and the role of public opinion in candidate selection, relevant to AQA study of US parties and elections.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Advocates for the withdrawal say it respects the lower court’s humanitarian decision."
+      "text": "Rubio’s supporters claim his experience makes him a stronger contender against Democrats."
      },
      {
       "label": "Critics argue",
-      "text": "Immigration restrictionists claim the withdrawal abandons national security concerns."
+      "text": "Vance’s backers warn the shift reflects short‑term media hype rather than policy substance."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators view the retreat as a political loss for the administration."
+      "text": "Conservative pundits argue the move signals a desire for a more traditional foreign‑policy stance."
      }
     ],
     "key_term": {
-     "term": "judicial review",
-     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
+     "term": "Primary election",
+     "definition": "A preliminary election in which party members select their candidate for the general election."
     },
-    "exam_use": "Use to discuss how courts can shape policy outcomes in a US courts essay.",
+    "exam_use": "Cite when analysing how US parties manage leadership contests and voter preferences.",
     "sources": [
-     "4c18689c8e8a"
-    ]
-   },
-   {
-    "title": "UK to supply Ukraine with long‑range drones",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Rishi Sunak announced that Britain will provide Ukraine with 1,000 long‑range strike drones during a meeting of the Coalition of the Willing in Berlin. The commitment was made as part of ongoing military aid.",
-    "why_it_matters": "The announcement shows the executive’s role in foreign policy and defence, relevant to the PM & Cabinet topic. It also raises questions about parliamentary oversight of military spending.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Pro‑defence groups say the aid strengthens Ukraine’s ability to resist aggression."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Anti‑war activists warn the weapons could prolong conflict and risk escalation."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour critics argue the government should prioritise domestic needs before foreign aid."
-     }
-    ],
-    "key_term": {
-     "term": "executive foreign policy",
-     "definition": "Decisions on international relations made by the prime minister and cabinet."
-    },
-    "exam_use": "Reference when analysing the balance of power between the executive and Parliament in a UK government essay.",
-    "sources": [
-     "344f7429572d"
-    ]
-   },
-   {
-    "title": "Britain looks to Nordic models for crisis prep",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Minister Dan Jarvis told Politico Europe that the UK is \"playing catch up\" with Norway on preparing citizens for emergencies, suggesting adoption of measures like weekly food and water reserves. He highlighted the need for better crisis planning.",
-    "why_it_matters": "The statement reflects ministerial responsibility for national security and public preparedness, linking to the PM & Cabinet topic. It also touches on devolution as regional approaches may differ.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Policy analysts say learning from Norway can improve UK resilience."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents claim the focus diverts resources from other priorities."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative voices stress the importance of self‑reliance and preparedness."
-     }
-    ],
-    "key_term": {
-     "term": "ministerial responsibility",
-     "definition": "The duty of government ministers to manage their departments and be accountable to Parliament."
-    },
-    "exam_use": "Use as a case study of executive action on public safety in a UK government essay.",
-    "sources": [
-     "2c6d32f3206e"
+     "8aeecefde111"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK prime minister leads the executive, appoints the cabinet and directs foreign policy, but must retain the confidence of Parliament.",
-   "us": "The US president heads the executive, commands the military and conducts foreign policy, yet is checked by Congress and the courts.",
-   "insight": "Both systems concentrate power in a single leader, but the UK executive is more dependent on parliamentary support, whereas the US executive has constitutional checks independent of the legislature.",
+   "theme": "elections",
+   "uk": "The Reform UK win in Risca East shows how first‑past‑the‑post can allow a small party to capture a council seat with concentrated local support.",
+   "us": "Republican polling shifts toward Rubio illustrate how primary polling influences candidate selection before a national election.",
+   "insight": "Both cases highlight how party competition and voter sentiment shape outcomes, but the UK’s FPTP system can produce sudden seat gains, whereas the US relies on internal party polls to steer primary choices.",
    "sources": [
-    "b9376caede4e",
-    "2c6d32f3206e"
+    "83880d0fa5ee",
+    "8aeecefde111"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "The Conservative push to supply drones to Ukraine reflects a traditionalist emphasis on national security and a strong state, echoing Edmund Burke’s view that government must preserve order. Critics argue this conflicts with conservative fiscal restraint.",
+   "ideology": "liberalism",
+   "text": "Kirsten Davies’ cyber‑director role reflects liberalism’s emphasis on protecting individual rights while promoting technological progress; thinkers such as John Stuart Mill argue that state intervention is justified when it safeguards liberty from new threats.",
    "sources": [
-    "344f7429572d"
+    "e399ad94c79d"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the executive can act independently of Parliament in the UK and the US, using recent examples.",
+   "question": "Assess the extent to which the executive can shape foreign or security policy in the UK and the US, using recent examples.",
    "section": "ukgov | us",
-   "tip": "Compare the UK prime minister’s defence commitment to Ukraine with the US president’s refusal to cooperate with congressional investigations."
+   "tip": "Compare Burnham’s EU deal with the US appointment of a cyber director, focusing on constitutional powers and parliamentary or congressional oversight."
   }
  },
  "refs": {
-  "e481cf0ebb47": {
-   "id": "e481cf0ebb47",
-   "title": "Tories select James Cleverly as candidate for London mayor",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
+  "71c26b19046c": {
+   "id": "71c26b19046c",
+   "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
+   "link": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-19T11:53:11Z"
+   "date": "2026-11-20T12:42:08Z"
   },
-  "b9376caede4e": {
-   "id": "b9376caede4e",
-   "title": "Live updates: White House pushes back against probes; Democrats pick Jeffries as Speaker",
-   "link": "https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/",
+  "ea3c02d0d988": {
+   "id": "ea3c02d0d988",
+   "title": "Concerns over £42m Senedd office block renovation as parliament's budget passed",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr1xjz6r15o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
+   "lean": "centre",
+   "date": "2026-11-20T11:57:59Z"
+  },
+  "0e4de2dc5e36": {
+   "id": "0e4de2dc5e36",
+   "title": "Labour MP Jonathan Hinder: Rejoining The EU \"Dissolves On Contact\" With Reality",
+   "link": "https://www.politicshome.com/news/article/labour-mp-jonathan-hinder-rejoining-eu-dissolves-contact-reality",
+   "source": "politicshome",
+   "sourceName": "PoliticsHome",
+   "lean": "centre",
+   "date": "2026-11-20T10:00:00Z"
+  },
+  "83880d0fa5ee": {
+   "id": "83880d0fa5ee",
+   "title": "‘Tommy Robinson’ fan wins Risca East by-election for Reform",
+   "link": "https://nation.cymru/news/tommy-robinson-fan-wins-risca-east-by-election-for-reform/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-20T13:20:27Z"
+  },
+  "e399ad94c79d": {
+   "id": "e399ad94c79d",
+   "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
+   "link": "https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-20T13:43:58Z"
+  },
+  "8aeecefde111": {
+   "id": "8aeecefde111",
+   "title": "Republicans shift from Vance to Rubio in new 2028 polling: Join the live discussion",
+   "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6232602-gop-shift-2028-presidential-race-marco-rubio-jd-vance-discussion/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-18T20:31:38Z"
-  },
-  "4c18689c8e8a": {
-   "id": "4c18689c8e8a",
-   "title": "Trump administration withdraws application to Supreme Court to block lower court ruling on protected status for Venezuelan nationals",
-   "link": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-block-lower-court-ruling-keeping-protected-status-in-/",
-   "source": "scotusblog",
-   "sourceName": "SCOTUSblog",
-   "lean": "non-partisan",
-   "date": "2026-11-19T21:35:00Z"
-  },
-  "344f7429572d": {
-   "id": "344f7429572d",
-   "title": "UK to provide Ukraine with 1,000 long-range strike drones",
-   "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-11-19T17:59:01Z"
-  },
-  "2c6d32f3206e": {
-   "id": "2c6d32f3206e",
-   "title": "UK ‘playing catch up’ with Nordic countries on crisis preparations, says minister",
-   "link": "https://www.politico.eu/article/uk-catch-up-nordic-countries-crisis-preparation-dan-jarvis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
-   "lean": "centre",
-   "date": "2026-11-20T03:00:00Z"
+   "date": "2026-11-20T13:32:11Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
