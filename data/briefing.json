@@ -1,189 +1,180 @@
 {
- "generated_at": "2026-11-19T22:40:26Z",
+ "generated_at": "2026-11-20T03:58:25Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Midterms, mayoral bids and UK defence aid dominate politics",
-  "overview": "US mid‑term results reshape Congress, the Conservatives pick a new London mayoral candidate, and Britain announces long‑range drones for Ukraine. These developments touch on elections, party politics and executive decision‑making.",
+  "headline": "Midterms, UK mayoral race and EU‑UK defence talks dominate headlines",
+  "overview": "US midterm results and campaign spending are shaping the political landscape, while the Conservatives have chosen a London mayoral candidate and Britain looks to Nordic models for crisis preparedness. Debates over EU relations and human‑rights commitments also feature.",
   "stories": [
    {
-    "title": "Democrats secure Alaska Senate seat",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Democrat Mary Peltola defeated Republican incumbent Dan Sullivan to win Alaska’s Senate seat. The victory gave Democrats a 56‑44 majority in the Senate.",
-    "why_it_matters": "The result changes the balance of power in the US Congress, affecting how legislation can be passed. It illustrates the impact of mid‑term elections on party control, a key A‑level topic.",
+    "title": "Conservatives pick London mayoral candidate",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "The Conservative Party selected former Home Secretary James Cleverly as its candidate for the 2028 London mayoral election, winning 86% support in a membership vote. The decision was announced after a contested selection process.",
+    "why_it_matters": "The story illustrates party organisation and candidate selection, a key part of the AQA unit on Political parties. It also shows how internal party democracy can affect electoral strategy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats say the win reflects voter demand for climate action and Indigenous rights, priorities of the new senator."
+      "text": "Party members say Cleverly’s experience will boost the Conservatives’ chances in a city that has leaned Labour."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans claim the loss shows a national swing against their economic policies."
+      "text": "Opponents claim the choice reflects a lack of fresh talent and may alienate younger voters."
      },
      {
       "label": "From the right",
-      "text": "Conservatives warn the tighter Democratic majority could push progressive legislation faster."
-     }
-    ],
-    "key_term": {
-     "term": "majority",
-     "definition": "Having more than half the seats, allowing a party to control votes."
-    },
-    "exam_use": "Use as evidence of how electoral outcomes alter legislative dynamics in a comparative essay on US Congress.",
-    "sources": [
-     "931d76e03eb5"
-    ]
-   },
-   {
-    "title": "Conservatives name London mayoral candidate",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The Conservative Party selected former Home Secretary James Cleverly as its candidate for the 2028 London mayoral election. He won 86% support in a party membership vote.",
-    "why_it_matters": "The choice shows how party leadership influences candidate selection, a core concept in the study of political parties. It also highlights internal party democracy.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Party members view Cleverly as a proven leader who can win back the mayoralty."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents say the selection process favours establishment figures over grassroots voices."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour supporters argue the candidate will continue Conservative policies that they oppose."
+      "text": "Right‑leaning commentators praise the focus on law‑and‑order credentials."
      }
     ],
     "key_term": {
      "term": "candidate selection",
-     "definition": "The process by which a party chooses who will stand for election."
+     "definition": "The process by which a political party chooses who will stand for election."
     },
-    "exam_use": "Cite when discussing the role of party structures in candidate selection for a UK politics essay.",
+    "exam_use": "Use as evidence of how party structures influence electoral outcomes in an essay on the role of parties.",
     "sources": [
      "e481cf0ebb47"
+    ]
+   },
+   {
+    "title": "White House pushes back on congressional probes",
+    "section": "us",
+    "topic": "president",
+    "what_happened": "White House counsel Will Scharf told incoming Democratic committee chairs that the executive branch is under no obligation to respond to their letters, signalling resistance to congressional investigations. This follows heightened tensions between the White House and Congress.",
+    "why_it_matters": "The episode highlights the constitutional separation of powers and executive privilege, core to the US Constitution topic. It also shows the political dynamics of oversight.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The administration claims executive privilege protects national security and efficient governance."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Congressional leaders argue the stance undermines accountability and checks and balances."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive voices see this as an attempt to shield wrongdoing from scrutiny."
+     }
+    ],
+    "key_term": {
+     "term": "executive privilege",
+     "definition": "The right of the president and executive officials to withhold information from Congress."
+    },
+    "exam_use": "Cite as a contemporary example of executive‑legislative conflict in a constitutional essay.",
+    "sources": [
+     "b9376caede4e"
+    ]
+   },
+   {
+    "title": "Trump administration withdraws Supreme Court petition",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The Trump administration withdrew its application to the Supreme Court seeking to block a lower‑court ruling that granted Temporary Protected Status to Venezuelan nationals. The move ends a legal battle over the program.",
+    "why_it_matters": "The case illustrates judicial review and the role of courts in immigration policy, linking to the US Courts topic. It also shows how political actors use litigation strategically.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Advocates for the withdrawal say it respects the lower court’s humanitarian decision."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Immigration restrictionists claim the withdrawal abandons national security concerns."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators view the retreat as a political loss for the administration."
+     }
+    ],
+    "key_term": {
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
+    },
+    "exam_use": "Use to discuss how courts can shape policy outcomes in a US courts essay.",
+    "sources": [
+     "4c18689c8e8a"
     ]
    },
    {
     "title": "UK to supply Ukraine with long‑range drones",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Rishi Sunak announced the provision of 1,000 long‑range strike drones to Ukraine at a Berlin meeting of the Coalition of the Willing. The decision was part of a broader defence aid package.",
-    "why_it_matters": "The move demonstrates executive power in foreign policy and the use of the cabinet to coordinate defence commitments, linking to the A‑level study of the UK executive.",
+    "what_happened": "Prime Minister Rishi Sunak announced that Britain will provide Ukraine with 1,000 long‑range strike drones during a meeting of the Coalition of the Willing in Berlin. The commitment was made as part of ongoing military aid.",
+    "why_it_matters": "The announcement shows the executive’s role in foreign policy and defence, relevant to the PM & Cabinet topic. It also raises questions about parliamentary oversight of military spending.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the aid strengthens Ukraine’s defence and upholds UK values."
+      "text": "Pro‑defence groups say the aid strengthens Ukraine’s ability to resist aggression."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn it could deepen military involvement and strain public finances."
+      "text": "Anti‑war activists warn the weapons could prolong conflict and risk escalation."
      },
      {
-      "label": "From the right",
-      "text": "Conservatives stress the importance of supporting allies against aggression."
+      "label": "From the left",
+      "text": "Labour critics argue the government should prioritise domestic needs before foreign aid."
      }
     ],
     "key_term": {
-     "term": "executive power",
-     "definition": "Authority exercised by the Prime Minister and Cabinet to make policy decisions."
+     "term": "executive foreign policy",
+     "definition": "Decisions on international relations made by the prime minister and cabinet."
     },
-    "exam_use": "Use as a case study of executive decision‑making in foreign affairs for a UK Government essay.",
+    "exam_use": "Reference when analysing the balance of power between the executive and Parliament in a UK government essay.",
     "sources": [
      "344f7429572d"
     ]
    },
    {
-    "title": "Trump administration ends Supreme Court challenge",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The Trump administration withdrew its application to the Supreme Court seeking to block a lower‑court ruling that granted Temporary Protected Status to Venezuelan nationals. The withdrawal was reported on 19 Nov.",
-    "why_it_matters": "The episode highlights the interaction between the executive and judiciary, illustrating checks and balances—a key idea in the US Constitution unit.",
+    "title": "Britain looks to Nordic models for crisis prep",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Minister Dan Jarvis told Politico Europe that the UK is \"playing catch up\" with Norway on preparing citizens for emergencies, suggesting adoption of measures like weekly food and water reserves. He highlighted the need for better crisis planning.",
+    "why_it_matters": "The statement reflects ministerial responsibility for national security and public preparedness, linking to the PM & Cabinet topic. It also touches on devolution as regional approaches may differ.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Immigration advocates view the withdrawal as a win for humanitarian protection."
+      "text": "Policy analysts say learning from Norway can improve UK resilience."
      },
      {
       "label": "Critics argue",
-      "text": "Immigration restrictionists claim the decision shows executive weakness."
+      "text": "Opponents claim the focus diverts resources from other priorities."
      },
      {
-      "label": "From the left",
-      "text": "Progressives see it as affirmation of judicial protection of vulnerable groups."
+      "label": "From the right",
+      "text": "Conservative voices stress the importance of self‑reliance and preparedness."
      }
     ],
     "key_term": {
-     "term": "checks and balances",
-     "definition": "A system where each branch of government can limit the powers of the others."
+     "term": "ministerial responsibility",
+     "definition": "The duty of government ministers to manage their departments and be accountable to Parliament."
     },
-    "exam_use": "Reference when analysing judicial review of executive actions in a US Politics essay.",
+    "exam_use": "Use as a case study of executive action on public safety in a UK government essay.",
     "sources": [
-     "4c18689c8e8a"
-    ]
-   },
-   {
-    "title": "Welsh Conservatives clash with anti‑war activists",
-    "section": "ukpol",
-    "topic": "pressure",
-    "what_happened": "Welsh Conservative leader Martin Shipton reported a dispute with anti‑war campaigners after the party condemned a planned protest against rising military spending. The disagreement was covered on 19 Nov.",
-    "why_it_matters": "The incident illustrates how pressure groups attempt to influence party policy and public debate, a core topic in the study of interest groups.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The party says the protest undermines national security."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Activists argue the protest highlights unnecessary defence expenditure."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour supporters view the clash as evidence of Conservative militarism."
-     }
-    ],
-    "key_term": {
-     "term": "pressure group",
-     "definition": "An organised group that seeks to influence public policy without seeking election."
-    },
-    "exam_use": "Use as evidence of pressure‑group tactics in a UK Politics essay on interest groups.",
-    "sources": [
-     "28adff591624"
+     "2c6d32f3206e"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "The Conservatives are selecting a mayoral candidate ahead of the 2028 London election, showing internal party processes before a local election.",
-   "us": "Mid‑term Senate races, such as the Alaska contest, have shifted the balance of power in Congress, demonstrating how national elections can change legislative majorities.",
-   "insight": "Both systems show that election outcomes directly affect party control, but the UK example focuses on candidate selection within a party, whereas the US example reflects the final vote’s impact on national governance.",
+   "theme": "executives",
+   "uk": "The UK prime minister leads the executive, appoints the cabinet and directs foreign policy, but must retain the confidence of Parliament.",
+   "us": "The US president heads the executive, commands the military and conducts foreign policy, yet is checked by Congress and the courts.",
+   "insight": "Both systems concentrate power in a single leader, but the UK executive is more dependent on parliamentary support, whereas the US executive has constitutional checks independent of the legislature.",
    "sources": [
-    "e481cf0ebb47",
-    "931d76e03eb5"
+    "b9376caede4e",
+    "2c6d32f3206e"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The US Senate’s new Democratic majority, highlighted by Mary Peltola’s win, aligns with liberal ideas of individual rights and government action to protect minorities, echoing John Locke’s emphasis on consent and protection of life, liberty and property.",
+   "ideology": "conservatism",
+   "text": "The Conservative push to supply drones to Ukraine reflects a traditionalist emphasis on national security and a strong state, echoing Edmund Burke’s view that government must preserve order. Critics argue this conflicts with conservative fiscal restraint.",
    "sources": [
-    "931d76e03eb5"
+    "344f7429572d"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which recent election outcomes have reshaped the balance of power in the US Senate and the UK Conservative Party’s candidate selection process.",
-   "section": "us | ukpol",
-   "tip": "Compare the impact of voter decisions on legislative control in the US with internal party mechanisms influencing candidate choice in the UK."
+   "question": "Assess the extent to which the executive can act independently of Parliament in the UK and the US, using recent examples.",
+   "section": "ukgov | us",
+   "tip": "Compare the UK prime minister’s defence commitment to Ukraine with the US president’s refusal to cooperate with congressional investigations."
   }
  },
  "refs": {
-  "931d76e03eb5": {
-   "id": "931d76e03eb5",
-   "title": "Democrat Mary Peltola wins Alaska Senate seat, beating Republican incumbent Dan Sullivan",
-   "link": "https://www.pbs.org/newshour/politics/democrat-mary-peltola-wins-alaska-senate-seat-beating-republican-incumbent-dan-sullivan",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-18T14:25:22Z"
-  },
   "e481cf0ebb47": {
    "id": "e481cf0ebb47",
    "title": "Tories select James Cleverly as candidate for London mayor",
@@ -193,14 +184,14 @@
    "lean": "centre-left",
    "date": "2026-11-19T11:53:11Z"
   },
-  "344f7429572d": {
-   "id": "344f7429572d",
-   "title": "UK to provide Ukraine with 1,000 long-range strike drones",
-   "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
+  "b9376caede4e": {
+   "id": "b9376caede4e",
+   "title": "Live updates: White House pushes back against probes; Democrats pick Jeffries as Speaker",
+   "link": "https://thehill.com/policy/transportation/6226963-live-donald-trump-china-tech-outages-faa-modernization-alaska-senate-race/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-19T17:59:01Z"
+   "date": "2026-11-18T20:31:38Z"
   },
   "4c18689c8e8a": {
    "id": "4c18689c8e8a",
@@ -211,14 +202,23 @@
    "lean": "non-partisan",
    "date": "2026-11-19T21:35:00Z"
   },
-  "28adff591624": {
-   "id": "28adff591624",
-   "title": "Tories clash with peace activists over anti-war demo",
-   "link": "https://nation.cymru/news/tories-clash-with-peace-activists-over-anti-war-demo/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-19T13:54:47Z"
+  "344f7429572d": {
+   "id": "344f7429572d",
+   "title": "UK to provide Ukraine with 1,000 long-range strike drones",
+   "link": "https://www.bbc.co.uk/news/articles/c5n4em9mkkzeo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-19T17:59:01Z"
+  },
+  "2c6d32f3206e": {
+   "id": "2c6d32f3206e",
+   "title": "UK ‘playing catch up’ with Nordic countries on crisis preparations, says minister",
+   "link": "https://www.politico.eu/article/uk-catch-up-nordic-countries-crisis-preparation-dan-jarvis/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
+   "lean": "centre",
+   "date": "2026-11-20T03:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
