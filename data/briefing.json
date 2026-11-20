@@ -1,235 +1,245 @@
 {
- "generated_at": "2026-11-20T14:00:23Z",
+ "generated_at": "2026-11-20T22:14:33Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Europe‑UK reset, US cyber chief, and shifting party dynamics dominate",
-  "overview": "Britain’s new EU deal and a Senedd renovation debate highlight devolution and parliamentary scrutiny. In the US, a cyber‑security appointment and changing Republican poll numbers show executive and electoral pressures.",
+  "headline": "Europe, US courts and UK elections dominate today’s politics",
+  "overview": "Britain’s prime minister pushes an EU ‘reset’, US courts block a Trump memorial and a second lawsuit over an Alaska Senate race, and the Conservatives pick a mayoral candidate. Young voters and regional parties also shape the UK political landscape.",
   "stories": [
    {
-    "title": "Burnham secures EU reset deal",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham announced a landmark agreement with the EU covering food, drink, emissions trading and youth mobility. The deal was presented as a \"reset\" of post‑Brexit relations.",
-    "why_it_matters": "The story illustrates the executive’s role in foreign policy and the limits of parliamentary oversight, key for the AQA unit on the UK Constitution. It also shows how the UK government can shape the country's international standing.",
+    "title": "Conservatives pick London mayoral candidate",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "The Conservative Party selected former home secretary James Cleverly as its candidate for the 2028 London mayoral election, winning 86% support in a membership vote. The decision was announced on 19 November.",
+    "why_it_matters": "The choice shows how party leadership influences candidate selection, a key element of the AQA ‘Political parties’ topic. It also illustrates internal party democracy and the role of party members in shaping electoral strategy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s team says the deal restores economic stability and strengthens the UK’s global influence."
+      "text": "Party members see Cleverly’s experience as giving the Conservatives a strong chance to win back London."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition MPs claim the agreement compromises UK sovereignty and lacks parliamentary scrutiny."
+      "text": "Opponents claim the selection reflects a focus on high‑profile figures rather than grassroots policy."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators warn the deal may lock the UK into EU regulations without a vote."
+      "text": "The choice is praised as a return to traditional law‑and‑order credentials."
      }
     ],
     "key_term": {
-     "term": "Executive power",
-     "definition": "The authority of the Prime Minister and Cabinet to make policy decisions, especially in foreign affairs."
+     "term": "candidate selection",
+     "definition": "The process by which a party chooses who will stand for election."
     },
-    "exam_use": "Use as evidence of how the executive can negotiate international agreements and the constitutional debate over parliamentary control.",
+    "exam_use": "Use as evidence of how parties manage candidate selection in an essay on party organisation.",
     "sources": [
-     "71c26b19046c"
+     "e481cf0ebb47"
     ]
    },
    {
-    "title": "Senedd office block renovation sparks concern",
+    "title": "UK public backs re‑joining EU in key seats",
     "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Welsh Conservatives and Reform Party members questioned a £42 million plan to refurbish the Senedd’s office block after the budget was approved. Critics say the spending is excessive.",
-    "why_it_matters": "The case highlights devolution, showing how the Welsh Assembly manages its own finances and the checks on executive spending, relevant to the AQA devolution topic.",
+    "topic": "eu",
+    "what_happened": "A survey of over 7,000 voters in four of five parliamentary seats that previously voted to leave the EU found a majority now support re‑joining the bloc. The poll was released on 20 November.",
+    "why_it_matters": "The result links to the AQA ‘EU’ sub‑topic, showing how public opinion can shift and affect government policy on international relations. It also raises questions about the legitimacy of a potential referendum.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Welsh officials say the upgrade is needed for efficient parliamentary work."
+      "label": "From the left",
+      "text": "The shift reflects a desire for economic stability and cooperation with Europe."
+     },
+     {
+      "label": "From the right",
+      "text": "Skeptics warn that changing public opinion may be temporary and driven by short‑term concerns."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition members argue the money could be better spent on public services."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour voices worry the project reflects a lack of accountability in devolved budgets."
+      "text": "Some argue the poll methodology may overstate support."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The transfer of powers from the central UK government to regional bodies such as the Welsh Senedd."
+     "term": "public opinion poll",
+     "definition": "A survey that measures how the public feels about a particular issue."
     },
-    "exam_use": "Cite as an example of devolved institutions exercising fiscal autonomy and facing political scrutiny.",
+    "exam_use": "Cite as evidence when discussing how public opinion influences government decisions on EU relations.",
     "sources": [
-     "ea3c02d0d988"
+     "7c163ba9da6b"
     ]
    },
    {
-    "title": "Labour MP rejects EU re‑entry and electoral reform",
-    "section": "ukpol",
-    "topic": "parliament",
-    "what_happened": "MP Jonathan Hinder defended the police, opposed re‑joining the EU and dismissed electoral reform as a middle‑class hobby. He criticised Labour leader Andy Burnham’s EU stance.",
-    "why_it_matters": "Shows how individual MPs use parliamentary debate to shape party policy on democracy and participation, a core AQA theme.",
+    "title": "US courts block Trump memorial arch",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "A federal judge issued an injunction preventing the construction of a 250‑foot memorial arch for former President Donald Trump in Washington, D.C. The order was given on 20 November.",
+    "why_it_matters": "The case illustrates judicial review, a core AQA ‘US courts’ concept, showing how courts can check executive actions. It also raises issues of separation of powers and political symbolism.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Hinder’s supporters say his stance protects national security and reflects voter priorities."
+      "text": "The decision upholds the rule of law and prevents misuse of public land."
      },
      {
       "label": "Critics argue",
-      "text": "Labour activists argue his view blocks progressive reforms and EU cooperation."
+      "text": "Opponents see it as judicial overreach into political decisions."
      },
      {
       "label": "From the left",
-      "text": "Progressive commentators see his opposition to electoral reform as protecting the status quo."
+      "text": "The ruling is praised as protecting democratic norms."
      }
     ],
     "key_term": {
-     "term": "Parliamentary sovereignty",
-     "definition": "The principle that Parliament can make or repeal any law without legal restraint."
+     "term": "injunction",
+     "definition": "A court order that requires a party to do or refrain from doing something."
     },
-    "exam_use": "Use to illustrate how backbench MPs influence party positions on constitutional issues.",
+    "exam_use": "Use to illustrate judicial checks on the executive in a US courts essay.",
     "sources": [
-     "0e4de2dc5e36"
+     "fe233c788488"
+    ]
+   },
+   {
+    "title": "Trump administration seeks to overturn Alaska Senate lawsuit",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The Justice Department filed a brief asking the 9th Circuit Court of Appeals to reverse a lower‑court dismissal of a case challenging the results of Alaska’s 2026 U.S. Senate race. The filing was made on 20 November.",
+    "why_it_matters": "This demonstrates how the executive branch can use the courts to influence electoral outcomes, relevant to the AQA ‘US courts’ and ‘Elections & direct democracy’ topics. It also highlights the role of litigation in contested elections.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The administration claims the lawsuit is necessary to ensure electoral integrity."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Observers warn it could undermine public confidence in the electoral process."
+     },
+     {
+      "label": "From the right",
+      "text": "The move is framed as defending voter rights against alleged fraud."
+     }
+    ],
+    "key_term": {
+     "term": "appeal",
+     "definition": "A request to a higher court to review a lower court’s decision."
+    },
+    "exam_use": "Reference when discussing judicial involvement in US electoral disputes.",
+    "sources": [
+     "3fe0b06613b5"
     ]
    },
    {
     "title": "Reform UK wins Risca East by‑election",
     "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "A Reform UK candidate, backed by a supporter of far‑right activist Tommy Robinson, won a landslide victory in the Risca East council by‑election. The result was seen as a protest against mainstream parties.",
-    "why_it_matters": "Provides a case study of voter behaviour, party competition and the impact of fringe parties on the UK electoral system, all covered in the AQA elections syllabus.",
+    "topic": "parties",
+    "what_happened": "Martin Shipton, a supporter of far‑right activist Tommy Robinson, was elected as the Reform UK candidate in the Risca East by‑election, securing a landslide victory for the party on 20 November.",
+    "why_it_matters": "The result illustrates the impact of minor parties and protest voting, key to the AQA ‘Political parties’ syllabus. It also shows how regional elections can shift the balance of power in local councils.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Reform UK claims the win shows demand for anti‑establishment policies."
+      "text": "Reform UK’s win reflects voter frustration with mainstream parties."
      },
      {
       "label": "Critics argue",
-      "text": "Mainstream parties warn the result signals growing extremist influence."
+      "text": "The victory is seen as a warning about extremist influences in local politics."
      },
      {
-      "label": "From the right",
-      "text": "Conservative commentators view it as a warning that traditional voters are drifting left."
+      "label": "From the left",
+      "text": "The outcome is condemned as a rise in far‑right sentiment."
      }
     ],
     "key_term": {
-     "term": "First‑past‑the‑post",
-     "definition": "An electoral system where the candidate with the most votes wins, without needing a majority."
+     "term": "by‑election",
+     "definition": "An election held to fill a vacant seat between general elections."
     },
-    "exam_use": "Reference when discussing how FPTP can produce disproportionate outcomes for smaller parties.",
+    "exam_use": "Use as a case study of how smaller parties can gain representation in local government.",
     "sources": [
      "83880d0fa5ee"
     ]
    },
    {
-    "title": "White House appoints new cyber director",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "President’s office named Kirsten Davies as the national cyber director after a series of nationwide service outages. She will lead the federal response to cyber threats.",
-    "why_it_matters": "Illustrates the executive’s role in national security and the growing importance of cyber policy, linking to the US Constitution’s allocation of powers to the President.",
+    "title": "Burnham rejects devolution of powers to Wales",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Prime Minister Rishi Burnham wrote to Welsh First Minister, rejecting a proposal to devolve additional powers to Wales, stating he was not persuaded it would benefit the nation. The letter was reported on 20 November.",
+    "why_it_matters": "The exchange highlights the central‑local relationship, a core AQA ‘Devolution’ topic, and raises questions about the balance of power between Westminster and the devolved administrations.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Tech experts praise the appointment as a needed step to protect critical infrastructure."
+      "text": "Burnham’s stance protects national cohesion and uniform policy."
      },
      {
       "label": "Critics argue",
-      "text": "Privacy advocates warn increased surveillance could infringe civil liberties."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive groups question the lack of congressional oversight on cyber operations."
-     }
-    ],
-    "key_term": {
-     "term": "Executive authority",
-     "definition": "The powers granted to the President to enforce laws and direct national policy."
-    },
-    "exam_use": "Use as evidence of how the US executive responds to emerging security challenges within constitutional limits.",
-    "sources": [
-     "e399ad94c79d"
-    ]
-   },
-   {
-    "title": "Republicans favour Rubio over Vance in polls",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "New polling shows Republican voters shifting support from Vice‑President Mike Vance to Secretary of State Marco Rubio ahead of the 2028 presidential election. Analysts cite foreign‑policy credibility as a factor.",
-    "why_it_matters": "Shows intra‑party dynamics and the role of public opinion in candidate selection, relevant to AQA study of US parties and elections.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Rubio’s supporters claim his experience makes him a stronger contender against Democrats."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Vance’s backers warn the shift reflects short‑term media hype rather than policy substance."
+      "text": "Welsh leaders view the refusal as a missed opportunity for regional autonomy."
      },
      {
       "label": "From the right",
-      "text": "Conservative pundits argue the move signals a desire for a more traditional foreign‑policy stance."
+      "text": "The decision is praised as maintaining a strong central government."
      }
     ],
     "key_term": {
-     "term": "Primary election",
-     "definition": "A preliminary election in which party members select their candidate for the general election."
+     "term": "devolution",
+     "definition": "The statutory transfer of powers from the central government to regional bodies."
     },
-    "exam_use": "Cite when analysing how US parties manage leadership contests and voter preferences.",
+    "exam_use": "Cite when analysing the limits of devolved authority in the UK.",
     "sources": [
-     "8aeecefde111"
+     "92698147bc06"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "The Reform UK win in Risca East shows how first‑past‑the‑post can allow a small party to capture a council seat with concentrated local support.",
-   "us": "Republican polling shifts toward Rubio illustrate how primary polling influences candidate selection before a national election.",
-   "insight": "Both cases highlight how party competition and voter sentiment shape outcomes, but the UK’s FPTP system can produce sudden seat gains, whereas the US relies on internal party polls to steer primary choices.",
+   "theme": "courts",
+   "uk": "UK courts can review secondary legislation and government actions, but rarely intervene in high‑profile political symbols.",
+   "us": "US federal courts routinely issue injunctions and hear appeals that can block executive projects and affect election outcomes.",
+   "insight": "The contrast shows a more activist US judiciary that directly shapes politics, whereas the UK judiciary is more restrained, reflecting different constitutional traditions.",
    "sources": [
-    "83880d0fa5ee",
-    "8aeecefde111"
+    "fe233c788488",
+    "3fe0b06613b5"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Kirsten Davies’ cyber‑director role reflects liberalism’s emphasis on protecting individual rights while promoting technological progress; thinkers such as John Stuart Mill argue that state intervention is justified when it safeguards liberty from new threats.",
+   "ideology": "conservatism",
+   "text": "Burnham’s refusal to devolve powers echoes conservative emphasis on a strong, unitary state and skepticism of regional autonomy, ideas championed by Edmund Burke. The US court blocks on the Trump arch illustrate conservative concerns about preserving traditional symbols versus progressive calls for change.",
    "sources": [
-    "e399ad94c79d"
+    "92698147bc06",
+    "fe233c788488"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the executive can shape foreign or security policy in the UK and the US, using recent examples.",
-   "section": "ukgov | us",
-   "tip": "Compare Burnham’s EU deal with the US appointment of a cyber director, focusing on constitutional powers and parliamentary or congressional oversight."
+   "question": "Assess the extent to which courts can influence political outcomes in the UK and the US.",
+   "section": "us",
+   "tip": "Compare judicial review in the UK with US injunctions and appeals, using the Trump arch and Alaska Senate cases as examples."
   }
  },
  "refs": {
-  "71c26b19046c": {
-   "id": "71c26b19046c",
-   "title": "Burnham has agreed EU reset deal with tuition fees issue unresolved, says No 10",
-   "link": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+  "e481cf0ebb47": {
+   "id": "e481cf0ebb47",
+   "title": "Tories select James Cleverly as candidate for London mayor",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-20T12:42:08Z"
+   "date": "2026-11-19T11:53:11Z"
   },
-  "ea3c02d0d988": {
-   "id": "ea3c02d0d988",
-   "title": "Concerns over £42m Senedd office block renovation as parliament's budget passed",
-   "link": "https://www.bbc.co.uk/news/articles/cqdr1xjz6r15o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-20T11:57:59Z"
+  "7c163ba9da6b": {
+   "id": "7c163ba9da6b",
+   "title": "Voters in four out of five UK parliamentary seats back rejoining EU",
+   "link": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-20T17:55:09Z"
   },
-  "0e4de2dc5e36": {
-   "id": "0e4de2dc5e36",
-   "title": "Labour MP Jonathan Hinder: Rejoining The EU \"Dissolves On Contact\" With Reality",
-   "link": "https://www.politicshome.com/news/article/labour-mp-jonathan-hinder-rejoining-eu-dissolves-contact-reality",
-   "source": "politicshome",
-   "sourceName": "PoliticsHome",
+  "fe233c788488": {
+   "id": "fe233c788488",
+   "title": "Second federal judge blocks construction of Trump's memorial arch",
+   "link": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-20T10:00:00Z"
+   "date": "2026-11-20T21:28:49Z"
+  },
+  "3fe0b06613b5": {
+   "id": "3fe0b06613b5",
+   "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
+   "link": "https://www.pbs.org/newshour/politics/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-u-s-senate-race",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-20T14:22:40Z"
   },
   "83880d0fa5ee": {
    "id": "83880d0fa5ee",
@@ -240,23 +250,14 @@
    "lean": "centre-left",
    "date": "2026-11-20T13:20:27Z"
   },
-  "e399ad94c79d": {
-   "id": "e399ad94c79d",
-   "title": "White House taps Kirsten Davies as cyber chief after outages rattle Americans",
-   "link": "https://www.pbs.org/newshour/politics/white-house-taps-kirsten-davies-as-cyber-chief-after-outages-rattle-americans",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "92698147bc06": {
+   "id": "92698147bc06",
+   "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+   "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-11-20T13:43:58Z"
-  },
-  "8aeecefde111": {
-   "id": "8aeecefde111",
-   "title": "Republicans shift from Vance to Rubio in new 2028 polling: Join the live discussion",
-   "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6232602-gop-shift-2028-presidential-race-marco-rubio-jd-vance-discussion/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-20T13:32:11Z"
+   "date": "2026-11-20T19:41:30Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
