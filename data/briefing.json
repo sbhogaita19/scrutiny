@@ -1,180 +1,212 @@
 {
- "generated_at": "2026-11-21T03:58:09Z",
+ "generated_at": "2026-11-21T13:28:27Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Burnham rejects Welsh powers as US courts block Trump projects",
-  "overview": "The UK sees tension over devolution while the US faces judicial checks on former President Trump. Meanwhile, opinion polls show shifting party dynamics on both sides of the Atlantic.",
+  "headline": "Devolution, US courts and party tactics dominate politics today",
+  "overview": "Britain debates further powers for Wales while the US sees courts block a Trump project and a redistricting plan backfire. Party strategies shift in both countries ahead of upcoming elections.",
   "stories": [
    {
-    "title": "Burnham rejects further Welsh devolution",
+    "title": "Future Generations Commissioner pauses AI data centres in Wales",
     "section": "ukgov",
     "topic": "devolution",
-    "what_happened": "Mark Burnham wrote to Rhun ap Iorwerth rejecting proposals to devolve policing, justice, the Crown Estate and rail to Wales. The letter was seen by BBC Wales.",
-    "why_it_matters": "The case illustrates the limits of devolution within the UK constitution and the role of the Prime Minister in shaping inter‑governmental relations.",
+    "what_happened": "The Future Generations Commissioner for Wales asked for a halt to new AI data‑centre approvals until national guidance is issued. The request targets projects that could affect Wales’ environmental and social goals.",
+    "why_it_matters": "The case illustrates how devolved institutions can influence policy areas traditionally managed by the UK Government, linking to the AQA focus on the powers of the Welsh Assembly and the principle of devolution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham says central control ensures uniform standards and fiscal stability."
+      "text": "Devolutionists say the pause shows Wales can protect its own sustainability agenda."
      },
      {
       "label": "Critics argue",
-      "text": "Welsh Labour claims the refusal undermines the promised devolution settlement."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives view the decision as protecting national security and economic efficiency."
+      "text": "UK‑wide industry groups warn the pause could hinder investment and economic growth."
      }
     ],
     "key_term": {
      "term": "devolution",
-     "definition": "Transfer of powers from the central UK government to regional administrations."
+     "definition": "The transfer of powers from the central UK Government to regional bodies such as the Welsh Parliament."
     },
-    "exam_use": "Use as evidence when discussing the balance of power between Westminster and devolved governments in a constitutional essay.",
+    "exam_use": "Use as evidence of how devolved administrations can shape policy, suitable for a ‘compare the powers of the UK and devolved governments’ essay.",
     "sources": [
-     "709e8c065fef"
+     "f14b6867f6a6"
     ]
    },
    {
-    "title": "Survey shows majority in four UK seats favour EU re‑entry",
-    "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "A poll of over 7,000 respondents in former Leave constituencies found four out of five seats now support rejoining the EU. The survey was published by The Guardian.",
-    "why_it_matters": "The result highlights changing public opinion on Europe, relevant to debates on party positions and electoral strategy.",
+    "title": "Burnham rejects further powers for Wales",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Prime Minister Andy Burnham wrote to Welsh leader Rhun ap Iorwerth declining proposals to devolve policing, justice, the Crown Estate and rail to Wales. The rejection was described by Welsh officials as a ‘parent‑child’ attitude.",
+    "why_it_matters": "The episode highlights the tension between central and devolved authorities, a key theme when studying the constitutional arrangement of the UK.",
     "perspectives": [
      {
-      "label": "From the left",
-      "text": "Labour sees the shift as evidence for a pro‑EU platform."
+      "label": "From the UK Government",
+      "text": "Burnham argues that uniform standards across the UK are essential for security and infrastructure."
      },
      {
-      "label": "From the right",
-      "text": "Conservatives warn the data may be temporary and stress sovereignty."
+      "label": "From Welsh Labour",
+      "text": "Welsh Labour claims the refusal undermines the principle of self‑determination for Wales."
      },
      {
-      "label": "Critics argue",
-      "text": "Some analysts caution about sampling bias and the volatility of public mood."
+      "label": "From the opposition",
+      "text": "Opposition MPs suggest the decision may fuel nationalist sentiment in Wales."
      }
     ],
     "key_term": {
-     "term": "public opinion",
-     "definition": "The aggregate attitudes of citizens towards political issues."
+     "term": "centralisation",
+     "definition": "The concentration of decision‑making authority at the national level."
     },
-    "exam_use": "Cite in an essay on how electoral data can influence party policy decisions.",
+    "exam_use": "Cite when discussing arguments for and against further devolution in a ‘evaluate the case for more powers for Wales’ essay.",
     "sources": [
-     "7c163ba9da6b"
+     "709e8c065fef",
+     "92698147bc06"
     ]
    },
    {
-    "title": "Trump administration seeks dismissal of Alaska Senate lawsuit",
+    "title": "North Carolina redistricting backfires for Republicans",
     "section": "us",
-    "topic": "us-courts",
-    "what_happened": "Justice Department lawyers asked the 9th Circuit Court of Appeals to overturn a lower‑court dismissal of a case challenging the 2026 Alaska Senate race results. The filing was reported by PBS NewsHour.",
-    "why_it_matters": "The move shows executive branch involvement in electoral litigation, raising questions about separation of powers.",
+    "topic": "us-parties",
+    "what_happened": "Republican legislators in North Carolina redrew congressional maps to gain an extra seat, but the new boundaries resulted in a loss of two seats in the 2026 election.",
+    "why_it_matters": "The outcome demonstrates how party‑led gerrymandering can produce unintended electoral consequences, relevant to AQA topics on parties and elections.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "The administration claims the lawsuit lacks legal merit and seeks judicial efficiency."
+      "label": "From the GOP",
+      "text": "Party leaders claim the loss was due to voter turnout, not the map."
      },
      {
-      "label": "Critics argue",
-      "text": "Opponents see it as an attempt to influence election outcomes."
+      "label": "From political scientists",
+      "text": "Experts describe the result as a classic ‘dummymander’ where the strategy misfires."
      },
      {
-      "label": "From the left",
-      "text": "Progressives worry about precedent for executive overreach in elections."
+      "label": "From Democrats",
+      "text": "Democrats argue the episode shows the need for independent redistricting commissions."
      }
     ],
     "key_term": {
-     "term": "separation of powers",
-     "definition": "Division of government responsibilities among legislative, executive and judicial branches."
+     "term": "gerrymandering",
+     "definition": "Manipulating electoral boundaries to favour a particular party."
     },
-    "exam_use": "Use as evidence when evaluating executive influence on the US electoral process in a comparative essay.",
+    "exam_use": "Useful for an essay evaluating the impact of electoral system design on party success.",
     "sources": [
-     "3fe0b06613b5"
+     "e49313fb751c"
     ]
    },
    {
-    "title": "Federal judge blocks Trump memorial arch construction",
+    "title": "Federal judge blocks Trump memorial arch",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "A second federal judge issued an order preventing the Trump administration from building a 250‑foot memorial arch in Washington, D.C. The decision was reported by PBS NewsHour.",
-    "why_it_matters": "Judicial review limits presidential initiatives, illustrating checks on executive authority.",
+    "what_happened": "A second federal judge issued an injunction preventing the construction of a 250‑foot memorial arch for former President Donald Trump in Washington, D.C.",
+    "why_it_matters": "The ruling shows the judiciary’s role in checking executive actions, a core element of the US constitutional system studied in A‑level.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Judges are upholding legal standards and preventing misuse of public land."
+      "text": "Legal scholars say the block protects historic preservation laws."
      },
      {
       "label": "Critics argue",
-      "text": "Trump supporters view the ruling as politically motivated obstruction."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives argue the decision infringes on the president’s prerogative to commemorate history."
+      "text": "Trump supporters view the decision as political bias against the former president."
      }
     ],
     "key_term": {
      "term": "judicial review",
      "definition": "The power of courts to assess the legality of government actions."
     },
-    "exam_use": "Reference in an essay on the role of the US courts in checking executive power.",
+    "exam_use": "Cite when discussing the checks and balances between the US executive and judiciary in a ‘explain the role of the courts in the US political system’ essay.",
     "sources": [
      "fe233c788488"
     ]
    },
    {
-    "title": "Republicans shift support to Rubio in 2028 poll",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "New polling shows Republican voters moving away from Vice President Vance toward Secretary of State Marco Rubio ahead of the 2028 presidential election. Reported by The Hill.",
-    "why_it_matters": "The trend reflects intra‑party dynamics and potential changes in candidate selection for future elections.",
+    "title": "Reform UK eyes pact with Restore Britain",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Reform UK announced talks with Restore Britain to form an electoral pact ahead of the Castle Bromwich by‑election, hoping to consolidate right‑wing votes.",
+    "why_it_matters": "The move reflects strategic party behaviour in the UK’s first‑past‑the‑post system, a key point in the AQA syllabus on political parties.",
     "perspectives": [
      {
-      "label": "From the right",
-      "text": "Rubio’s foreign‑policy experience is seen as a strength for the party."
+      "label": "From Reform UK",
+      "text": "Party leaders say a pact will maximise anti‑Establishment representation."
      },
      {
-      "label": "From the left",
-      "text": "Democrats argue the shift indicates Republican uncertainty after Trump."
+      "label": "From Restore Britain",
+      "text": "They argue cooperation prevents vote‑splitting that benefits larger parties."
      },
      {
-      "label": "Critics argue",
-      "text": "Analysts caution polls can be volatile and not guarantee primary outcomes."
+      "label": "From mainstream parties",
+      "text": "Labour and Conservatives warn such deals could confuse voters and undermine democratic choice."
      }
     ],
     "key_term": {
-     "term": "primary election",
-     "definition": "A preliminary election in which parties select their candidates for the general election."
+     "term": "electoral pact",
+     "definition": "An agreement between parties to cooperate, often by not standing candidates against each other."
     },
-    "exam_use": "Use to illustrate party leadership contests in a US politics essay.",
+    "exam_use": "Use as evidence when assessing how smaller parties try to overcome the disadvantages of FPTP in a ‘discuss the challenges faced by minor parties in the UK’ essay.",
     "sources": [
-     "8aeecefde111"
+     "b28eefa3bc61"
+    ]
+   },
+   {
+    "title": "Ed Miliband says re‑joining EU ‘on the table’",
+    "section": "ukpol",
+    "topic": "eu",
+    "what_happened": "Former Labour leader Ed Miliband told the BBC that all options, including re‑joining the European Union, are being considered as Prime Minister Andy Burnham begins informal talks with Brussels.",
+    "why_it_matters": "The statement highlights ongoing debate over the UK’s post‑Brexit relationship with the EU, linking to AQA topics on the EU and British foreign policy.",
+    "perspectives": [
+     {
+      "label": "From pro‑EU voices",
+      "text": "They see the comment as evidence that re‑entry is politically feasible."
+     },
+     {
+      "label": "From Brexit supporters",
+      "text": "They argue the suggestion undermines the referendum result."
+     },
+     {
+      "label": "From neutral analysts",
+      "text": "They note the talk reflects pragmatic trade and security considerations."
+     }
+    ],
+    "key_term": {
+     "term": "re‑integration",
+     "definition": "The process of re‑joining an international organisation after having left it."
+    },
+    "exam_use": "Relevant for an essay evaluating the arguments for and against the UK re‑joining the EU.",
+    "sources": [
+     "8ea7d9ff0fcb",
+     "d0d19939b320"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "Burnham’s EU ‘reset’ shows the UK prime minister shaping foreign policy while managing domestic devolution pressures (709e8c065fef).",
-   "us": "President Trump’s press conference highlighted the US president’s direct engagement with foreign leaders and domestic controversies (0050bf5ce708).",
-   "insight": "The contrast reveals differing constitutional limits: the UK PM operates within a parliamentary system with collective cabinet responsibility, whereas the US president has broader unilateral authority but faces stronger judicial checks.",
+   "theme": "devolution",
+   "uk": "Wales’ push for more powers shows how devolved bodies can seek policy control within a unitary state.",
+   "us": "US states like California exercise broad authority under a federal system, but the federal government can still limit actions through courts.",
+   "insight": "The contrast illustrates how devolution in the UK is negotiated politically, whereas US federalism is constitutionally entrenched and often adjudicated by courts.",
    "sources": [
-    "709e8c065fef",
-    "0050bf5ce708"
+    "f14b6867f6a6",
+    "fe233c788488"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "The Guardian’s poll showing renewed support for EU membership reflects liberal ideas of free movement and open markets championed by thinkers like John Stuart Mill. Liberalism argues that integration enhances individual liberty and economic prosperity.",
+   "text": "The Welsh calls for AI data‑centre safeguards echo liberalism’s emphasis on protecting individual rights and the environment, ideas championed by John Stuart Mill. Liberal thinkers argue that government should intervene only to prevent harm, which the commissioner’s pause embodies.",
    "sources": [
-    "7c163ba9da6b"
+    "f14b6867f6a6"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution reshapes the constitutional relationship between Westminster and the nations of the UK.",
+   "question": "Assess the extent to which devolution enhances democratic accountability in the UK, using recent developments in Wales as examples.",
    "section": "ukgov",
-   "tip": "Structure your answer by defining devolution, outlining recent disputes (e.g., Burnham’s rejection), and evaluating arguments from both supporters and critics."
+   "tip": "Structure your answer by defining devolution, outlining the Welsh cases, evaluating arguments for and against, and concluding on its overall impact."
   }
  },
  "refs": {
+  "f14b6867f6a6": {
+   "id": "f14b6867f6a6",
+   "title": "Future Generations Commissioner calls for pause on all AI data centres in Wales",
+   "link": "https://nation.cymru/news/future-generations-commissioner-calls-for-pause-on-all-ai-data-centres-in-wales/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-21T11:40:09Z"
+  },
   "709e8c065fef": {
    "id": "709e8c065fef",
    "title": "Burnham rejects calls for more powers for Wales, putting him at odds with Welsh Labour",
@@ -184,23 +216,23 @@
    "lean": "centre-left",
    "date": "2026-11-21T03:20:18Z"
   },
-  "7c163ba9da6b": {
-   "id": "7c163ba9da6b",
-   "title": "Voters in four out of five UK parliamentary seats back rejoining EU",
-   "link": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-20T17:55:09Z"
-  },
-  "3fe0b06613b5": {
-   "id": "3fe0b06613b5",
-   "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
-   "link": "https://www.pbs.org/newshour/politics/trump-administration-moves-to-have-lawsuit-dismissed-in-challenge-to-alaskas-u-s-senate-race",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "92698147bc06": {
+   "id": "92698147bc06",
+   "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
+   "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-11-20T14:22:40Z"
+   "date": "2026-11-21T10:53:21Z"
+  },
+  "e49313fb751c": {
+   "id": "e49313fb751c",
+   "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-11-21T12:40:21Z"
   },
   "fe233c788488": {
    "id": "fe233c788488",
@@ -211,23 +243,32 @@
    "lean": "centre",
    "date": "2026-11-20T21:28:49Z"
   },
-  "8aeecefde111": {
-   "id": "8aeecefde111",
-   "title": "Republicans shift from Vance to Rubio in new 2028 polling: Join the live discussion",
-   "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6232602-gop-shift-2028-presidential-race-marco-rubio-jd-vance-discussion/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-20T13:32:11Z"
+  "b28eefa3bc61": {
+   "id": "b28eefa3bc61",
+   "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+   "link": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-21T12:22:54Z"
   },
-  "0050bf5ce708": {
-   "id": "0050bf5ce708",
-   "title": "What Trump addressed during his lengthy White House news conference",
-   "link": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-20T23:55:30Z"
+  "8ea7d9ff0fcb": {
+   "id": "8ea7d9ff0fcb",
+   "title": "All options on table for UK-EU relationship including rejoining, says Miliband",
+   "link": "https://nation.cymru/news/all-options-on-table-for-uk-eu-relationship-including-rejoining-says-miliband/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-21T11:01:13Z"
+  },
+  "d0d19939b320": {
+   "id": "d0d19939b320",
+   "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+   "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-21T11:33:01Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
