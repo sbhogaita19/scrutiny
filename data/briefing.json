@@ -1,212 +1,183 @@
 {
- "generated_at": "2026-11-21T13:28:27Z",
+ "generated_at": "2026-11-21T20:54:24Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Devolution, US courts and party tactics dominate politics today",
-  "overview": "Britain debates further powers for Wales while the US sees courts block a Trump project and a redistricting plan backfire. Party strategies shift in both countries ahead of upcoming elections.",
+  "headline": "UK devolution clash, EU re‑join poll, US redistricting flop, Trump‑Congress standoff",
+  "overview": "Britain’s prime minister has rejected further powers for Wales, sparking criticism from Welsh leaders. A poll shows most voters in former Leave seats now favour re‑joining the EU. In the US, a North Carolina gerrymander back‑fired and President Trump issued an order limiting congressional oversight.",
   "stories": [
    {
-    "title": "Future Generations Commissioner pauses AI data centres in Wales",
+    "title": "Burnham rejects further Welsh devolution",
     "section": "ukgov",
     "topic": "devolution",
-    "what_happened": "The Future Generations Commissioner for Wales asked for a halt to new AI data‑centre approvals until national guidance is issued. The request targets projects that could affect Wales’ environmental and social goals.",
-    "why_it_matters": "The case illustrates how devolved institutions can influence policy areas traditionally managed by the UK Government, linking to the AQA focus on the powers of the Welsh Assembly and the principle of devolution.",
+    "what_happened": "Prime Minister Andy Burnham wrote to Welsh leaders saying he is not persuaded to devolve policing, justice, the Crown Estate or rail infrastructure to Wales. Welsh officials described the response as treating Wales like a child.",
+    "why_it_matters": "The dispute illustrates the tension between central government and devolved administrations, a key issue in the AQA Constitution unit. It also raises questions about the limits of parliamentary sovereignty.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Devolutionists say the pause shows Wales can protect its own sustainability agenda."
+      "text": "Burnham’s team say keeping these powers at Westminster ensures uniform standards across the UK."
      },
      {
       "label": "Critics argue",
-      "text": "UK‑wide industry groups warn the pause could hinder investment and economic growth."
+      "text": "Welsh campaigners claim the refusal undermines the principle of devolution promised by the 1998 Act."
+     },
+     {
+      "label": "From the left",
+      "text": "Welsh Labour argues further devolution would enable progressive policies tailored to Wales."
      }
     ],
     "key_term": {
      "term": "devolution",
-     "definition": "The transfer of powers from the central UK Government to regional bodies such as the Welsh Parliament."
+     "definition": "The statutory transfer of powers from the central UK Parliament to regional bodies."
     },
-    "exam_use": "Use as evidence of how devolved administrations can shape policy, suitable for a ‘compare the powers of the UK and devolved governments’ essay.",
+    "exam_use": "Use as evidence in an essay on the balance of power between Westminster and devolved governments.",
     "sources": [
-     "f14b6867f6a6"
+     "709e8c065fef",
+     "13030069e838"
     ]
    },
    {
-    "title": "Burnham rejects further powers for Wales",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Prime Minister Andy Burnham wrote to Welsh leader Rhun ap Iorwerth declining proposals to devolve policing, justice, the Crown Estate and rail to Wales. The rejection was described by Welsh officials as a ‘parent‑child’ attitude.",
-    "why_it_matters": "The episode highlights the tension between central and devolved authorities, a key theme when studying the constitutional arrangement of the UK.",
+    "title": "Survey shows four‑fifths of seats back EU re‑entry",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "A poll of over 7,000 voters in 4,000 former Leave constituencies found that 80% now support the UK re‑joining the EU. The data was released ahead of the next general election.",
+    "why_it_matters": "The shift reflects changing public attitudes, relevant to the AQA topic of public opinion and electoral behaviour. It also highlights the role of issue voting.",
     "perspectives": [
      {
-      "label": "From the UK Government",
-      "text": "Burnham argues that uniform standards across the UK are essential for security and infrastructure."
+      "label": "From the right",
+      "text": "Pro‑Leave commentators warn the poll may be a temporary reaction to economic pressures."
      },
      {
-      "label": "From Welsh Labour",
-      "text": "Welsh Labour claims the refusal undermines the principle of self‑determination for Wales."
+      "label": "From the left",
+      "text": "Remain supporters see the result as evidence that the Brexit gamble has lost public confidence."
      },
      {
-      "label": "From the opposition",
-      "text": "Opposition MPs suggest the decision may fuel nationalist sentiment in Wales."
+      "label": "Neutral analysts",
+      "text": "Pollsters note the margin of error and that attitudes may vary by region."
      }
     ],
     "key_term": {
-     "term": "centralisation",
-     "definition": "The concentration of decision‑making authority at the national level."
+     "term": "issue voting",
+     "definition": "When voters choose parties based on their stance on specific policy issues."
     },
-    "exam_use": "Cite when discussing arguments for and against further devolution in a ‘evaluate the case for more powers for Wales’ essay.",
+    "exam_use": "Cite in a question comparing how public opinion influences party strategy.",
     "sources": [
-     "709e8c065fef",
-     "92698147bc06"
+     "7c163ba9da6b"
     ]
    },
    {
-    "title": "North Carolina redistricting backfires for Republicans",
+    "title": "North Carolina redistricting back‑fires",
     "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Republican legislators in North Carolina redrew congressional maps to gain an extra seat, but the new boundaries resulted in a loss of two seats in the 2026 election.",
-    "why_it_matters": "The outcome demonstrates how party‑led gerrymandering can produce unintended electoral consequences, relevant to AQA topics on parties and elections.",
+    "topic": "us-elections",
+    "what_happened": "Republican legislators in North Carolina redrew congressional districts to gain an extra seat, but the new map resulted in the party losing two seats in the 2026 election.",
+    "why_it_matters": "The case demonstrates how gerrymandering can produce unintended electoral outcomes, linking to the AQA topic of electoral systems and representation.",
     "perspectives": [
      {
-      "label": "From the GOP",
-      "text": "Party leaders claim the loss was due to voter turnout, not the map."
+      "label": "GOP perspective",
+      "text": "Lawmakers argued the map complied with legal requirements and aimed to reflect community interests."
      },
      {
-      "label": "From political scientists",
-      "text": "Experts describe the result as a classic ‘dummymander’ where the strategy misfires."
+      "label": "Democratic perspective",
+      "text": "Critics say the plan was a partisan ‘dummymander’ that undermined fair representation."
      },
      {
-      "label": "From Democrats",
-      "text": "Democrats argue the episode shows the need for independent redistricting commissions."
+      "label": "Scholarly view",
+      "text": "Political scientists cite the episode as a classic example of the risks of partisan redistricting."
      }
     ],
     "key_term": {
      "term": "gerrymandering",
      "definition": "Manipulating electoral boundaries to favour a particular party."
     },
-    "exam_use": "Useful for an essay evaluating the impact of electoral system design on party success.",
+    "exam_use": "Use as a case study in an essay on the impact of electoral system design on party outcomes.",
     "sources": [
      "e49313fb751c"
     ]
    },
    {
-    "title": "Federal judge blocks Trump memorial arch",
+    "title": "Trump orders contractors to clear Congress queries",
     "section": "us",
-    "topic": "us-courts",
-    "what_happened": "A second federal judge issued an injunction preventing the construction of a 250‑foot memorial arch for former President Donald Trump in Washington, D.C.",
-    "why_it_matters": "The ruling shows the judiciary’s role in checking executive actions, a core element of the US constitutional system studied in A‑level.",
+    "topic": "president",
+    "what_happened": "President Donald Trump signed an executive order requiring federal contractors to seek White House approval before responding to congressional requests for information. The move follows anticipated Democratic oversight after the upcoming mid‑terms.",
+    "why_it_matters": "The order raises constitutional questions about the separation of powers, a core AQA focus in the US Constitution unit. It also illustrates executive‑legislative conflict.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Legal scholars say the block protects historic preservation laws."
+      "text": "The administration says the order protects national security and prevents politicised leaks."
      },
      {
       "label": "Critics argue",
-      "text": "Trump supporters view the decision as political bias against the former president."
+      "text": "Congressional leaders view it as an unlawful obstruction of oversight."
+     },
+     {
+      "label": "Legal analysts",
+      "text": "Constitutional scholars note the tension with the Legislative Oversight Clause."
+     }
+    ],
+    "key_term": {
+     "term": "executive order",
+     "definition": "A directive issued by the US President that manages operations of the federal government."
+    },
+    "exam_use": "Reference in a discussion of checks and balances between the executive and legislature.",
+    "sources": [
+     "a7430b200f47",
+     "2faa29a7e373"
+    ]
+   },
+   {
+    "title": "Second judge blocks Trump memorial arch",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "A federal judge issued an injunction preventing the construction of a 250‑foot memorial arch for former President Trump in Washington, D.C. The decision cites concerns over compliance with historic preservation laws.",
+    "why_it_matters": "The case illustrates judicial review of executive actions, linking to the AQA topic of the role of courts in the US political system.",
+    "perspectives": [
+     {
+      "label": "Administration view",
+      "text": "The White House argues the arch is a lawful expression of free speech."
+     },
+     {
+      "label": "Opposition view",
+      "text": "Critics say the project violates preservation statutes and uses public funds for partisan purposes."
+     },
+     {
+      "label": "Neutral legal view",
+      "text": "Judges emphasize the need to apply existing statutes regardless of political symbolism."
      }
     ],
     "key_term": {
      "term": "judicial review",
-     "definition": "The power of courts to assess the legality of government actions."
+     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
     },
-    "exam_use": "Cite when discussing the checks and balances between the US executive and judiciary in a ‘explain the role of the courts in the US political system’ essay.",
+    "exam_use": "Use as evidence when evaluating the checks the judiciary places on executive initiatives.",
     "sources": [
      "fe233c788488"
-    ]
-   },
-   {
-    "title": "Reform UK eyes pact with Restore Britain",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Reform UK announced talks with Restore Britain to form an electoral pact ahead of the Castle Bromwich by‑election, hoping to consolidate right‑wing votes.",
-    "why_it_matters": "The move reflects strategic party behaviour in the UK’s first‑past‑the‑post system, a key point in the AQA syllabus on political parties.",
-    "perspectives": [
-     {
-      "label": "From Reform UK",
-      "text": "Party leaders say a pact will maximise anti‑Establishment representation."
-     },
-     {
-      "label": "From Restore Britain",
-      "text": "They argue cooperation prevents vote‑splitting that benefits larger parties."
-     },
-     {
-      "label": "From mainstream parties",
-      "text": "Labour and Conservatives warn such deals could confuse voters and undermine democratic choice."
-     }
-    ],
-    "key_term": {
-     "term": "electoral pact",
-     "definition": "An agreement between parties to cooperate, often by not standing candidates against each other."
-    },
-    "exam_use": "Use as evidence when assessing how smaller parties try to overcome the disadvantages of FPTP in a ‘discuss the challenges faced by minor parties in the UK’ essay.",
-    "sources": [
-     "b28eefa3bc61"
-    ]
-   },
-   {
-    "title": "Ed Miliband says re‑joining EU ‘on the table’",
-    "section": "ukpol",
-    "topic": "eu",
-    "what_happened": "Former Labour leader Ed Miliband told the BBC that all options, including re‑joining the European Union, are being considered as Prime Minister Andy Burnham begins informal talks with Brussels.",
-    "why_it_matters": "The statement highlights ongoing debate over the UK’s post‑Brexit relationship with the EU, linking to AQA topics on the EU and British foreign policy.",
-    "perspectives": [
-     {
-      "label": "From pro‑EU voices",
-      "text": "They see the comment as evidence that re‑entry is politically feasible."
-     },
-     {
-      "label": "From Brexit supporters",
-      "text": "They argue the suggestion undermines the referendum result."
-     },
-     {
-      "label": "From neutral analysts",
-      "text": "They note the talk reflects pragmatic trade and security considerations."
-     }
-    ],
-    "key_term": {
-     "term": "re‑integration",
-     "definition": "The process of re‑joining an international organisation after having left it."
-    },
-    "exam_use": "Relevant for an essay evaluating the arguments for and against the UK re‑joining the EU.",
-    "sources": [
-     "8ea7d9ff0fcb",
-     "d0d19939b320"
     ]
    }
   ],
   "compare": {
-   "theme": "devolution",
-   "uk": "Wales’ push for more powers shows how devolved bodies can seek policy control within a unitary state.",
-   "us": "US states like California exercise broad authority under a federal system, but the federal government can still limit actions through courts.",
-   "insight": "The contrast illustrates how devolution in the UK is negotiated politically, whereas US federalism is constitutionally entrenched and often adjudicated by courts.",
+   "theme": "executives",
+   "uk": "Burnham’s use of a written letter to reject devolution shows a prime minister exercising discretionary authority within the UK’s uncodified constitution.",
+   "us": "Trump’s executive order illustrates a US president using formal powers to direct federal contractors, testing limits of executive authority under the Constitution.",
+   "insight": "Both cases highlight how leaders can push the boundaries of their executive powers, but the UK relies on political convention while the US faces judicial scrutiny.",
    "sources": [
-    "f14b6867f6a6",
-    "fe233c788488"
+    "709e8c065fef",
+    "a7430b200f47"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The Welsh calls for AI data‑centre safeguards echo liberalism’s emphasis on protecting individual rights and the environment, ideas championed by John Stuart Mill. Liberal thinkers argue that government should intervene only to prevent harm, which the commissioner’s pause embodies.",
+   "ideology": "conservatism",
+   "text": "Burnham’s refusal to grant more powers to Wales reflects a conservative emphasis on preserving the integrity of the United Kingdom and limiting decentralisation, echoing Edmund Burke’s caution against rapid change. By contrast, critics invoke liberal ideas of self‑determination and local autonomy.",
    "sources": [
-    "f14b6867f6a6"
+    "709e8c065fef",
+    "13030069e838"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which devolution enhances democratic accountability in the UK, using recent developments in Wales as examples.",
+   "question": "Assess the extent to which executive actions can reshape the balance of power between central and devolved authorities in the UK, using recent devolution debates as evidence.",
    "section": "ukgov",
-   "tip": "Structure your answer by defining devolution, outlining the Welsh cases, evaluating arguments for and against, and concluding on its overall impact."
+   "tip": "Structure your answer by defining executive power, outlining the devolution framework, analysing Burnham’s decision, and evaluating its impact on parliamentary sovereignty."
   }
  },
  "refs": {
-  "f14b6867f6a6": {
-   "id": "f14b6867f6a6",
-   "title": "Future Generations Commissioner calls for pause on all AI data centres in Wales",
-   "link": "https://nation.cymru/news/future-generations-commissioner-calls-for-pause-on-all-ai-data-centres-in-wales/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-21T11:40:09Z"
-  },
   "709e8c065fef": {
    "id": "709e8c065fef",
    "title": "Burnham rejects calls for more powers for Wales, putting him at odds with Welsh Labour",
@@ -216,14 +187,23 @@
    "lean": "centre-left",
    "date": "2026-11-21T03:20:18Z"
   },
-  "92698147bc06": {
-   "id": "92698147bc06",
-   "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
-   "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-21T10:53:21Z"
+  "13030069e838": {
+   "id": "13030069e838",
+   "title": "‘Wales is not a child. Westminster is not our parent’: Campaigners condemn Burnham’s rejection of further powers for Wales",
+   "link": "https://nation.cymru/news/wales-is-not-a-child-westminster-is-not-our-parent-campaigners-condemn-burnhams-rejection-of-further-powers-for-wales/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-21T11:31:10Z"
+  },
+  "7c163ba9da6b": {
+   "id": "7c163ba9da6b",
+   "title": "Voters in four out of five UK parliamentary seats back rejoining EU",
+   "link": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-20T17:55:09Z"
   },
   "e49313fb751c": {
    "id": "e49313fb751c",
@@ -234,6 +214,24 @@
    "lean": "centre-left",
    "date": "2026-11-21T12:40:21Z"
   },
+  "a7430b200f47": {
+   "id": "a7430b200f47",
+   "title": "Trump orders federal contractors to check with White House before responding to Congress",
+   "link": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-21T19:29:23Z"
+  },
+  "2faa29a7e373": {
+   "id": "2faa29a7e373",
+   "title": "Trump limits Congress's accesses to confidential agency, contractor information",
+   "link": "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-21T15:37:40Z"
+  },
   "fe233c788488": {
    "id": "fe233c788488",
    "title": "Second federal judge blocks construction of Trump's memorial arch",
@@ -242,33 +240,6 @@
    "sourceName": "PBS NewsHour",
    "lean": "centre",
    "date": "2026-11-20T21:28:49Z"
-  },
-  "b28eefa3bc61": {
-   "id": "b28eefa3bc61",
-   "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-   "link": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-21T12:22:54Z"
-  },
-  "8ea7d9ff0fcb": {
-   "id": "8ea7d9ff0fcb",
-   "title": "All options on table for UK-EU relationship including rejoining, says Miliband",
-   "link": "https://nation.cymru/news/all-options-on-table-for-uk-eu-relationship-including-rejoining-says-miliband/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-21T11:01:13Z"
-  },
-  "d0d19939b320": {
-   "id": "d0d19939b320",
-   "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-   "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-21T11:33:01Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
