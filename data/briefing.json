@@ -1,218 +1,188 @@
 {
- "generated_at": "2026-11-20T22:14:33Z",
+ "generated_at": "2026-11-21T03:58:09Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Europe, US courts and UK elections dominate today’s politics",
-  "overview": "Britain’s prime minister pushes an EU ‘reset’, US courts block a Trump memorial and a second lawsuit over an Alaska Senate race, and the Conservatives pick a mayoral candidate. Young voters and regional parties also shape the UK political landscape.",
+  "headline": "Burnham rejects Welsh powers as US courts block Trump projects",
+  "overview": "The UK sees tension over devolution while the US faces judicial checks on former President Trump. Meanwhile, opinion polls show shifting party dynamics on both sides of the Atlantic.",
   "stories": [
    {
-    "title": "Conservatives pick London mayoral candidate",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The Conservative Party selected former home secretary James Cleverly as its candidate for the 2028 London mayoral election, winning 86% support in a membership vote. The decision was announced on 19 November.",
-    "why_it_matters": "The choice shows how party leadership influences candidate selection, a key element of the AQA ‘Political parties’ topic. It also illustrates internal party democracy and the role of party members in shaping electoral strategy.",
+    "title": "Burnham rejects further Welsh devolution",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "Mark Burnham wrote to Rhun ap Iorwerth rejecting proposals to devolve policing, justice, the Crown Estate and rail to Wales. The letter was seen by BBC Wales.",
+    "why_it_matters": "The case illustrates the limits of devolution within the UK constitution and the role of the Prime Minister in shaping inter‑governmental relations.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Party members see Cleverly’s experience as giving the Conservatives a strong chance to win back London."
+      "text": "Burnham says central control ensures uniform standards and fiscal stability."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim the selection reflects a focus on high‑profile figures rather than grassroots policy."
+      "text": "Welsh Labour claims the refusal undermines the promised devolution settlement."
      },
      {
       "label": "From the right",
-      "text": "The choice is praised as a return to traditional law‑and‑order credentials."
+      "text": "Conservatives view the decision as protecting national security and economic efficiency."
      }
     ],
     "key_term": {
-     "term": "candidate selection",
-     "definition": "The process by which a party chooses who will stand for election."
+     "term": "devolution",
+     "definition": "Transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Use as evidence of how parties manage candidate selection in an essay on party organisation.",
+    "exam_use": "Use as evidence when discussing the balance of power between Westminster and devolved governments in a constitutional essay.",
     "sources": [
-     "e481cf0ebb47"
+     "709e8c065fef"
     ]
    },
    {
-    "title": "UK public backs re‑joining EU in key seats",
-    "section": "ukgov",
-    "topic": "eu",
-    "what_happened": "A survey of over 7,000 voters in four of five parliamentary seats that previously voted to leave the EU found a majority now support re‑joining the bloc. The poll was released on 20 November.",
-    "why_it_matters": "The result links to the AQA ‘EU’ sub‑topic, showing how public opinion can shift and affect government policy on international relations. It also raises questions about the legitimacy of a potential referendum.",
+    "title": "Survey shows majority in four UK seats favour EU re‑entry",
+    "section": "ukpol",
+    "topic": "elections",
+    "what_happened": "A poll of over 7,000 respondents in former Leave constituencies found four out of five seats now support rejoining the EU. The survey was published by The Guardian.",
+    "why_it_matters": "The result highlights changing public opinion on Europe, relevant to debates on party positions and electoral strategy.",
     "perspectives": [
      {
       "label": "From the left",
-      "text": "The shift reflects a desire for economic stability and cooperation with Europe."
+      "text": "Labour sees the shift as evidence for a pro‑EU platform."
      },
      {
       "label": "From the right",
-      "text": "Skeptics warn that changing public opinion may be temporary and driven by short‑term concerns."
+      "text": "Conservatives warn the data may be temporary and stress sovereignty."
      },
      {
       "label": "Critics argue",
-      "text": "Some argue the poll methodology may overstate support."
+      "text": "Some analysts caution about sampling bias and the volatility of public mood."
      }
     ],
     "key_term": {
-     "term": "public opinion poll",
-     "definition": "A survey that measures how the public feels about a particular issue."
+     "term": "public opinion",
+     "definition": "The aggregate attitudes of citizens towards political issues."
     },
-    "exam_use": "Cite as evidence when discussing how public opinion influences government decisions on EU relations.",
+    "exam_use": "Cite in an essay on how electoral data can influence party policy decisions.",
     "sources": [
      "7c163ba9da6b"
     ]
    },
    {
-    "title": "US courts block Trump memorial arch",
+    "title": "Trump administration seeks dismissal of Alaska Senate lawsuit",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "A federal judge issued an injunction preventing the construction of a 250‑foot memorial arch for former President Donald Trump in Washington, D.C. The order was given on 20 November.",
-    "why_it_matters": "The case illustrates judicial review, a core AQA ‘US courts’ concept, showing how courts can check executive actions. It also raises issues of separation of powers and political symbolism.",
+    "what_happened": "Justice Department lawyers asked the 9th Circuit Court of Appeals to overturn a lower‑court dismissal of a case challenging the 2026 Alaska Senate race results. The filing was reported by PBS NewsHour.",
+    "why_it_matters": "The move shows executive branch involvement in electoral litigation, raising questions about separation of powers.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The decision upholds the rule of law and prevents misuse of public land."
+      "text": "The administration claims the lawsuit lacks legal merit and seeks judicial efficiency."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents see it as judicial overreach into political decisions."
+      "text": "Opponents see it as an attempt to influence election outcomes."
      },
      {
       "label": "From the left",
-      "text": "The ruling is praised as protecting democratic norms."
+      "text": "Progressives worry about precedent for executive overreach in elections."
      }
     ],
     "key_term": {
-     "term": "injunction",
-     "definition": "A court order that requires a party to do or refrain from doing something."
+     "term": "separation of powers",
+     "definition": "Division of government responsibilities among legislative, executive and judicial branches."
     },
-    "exam_use": "Use to illustrate judicial checks on the executive in a US courts essay.",
-    "sources": [
-     "fe233c788488"
-    ]
-   },
-   {
-    "title": "Trump administration seeks to overturn Alaska Senate lawsuit",
-    "section": "us",
-    "topic": "us-courts",
-    "what_happened": "The Justice Department filed a brief asking the 9th Circuit Court of Appeals to reverse a lower‑court dismissal of a case challenging the results of Alaska’s 2026 U.S. Senate race. The filing was made on 20 November.",
-    "why_it_matters": "This demonstrates how the executive branch can use the courts to influence electoral outcomes, relevant to the AQA ‘US courts’ and ‘Elections & direct democracy’ topics. It also highlights the role of litigation in contested elections.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "The administration claims the lawsuit is necessary to ensure electoral integrity."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Observers warn it could undermine public confidence in the electoral process."
-     },
-     {
-      "label": "From the right",
-      "text": "The move is framed as defending voter rights against alleged fraud."
-     }
-    ],
-    "key_term": {
-     "term": "appeal",
-     "definition": "A request to a higher court to review a lower court’s decision."
-    },
-    "exam_use": "Reference when discussing judicial involvement in US electoral disputes.",
+    "exam_use": "Use as evidence when evaluating executive influence on the US electoral process in a comparative essay.",
     "sources": [
      "3fe0b06613b5"
     ]
    },
    {
-    "title": "Reform UK wins Risca East by‑election",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Martin Shipton, a supporter of far‑right activist Tommy Robinson, was elected as the Reform UK candidate in the Risca East by‑election, securing a landslide victory for the party on 20 November.",
-    "why_it_matters": "The result illustrates the impact of minor parties and protest voting, key to the AQA ‘Political parties’ syllabus. It also shows how regional elections can shift the balance of power in local councils.",
+    "title": "Federal judge blocks Trump memorial arch construction",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "A second federal judge issued an order preventing the Trump administration from building a 250‑foot memorial arch in Washington, D.C. The decision was reported by PBS NewsHour.",
+    "why_it_matters": "Judicial review limits presidential initiatives, illustrating checks on executive authority.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Reform UK’s win reflects voter frustration with mainstream parties."
+      "text": "Judges are upholding legal standards and preventing misuse of public land."
      },
      {
       "label": "Critics argue",
-      "text": "The victory is seen as a warning about extremist influences in local politics."
-     },
-     {
-      "label": "From the left",
-      "text": "The outcome is condemned as a rise in far‑right sentiment."
-     }
-    ],
-    "key_term": {
-     "term": "by‑election",
-     "definition": "An election held to fill a vacant seat between general elections."
-    },
-    "exam_use": "Use as a case study of how smaller parties can gain representation in local government.",
-    "sources": [
-     "83880d0fa5ee"
-    ]
-   },
-   {
-    "title": "Burnham rejects devolution of powers to Wales",
-    "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Prime Minister Rishi Burnham wrote to Welsh First Minister, rejecting a proposal to devolve additional powers to Wales, stating he was not persuaded it would benefit the nation. The letter was reported on 20 November.",
-    "why_it_matters": "The exchange highlights the central‑local relationship, a core AQA ‘Devolution’ topic, and raises questions about the balance of power between Westminster and the devolved administrations.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Burnham’s stance protects national cohesion and uniform policy."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Welsh leaders view the refusal as a missed opportunity for regional autonomy."
+      "text": "Trump supporters view the ruling as politically motivated obstruction."
      },
      {
       "label": "From the right",
-      "text": "The decision is praised as maintaining a strong central government."
+      "text": "Conservatives argue the decision infringes on the president’s prerogative to commemorate history."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "The statutory transfer of powers from the central government to regional bodies."
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of government actions."
     },
-    "exam_use": "Cite when analysing the limits of devolved authority in the UK.",
+    "exam_use": "Reference in an essay on the role of the US courts in checking executive power.",
     "sources": [
-     "92698147bc06"
+     "fe233c788488"
+    ]
+   },
+   {
+    "title": "Republicans shift support to Rubio in 2028 poll",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "New polling shows Republican voters moving away from Vice President Vance toward Secretary of State Marco Rubio ahead of the 2028 presidential election. Reported by The Hill.",
+    "why_it_matters": "The trend reflects intra‑party dynamics and potential changes in candidate selection for future elections.",
+    "perspectives": [
+     {
+      "label": "From the right",
+      "text": "Rubio’s foreign‑policy experience is seen as a strength for the party."
+     },
+     {
+      "label": "From the left",
+      "text": "Democrats argue the shift indicates Republican uncertainty after Trump."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Analysts caution polls can be volatile and not guarantee primary outcomes."
+     }
+    ],
+    "key_term": {
+     "term": "primary election",
+     "definition": "A preliminary election in which parties select their candidates for the general election."
+    },
+    "exam_use": "Use to illustrate party leadership contests in a US politics essay.",
+    "sources": [
+     "8aeecefde111"
     ]
    }
   ],
   "compare": {
-   "theme": "courts",
-   "uk": "UK courts can review secondary legislation and government actions, but rarely intervene in high‑profile political symbols.",
-   "us": "US federal courts routinely issue injunctions and hear appeals that can block executive projects and affect election outcomes.",
-   "insight": "The contrast shows a more activist US judiciary that directly shapes politics, whereas the UK judiciary is more restrained, reflecting different constitutional traditions.",
+   "theme": "executives",
+   "uk": "Burnham’s EU ‘reset’ shows the UK prime minister shaping foreign policy while managing domestic devolution pressures (709e8c065fef).",
+   "us": "President Trump’s press conference highlighted the US president’s direct engagement with foreign leaders and domestic controversies (0050bf5ce708).",
+   "insight": "The contrast reveals differing constitutional limits: the UK PM operates within a parliamentary system with collective cabinet responsibility, whereas the US president has broader unilateral authority but faces stronger judicial checks.",
    "sources": [
-    "fe233c788488",
-    "3fe0b06613b5"
+    "709e8c065fef",
+    "0050bf5ce708"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Burnham’s refusal to devolve powers echoes conservative emphasis on a strong, unitary state and skepticism of regional autonomy, ideas championed by Edmund Burke. The US court blocks on the Trump arch illustrate conservative concerns about preserving traditional symbols versus progressive calls for change.",
+   "ideology": "liberalism",
+   "text": "The Guardian’s poll showing renewed support for EU membership reflects liberal ideas of free movement and open markets championed by thinkers like John Stuart Mill. Liberalism argues that integration enhances individual liberty and economic prosperity.",
    "sources": [
-    "92698147bc06",
-    "fe233c788488"
+    "7c163ba9da6b"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which courts can influence political outcomes in the UK and the US.",
-   "section": "us",
-   "tip": "Compare judicial review in the UK with US injunctions and appeals, using the Trump arch and Alaska Senate cases as examples."
+   "question": "Assess the extent to which devolution reshapes the constitutional relationship between Westminster and the nations of the UK.",
+   "section": "ukgov",
+   "tip": "Structure your answer by defining devolution, outlining recent disputes (e.g., Burnham’s rejection), and evaluating arguments from both supporters and critics."
   }
  },
  "refs": {
-  "e481cf0ebb47": {
-   "id": "e481cf0ebb47",
-   "title": "Tories select James Cleverly as candidate for London mayor",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/19/tories-select-james-cleverly-candidate-london-mayor",
-   "source": "guardian",
-   "sourceName": "The Guardian",
+  "709e8c065fef": {
+   "id": "709e8c065fef",
+   "title": "Burnham rejects calls for more powers for Wales, putting him at odds with Welsh Labour",
+   "link": "https://nation.cymru/news/burnham-rejects-calls-for-more-powers-for-wales-putting-him-at-odds-with-welsh-labour/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-19T11:53:11Z"
+   "date": "2026-11-21T03:20:18Z"
   },
   "7c163ba9da6b": {
    "id": "7c163ba9da6b",
@@ -223,15 +193,6 @@
    "lean": "centre-left",
    "date": "2026-11-20T17:55:09Z"
   },
-  "fe233c788488": {
-   "id": "fe233c788488",
-   "title": "Second federal judge blocks construction of Trump's memorial arch",
-   "link": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-20T21:28:49Z"
-  },
   "3fe0b06613b5": {
    "id": "3fe0b06613b5",
    "title": "Trump administration moves to have lawsuit dismissed in challenge to Alaska's U.S. Senate race",
@@ -241,23 +202,32 @@
    "lean": "centre",
    "date": "2026-11-20T14:22:40Z"
   },
-  "83880d0fa5ee": {
-   "id": "83880d0fa5ee",
-   "title": "‘Tommy Robinson’ fan wins Risca East by-election for Reform",
-   "link": "https://nation.cymru/news/tommy-robinson-fan-wins-risca-east-by-election-for-reform/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-20T13:20:27Z"
-  },
-  "92698147bc06": {
-   "id": "92698147bc06",
-   "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
-   "link": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
+  "fe233c788488": {
+   "id": "fe233c788488",
+   "title": "Second federal judge blocks construction of Trump's memorial arch",
+   "link": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-20T19:41:30Z"
+   "date": "2026-11-20T21:28:49Z"
+  },
+  "8aeecefde111": {
+   "id": "8aeecefde111",
+   "title": "Republicans shift from Vance to Rubio in new 2028 polling: Join the live discussion",
+   "link": "https://thehill.com/newsletters/whole-hog-politics/whole-hog-politics-live-briefing/6232602-gop-shift-2028-presidential-race-marco-rubio-jd-vance-discussion/",
+   "source": "thehill",
+   "sourceName": "The Hill",
+   "lean": "centre",
+   "date": "2026-11-20T13:32:11Z"
+  },
+  "0050bf5ce708": {
+   "id": "0050bf5ce708",
+   "title": "What Trump addressed during his lengthy White House news conference",
+   "link": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-20T23:55:30Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
