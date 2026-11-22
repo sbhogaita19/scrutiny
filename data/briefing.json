@@ -1,218 +1,166 @@
 {
- "generated_at": "2026-11-21T20:54:24Z",
+ "generated_at": "2026-11-22T13:21:02Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK devolution clash, EU re‑join poll, US redistricting flop, Trump‑Congress standoff",
-  "overview": "Britain’s prime minister has rejected further powers for Wales, sparking criticism from Welsh leaders. A poll shows most voters in former Leave seats now favour re‑joining the EU. In the US, a North Carolina gerrymander back‑fired and President Trump issued an order limiting congressional oversight.",
+  "headline": "Brexit talks, US congressional shifts and party strategies dominate",
+  "overview": "UK leaders debate post‑Brexit relations while US politics sees Democrats take Congress and Trump tighten contractor controls. Both arenas show how parties and institutions respond to public pressure.",
   "stories": [
    {
-    "title": "Burnham rejects further Welsh devolution",
+    "title": "May urges Burnham to accept Brexit",
     "section": "ukgov",
-    "topic": "devolution",
-    "what_happened": "Prime Minister Andy Burnham wrote to Welsh leaders saying he is not persuaded to devolve policing, justice, the Crown Estate or rail infrastructure to Wales. Welsh officials described the response as treating Wales like a child.",
-    "why_it_matters": "The dispute illustrates the tension between central government and devolved administrations, a key issue in the AQA Constitution unit. It also raises questions about the limits of parliamentary sovereignty.",
+    "topic": "pm-cabinet",
+    "what_happened": "Theresa May told Andy Burnham to stop contesting Brexit and move forward. The comment was made amid Burnham’s push for a new EU deal.",
+    "why_it_matters": "The exchange highlights tensions between the Prime Minister’s office and the opposition over the constitutional settlement of Brexit. It illustrates how the executive can influence devolution debates.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s team say keeping these powers at Westminster ensures uniform standards across the UK."
+      "text": "May’s call could stabilise the Union by ending costly disputes."
      },
      {
       "label": "Critics argue",
-      "text": "Welsh campaigners claim the refusal undermines the principle of devolution promised by the 1998 Act."
+      "text": "Burnham’s supporters say the plea ignores democratic scrutiny of any new EU arrangement."
      },
      {
       "label": "From the left",
-      "text": "Welsh Labour argues further devolution would enable progressive policies tailored to Wales."
+      "text": "Labour MPs view the demand as an attempt to sideline parliamentary debate."
      }
     ],
     "key_term": {
      "term": "devolution",
-     "definition": "The statutory transfer of powers from the central UK Parliament to regional bodies."
+     "definition": "the transfer of powers from central government to regional bodies."
     },
-    "exam_use": "Use as evidence in an essay on the balance of power between Westminster and devolved governments.",
+    "exam_use": "Use as evidence of executive‑legislative conflict in an essay on the UK constitution.",
     "sources": [
-     "709e8c065fef",
-     "13030069e838"
+     "001f2fe1c190"
     ]
    },
    {
-    "title": "Survey shows four‑fifths of seats back EU re‑entry",
+    "title": "Labour MPs enrol in leadership course",
     "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "A poll of over 7,000 voters in 4,000 former Leave constituencies found that 80% now support the UK re‑joining the EU. The data was released ahead of the next general election.",
-    "why_it_matters": "The shift reflects changing public attitudes, relevant to the AQA topic of public opinion and electoral behaviour. It also highlights the role of issue voting.",
-    "perspectives": [
-     {
-      "label": "From the right",
-      "text": "Pro‑Leave commentators warn the poll may be a temporary reaction to economic pressures."
-     },
-     {
-      "label": "From the left",
-      "text": "Remain supporters see the result as evidence that the Brexit gamble has lost public confidence."
-     },
-     {
-      "label": "Neutral analysts",
-      "text": "Pollsters note the margin of error and that attitudes may vary by region."
-     }
-    ],
-    "key_term": {
-     "term": "issue voting",
-     "definition": "When voters choose parties based on their stance on specific policy issues."
-    },
-    "exam_use": "Cite in a question comparing how public opinion influences party strategy.",
-    "sources": [
-     "7c163ba9da6b"
-    ]
-   },
-   {
-    "title": "North Carolina redistricting back‑fires",
-    "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Republican legislators in North Carolina redrew congressional districts to gain an extra seat, but the new map resulted in the party losing two seats in the 2026 election.",
-    "why_it_matters": "The case demonstrates how gerrymandering can produce unintended electoral outcomes, linking to the AQA topic of electoral systems and representation.",
-    "perspectives": [
-     {
-      "label": "GOP perspective",
-      "text": "Lawmakers argued the map complied with legal requirements and aimed to reflect community interests."
-     },
-     {
-      "label": "Democratic perspective",
-      "text": "Critics say the plan was a partisan ‘dummymander’ that undermined fair representation."
-     },
-     {
-      "label": "Scholarly view",
-      "text": "Political scientists cite the episode as a classic example of the risks of partisan redistricting."
-     }
-    ],
-    "key_term": {
-     "term": "gerrymandering",
-     "definition": "Manipulating electoral boundaries to favour a particular party."
-    },
-    "exam_use": "Use as a case study in an essay on the impact of electoral system design on party outcomes.",
-    "sources": [
-     "e49313fb751c"
-    ]
-   },
-   {
-    "title": "Trump orders contractors to clear Congress queries",
-    "section": "us",
-    "topic": "president",
-    "what_happened": "President Donald Trump signed an executive order requiring federal contractors to seek White House approval before responding to congressional requests for information. The move follows anticipated Democratic oversight after the upcoming mid‑terms.",
-    "why_it_matters": "The order raises constitutional questions about the separation of powers, a core AQA focus in the US Constitution unit. It also illustrates executive‑legislative conflict.",
+    "topic": "parties",
+    "what_happened": "Over twenty Labour MPs signed up for a year‑long leadership programme funded by a donor. The course aims to counter right‑wing populism.",
+    "why_it_matters": "The initiative shows how parties seek internal reform to improve electoral appeal, linking to the AQA topic of political parties and their strategies.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The administration says the order protects national security and prevents politicised leaks."
+      "text": "Training will equip MPs with skills to regain voter trust."
      },
      {
       "label": "Critics argue",
-      "text": "Congressional leaders view it as an unlawful obstruction of oversight."
+      "text": "Opponents claim the donor influence may bias policy positions."
      },
      {
-      "label": "Legal analysts",
-      "text": "Constitutional scholars note the tension with the Legislative Oversight Clause."
+      "label": "From the right",
+      "text": "Conservatives view it as Labour’s attempt to rebrand without policy change."
      }
     ],
     "key_term": {
-     "term": "executive order",
-     "definition": "A directive issued by the US President that manages operations of the federal government."
+     "term": "political party",
+     "definition": "an organised group seeking to gain power through elections."
     },
-    "exam_use": "Reference in a discussion of checks and balances between the executive and legislature.",
+    "exam_use": "Cite when discussing party adaptation to changing public attitudes.",
     "sources": [
-     "a7430b200f47",
-     "2faa29a7e373"
+     "2d635062e2c3"
     ]
    },
    {
-    "title": "Second judge blocks Trump memorial arch",
+    "title": "Trump orders contractors to seek White House approval",
     "section": "us",
-    "topic": "us-courts",
-    "what_happened": "A federal judge issued an injunction preventing the construction of a 250‑foot memorial arch for former President Trump in Washington, D.C. The decision cites concerns over compliance with historic preservation laws.",
-    "why_it_matters": "The case illustrates judicial review of executive actions, linking to the AQA topic of the role of courts in the US political system.",
+    "topic": "president",
+    "what_happened": "President Trump issued an order requiring federal contractors to obtain White House clearance before responding to congressional inquiries. The move follows anticipated Democratic oversight.",
+    "why_it_matters": "The order raises questions about executive control over the bureaucracy and the balance of powers between the President and Congress, core to the US Constitution syllabus.",
     "perspectives": [
      {
-      "label": "Administration view",
-      "text": "The White House argues the arch is a lawful expression of free speech."
+      "label": "Supporters argue",
+      "text": "The President is protecting national security and preventing partisan leaks."
      },
      {
-      "label": "Opposition view",
-      "text": "Critics say the project violates preservation statutes and uses public funds for partisan purposes."
+      "label": "Critics argue",
+      "text": "Congressional leaders see it as an unlawful obstruction of oversight."
      },
      {
-      "label": "Neutral legal view",
-      "text": "Judges emphasize the need to apply existing statutes regardless of political symbolism."
+      "label": "From the left",
+      "text": "Progressives view it as an attempt to evade accountability."
      }
     ],
     "key_term": {
-     "term": "judicial review",
-     "definition": "The power of courts to assess the legality of actions by the executive or legislature."
+     "term": "separation of powers",
+     "definition": "the division of government responsibilities into distinct branches to limit any one branch's power."
     },
-    "exam_use": "Use as evidence when evaluating the checks the judiciary places on executive initiatives.",
+    "exam_use": "Use to illustrate executive‑legislative tension in a constitutional essay.",
     "sources": [
-     "fe233c788488"
+     "a7430b200f47"
+    ]
+   },
+   {
+    "title": "Democrats win control of Congress amid cost‑of‑living concerns",
+    "section": "us",
+    "topic": "us-elections",
+    "what_happened": "Democrats secured majorities in both houses in the midterm elections, attributing success to voter worries about high prices. They now face pressure to deliver on cost‑reduction policies.",
+    "why_it_matters": "The result demonstrates how economic issues influence electoral outcomes, linking to the AQA focus on elections and public opinion.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The win reflects a mandate to tackle inflation."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents warn the new majority may struggle with legislative gridlock."
+     },
+     {
+      "label": "From the right",
+      "text": "Republicans claim the victory is a temporary backlash against the economy."
+     }
+    ],
+    "key_term": {
+     "term": "midterm election",
+     "definition": "regular elections held halfway through a President’s term to elect members of Congress."
+    },
+    "exam_use": "Reference when analysing how economic performance affects voting behaviour.",
+    "sources": [
+     "d4ce14995a94"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "Burnham’s use of a written letter to reject devolution shows a prime minister exercising discretionary authority within the UK’s uncodified constitution.",
-   "us": "Trump’s executive order illustrates a US president using formal powers to direct federal contractors, testing limits of executive authority under the Constitution.",
-   "insight": "Both cases highlight how leaders can push the boundaries of their executive powers, but the UK relies on political convention while the US faces judicial scrutiny.",
+   "theme": "elections",
+   "uk": "UK parties are using internal training programmes to adapt after recent electoral setbacks, reflecting a strategic response to voter shifts.",
+   "us": "US parties faced a decisive midterm swing, with Democrats gaining control due to cost‑of‑living concerns, showing how economic issues can drive electoral change.",
+   "insight": "Both cases illustrate that parties adjust tactics—whether through capacity‑building or policy focus—to respond to public sentiment, highlighting the dynamic nature of electoral politics.",
    "sources": [
-    "709e8c065fef",
-    "a7430b200f47"
+    "2d635062e2c3",
+    "d4ce14995a94"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Burnham’s refusal to grant more powers to Wales reflects a conservative emphasis on preserving the integrity of the United Kingdom and limiting decentralisation, echoing Edmund Burke’s caution against rapid change. By contrast, critics invoke liberal ideas of self‑determination and local autonomy.",
-   "sources": [
-    "709e8c065fef",
-    "13030069e838"
-   ]
+   "ideology": "liberalism",
+   "text": "The EU‑UK reset deal embodies liberal principles of free movement and market openness, echoing thinkers like John Stuart Mill who argued for minimal barriers to trade and migration.",
+   "sources": []
   },
   "exam_question": {
-   "question": "Assess the extent to which executive actions can reshape the balance of power between central and devolved authorities in the UK, using recent devolution debates as evidence.",
-   "section": "ukgov",
-   "tip": "Structure your answer by defining executive power, outlining the devolution framework, analysing Burnham’s decision, and evaluating its impact on parliamentary sovereignty."
+   "question": "Assess the extent to which recent developments in the UK and US demonstrate the impact of economic issues on party strategies and electoral outcomes.",
+   "section": "ukpol | us",
+   "tip": "Structure your answer by comparing the UK party training initiative with the US midterm results, using specific examples and linking to the concepts of party adaptation and voter behaviour."
   }
  },
  "refs": {
-  "709e8c065fef": {
-   "id": "709e8c065fef",
-   "title": "Burnham rejects calls for more powers for Wales, putting him at odds with Welsh Labour",
-   "link": "https://nation.cymru/news/burnham-rejects-calls-for-more-powers-for-wales-putting-him-at-odds-with-welsh-labour/",
+  "001f2fe1c190": {
+   "id": "001f2fe1c190",
+   "title": "Just accept Brexit and move on, Theresa May urges Andy Burnham",
+   "link": "https://nation.cymru/news/just-accept-brexit-and-move-on-theresa-may-urges-andy-burnham/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-21T03:20:18Z"
+   "date": "2026-11-22T13:05:03Z"
   },
-  "13030069e838": {
-   "id": "13030069e838",
-   "title": "‘Wales is not a child. Westminster is not our parent’: Campaigners condemn Burnham’s rejection of further powers for Wales",
-   "link": "https://nation.cymru/news/wales-is-not-a-child-westminster-is-not-our-parent-campaigners-condemn-burnhams-rejection-of-further-powers-for-wales/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-21T11:31:10Z"
-  },
-  "7c163ba9da6b": {
-   "id": "7c163ba9da6b",
-   "title": "Voters in four out of five UK parliamentary seats back rejoining EU",
-   "link": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
+  "2d635062e2c3": {
+   "id": "2d635062e2c3",
+   "title": "Labour MPs sign up for leadership course to counter rightwing populism",
+   "link": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-20T17:55:09Z"
-  },
-  "e49313fb751c": {
-   "id": "e49313fb751c",
-   "title": "How a GOP redistricting 'dummymander' in North Carolina backfired by 2 seats",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6044778/how-a-gop-redistricting-dummymander-in-north-carolina-backfired-by-2-seats",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-21T12:40:21Z"
+   "date": "2026-11-22T06:00:21Z"
   },
   "a7430b200f47": {
    "id": "a7430b200f47",
@@ -223,23 +171,14 @@
    "lean": "centre",
    "date": "2026-11-21T19:29:23Z"
   },
-  "2faa29a7e373": {
-   "id": "2faa29a7e373",
-   "title": "Trump limits Congress's accesses to confidential agency, contractor information",
-   "link": "https://thehill.com/homenews/administration/6235181-trump-executive-privilege-congress-investigations-order/",
+  "d4ce14995a94": {
+   "id": "d4ce14995a94",
+   "title": "Democrats swept Congress on high prices. Here’s how they plan to bring costs down",
+   "link": "https://thehill.com/the-120/6233863-democrats-plan-lower-costs/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-21T15:37:40Z"
-  },
-  "fe233c788488": {
-   "id": "fe233c788488",
-   "title": "Second federal judge blocks construction of Trump's memorial arch",
-   "link": "https://www.pbs.org/newshour/politics/second-federal-judge-blocks-construction-of-trumps-memorial-arch",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
-   "lean": "centre",
-   "date": "2026-11-20T21:28:49Z"
+   "date": "2026-11-22T11:00:00Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
