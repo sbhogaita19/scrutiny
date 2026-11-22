@@ -1,93 +1,93 @@
 {
- "generated_at": "2026-11-22T13:21:02Z",
+ "generated_at": "2026-11-22T21:03:31Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Brexit talks, US congressional shifts and party strategies dominate",
-  "overview": "UK leaders debate post‑Brexit relations while US politics sees Democrats take Congress and Trump tighten contractor controls. Both arenas show how parties and institutions respond to public pressure.",
+  "headline": "Brexit, devolution and US midterm shake‑up dominate politics",
+  "overview": "UK leaders debate post‑Brexit relations and Welsh devolution while the US sees Democrats take Congress and Trump tighten executive control. Pressure groups and party strategies are shaping the debate in both countries.",
   "stories": [
    {
     "title": "May urges Burnham to accept Brexit",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Theresa May told Andy Burnham to stop contesting Brexit and move forward. The comment was made amid Burnham’s push for a new EU deal.",
-    "why_it_matters": "The exchange highlights tensions between the Prime Minister’s office and the opposition over the constitutional settlement of Brexit. It illustrates how the executive can influence devolution debates.",
+    "what_happened": "Theresa May told Andy Burnham to stop contesting Brexit arguments and to move on. The comment was made during a meeting on UK‑EU relations.",
+    "why_it_matters": "The exchange highlights the Prime Minister’s role in setting the government’s agenda and managing party cohesion, a key point in the A‑level Constitution unit. It also shows how devolution interacts with Westminster decisions.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "May’s call could stabilise the Union by ending costly disputes."
+      "text": "May’s call is seen as a pragmatic step to finalise Brexit and focus on domestic priorities."
      },
      {
       "label": "Critics argue",
-      "text": "Burnham’s supporters say the plea ignores democratic scrutiny of any new EU arrangement."
+      "text": "Burnham’s supporters view the demand as undermining Labour’s negotiating position with the EU."
      },
      {
       "label": "From the left",
-      "text": "Labour MPs view the demand as an attempt to sideline parliamentary debate."
+      "text": "Labour MPs worry the push could limit scrutiny of the Brexit deal’s impact on Wales."
      }
     ],
     "key_term": {
-     "term": "devolution",
-     "definition": "the transfer of powers from central government to regional bodies."
+     "term": "Cabinet collective responsibility",
+     "definition": "The principle that all ministers must publicly support government decisions."
     },
-    "exam_use": "Use as evidence of executive‑legislative conflict in an essay on the UK constitution.",
+    "exam_use": "Use as evidence of executive influence over party policy in an essay on the Prime Minister’s powers.",
     "sources": [
      "001f2fe1c190"
     ]
    },
    {
-    "title": "Labour MPs enrol in leadership course",
+    "title": "Welsh Labour questions Plaid housing body cost",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Over twenty Labour MPs signed up for a year‑long leadership programme funded by a donor. The course aims to counter right‑wing populism.",
-    "why_it_matters": "The initiative shows how parties seek internal reform to improve electoral appeal, linking to the AQA topic of political parties and their strategies.",
+    "what_happened": "Welsh Labour asked Plaid Cymru ministers to disclose the cost of a new national housing body and its impact on council powers. The request came amid debates over devolution funding.",
+    "why_it_matters": "The story illustrates inter‑party pressure within the Welsh Assembly and the role of opposition in holding the government to account, linking to the AQA topics of parties and pressure groups.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Training will equip MPs with skills to regain voter trust."
+      "text": "Plaid says the body will deliver affordable housing for ordinary people."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim the donor influence may bias policy positions."
+      "text": "Welsh Labour warns it could centralise decisions and reduce local council control."
      },
      {
       "label": "From the right",
-      "text": "Conservatives view it as Labour’s attempt to rebrand without policy change."
+      "text": "Conservatives caution that the scheme may increase public spending without clear benefits."
      }
     ],
     "key_term": {
-     "term": "political party",
-     "definition": "an organised group seeking to gain power through elections."
+     "term": "Devolution",
+     "definition": "The transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Cite when discussing party adaptation to changing public attitudes.",
+    "exam_use": "Cite when discussing how party competition shapes policy in devolved governments.",
     "sources": [
-     "2d635062e2c3"
+     "a62cb8bd64c7"
     ]
    },
    {
     "title": "Trump orders contractors to seek White House approval",
     "section": "us",
     "topic": "president",
-    "what_happened": "President Trump issued an order requiring federal contractors to obtain White House clearance before responding to congressional inquiries. The move follows anticipated Democratic oversight.",
-    "why_it_matters": "The order raises questions about executive control over the bureaucracy and the balance of powers between the President and Congress, core to the US Constitution syllabus.",
+    "what_happened": "President Trump issued an order requiring federal contractors to obtain White House clearance before responding to congressional inquiries. The move follows anticipated Democratic oversight after the midterms.",
+    "why_it_matters": "The order demonstrates executive‑legislative tension, a core concept in the US Constitution unit on separation of powers and checks and balances.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The President is protecting national security and preventing partisan leaks."
+      "text": "The administration says the rule protects national security and prevents partisan leaks."
      },
      {
       "label": "Critics argue",
-      "text": "Congressional leaders see it as an unlawful obstruction of oversight."
+      "text": "Congressional leaders view it as an unlawful attempt to obstruct oversight."
      },
      {
       "label": "From the left",
-      "text": "Progressives view it as an attempt to evade accountability."
+      "text": "Progressive groups claim it undermines democratic accountability."
      }
     ],
     "key_term": {
-     "term": "separation of powers",
-     "definition": "the division of government responsibilities into distinct branches to limit any one branch's power."
+     "term": "Executive order",
+     "definition": "A directive issued by the President that manages operations of the federal government."
     },
-    "exam_use": "Use to illustrate executive‑legislative tension in a constitutional essay.",
+    "exam_use": "Use as evidence of presidential power limits in an essay on US executive authority.",
     "sources": [
      "a7430b200f47"
     ]
@@ -95,52 +95,83 @@
    {
     "title": "Democrats win control of Congress amid cost‑of‑living concerns",
     "section": "us",
-    "topic": "us-elections",
-    "what_happened": "Democrats secured majorities in both houses in the midterm elections, attributing success to voter worries about high prices. They now face pressure to deliver on cost‑reduction policies.",
-    "why_it_matters": "The result demonstrates how economic issues influence electoral outcomes, linking to the AQA focus on elections and public opinion.",
+    "topic": "us-parties",
+    "what_happened": "Democrats secured majorities in both the House and Senate in the midterm elections, attributing their success to voter worries about high prices. They now face pressure to deliver on cost‑of‑living promises.",
+    "why_it_matters": "The result shows how party platforms and voter issues influence electoral outcomes, linking to the AQA topics of parties and elections.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The win reflects a mandate to tackle inflation."
+      "text": "Democrats claim the win reflects public demand for progressive economic policies."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn the new majority may struggle with legislative gridlock."
+      "text": "Republicans warn the new majority will raise taxes and increase government spending."
      },
      {
-      "label": "From the right",
-      "text": "Republicans claim the victory is a temporary backlash against the economy."
+      "label": "From the centre",
+      "text": "Analysts note the swing may be temporary, tied to short‑term economic anxieties."
      }
     ],
     "key_term": {
-     "term": "midterm election",
-     "definition": "regular elections held halfway through a President’s term to elect members of Congress."
+     "term": "Midterm elections",
+     "definition": "U.S. elections held halfway through a President’s four‑year term, usually for Congress."
     },
-    "exam_use": "Reference when analysing how economic performance affects voting behaviour.",
+    "exam_use": "Reference when analysing how party performance is affected by economic issues.",
     "sources": [
      "d4ce14995a94"
+    ]
+   },
+   {
+    "title": "Christian nationalist conference vows MAGA push",
+    "section": "ideas",
+    "topic": "nationalism",
+    "what_happened": "A Texas conference of Christian nationalists hosted speaker Nick Fuentes and pledged to continue advancing the MAGA agenda. The event emphasized a blend of religious and nationalist rhetoric.",
+    "why_it_matters": "The gathering illustrates contemporary nationalism’s appeal to identity and cultural narratives, relevant to the AQA study of political ideologies.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Attendees see the movement as defending traditional values against perceived cultural decline."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents label it extremist and warn it threatens pluralistic democracy."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive commentators argue it fuels division and undermines social cohesion."
+     }
+    ],
+    "key_term": {
+     "term": "Nationalism",
+     "definition": "An ideology that prioritises the interests and culture of a nation, often seeking self‑determination."
+    },
+    "exam_use": "Use to illustrate modern expressions of nationalism in an essay on political ideas.",
+    "sources": [
+     "534ee5ac501a"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "UK parties are using internal training programmes to adapt after recent electoral setbacks, reflecting a strategic response to voter shifts.",
-   "us": "US parties faced a decisive midterm swing, with Democrats gaining control due to cost‑of‑living concerns, showing how economic issues can drive electoral change.",
-   "insight": "Both cases illustrate that parties adjust tactics—whether through capacity‑building or policy focus—to respond to public sentiment, highlighting the dynamic nature of electoral politics.",
+   "theme": "parties",
+   "uk": "UK parties such as Labour and Plaid Cymru compete within devolved institutions, influencing policy on housing and devolution.",
+   "us": "US parties vie for control of Congress, with election outcomes shaping legislative agendas on cost of living.",
+   "insight": "The contrast shows that while UK party competition often operates within a single‑party government framework, US parties contest separate branches, highlighting different institutional checks.",
    "sources": [
-    "2d635062e2c3",
+    "a62cb8bd64c7",
     "d4ce14995a94"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "The EU‑UK reset deal embodies liberal principles of free movement and market openness, echoing thinkers like John Stuart Mill who argued for minimal barriers to trade and migration.",
-   "sources": []
+   "ideology": "nationalism",
+   "text": "The Christian nationalist conference reflects core nationalist ideas of cultural homogeneity and sovereignty, echoing thinkers like Johann Gottfried Herder who linked nationhood to shared heritage.",
+   "sources": [
+    "534ee5ac501a"
+   ]
   },
   "exam_question": {
-   "question": "Assess the extent to which recent developments in the UK and US demonstrate the impact of economic issues on party strategies and electoral outcomes.",
+   "question": "Assess the extent to which party competition influences policy outcomes in the UK and the US.",
    "section": "ukpol | us",
-   "tip": "Structure your answer by comparing the UK party training initiative with the US midterm results, using specific examples and linking to the concepts of party adaptation and voter behaviour."
+   "tip": "Compare a UK devolution case (Welsh housing body) with a US election case (Democratic control of Congress) and evaluate the role of parties in each."
   }
  },
  "refs": {
@@ -153,14 +184,14 @@
    "lean": "centre-left",
    "date": "2026-11-22T13:05:03Z"
   },
-  "2d635062e2c3": {
-   "id": "2d635062e2c3",
-   "title": "Labour MPs sign up for leadership course to counter rightwing populism",
-   "link": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
-   "source": "guardian",
-   "sourceName": "The Guardian",
+  "a62cb8bd64c7": {
+   "id": "a62cb8bd64c7",
+   "title": "Welsh Labour presses Plaid over cost of new housing body",
+   "link": "https://nation.cymru/news/welsh-labour-presses-plaid-over-cost-of-new-housing-body/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-22T06:00:21Z"
+   "date": "2026-11-22T20:40:21Z"
   },
   "a7430b200f47": {
    "id": "a7430b200f47",
@@ -179,6 +210,15 @@
    "sourceName": "The Hill",
    "lean": "centre",
    "date": "2026-11-22T11:00:00Z"
+  },
+  "534ee5ac501a": {
+   "id": "534ee5ac501a",
+   "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-11-22T13:12:08Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
