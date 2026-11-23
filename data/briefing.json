@@ -1,224 +1,224 @@
 {
- "generated_at": "2026-11-22T21:03:31Z",
+ "generated_at": "2026-11-23T15:58:16Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Brexit, devolution and US midterm shake‑up dominate politics",
-  "overview": "UK leaders debate post‑Brexit relations and Welsh devolution while the US sees Democrats take Congress and Trump tighten executive control. Pressure groups and party strategies are shaping the debate in both countries.",
+  "headline": "Brexit deal, US midterms and Welsh devolution dominate headlines",
+  "overview": "Britain’s new EU‑UK agreement sparks debate in Westminster and Wales, while US Democrats celebrate a historic House majority after the 2026 midterms. Pressure groups and parties on both sides frame the political stakes.",
   "stories": [
    {
-    "title": "May urges Burnham to accept Brexit",
+    "title": "Burnham presents new EU‑UK deal to Commons",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Theresa May told Andy Burnham to stop contesting Brexit arguments and to move on. The comment was made during a meeting on UK‑EU relations.",
-    "why_it_matters": "The exchange highlights the Prime Minister’s role in setting the government’s agenda and managing party cohesion, a key point in the A‑level Constitution unit. It also shows how devolution interacts with Westminster decisions.",
+    "what_happened": "Prime Minister Andy Burnham outlined a ten‑year EU‑UK partnership in the House of Commons, claiming it will boost trade and jobs. The speech followed a Brussels summit where the deal was negotiated.",
+    "why_it_matters": "The deal tests the government's ability to manage external relations post‑Brexit, a key element of the A‑level Constitution and Executive topics. It also raises questions about devolution, as Wales seeks its own role in the agreement.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "May’s call is seen as a pragmatic step to finalise Brexit and focus on domestic priorities."
+      "text": "Burnham’s team says the pact delivers economic benefits and respects the will of the 2016 referendum."
      },
      {
       "label": "Critics argue",
-      "text": "Burnham’s supporters view the demand as undermining Labour’s negotiating position with the EU."
+      "text": "Opposition parties claim the deal compromises UK sovereignty and gives the EU undue influence over domestic policy."
      },
      {
       "label": "From the left",
-      "text": "Labour MPs worry the push could limit scrutiny of the Brexit deal’s impact on Wales."
+      "text": "Labour and the Welsh Greens argue the agreement should include stronger climate standards."
      }
     ],
     "key_term": {
-     "term": "Cabinet collective responsibility",
-     "definition": "The principle that all ministers must publicly support government decisions."
+     "term": "Executive",
+     "definition": "The part of government that implements law, headed by the Prime Minister and Cabinet."
     },
-    "exam_use": "Use as evidence of executive influence over party policy in an essay on the Prime Minister’s powers.",
+    "exam_use": "Use as evidence in a Constitution essay on how the Executive negotiates international agreements.",
     "sources": [
-     "001f2fe1c190"
+     "f1abf2755af8"
     ]
    },
    {
-    "title": "Welsh Labour questions Plaid housing body cost",
+    "title": "Welsh Greens call for separation from English party",
     "section": "ukpol",
     "topic": "parties",
-    "what_happened": "Welsh Labour asked Plaid Cymru ministers to disclose the cost of a new national housing body and its impact on council powers. The request came amid debates over devolution funding.",
-    "why_it_matters": "The story illustrates inter‑party pressure within the Welsh Assembly and the role of opposition in holding the government to account, linking to the AQA topics of parties and pressure groups.",
+    "what_happened": "The Welsh Green Party announced a plan to become an independent political organisation by 2035, breaking formal ties with the England‑based Green Party. The move was endorsed by party leaders in Cardiff.",
+    "why_it_matters": "The story illustrates party organisation and the impact of devolution on party structures, relevant to the A‑level Political Parties and Devolution sections.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Plaid says the body will deliver affordable housing for ordinary people."
+      "text": "Welsh Greens say independence will allow policies tailored to Wales’ environmental needs."
      },
      {
       "label": "Critics argue",
-      "text": "Welsh Labour warns it could centralise decisions and reduce local council control."
+      "text": "Opponents warn the split could weaken the green vote nationally and fragment progressive politics."
      },
      {
       "label": "From the right",
-      "text": "Conservatives caution that the scheme may increase public spending without clear benefits."
+      "text": "Conservative commentators suggest the move shows the limits of regional parties within the UK system."
      }
     ],
     "key_term": {
      "term": "Devolution",
-     "definition": "The transfer of powers from the central UK government to regional administrations."
+     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Cite when discussing how party competition shapes policy in devolved governments.",
+    "exam_use": "Cite in an essay comparing party adaptation to devolved contexts.",
     "sources": [
-     "a62cb8bd64c7"
+     "4bed9e30e7a4"
     ]
    },
    {
-    "title": "Trump orders contractors to seek White House approval",
+    "title": "Democrats win largest House majority in decades",
     "section": "us",
-    "topic": "president",
-    "what_happened": "President Trump issued an order requiring federal contractors to obtain White House clearance before responding to congressional inquiries. The move follows anticipated Democratic oversight after the midterms.",
-    "why_it_matters": "The order demonstrates executive‑legislative tension, a core concept in the US Constitution unit on separation of powers and checks and balances.",
+    "topic": "us-elections",
+    "what_happened": "In the 2026 midterm elections, the Democratic Party secured a 250‑seat majority in the House of Representatives, the biggest margin since the early 1970s. The result followed gains in traditionally Republican swing districts.",
+    "why_it_matters": "The outcome reshapes congressional power dynamics, a core topic in the US Constitution and Congress sections of the syllabus.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The administration says the rule protects national security and prevents partisan leaks."
+      "text": "Democrats claim the win reflects public approval of their policy agenda on health care and climate."
      },
      {
       "label": "Critics argue",
-      "text": "Congressional leaders view it as an unlawful attempt to obstruct oversight."
+      "text": "Republicans argue the victory is due to demographic shifts rather than policy endorsement."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups claim it undermines democratic accountability."
+      "text": "Progressive groups celebrate the mandate for more ambitious reforms."
      }
     ],
     "key_term": {
-     "term": "Executive order",
-     "definition": "A directive issued by the President that manages operations of the federal government."
+     "term": "Congress",
+     "definition": "The bicameral legislature of the United States, consisting of the House of Representatives and the Senate."
     },
-    "exam_use": "Use as evidence of presidential power limits in an essay on US executive authority.",
+    "exam_use": "Use as evidence in a US Politics essay on how electoral outcomes affect legislative agendas.",
     "sources": [
-     "a7430b200f47"
+     "a269819b4407"
     ]
    },
    {
-    "title": "Democrats win control of Congress amid cost‑of‑living concerns",
+    "title": "Capita pension scheme failure triggers leadership exit",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Capita’s chief executive resigned after the company’s public‑sector pension scheme missed payment deadlines, leaving many civil servants without expected funds. The failure prompted a parliamentary inquiry.",
+    "why_it_matters": "The incident highlights accountability of private contractors delivering public services, linking to the A‑level topics of the Executive and public‑sector management.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Government officials say the issue is an isolated corporate failure, not a systemic problem."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opposition MPs argue outsourcing essential services undermines public accountability."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators stress the need for stricter regulation of private providers."
+     }
+    ],
+    "key_term": {
+     "term": "Accountability",
+     "definition": "The requirement that public officials and bodies answer for their actions and decisions."
+    },
+    "exam_use": "Reference in a essay on the limits of privatization in public service delivery.",
+    "sources": [
+     "2bdbc17d3ea6"
+    ]
+   },
+   {
+    "title": "Democrats plan 12 primary debates for 2028 election",
     "section": "us",
     "topic": "us-parties",
-    "what_happened": "Democrats secured majorities in both the House and Senate in the midterm elections, attributing their success to voter worries about high prices. They now face pressure to deliver on cost‑of‑living promises.",
-    "why_it_matters": "The result shows how party platforms and voter issues influence electoral outcomes, linking to the AQA topics of parties and elections.",
+    "what_happened": "The Democratic National Committee announced a schedule of twelve televised debates for the 2028 presidential primary, aiming to give candidates extensive exposure. The plan follows speculation about a crowded field to replace President Trump.",
+    "why_it_matters": "Debates are a key mechanism for party candidate selection, relevant to the US Parties and Elections sections of the syllabus.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats claim the win reflects public demand for progressive economic policies."
+      "text": "Party officials say more debates will increase voter engagement and transparency."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans warn the new majority will raise taxes and increase government spending."
-     },
-     {
-      "label": "From the centre",
-      "text": "Analysts note the swing may be temporary, tied to short‑term economic anxieties."
-     }
-    ],
-    "key_term": {
-     "term": "Midterm elections",
-     "definition": "U.S. elections held halfway through a President’s four‑year term, usually for Congress."
-    },
-    "exam_use": "Reference when analysing how party performance is affected by economic issues.",
-    "sources": [
-     "d4ce14995a94"
-    ]
-   },
-   {
-    "title": "Christian nationalist conference vows MAGA push",
-    "section": "ideas",
-    "topic": "nationalism",
-    "what_happened": "A Texas conference of Christian nationalists hosted speaker Nick Fuentes and pledged to continue advancing the MAGA agenda. The event emphasized a blend of religious and nationalist rhetoric.",
-    "why_it_matters": "The gathering illustrates contemporary nationalism’s appeal to identity and cultural narratives, relevant to the AQA study of political ideologies.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Attendees see the movement as defending traditional values against perceived cultural decline."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents label it extremist and warn it threatens pluralistic democracy."
+      "text": "Some candidates warn the schedule could favor well‑funded campaigns able to sustain a long campaign."
      },
      {
       "label": "From the left",
-      "text": "Progressive commentators argue it fuels division and undermines social cohesion."
+      "text": "Progressive activists argue debates should include stronger questions on climate policy."
      }
     ],
     "key_term": {
-     "term": "Nationalism",
-     "definition": "An ideology that prioritises the interests and culture of a nation, often seeking self‑determination."
+     "term": "Primary election",
+     "definition": "An intra‑party election in which party members choose their candidate for the general election."
     },
-    "exam_use": "Use to illustrate modern expressions of nationalism in an essay on political ideas.",
+    "exam_use": "Use to illustrate party processes in a comparative essay on US and UK candidate selection.",
     "sources": [
-     "534ee5ac501a"
+     "5ad8e4a7786f"
     ]
    }
   ],
   "compare": {
-   "theme": "parties",
-   "uk": "UK parties such as Labour and Plaid Cymru compete within devolved institutions, influencing policy on housing and devolution.",
-   "us": "US parties vie for control of Congress, with election outcomes shaping legislative agendas on cost of living.",
-   "insight": "The contrast shows that while UK party competition often operates within a single‑party government framework, US parties contest separate branches, highlighting different institutional checks.",
+   "theme": "elections",
+   "uk": "The UK’s next general election is scheduled for 2027, with parties campaigning on post‑Brexit economic recovery and devolution issues.",
+   "us": "The 2026 US midterms produced a historic Democratic House majority, reshaping the balance of power ahead of the 2028 presidential race.",
+   "insight": "Both systems show how electoral outcomes can dramatically shift policy agendas, but the UK’s first‑past‑the‑post system tends to produce single‑party governments, whereas the US’s proportional representation in Congress often leads to divided government.",
    "sources": [
-    "a62cb8bd64c7",
-    "d4ce14995a94"
+    "a269819b4407",
+    "f1abf2755af8"
    ]
   },
   "ideas_lens": {
-   "ideology": "nationalism",
-   "text": "The Christian nationalist conference reflects core nationalist ideas of cultural homogeneity and sovereignty, echoing thinkers like Johann Gottfried Herder who linked nationhood to shared heritage.",
+   "ideology": "liberalism",
+   "text": "Burnham’s EU‑UK deal reflects liberal ideas of free trade and individual prosperity, echoing John Stuart Mill’s emphasis on economic liberty. Critics invoke liberal concerns about protecting civil liberties from external influence.",
    "sources": [
-    "534ee5ac501a"
+    "f1abf2755af8"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which party competition influences policy outcomes in the UK and the US.",
-   "section": "ukpol | us",
-   "tip": "Compare a UK devolution case (Welsh housing body) with a US election case (Democratic control of Congress) and evaluate the role of parties in each."
+   "question": "Assess the extent to which recent electoral outcomes in the US and the UK have reshaped the policy priorities of the governing parties.",
+   "section": "ukgov | us",
+   "tip": "Structure your answer by comparing the US House majority’s impact on legislation with the UK’s post‑Brexit election dynamics, using specific examples from the news."
   }
  },
  "refs": {
-  "001f2fe1c190": {
-   "id": "001f2fe1c190",
-   "title": "Just accept Brexit and move on, Theresa May urges Andy Burnham",
-   "link": "https://nation.cymru/news/just-accept-brexit-and-move-on-theresa-may-urges-andy-burnham/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
+  "f1abf2755af8": {
+   "id": "f1abf2755af8",
+   "title": "Burnham says next decade can be ‘better one for Britain’ as he sets out new EU-UK deal in Commons – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+   "source": "guardian",
+   "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-22T13:05:03Z"
+   "date": "2026-11-23T15:48:17Z"
   },
-  "a62cb8bd64c7": {
-   "id": "a62cb8bd64c7",
-   "title": "Welsh Labour presses Plaid over cost of new housing body",
-   "link": "https://nation.cymru/news/welsh-labour-presses-plaid-over-cost-of-new-housing-body/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-22T20:40:21Z"
-  },
-  "a7430b200f47": {
-   "id": "a7430b200f47",
-   "title": "Trump orders federal contractors to check with White House before responding to Congress",
-   "link": "https://www.pbs.org/newshour/politics/trump-orders-federal-contractors-to-check-with-white-house-before-responding-to-congress",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "4bed9e30e7a4": {
+   "id": "4bed9e30e7a4",
+   "title": "Welsh Greens back plan to separate from English party",
+   "link": "https://www.bbc.co.uk/news/articles/cjy5xewrw657o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcwales",
+   "sourceName": "BBC Wales",
    "lean": "centre",
-   "date": "2026-11-21T19:29:23Z"
+   "date": "2026-11-23T14:01:33Z"
   },
-  "d4ce14995a94": {
-   "id": "d4ce14995a94",
-   "title": "Democrats swept Congress on high prices. Here’s how they plan to bring costs down",
-   "link": "https://thehill.com/the-120/6233863-democrats-plan-lower-costs/",
+  "a269819b4407": {
+   "id": "a269819b4407",
+   "title": "Democrats secure largest House majority in election in three decades",
+   "link": "https://thehill.com/homenews/house/6236301-democrats-secure-house-majority/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-22T11:00:00Z"
+   "date": "2026-11-22T21:33:52Z"
   },
-  "534ee5ac501a": {
-   "id": "534ee5ac501a",
-   "title": "Christian nationalist conference hosts Nick Fuentes, vows to keep pushing MAGA agenda",
-   "link": "https://www.npr.org/2026/11/22/nx-s1-6040018/christian-nationalist-conference-hosts-nick-fuentes-vows-to-keep-pushing-maga-agenda",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-22T13:12:08Z"
+  "2bdbc17d3ea6": {
+   "id": "2bdbc17d3ea6",
+   "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
+   "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-23T11:24:37Z"
+  },
+  "5ad8e4a7786f": {
+   "id": "5ad8e4a7786f",
+   "title": "Democrats plan 12 debates for their 2028 presidential primary, with what's likely to be a crowded field",
+   "link": "https://www.pbs.org/newshour/politics/democrats-plan-12-debates-for-their-2028-presidential-primary-with-whats-likely-to-be-a-crowded-field",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-23T15:54:04Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
