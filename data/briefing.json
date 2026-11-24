@@ -1,188 +1,199 @@
 {
- "generated_at": "2026-11-23T15:58:16Z",
+ "generated_at": "2026-11-24T03:19:40Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Brexit deal, US midterms and Welsh devolution dominate headlines",
-  "overview": "Britain’s new EU‑UK agreement sparks debate in Westminster and Wales, while US Democrats celebrate a historic House majority after the 2026 midterms. Pressure groups and parties on both sides frame the political stakes.",
+  "headline": "Burnham's EU stance fuels UK‑EU debate, US midterms reshape Congress",
+  "overview": "The UK prime minister argues a referendum is needed to re‑join the EU, while US Democrats secure a historic House majority. Parallel debates on devolution and judicial independence add further complexity.",
   "stories": [
    {
-    "title": "Burnham presents new EU‑UK deal to Commons",
+    "title": "Burnham says EU re‑entry must be put to a referendum",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham outlined a ten‑year EU‑UK partnership in the House of Commons, claiming it will boost trade and jobs. The speech followed a Brussels summit where the deal was negotiated.",
-    "why_it_matters": "The deal tests the government's ability to manage external relations post‑Brexit, a key element of the A‑level Constitution and Executive topics. It also raises questions about devolution, as Wales seeks its own role in the agreement.",
+    "what_happened": "Prime Minister Andy Burnham told the Guardian that rejoining the EU would be \"unthinkable\" without a public referendum and criticised former Tory leaders for opposing the debate. He also described his predecessors as \"stuck in the past\".",
+    "why_it_matters": "The comment highlights the executive's role in shaping foreign policy and the constitutional requirement for parliamentary approval of major treaties. It also raises questions about the balance of power between the prime minister and Parliament under the UK constitution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Burnham’s team says the pact delivers economic benefits and respects the will of the 2016 referendum."
+      "text": "Burnham's call for a referendum respects democratic legitimacy and gives the public a direct say on a major constitutional change."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition parties claim the deal compromises UK sovereignty and gives the EU undue influence over domestic policy."
-     },
-     {
-      "label": "From the left",
-      "text": "Labour and the Welsh Greens argue the agreement should include stronger climate standards."
-     }
-    ],
-    "key_term": {
-     "term": "Executive",
-     "definition": "The part of government that implements law, headed by the Prime Minister and Cabinet."
-    },
-    "exam_use": "Use as evidence in a Constitution essay on how the Executive negotiates international agreements.",
-    "sources": [
-     "f1abf2755af8"
-    ]
-   },
-   {
-    "title": "Welsh Greens call for separation from English party",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "The Welsh Green Party announced a plan to become an independent political organisation by 2035, breaking formal ties with the England‑based Green Party. The move was endorsed by party leaders in Cardiff.",
-    "why_it_matters": "The story illustrates party organisation and the impact of devolution on party structures, relevant to the A‑level Political Parties and Devolution sections.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Welsh Greens say independence will allow policies tailored to Wales’ environmental needs."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents warn the split could weaken the green vote nationally and fragment progressive politics."
+      "text": "Opponents say the demand could destabilise the UK's post‑Brexit settlement and undermine the government's ability to negotiate swiftly."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators suggest the move shows the limits of regional parties within the UK system."
+      "text": "Conservative commentators warn that repeated referendums erode parliamentary sovereignty."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
+     "term": "referendum",
+     "definition": "A direct vote by the electorate on a specific political question."
     },
-    "exam_use": "Cite in an essay comparing party adaptation to devolved contexts.",
+    "exam_use": "Use as evidence in an essay on the executive's influence over constitutional change and the role of referendums in UK politics.",
+    "sources": [
+     "00ee9db08ed1",
+     "0c3e002729bd"
+    ]
+   },
+   {
+    "title": "Welsh Greens push for separation from English party",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "The Welsh Green Party announced plans to split from its English counterpart by 2035, seeking an independent Welsh political identity. The move was reported by BBC Wales.",
+    "why_it_matters": "The split illustrates party fragmentation and the impact of devolution on party structures, a key topic in the AQA study of political parties and regional politics.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "An independent Welsh Green Party can better represent Welsh environmental priorities."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The division may weaken the overall Green movement's electoral strength across the UK."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive voices see the split as a step towards greater regional autonomy."
+     }
+    ],
+    "key_term": {
+     "term": "devolution",
+     "definition": "The transfer of powers from the central government to regional or local bodies."
+    },
+    "exam_use": "Cite when discussing how devolution influences party organization and regional representation.",
     "sources": [
      "4bed9e30e7a4"
     ]
    },
    {
-    "title": "Democrats win largest House majority in decades",
+    "title": "US Democrats win largest House majority in decades",
     "section": "us",
     "topic": "us-elections",
-    "what_happened": "In the 2026 midterm elections, the Democratic Party secured a 250‑seat majority in the House of Representatives, the biggest margin since the early 1970s. The result followed gains in traditionally Republican swing districts.",
-    "why_it_matters": "The outcome reshapes congressional power dynamics, a core topic in the US Constitution and Congress sections of the syllabus.",
+    "what_happened": "In the 2026 midterm elections, Democrats secured the biggest House majority in a regular election in three decades, according to The Hill.",
+    "why_it_matters": "The result shifts the balance of power in Congress, affecting legislative agendas and the relationship between the executive and legislature, core to the US government syllabus.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats claim the win reflects public approval of their policy agenda on health care and climate."
+      "text": "The victory reflects public approval of Democratic policies on climate and health."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans argue the victory is due to demographic shifts rather than policy endorsement."
+      "text": "Republicans warn that such a majority could lead to unchecked partisan legislation."
      },
      {
       "label": "From the left",
-      "text": "Progressive groups celebrate the mandate for more ambitious reforms."
+      "text": "Progressive groups view the win as an opportunity for bold reforms."
      }
     ],
     "key_term": {
-     "term": "Congress",
-     "definition": "The bicameral legislature of the United States, consisting of the House of Representatives and the Senate."
+     "term": "majority",
+     "definition": "Having more than half the seats, allowing control of legislative decisions."
     },
-    "exam_use": "Use as evidence in a US Politics essay on how electoral outcomes affect legislative agendas.",
+    "exam_use": "Use to illustrate how electoral outcomes reshape congressional power dynamics in an essay on US elections.",
     "sources": [
      "a269819b4407"
     ]
    },
    {
-    "title": "Capita pension scheme failure triggers leadership exit",
-    "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Capita’s chief executive resigned after the company’s public‑sector pension scheme missed payment deadlines, leaving many civil servants without expected funds. The failure prompted a parliamentary inquiry.",
-    "why_it_matters": "The incident highlights accountability of private contractors delivering public services, linking to the A‑level topics of the Executive and public‑sector management.",
+    "title": "Federal appeals court opens path for Trump to challenge hush‑money conviction",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "A federal appeals court ruled that President Donald Trump can seek to have his hush‑money conviction dismissed on immunity grounds, moving the case to a federal court.",
+    "why_it_matters": "The decision highlights the role of the judiciary in checking executive actions and the constitutional debate over presidential immunity.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Government officials say the issue is an isolated corporate failure, not a systemic problem."
+      "text": "Trump's team says immunity protects the office from politically motivated prosecutions."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition MPs argue outsourcing essential services undermines public accountability."
+      "text": "Legal scholars warn that broad immunity could undermine accountability."
      },
      {
       "label": "From the right",
-      "text": "Conservative commentators stress the need for stricter regulation of private providers."
+      "text": "Conservatives view the ruling as a defence of executive authority."
      }
     ],
     "key_term": {
-     "term": "Accountability",
-     "definition": "The requirement that public officials and bodies answer for their actions and decisions."
+     "term": "presidential immunity",
+     "definition": "Legal protection that may shield a sitting president from certain lawsuits."
     },
-    "exam_use": "Reference in a essay on the limits of privatization in public service delivery.",
+    "exam_use": "Reference when discussing the separation of powers and judicial review in the US constitution.",
     "sources": [
-     "2bdbc17d3ea6"
+     "7442134898e2"
     ]
    },
    {
-    "title": "Democrats plan 12 primary debates for 2028 election",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "The Democratic National Committee announced a schedule of twelve televised debates for the 2028 presidential primary, aiming to give candidates extensive exposure. The plan follows speculation about a crowded field to replace President Trump.",
-    "why_it_matters": "Debates are a key mechanism for party candidate selection, relevant to the US Parties and Elections sections of the syllabus.",
+    "title": "Welsh government funds National Slate Museum redevelopment",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "The Welsh Government allocated an extra £2.4 million to redevelop the National Slate Museum, as reported by Nation.Cymru.",
+    "why_it_matters": "The funding demonstrates devolved fiscal powers and the ability of the Welsh administration to invest in cultural projects, linking to the AQA topic of devolution.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Party officials say more debates will increase voter engagement and transparency."
+      "text": "Investment preserves Welsh heritage and boosts local tourism."
      },
      {
       "label": "Critics argue",
-      "text": "Some candidates warn the schedule could favor well‑funded campaigns able to sustain a long campaign."
+      "text": "Opponents claim the money could be better spent on public services."
      },
      {
       "label": "From the left",
-      "text": "Progressive activists argue debates should include stronger questions on climate policy."
+      "text": "Progressive voices see cultural funding as essential for community development."
      }
     ],
     "key_term": {
-     "term": "Primary election",
-     "definition": "An intra‑party election in which party members choose their candidate for the general election."
+     "term": "devolved administration",
+     "definition": "A regional government with powers transferred from the central state."
     },
-    "exam_use": "Use to illustrate party processes in a comparative essay on US and UK candidate selection.",
+    "exam_use": "Use as evidence of how devolution enables regional policy decisions in an essay on UK governance.",
     "sources": [
-     "5ad8e4a7786f"
+     "82b2e7497df6"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "The UK’s next general election is scheduled for 2027, with parties campaigning on post‑Brexit economic recovery and devolution issues.",
-   "us": "The 2026 US midterms produced a historic Democratic House majority, reshaping the balance of power ahead of the 2028 presidential race.",
-   "insight": "Both systems show how electoral outcomes can dramatically shift policy agendas, but the UK’s first‑past‑the‑post system tends to produce single‑party governments, whereas the US’s proportional representation in Congress often leads to divided government.",
+   "theme": "executives",
+   "uk": "Burnham seeks a referendum to legitimize a major foreign policy shift, showing the prime minister's influence over constitutional change.",
+   "us": "President Trump is using the courts to challenge a conviction, illustrating the US executive's reliance on judicial avenues for protection.",
+   "insight": "The contrast shows the UK executive works through parliamentary consent, while the US executive can directly invoke judicial review, reflecting different constitutional arrangements.",
    "sources": [
-    "a269819b4407",
-    "f1abf2755af8"
+    "00ee9db08ed1",
+    "7442134898e2"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Burnham’s EU‑UK deal reflects liberal ideas of free trade and individual prosperity, echoing John Stuart Mill’s emphasis on economic liberty. Critics invoke liberal concerns about protecting civil liberties from external influence.",
+   "text": "Burnham's call for a referendum aligns with liberal ideas of popular sovereignty and individual participation, echoing John Locke's emphasis on consent of the governed. Liberalism also underpins the US courts' role in checking executive power.",
    "sources": [
-    "f1abf2755af8"
+    "00ee9db08ed1",
+    "7442134898e2"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which recent electoral outcomes in the US and the UK have reshaped the policy priorities of the governing parties.",
+   "question": "Assess the extent to which the executive can influence constitutional change in the UK and the US, using recent examples.",
    "section": "ukgov | us",
-   "tip": "Structure your answer by comparing the US House majority’s impact on legislation with the UK’s post‑Brexit election dynamics, using specific examples from the news."
+   "tip": "Compare Burnham's referendum proposal with Trump's use of the courts, focusing on parliamentary sovereignty versus judicial review."
   }
  },
  "refs": {
-  "f1abf2755af8": {
-   "id": "f1abf2755af8",
-   "title": "Burnham says next decade can be ‘better one for Britain’ as he sets out new EU-UK deal in Commons – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+  "00ee9db08ed1": {
+   "id": "00ee9db08ed1",
+   "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+   "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
    "source": "guardian",
    "sourceName": "The Guardian",
    "lean": "centre-left",
-   "date": "2026-11-23T15:48:17Z"
+   "date": "2026-11-23T19:26:01Z"
+  },
+  "0c3e002729bd": {
+   "id": "0c3e002729bd",
+   "title": "My approach to EU is pragmatic, says Burnham",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+   "source": "bbc",
+   "sourceName": "BBC News",
+   "lean": "centre",
+   "date": "2026-11-23T19:10:44Z"
   },
   "4bed9e30e7a4": {
    "id": "4bed9e30e7a4",
@@ -202,23 +213,23 @@
    "lean": "centre",
    "date": "2026-11-22T21:33:52Z"
   },
-  "2bdbc17d3ea6": {
-   "id": "2bdbc17d3ea6",
-   "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-   "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-11-23T11:24:37Z"
-  },
-  "5ad8e4a7786f": {
-   "id": "5ad8e4a7786f",
-   "title": "Democrats plan 12 debates for their 2028 presidential primary, with what's likely to be a crowded field",
-   "link": "https://www.pbs.org/newshour/politics/democrats-plan-12-debates-for-their-2028-presidential-primary-with-whats-likely-to-be-a-crowded-field",
+  "7442134898e2": {
+   "id": "7442134898e2",
+   "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
+   "link": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
    "source": "pbs",
    "sourceName": "PBS NewsHour",
    "lean": "centre",
-   "date": "2026-11-23T15:54:04Z"
+   "date": "2026-11-23T21:54:04Z"
+  },
+  "82b2e7497df6": {
+   "id": "82b2e7497df6",
+   "title": "National Slate Museum redevelopment receives extra £2.4m",
+   "link": "https://nation.cymru/news/national-slate-museum-redevelopment-receives-extra-2-4m/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-23T15:42:31Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
