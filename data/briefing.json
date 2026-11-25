@@ -1,207 +1,197 @@
 {
- "generated_at": "2026-11-25T01:25:12Z",
+ "generated_at": "2026-11-25T15:36:06Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Burnham’s EU stance, US turkey pardon, and devolution tensions dominate",
-  "overview": "The UK debates EU re‑entry and Welsh devolution while US politics sees Trump’s turkey pardon and court moves. Mid‑term results reshape US party dynamics.",
+  "headline": "Burnham defends devolution stance as US turkey pardon sparks debate",
+  "overview": "Prime Minister Rishi Burnham faced criticism over Wales devolution while US President Trump continued a holiday tradition of pardoning turkeys. Across Westminster and Washington, questions of accountability and tradition dominate political discourse.",
   "stories": [
    {
-    "title": "Burnham says EU re‑entry would need referendum",
+    "title": "Burnham rejects further Welsh powers at PMQs",
     "section": "ukgov",
-    "topic": "constitution",
-    "what_happened": "Prime Minister Andy Burnham told the Guardian that a future UK return to the EU would be “unthinkable” without a public referendum. He also criticised former Tory leaders who oppose the debate as being “stuck in the past”.",
-    "why_it_matters": "The comment links to the A‑level focus on the UK constitution’s uncodified nature and the role of referendums in constitutional change. It also illustrates executive influence over constitutional reform.",
+    "topic": "pm-cabinet",
+    "what_happened": "At Prime Minister's Questions, Burnham said he was “listening to Wales” after Plaid Cymru asked for devolved policing, justice and rail powers. He maintained the current devolution settlement.",
+    "why_it_matters": "The episode illustrates the tension between central government control and devolved authority, a key issue in the AQA Constitution topic. It shows how the executive can shape devolution policy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑EU advocates say a referendum would give democratic legitimacy to any re‑entry."
+      "text": "Burnham’s stance protects UK-wide standards and avoids fragmenting policy."
      },
      {
       "label": "Critics argue",
-      "text": "Brexit‑supporters claim the statement undermines the 2016 referendum result."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservative commentators warn the move could fuel political instability."
-     }
-    ],
-    "key_term": {
-     "term": "referendum",
-     "definition": "A direct vote by the electorate on a specific political question."
-    },
-    "exam_use": "Use as evidence in an essay on how the UK’s uncodified constitution allows the Prime Minister to shape constitutional change.",
-    "sources": [
-     "00ee9db08ed1"
-    ]
-   },
-   {
-    "title": "Welsh First Minister challenges Burnham on devolution",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "First Minister Rhun ap Iorwerth said Burnham does not view Wales as an “equal nation” and called for urgent talks after the UK Government refused further powers. The claim follows a failed Reform UK motion to oust the Senedd Presiding Officer. ",
-    "why_it_matters": "The story highlights the tension between central government and devolved administrations, a key area of the A‑level syllabus on devolution and the principle of subsidiarity.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Welsh nationalists see the demand for more powers as essential for democratic accountability."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Unionists argue further devolution could fragment the UK’s political unity."
+      "text": "Opponents say it ignores Welsh public demand and undermines the principle of devolution."
      },
      {
       "label": "From the left",
-      "text": "Labour‑aligned groups stress the need for parity with Scotland’s powers."
+      "text": "Plaid Cymru and Welsh Labour view the refusal as a breach of the promised devolution settlement."
      }
     ],
     "key_term": {
      "term": "devolution",
-     "definition": "The statutory transfer of powers from the central government to regional bodies."
+     "definition": "Transfer of powers from central government to regional bodies."
     },
-    "exam_use": "Cite when discussing the advantages and challenges of devolved governance in the UK.",
+    "exam_use": "Use as evidence of executive influence on devolution in an essay on the UK constitution.",
     "sources": [
-     "aa8b549e1e0d",
-     "3186174970e5"
+     "bac51cb7b248"
+    ]
+   },
+   {
+    "title": "No money spent on Wales steel pledge",
+    "section": "ukgov",
+    "topic": "devolution",
+    "what_happened": "An audit showed the UK Government had allocated no funds in Wales towards its £2.5 bn steel support pledge as of 20 October. The shortfall was highlighted by Nation.Cymru.",
+    "why_it_matters": "The story highlights fiscal devolution and the central government's control of spending, relevant to the AQA Parliament and Devolution topics. It raises questions about accountability of the Treasury to devolved administrations.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The government may be awaiting viable projects before releasing funds."
+     },
+     {
+      "label": "Critics argue",
+      "text": "The delay breaches commitments to Welsh industry and harms local jobs."
+     },
+     {
+      "label": "From the right",
+      "text": "Emphasises fiscal prudence and avoiding wasteful subsidies."
+     }
+    ],
+    "key_term": {
+     "term": "fiscal devolution",
+     "definition": "Allocation of taxation and spending powers to sub‑national governments."
+    },
+    "exam_use": "Cite when discussing the limits of devolved financial powers in a constitution essay.",
+    "sources": [
+     "22c343d92c8f"
     ]
    },
    {
     "title": "Trump pardons two turkeys for the holidays",
     "section": "us",
     "topic": "president",
-    "what_happened": "President Donald Trump issued a traditional White House pardon for two turkeys named Freedom and Feathers on Thanksgiving. The act continued a long‑standing presidential tradition. ",
-    "why_it_matters": "The pardon illustrates the symbolic powers of the US President, relevant to the A‑level study of executive authority and its limits under the Constitution.",
+    "what_happened": "President Donald Trump granted pardons to two turkeys named Freedom and Feathers, continuing a White House tradition. The event was reported by BBC News.",
+    "why_it_matters": "The pardon illustrates presidential ceremonial powers, a point in the AQA US Constitution topic. It shows how symbolic actions can affect public perception of the executive.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Fans view the pardon as a light‑hearted exercise of presidential clemency."
+      "text": "The tradition humanises the presidency and connects with American culture."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim it distracts from more serious uses of the pardon power."
+      "text": "It distracts from substantive policy issues and can be seen as frivolous."
      },
      {
       "label": "From the left",
-      "text": "Progressive commentators question the relevance of animal pardons in a political context."
+      "text": "Progressive commentators view it as a missed opportunity to address animal welfare."
      }
     ],
     "key_term": {
-     "term": "presidential pardon",
-     "definition": "The constitutional power of the US President to forgive federal crimes."
+     "term": "executive privilege",
+     "definition": "The president’s right to keep certain communications confidential."
     },
-    "exam_use": "Use as a contemporary example of executive clemency in an essay on presidential powers.",
+    "exam_use": "Reference in an essay on presidential powers and their limits.",
     "sources": [
      "ae079689d2ea"
     ]
    },
    {
-    "title": "Federal appeals court opens path to overturn Trump hush‑money case",
+    "title": "Supreme Court to hear asylum‑status green‑card case",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "A US federal appeals court ruled that President Trump can seek to have his hush‑money conviction dismissed on immunity grounds, moving the case to a lower federal court. ",
-    "why_it_matters": "The decision highlights the interaction between the judiciary and the executive, a core topic in the US Constitution and courts section of the syllabus.",
+    "what_happened": "The US Supreme Court scheduled oral arguments in Wassily v. Blanche, questioning whether former asylum seekers can still obtain green cards after status loss. Reported by SCOTUSblog.",
+    "why_it_matters": "The case tests the interpretation of immigration law and judicial review, linking to the AQA US Courts and Civil Rights topics. It shows the Court’s role in shaping rights for non‑citizens.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump supporters say the ruling upholds the principle that a sitting president is immune from prosecution."
+      "text": "Upholding green‑card eligibility protects vulnerable immigrants."
      },
      {
       "label": "Critics argue",
-      "text": "Legal scholars warn it could set a precedent undermining accountability."
+      "text": "Limiting it safeguards the immigration system from abuse."
      },
      {
       "label": "From the right",
-      "text": "Conservatives argue the judiciary is over‑reaching into political matters."
+      "text": "Emphasises strict enforcement of immigration statutes."
      }
     ],
     "key_term": {
-     "term": "presidential immunity",
-     "definition": "Legal doctrine that a sitting US President cannot be sued for official actions."
+     "term": "judicial review",
+     "definition": "The power of courts to assess the legality of government actions."
     },
-    "exam_use": "Reference when analysing checks and balances between US branches of government.",
+    "exam_use": "Use as a contemporary example of the Supreme Court influencing civil‑rights policy.",
     "sources": [
-     "7442134898e2"
+     "ac390ba2beac"
     ]
    },
    {
-    "title": "Democrats win abortion‑rights seats in US midterms",
-    "section": "us",
-    "topic": "civil-rights",
-    "what_happened": "Democratic candidates supportive of abortion rights secured a number of House seats in the 2026 midterms, though Republicans retain control in many states with abortion bans. ",
-    "why_it_matters": "The outcome shows how civil‑rights issues influence electoral politics, linking to the A‑level focus on voting behaviour and party competition.",
+    "title": "Labour backs ban on conversion practices",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Labour announced commitment to a ban on conversion practices despite some campaigners urging the law be scrapped. Reported by The Guardian.",
+    "why_it_matters": "The stance reflects party policy formation and the interaction between parties and civil‑society groups, relevant to the AQA Political Parties topic. It shows how parties respond to rights‑based campaigns.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Progressive groups celebrate the gains as a step toward protecting reproductive rights."
+      "text": "The ban protects LGBTQ+ individuals from harmful interventions."
      },
      {
       "label": "Critics argue",
-      "text": "Conservatives warn the results will not change state‑level abortion laws."
+      "text": "Opponents claim it infringes on religious freedom."
      },
      {
-      "label": "From the left",
-      "text": "Left‑wing analysts argue the limited impact shows the power of state legislatures."
+      "label": "From the right",
+      "text": "Conservative voices warn of over‑regulation of personal beliefs."
      }
     ],
     "key_term": {
-     "term": "civil rights",
-     "definition": "Rights guaranteeing individuals’ freedoms and protections against discrimination."
+     "term": "policy platform",
+     "definition": "A set of principles and proposals a party promises to implement."
     },
-    "exam_use": "Use as evidence when discussing how issue‑based voting shapes US elections.",
+    "exam_use": "Illustrate party positioning on social issues in a comparative essay on UK parties.",
     "sources": [
-     "edd2bb6573a2"
+     "2154cef2957f"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "The UK is debating a potential EU referendum, reflecting how referendums can trigger constitutional change.",
-   "us": "US midterms show how state‑level ballot measures and party control affect policy outcomes.",
-   "insight": "Both systems use elections to legitimize major policy shifts, but the UK relies on a single national referendum while the US depends on staggered, state‑based contests.",
+   "uk": "UK general elections use first‑past‑the‑post in single‑member constituencies, shaping party strategy and voter choice.",
+   "us": "US midterm elections involve separate votes for the House and Senate, with a mix of single‑member districts and statewide contests.",
+   "insight": "The contrast shows how electoral systems affect party fragmentation and representation, a key point for AQA comparisons of UK and US politics.",
    "sources": [
-    "00ee9db08ed1",
+    "502d3d2d5cec",
     "edd2bb6573a2"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Burnham’s call for a referendum embodies liberalism’s emphasis on popular sovereignty and individual choice, echoing John Locke’s idea that government must reflect the consent of the governed.",
+   "text": "The Supreme Court asylum case reflects liberalism’s emphasis on individual rights and limited government interference, echoing John Locke’s ideas of natural liberty. Conversely, critics invoke liberalism’s concern for rule of law to argue for strict immigration controls.",
    "sources": [
-    "00ee9db08ed1"
+    "ac390ba2beac"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which referendums can be used to achieve constitutional change in the UK and the US.",
+   "question": "Assess the extent to which devolution in the UK balances regional autonomy with national unity.",
    "section": "ukgov",
-   "tip": "Compare the UK’s uncodified constitution and the US’s amendment process, using recent examples of the EU referendum debate and US state ballot initiatives."
+   "tip": "Structure your answer by defining devolution, examining recent examples (e.g., Burnham’s stance, steel pledge), and evaluating both supportive and critical perspectives."
   }
  },
  "refs": {
-  "00ee9db08ed1": {
-   "id": "00ee9db08ed1",
-   "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
-   "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-23T19:26:01Z"
-  },
-  "aa8b549e1e0d": {
-   "id": "aa8b549e1e0d",
-   "title": "First Minister says Burnham does not see Wales as an ‘equal nation’",
-   "link": "https://nation.cymru/news/first-minister-says-burnham-does-not-see-wales-as-an-equal-nation/",
+  "bac51cb7b248": {
+   "id": "bac51cb7b248",
+   "title": "Burnham insists he is ‘listening to Wales’ after rejecting calls for more powers",
+   "link": "https://nation.cymru/news/burnham-insists-he-is-listening-to-wales-after-rejecting-calls-for-more-powers/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-23T21:39:46Z"
+   "date": "2026-11-25T15:30:13Z"
   },
-  "3186174970e5": {
-   "id": "3186174970e5",
-   "title": "Reform fails in bid to oust Senedd Presiding Officer",
-   "link": "https://nation.cymru/news/reform-fails-in-bid-to-oust-senedd-presiding-officer/",
+  "22c343d92c8f": {
+   "id": "22c343d92c8f",
+   "title": "No money spent in Wales under £2.5bn steel pledge",
+   "link": "https://nation.cymru/news/no-money-spent-in-wales-under-2-5bn-steel-pledge/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-24T22:31:57Z"
+   "date": "2026-11-25T14:25:04Z"
   },
   "ae079689d2ea": {
    "id": "ae079689d2ea",
@@ -212,14 +202,32 @@
    "lean": "centre",
    "date": "2026-11-24T20:45:09Z"
   },
-  "7442134898e2": {
-   "id": "7442134898e2",
-   "title": "Federal appeals court gives President Donald Trump a path to erasing hush money conviction",
-   "link": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
-   "source": "pbs",
-   "sourceName": "PBS NewsHour",
+  "ac390ba2beac": {
+   "id": "ac390ba2beac",
+   "title": "Justices to consider whether noncitizens who lose asylum status may still obtain green cards",
+   "link": "https://www.scotusblog.com/2026/11/justices-to-consider-whether-noncitizens-who-lose-asylum-status-may-still-obtain-green-cards/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-11-25T14:30:00Z"
+  },
+  "2154cef2957f": {
+   "id": "2154cef2957f",
+   "title": "Labour ‘committed’ to ban on conversion practices despite calls for proposed law to be scrapped",
+   "link": "https://www.theguardian.com/world/2026/nov/25/labour-committed-ban-conversion-practices-despite-proposed-law-scrapped",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-25T14:00:28Z"
+  },
+  "502d3d2d5cec": {
+   "id": "502d3d2d5cec",
+   "title": "Gillibrand says Democrats could win 60 Senate seats in 2028, DSCC would back Fetterman in general election",
+   "link": "https://thehill.com/homenews/senate/6242018-democrats-target-60-seats-2028/",
+   "source": "thehill",
+   "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-23T21:54:04Z"
+   "date": "2026-11-25T13:42:43Z"
   },
   "edd2bb6573a2": {
    "id": "edd2bb6573a2",
