@@ -1,177 +1,177 @@
 {
- "generated_at": "2026-11-26T00:59:32Z",
+ "generated_at": "2026-11-26T15:16:01Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Burnham rejects EU student fee parity, US politics heats up",
-  "overview": "The UK government faces pressure over tuition fees for EU students while Welsh devolution issues stir debate. In the US, partisan tensions rise around investigations into the former administration.",
+  "headline": "UK and US political tensions rise over policy and courts",
+  "overview": "Britain’s government faces pressure on tuition fees, devolution and Heathrow expansion, while US courts clash with political parties over campaign advertising and free‑speech rules.",
   "stories": [
    {
-    "title": "UK tuition fee stance for EU students",
+    "title": "Burnham rejects equal tuition fees for EU students",
     "section": "ukgov",
     "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Andy Burnham said the UK will not offer equal tuition fees for EU students, while negotiations with the European bloc continue. The announcement was made during a press briefing on 25 November.",
-    "why_it_matters": "The decision tests the government's handling of post‑Brexit relations and domestic education policy, linking to the AQA topic of the Constitution and the executive's powers. It also raises questions about fairness and the UK's international obligations.",
+    "what_happened": "Prime Minister Mark Burnham said the UK will not offer the same tuition fees to EU students and described negotiations with the EU as ongoing. The statement was made at a press conference on 25 Nov 2026.",
+    "why_it_matters": "The issue tests the limits of executive power in setting education policy after Brexit, linking to the A‑level topic of the Constitution and the role of the Prime Minister. It also raises questions about the UK’s international obligations.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the policy protects UK taxpayers and reflects sovereign control over education funding."
+      "text": "Pro‑government voices say the policy protects UK taxpayers and reflects sovereign control over immigration."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents claim it breaches the spirit of EU agreements and harms EU students' access to UK universities."
+      "text": "Opposition parties claim it breaches the spirit of the EU‑UK partnership and harms student mobility."
      },
      {
       "label": "From the left",
-      "text": "Left‑leaning commentators argue the move undermines social equity and the principle of free movement of people."
+      "text": "Left‑leaning groups warn it creates a two‑tier system that disadvantages poorer EU students."
      }
     ],
     "key_term": {
      "term": "Executive discretion",
-     "definition": "The authority of the Prime Minister and Cabinet to make policy decisions without prior parliamentary approval."
+     "definition": "The ability of the Prime Minister and Cabinet to make policy decisions without needing prior parliamentary approval."
     },
-    "exam_use": "Use as evidence in an essay on the limits of executive power within the UK constitution.",
+    "exam_use": "Use as evidence in a constitutional essay on the balance of power between the executive and external agreements.",
     "sources": [
      "5c592c7dba8e"
     ]
    },
    {
-    "title": "Reform UK's failed bid to remove Senedd Presiding Officer",
+    "title": "Plaid Cymru calls for a New Deal for Wales",
     "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Reform UK attempted to oust Senedd Presiding Officer Huw Irranca‑Davies but the motion was defeated 55‑29 on 24 November. The vote followed a viral speech by Plaid Cymru MS Carrie Harper.",
-    "why_it_matters": "The episode illustrates party dynamics and the role of pressure groups in devolved legislatures, relevant to the AQA topics of parties and devolution. It shows how intra‑parliamentary tactics can shape governance.",
+    "topic": "devolution",
+    "what_happened": "Plaid Cymru launched a petition on 26 Nov 2026 demanding the UK government grant Wales powers comparable to Scotland’s. The petition cites policing, justice and rail as key areas.",
+    "why_it_matters": "The demand illustrates the ongoing debate over the distribution of powers within the UK, a core part of the AQA topic on Devolution and the principle of subsidiarity.",
     "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Reform UK claims the motion was necessary to hold the Senedd leadership accountable."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents say the attempt was politically motivated and destabilised the devolved institution."
-     },
      {
       "label": "From the right",
-      "text": "Conservative observers view the defeat as a defence of parliamentary stability over partisan disruption."
-     }
-    ],
-    "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional bodies such as the Welsh Senedd."
-    },
-    "exam_use": "Cite in a discussion of how party politics operate within devolved legislatures.",
-    "sources": [
-     "3186174970e5"
-    ]
-   },
-   {
-    "title": "Navarro warns of civil war over Democratic probes",
-    "section": "us",
-    "topic": "us-parties",
-    "what_happened": "Former trade adviser Peter Navarro warned that Democratic investigations into the Trump administration could lead to a Republican victory in 2028 or spark a 'civil war' on 25 November. He made the comments in a televised interview.",
-    "why_it_matters": "The statement reflects heightened partisan conflict and the role of Congress in overseeing the executive, linking to the AQA topics of the President, Congress and parties. It also raises issues of political rhetoric and democratic stability.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Navarro’s supporters say the warning highlights the danger of partisan overreach by Democrats."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Critics contend the comment inflames division and undermines democratic norms."
+      "text": "Conservatives argue further devolution would fragment the UK and weaken national cohesion."
      },
      {
       "label": "From the left",
-      "text": "Left‑leaning analysts view the claim as an exaggeration used to deflect accountability."
+      "text": "Welsh nationalists contend it would enable more democratic accountability and regional development."
+     },
+     {
+      "label": "Supporters argue",
+      "text": "Pro‑devolution advocates say it respects the distinct identity and needs of Wales."
      }
     ],
     "key_term": {
-     "term": "Checks and balances",
-     "definition": "The system whereby each branch of government can limit the powers of the others."
+     "term": "Subsidiarity",
+     "definition": "The principle that decisions should be taken at the most local level possible."
     },
-    "exam_use": "Use as evidence when evaluating the effectiveness of congressional oversight of the executive.",
+    "exam_use": "Cite in a comparative essay on devolution versus centralisation in the UK.",
     "sources": [
-     "bc0d37fa3d68"
+     "e44c7779aa0c"
     ]
    },
    {
-    "title": "Judge blocks Fulton County ballot‑copy order",
+    "title": "Judge rejects DNC claim over taxpayer‑funded Trump ads",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "A Georgia judge halted an order requiring Fulton County to hand over seized 2020 ballot copies to the state election board on 25 November. The decision came after a prior order was issued by the same judge.",
-    "why_it_matters": "The case highlights the judiciary’s role in election disputes, pertinent to the AQA focus on US courts and elections. It also touches on issues of election integrity and federal‑state relations.",
+    "what_happened": "On 26 Nov 2026 a federal judge ruled against the Democratic National Committee in a case about the use of taxpayer money for pro‑Trump advertisements. The decision favoured the administration’s position.",
+    "why_it_matters": "The ruling highlights the judiciary’s role in interpreting campaign‑finance law, relevant to the A‑level topic on US Courts and separation of powers.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Pro‑court advocates say the block protects voter privacy and prevents political interference."
+      "label": "Democrats argue",
+      "text": "The DNC says the decision undermines fair competition and free speech."
      },
      {
-      "label": "Critics argue",
-      "text": "Election‑integrity groups argue the decision hampers transparency in investigating alleged fraud."
+      "label": "Republicans argue",
+      "text": "Republicans claim the ruling protects lawful government communication."
      },
      {
-      "label": "From the right",
-      "text": "Conservative commentators view the ruling as a defence against partisan overreach by Democrats."
+      "label": "From the left",
+      "text": "Progressive commentators warn it sets a precedent for partisan use of public funds."
      }
     ],
     "key_term": {
      "term": "Judicial review",
-     "definition": "The process by which courts examine the legality of actions taken by public bodies."
+     "definition": "A process by which courts examine the legality of actions taken by the executive or legislature."
     },
-    "exam_use": "Reference in an essay on the courts’ impact on US electoral processes.",
+    "exam_use": "Use as evidence in an essay on the checks and balances between US courts and the executive.",
     "sources": [
-     "7341fbff6e0a"
+     "2c907c668e1d"
     ]
    },
    {
-    "title": "Sark election sees record turnout",
-    "section": "ukpol",
-    "topic": "elections",
-    "what_happened": "Six members were re‑elected to Sark’s Chief Pleas on 25 November, with the island recording its highest voter turnout in 20 years. The election was noted for its peaceful conduct.",
-    "why_it_matters": "The result offers a concrete example of local electoral participation, linking to the AQA topic of elections and democratic engagement in the UK. It also allows comparison with larger‑scale elections.",
+    "title": "Federal judge blocks FCC action against ABC",
+    "section": "us",
+    "topic": "civil-rights",
+    "what_happened": "A US district judge on 26 Nov 2026 ruled that the FCC violated ABC’s free‑speech rights by attempting to punish the network for satire of former President Trump. The injunction halted the FCC’s enforcement.",
+    "why_it_matters": "The case illustrates the tension between regulatory authority and First‑Amendment protections, a key issue in the AQA civil‑rights syllabus.",
     "perspectives": [
      {
-      "label": "Supporters argue",
-      "text": "Local observers praise the high turnout as evidence of robust civic engagement."
+      "label": "Free‑speech advocates argue",
+      "text": "The decision safeguards media independence and the right to political satire."
      },
      {
-      "label": "Critics argue",
-      "text": "Some argue the small electorate limits the significance of the turnout figure."
+      "label": "Regulators argue",
+      "text": "The FCC maintains it was enforcing standards against misinformation."
      },
      {
-      "label": "From the centre",
-      "text": "Centrist analysts see the result as typical of micro‑state democratic practice."
+      "label": "From the left",
+      "text": "Progressive groups view the ruling as a victory for democratic discourse."
      }
     ],
     "key_term": {
-     "term": "Voter turnout",
-     "definition": "The proportion of eligible voters who cast a ballot in an election."
+     "term": "First Amendment",
+     "definition": "The US constitutional guarantee of freedom of speech, press, religion, assembly and petition."
     },
-    "exam_use": "Use to illustrate variations in electoral participation across different political units.",
+    "exam_use": "Reference in a civil‑rights essay on the balance between regulation and free expression.",
     "sources": [
-     "79c59b97c7b0"
+     "e972052d7bfc"
+    ]
+   },
+   {
+    "title": "Committee says Heathrow runway case weak on climate",
+    "section": "ukgov",
+    "topic": "parliament",
+    "what_happened": "On 26 Nov 2026 the Transport Committee reported that ministers had failed to justify a third runway at Heathrow, citing shortcomings against economic and climate pledges. MPs were urged to reconsider the proposal.",
+    "why_it_matters": "The report demonstrates parliamentary scrutiny of executive proposals, linking to the AQA focus on Parliament’s role in policy making and accountability.",
+    "perspectives": [
+     {
+      "label": "Environmentalists argue",
+      "text": "The runway would breach the UK’s net‑zero commitments."
+     },
+     {
+      "label": "Business supporters argue",
+      "text": "Proponents claim it would boost the economy and jobs."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservatives stress the need for infrastructure to maintain global competitiveness."
+     }
+    ],
+    "key_term": {
+     "term": "Parliamentary oversight",
+     "definition": "The process by which Parliament examines and challenges the actions of the government."
+    },
+    "exam_use": "Use as evidence in an essay on how parliamentary committees hold the executive to account.",
+    "sources": [
+     "66f84d71ac47"
     ]
    }
   ],
   "compare": {
-   "theme": "elections",
-   "uk": "Sark’s 2026 election recorded a 20‑year high turnout, reflecting strong local engagement in a micro‑jurisdiction.",
-   "us": "The 2028 Senate race projections suggest Democrats could target 60 seats, highlighting national strategic campaigning.",
-   "insight": "The contrast shows how electoral dynamics differ between small‑scale local elections and large‑scale national contests, illustrating the impact of constituency size on campaign strategy.",
+   "theme": "executives",
+   "uk": "The UK Prime Minister uses executive discretion to set tuition‑fee policy, a decision that can be challenged by Parliament and devolved administrations.",
+   "us": "The US President’s campaign advertising is subject to judicial review, with courts able to limit executive use of public funds for political messaging.",
+   "insight": "Both systems show that executives are not absolute; they are checked by other branches—Parliament in the UK and the judiciary in the US.",
    "sources": [
-    "79c59b97c7b0",
-    "502d3d2d5cec"
+    "5c592c7dba8e",
+    "2c907c668e1d"
    ]
   },
   "ideas_lens": {
    "ideology": "liberalism",
-   "text": "Burnham’s tuition‑fee policy raises liberal questions about individual rights versus collective welfare; liberal thinkers like John Stuart Mill argue education should be accessible to promote personal liberty.",
+   "text": "Burnham’s tuition‑fee stance reflects liberalism’s emphasis on individual responsibility and limited state intervention, echoing John Stuart Mill’s arguments for minimal government interference in personal affairs.",
    "sources": [
     "5c592c7dba8e"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which the executive can shape policy without parliamentary approval in the UK and the US.",
+   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US, using recent examples.",
    "section": "ukgov | us",
-   "tip": "Compare the UK Prime Minister’s tuition‑fee decision with US presidential use of executive orders, using specific examples."
+   "tip": "Structure your answer by comparing parliamentary oversight in the UK with judicial review in the US, citing the Heathrow committee report and the US court ruling on campaign ads."
   }
  },
  "refs": {
@@ -184,50 +184,41 @@
    "lean": "centre",
    "date": "2026-11-25T16:04:33Z"
   },
-  "3186174970e5": {
-   "id": "3186174970e5",
-   "title": "Reform fails in bid to oust Senedd Presiding Officer",
-   "link": "https://nation.cymru/news/reform-fails-in-bid-to-oust-senedd-presiding-officer/",
+  "e44c7779aa0c": {
+   "id": "e44c7779aa0c",
+   "title": "Plaid Cymru launch petition calling for a New Deal for Wales",
+   "link": "https://nation.cymru/news/plaid-cymru-launch-petition-calling-for-a-new-deal-for-wales/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-24T22:31:57Z"
+   "date": "2026-11-26T14:57:38Z"
   },
-  "bc0d37fa3d68": {
-   "id": "bc0d37fa3d68",
-   "title": "Navarro: Democratic probes a recipe for 2028 GOP president or 'civil war'",
-   "link": "https://thehill.com/homenews/administration/6243798-navarro-warns-trump-investigations-civil-war/",
+  "2c907c668e1d": {
+   "id": "2c907c668e1d",
+   "title": "Judge sides against Democrats on taxpayer-funded pro-Trump ads",
+   "link": "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-25T21:31:39Z"
+   "date": "2026-11-26T03:09:54Z"
   },
-  "7341fbff6e0a": {
-   "id": "7341fbff6e0a",
-   "title": "Judge blocks order for Fulton County to hand over 2020 ballot copies to state board",
-   "link": "https://thehill.com/regulation/court-battles/6244110-judge-blocks-ballot-return/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-25T23:52:55Z"
+  "e972052d7bfc": {
+   "id": "e972052d7bfc",
+   "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
+   "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+   "source": "npr",
+   "sourceName": "NPR",
+   "lean": "centre-left",
+   "date": "2026-11-26T05:23:18Z"
   },
-  "79c59b97c7b0": {
-   "id": "79c59b97c7b0",
-   "title": "Six members re-elected to Sark's Chief Pleas",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dvnp55xryo?at_medium=RSS&at_campaign=rss",
-   "source": "bbc",
-   "sourceName": "BBC News",
-   "lean": "centre",
-   "date": "2026-11-25T22:14:05Z"
-  },
-  "502d3d2d5cec": {
-   "id": "502d3d2d5cec",
-   "title": "Gillibrand says Democrats could win 60 Senate seats in 2028, DSCC would back Fetterman in general election",
-   "link": "https://thehill.com/homenews/senate/6242018-democrats-target-60-seats-2028/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-25T13:42:43Z"
+  "66f84d71ac47": {
+   "id": "66f84d71ac47",
+   "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
+   "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+   "source": "guardian",
+   "sourceName": "The Guardian",
+   "lean": "centre-left",
+   "date": "2026-11-26T13:43:36Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
