@@ -1,188 +1,195 @@
 {
- "generated_at": "2026-11-26T15:16:01Z",
+ "generated_at": "2026-11-26T23:53:23Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "UK and US political tensions rise over policy and courts",
-  "overview": "Britain’s government faces pressure on tuition fees, devolution and Heathrow expansion, while US courts clash with political parties over campaign advertising and free‑speech rules.",
+  "headline": "Labour dissent, devolution talks, US court ruling and climate hopes dominate",
+  "overview": "Today sees internal Labour pressure over a North Sea oil project, Welsh devolution tensions, a US judge rejecting a ban on taxpayer‑funded political ads, and Democratic wins sparking climate policy optimism.",
   "stories": [
    {
-    "title": "Burnham rejects equal tuition fees for EU students",
+    "title": "Labour MPs rebel over Rosebank oil decision",
     "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Prime Minister Mark Burnham said the UK will not offer the same tuition fees to EU students and described negotiations with the EU as ongoing. The statement was made at a press conference on 25 Nov 2026.",
-    "why_it_matters": "The issue tests the limits of executive power in setting education policy after Brexit, linking to the A‑level topic of the Constitution and the role of the Prime Minister. It also raises questions about the UK’s international obligations.",
+    "topic": "parliament",
+    "what_happened": "Nearly 100 Labour MPs, including ministerial aides, publicly opposed Energy Secretary Miatta Fahnbulleh's pending decision on the Rosebank oil field. The decision on whether to grant drilling permission is due within weeks.",
+    "why_it_matters": "The rebellion highlights the tension between party leadership and backbenchers, a key issue in the AQA study of Parliament and executive relations. It also raises questions about how MPs can influence government policy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Pro‑government voices say the policy protects UK taxpayers and reflects sovereign control over immigration."
+      "text": "Labour backbenchers say the oil project conflicts with climate commitments and constituent concerns."
      },
      {
       "label": "Critics argue",
-      "text": "Opposition parties claim it breaches the spirit of the EU‑UK partnership and harms student mobility."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning groups warn it creates a two‑tier system that disadvantages poorer EU students."
+      "text": "Party leaders warn that dissent could undermine the government's ability to act decisively on energy security."
      }
     ],
     "key_term": {
-     "term": "Executive discretion",
-     "definition": "The ability of the Prime Minister and Cabinet to make policy decisions without needing prior parliamentary approval."
+     "term": "Backbench rebellion",
+     "definition": "When MPs who are not ministers openly oppose their own government's policy."
     },
-    "exam_use": "Use as evidence in a constitutional essay on the balance of power between the executive and external agreements.",
+    "exam_use": "Use as evidence of parliamentary pressure on the executive in an essay on the balance of power between Cabinet and Parliament.",
     "sources": [
-     "5c592c7dba8e"
+     "ae20648e22af"
     ]
    },
    {
-    "title": "Plaid Cymru calls for a New Deal for Wales",
+    "title": "Welsh First Minister warns against devolution stall",
     "section": "ukpol",
     "topic": "devolution",
-    "what_happened": "Plaid Cymru launched a petition on 26 Nov 2026 demanding the UK government grant Wales powers comparable to Scotland’s. The petition cites policing, justice and rail as key areas.",
-    "why_it_matters": "The demand illustrates the ongoing debate over the distribution of powers within the UK, a core part of the AQA topic on Devolution and the principle of subsidiarity.",
+    "what_happened": "Mark Drakeford urged Prime Minister Andy Burnham to restart talks on devolving more powers to Wales, warning that refusal could hinder Welsh Labour's recovery. Burnham has previously rejected calls for additional powers.",
+    "why_it_matters": "The dispute illustrates how devolution shapes party politics in the UK and the role of the central government in allocating powers, a core part of the AQA syllabus on devolution.",
     "perspectives": [
+     {
+      "label": "From the left",
+      "text": "Plaid Cymru and Welsh Labour argue that greater powers are essential for democratic accountability."
+     },
      {
       "label": "From the right",
-      "text": "Conservatives argue further devolution would fragment the UK and weaken national cohesion."
-     },
-     {
-      "label": "From the left",
-      "text": "Welsh nationalists contend it would enable more democratic accountability and regional development."
-     },
-     {
-      "label": "Supporters argue",
-      "text": "Pro‑devolution advocates say it respects the distinct identity and needs of Wales."
+      "text": "Burnham contends that further devolution could fragment the UK and complicate national policy."
      }
     ],
     "key_term": {
-     "term": "Subsidiarity",
-     "definition": "The principle that decisions should be taken at the most local level possible."
+     "term": "Devolution",
+     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
     },
-    "exam_use": "Cite in a comparative essay on devolution versus centralisation in the UK.",
+    "exam_use": "Cite in a comparative essay on the effectiveness of devolution in addressing regional needs.",
     "sources": [
-     "e44c7779aa0c"
+     "5a1c759a7a46"
     ]
    },
    {
-    "title": "Judge rejects DNC claim over taxpayer‑funded Trump ads",
+    "title": "Judge rejects ban on taxpayer‑funded pro‑Trump ads",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "On 26 Nov 2026 a federal judge ruled against the Democratic National Committee in a case about the use of taxpayer money for pro‑Trump advertisements. The decision favoured the administration’s position.",
-    "why_it_matters": "The ruling highlights the judiciary’s role in interpreting campaign‑finance law, relevant to the A‑level topic on US Courts and separation of powers.",
+    "what_happened": "A federal judge refused to issue a long‑term injunction that would have stopped taxpayer‑funded advertisements supporting Donald Trump. The decision came after Democrats sought the ban ahead of the midterm elections.",
+    "why_it_matters": "The case tests the limits of government‑funded political speech and the role of the judiciary in election regulation, both key topics in the US Constitution and courts unit.",
     "perspectives": [
      {
-      "label": "Democrats argue",
-      "text": "The DNC says the decision undermines fair competition and free speech."
+      "label": "Supporters argue",
+      "text": "Democrats claim the ads constitute propaganda that distorts the electoral process."
      },
      {
-      "label": "Republicans argue",
-      "text": "Republicans claim the ruling protects lawful government communication."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive commentators warn it sets a precedent for partisan use of public funds."
-     }
-    ],
-    "key_term": {
-     "term": "Judicial review",
-     "definition": "A process by which courts examine the legality of actions taken by the executive or legislature."
-    },
-    "exam_use": "Use as evidence in an essay on the checks and balances between US courts and the executive.",
-    "sources": [
-     "2c907c668e1d"
-    ]
-   },
-   {
-    "title": "Federal judge blocks FCC action against ABC",
-    "section": "us",
-    "topic": "civil-rights",
-    "what_happened": "A US district judge on 26 Nov 2026 ruled that the FCC violated ABC’s free‑speech rights by attempting to punish the network for satire of former President Trump. The injunction halted the FCC’s enforcement.",
-    "why_it_matters": "The case illustrates the tension between regulatory authority and First‑Amendment protections, a key issue in the AQA civil‑rights syllabus.",
-    "perspectives": [
-     {
-      "label": "Free‑speech advocates argue",
-      "text": "The decision safeguards media independence and the right to political satire."
-     },
-     {
-      "label": "Regulators argue",
-      "text": "The FCC maintains it was enforcing standards against misinformation."
-     },
-     {
-      "label": "From the left",
-      "text": "Progressive groups view the ruling as a victory for democratic discourse."
+      "label": "Critics argue",
+      "text": "Republicans maintain the ruling protects free speech under the First Amendment."
      }
     ],
     "key_term": {
      "term": "First Amendment",
-     "definition": "The US constitutional guarantee of freedom of speech, press, religion, assembly and petition."
+     "definition": "The US constitutional provision protecting freedom of speech and press."
     },
-    "exam_use": "Reference in a civil‑rights essay on the balance between regulation and free expression.",
+    "exam_use": "Use as a case study of judicial review of election‑related government actions in a constitutional essay.",
     "sources": [
-     "e972052d7bfc"
+     "12f1ac5eb8b9"
     ]
    },
    {
-    "title": "Committee says Heathrow runway case weak on climate",
-    "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "On 26 Nov 2026 the Transport Committee reported that ministers had failed to justify a third runway at Heathrow, citing shortcomings against economic and climate pledges. MPs were urged to reconsider the proposal.",
-    "why_it_matters": "The report demonstrates parliamentary scrutiny of executive proposals, linking to the AQA focus on Parliament’s role in policy making and accountability.",
+    "title": "Democratic wins raise climate policy hopes",
+    "section": "ideas",
+    "topic": "ecologism",
+    "what_happened": "Following strong Democratic performances in nationwide and state elections, environmental groups anticipate new climate legislation. The parties' victories are seen as a catalyst for greener policies.",
+    "why_it_matters": "The story links electoral outcomes to policy change, illustrating ecologism’s emphasis on state intervention to address environmental issues, a core AQA idea.",
     "perspectives": [
      {
-      "label": "Environmentalists argue",
-      "text": "The runway would breach the UK’s net‑zero commitments."
-     },
-     {
-      "label": "Business supporters argue",
-      "text": "Proponents claim it would boost the economy and jobs."
+      "label": "From the left",
+      "text": "Progressives argue the wins will enable ambitious carbon‑reduction targets."
      },
      {
       "label": "From the right",
-      "text": "Conservatives stress the need for infrastructure to maintain global competitiveness."
+      "text": "Conservatives warn that aggressive climate policies could harm economic growth."
      }
     ],
     "key_term": {
-     "term": "Parliamentary oversight",
-     "definition": "The process by which Parliament examines and challenges the actions of the government."
+     "term": "Ecologism",
+     "definition": "A political ideology that prioritises environmental protection and sustainable development."
     },
-    "exam_use": "Use as evidence in an essay on how parliamentary committees hold the executive to account.",
+    "exam_use": "Reference in an essay evaluating how ecological ideas influence party platforms and policy making.",
     "sources": [
-     "66f84d71ac47"
+     "31c3dc4a72ec"
+    ]
+   },
+   {
+    "title": "Plaid Cymru launches New Deal petition for Wales",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Plaid Cymru started a petition demanding a 'New Deal' that would give Wales powers comparable to Scotland's. The move seeks broader devolution of authority.",
+    "why_it_matters": "The petition reflects party strategies to reshape the constitutional arrangement of the UK, relevant to the AQA focus on political parties and devolution.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Plaid Cymru says the deal would enhance democratic representation for Welsh citizens."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Unionist voices contend it could lead to a fragmented UK and weaken central governance."
+     }
+    ],
+    "key_term": {
+     "term": "Petition",
+     "definition": "A formal request, often signed by many people, urging the government to take action."
+    },
+    "exam_use": "Use as evidence of how parties mobilise public support to influence constitutional change.",
+    "sources": [
+     "e44c7779aa0c"
     ]
    }
   ],
   "compare": {
-   "theme": "executives",
-   "uk": "The UK Prime Minister uses executive discretion to set tuition‑fee policy, a decision that can be challenged by Parliament and devolved administrations.",
-   "us": "The US President’s campaign advertising is subject to judicial review, with courts able to limit executive use of public funds for political messaging.",
-   "insight": "Both systems show that executives are not absolute; they are checked by other branches—Parliament in the UK and the judiciary in the US.",
+   "theme": "parties",
+   "uk": "Labour backbenchers are openly challenging the party leadership over an oil project, showing intra‑party dissent within a parliamentary system.",
+   "us": "US Democrats and Republicans are contesting the legality of taxpayer‑funded political ads, reflecting partisan battles in a presidential system.",
+   "insight": "The contrast shows how party conflict manifests differently: UK parties operate within a single‑chamber parliamentary context, while US parties clash through judicial avenues in a separation‑of‑powers framework.",
    "sources": [
-    "5c592c7dba8e",
-    "2c907c668e1d"
+    "ae20648e22af",
+    "12f1ac5eb8b9"
    ]
   },
   "ideas_lens": {
-   "ideology": "liberalism",
-   "text": "Burnham’s tuition‑fee stance reflects liberalism’s emphasis on individual responsibility and limited state intervention, echoing John Stuart Mill’s arguments for minimal government interference in personal affairs.",
+   "ideology": "conservatism",
+   "text": "Conservatives argue that limiting government‑funded political advertising protects fiscal responsibility and prevents state overreach, echoing Edmund Burke’s emphasis on tradition and limited government.",
    "sources": [
-    "5c592c7dba8e"
+    "12f1ac5eb8b9"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which executive power is checked by other institutions in the UK and the US, using recent examples.",
+   "question": "Assess the extent to which internal party dissent can influence government policy in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Structure your answer by comparing parliamentary oversight in the UK with judicial review in the US, citing the Heathrow committee report and the US court ruling on campaign ads."
+   "tip": "Compare the Labour backbench rebellion over Rosebank with the US court case on pro‑Trump ads, focusing on party structures and the role of the judiciary."
   }
  },
  "refs": {
-  "5c592c7dba8e": {
-   "id": "5c592c7dba8e",
-   "title": "UK will not offer equal tuition fees for EU students, says Burnham",
-   "link": "https://www.politico.eu/article/uk-will-not-offer-equal-tuition-fees-for-eu-students-says-andy-burnham/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "source": "politicoeu",
-   "sourceName": "Politico Europe",
+  "ae20648e22af": {
+   "id": "ae20648e22af",
+   "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
+   "link": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
+   "source": "bbcscot",
+   "sourceName": "BBC Scotland",
    "lean": "centre",
-   "date": "2026-11-25T16:04:33Z"
+   "date": "2026-11-26T16:29:54Z"
+  },
+  "5a1c759a7a46": {
+   "id": "5a1c759a7a46",
+   "title": "Drakeford warns Burnham’s devolution stance could derail Welsh Labour’s recovery",
+   "link": "https://nation.cymru/news/drakeford-warns-burnhams-devolution-stance-could-derail-welsh-labours-recovery/",
+   "source": "nationcymru",
+   "sourceName": "Nation.Cymru",
+   "lean": "centre-left",
+   "date": "2026-11-26T20:35:53Z"
+  },
+  "12f1ac5eb8b9": {
+   "id": "12f1ac5eb8b9",
+   "title": "Judge declines to issue a long-term ban on taxpayer-funded, pro-Trump ads critics called propaganda",
+   "link": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-26T22:20:22Z"
+  },
+  "31c3dc4a72ec": {
+   "id": "31c3dc4a72ec",
+   "title": "How Democrats' election successes could lead to new climate change policies",
+   "link": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
+   "source": "pbs",
+   "sourceName": "PBS NewsHour",
+   "lean": "centre",
+   "date": "2026-11-26T23:40:45Z"
   },
   "e44c7779aa0c": {
    "id": "e44c7779aa0c",
@@ -192,33 +199,6 @@
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
    "date": "2026-11-26T14:57:38Z"
-  },
-  "2c907c668e1d": {
-   "id": "2c907c668e1d",
-   "title": "Judge sides against Democrats on taxpayer-funded pro-Trump ads",
-   "link": "https://thehill.com/regulation/court-battles/6244361-judge-denies-dnc-ad-challenge/",
-   "source": "thehill",
-   "sourceName": "The Hill",
-   "lean": "centre",
-   "date": "2026-11-26T03:09:54Z"
-  },
-  "e972052d7bfc": {
-   "id": "e972052d7bfc",
-   "title": "U.S. Judge rules FCC violated ABC's free speech rights to please Trump",
-   "link": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
-   "source": "npr",
-   "sourceName": "NPR",
-   "lean": "centre-left",
-   "date": "2026-11-26T05:23:18Z"
-  },
-  "66f84d71ac47": {
-   "id": "66f84d71ac47",
-   "title": "Ministers have ‘failed to make the case’ for Heathrow third runway, MPs says",
-   "link": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-26T13:43:36Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
