@@ -1,177 +1,197 @@
 {
- "generated_at": "2026-11-26T23:53:23Z",
+ "generated_at": "2026-11-27T15:04:56Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Labour dissent, devolution talks, US court ruling and climate hopes dominate",
-  "overview": "Today sees internal Labour pressure over a North Sea oil project, Welsh devolution tensions, a US judge rejecting a ban on taxpayer‑funded political ads, and Democratic wins sparking climate policy optimism.",
+  "headline": "Midterms, devolution debates and UK poll shake‑up dominate politics",
+  "overview": "US midterm results are prompting fresh legal battles over campaign ads and climate policy. In the UK, a new poll suggests Labour leader Andy Burnham could win a reduced majority, while Welsh Labour faces a by‑election defeat.",
   "stories": [
    {
-    "title": "Labour MPs rebel over Rosebank oil decision",
+    "title": "Burnham poll shows possible Labour majority",
     "section": "ukgov",
-    "topic": "parliament",
-    "what_happened": "Nearly 100 Labour MPs, including ministerial aides, publicly opposed Energy Secretary Miatta Fahnbulleh's pending decision on the Rosebank oil field. The decision on whether to grant drilling permission is due within weeks.",
-    "why_it_matters": "The rebellion highlights the tension between party leadership and backbenchers, a key issue in the AQA study of Parliament and executive relations. It also raises questions about how MPs can influence government policy.",
+    "topic": "pm-cabinet",
+    "what_happened": "A new projection suggests Prime Minister Andy Burnham would return to No 10 with a reduced majority if he called a general election now. The poll was released by PoliticsHome on 27 Nov 2026.",
+    "why_it_matters": "The result illustrates how public opinion can influence the executive’s decision to call an election, a key concept in the A‑level study of the UK government’s constitutional powers. It also shows the role of the cabinet in shaping electoral strategy.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Labour backbenchers say the oil project conflicts with climate commitments and constituent concerns."
+      "text": "Labour supporters say the poll proves Burnham’s policies retain enough public backing to govern responsibly."
      },
      {
       "label": "Critics argue",
-      "text": "Party leaders warn that dissent could undermine the government's ability to act decisively on energy security."
-     }
-    ],
-    "key_term": {
-     "term": "Backbench rebellion",
-     "definition": "When MPs who are not ministers openly oppose their own government's policy."
-    },
-    "exam_use": "Use as evidence of parliamentary pressure on the executive in an essay on the balance of power between Cabinet and Parliament.",
-    "sources": [
-     "ae20648e22af"
-    ]
-   },
-   {
-    "title": "Welsh First Minister warns against devolution stall",
-    "section": "ukpol",
-    "topic": "devolution",
-    "what_happened": "Mark Drakeford urged Prime Minister Andy Burnham to restart talks on devolving more powers to Wales, warning that refusal could hinder Welsh Labour's recovery. Burnham has previously rejected calls for additional powers.",
-    "why_it_matters": "The dispute illustrates how devolution shapes party politics in the UK and the role of the central government in allocating powers, a core part of the AQA syllabus on devolution.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Plaid Cymru and Welsh Labour argue that greater powers are essential for democratic accountability."
+      "text": "Opposition commentators warn the reduced majority could weaken Labour’s ability to pass legislation."
      },
      {
       "label": "From the right",
-      "text": "Burnham contends that further devolution could fragment the UK and complicate national policy."
+      "text": "Conservative analysts claim the poll reflects voter fatigue with Labour’s handling of the economy."
      }
     ],
     "key_term": {
-     "term": "Devolution",
-     "definition": "The statutory transfer of powers from the central UK government to regional administrations."
+     "term": "majority government",
+     "definition": "A party that holds more than half the seats in the House of Commons, allowing it to pass legislation without support from other parties."
     },
-    "exam_use": "Cite in a comparative essay on the effectiveness of devolution in addressing regional needs.",
+    "exam_use": "Use as evidence in an essay on how the executive’s electoral timing powers affect parliamentary stability.",
     "sources": [
-     "5a1c759a7a46"
+     "6e7a8e6d94a5"
+    ]
+   },
+   {
+    "title": "Labour holds Flintshire council seat",
+    "section": "ukpol",
+    "topic": "parties",
+    "what_happened": "Labour retained a seat on Flintshire County Council, defeating Reform UK in the Mold: Broncoed ward by 250 votes. The result was reported by Nation.Cymru on 27 Nov 2026.",
+    "why_it_matters": "The by‑election demonstrates party competition at the local level, relevant to the A‑level focus on political parties and electoral behaviour. It also highlights the impact of smaller parties like Reform UK.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Labour officials claim the win shows continued confidence in their local policies."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Reform UK supporters argue the close result indicates growing appetite for alternatives to the main parties."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive commentators see the result as a rejection of Reform’s right‑wing platform."
+     }
+    ],
+    "key_term": {
+     "term": "by‑election",
+     "definition": "An election held to fill a political office that has become vacant between general elections."
+    },
+    "exam_use": "Cite as a case study when discussing the role of third parties in the UK’s first‑past‑the‑post system.",
+    "sources": [
+     "9f0f66118793"
     ]
    },
    {
     "title": "Judge rejects ban on taxpayer‑funded pro‑Trump ads",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "A federal judge refused to issue a long‑term injunction that would have stopped taxpayer‑funded advertisements supporting Donald Trump. The decision came after Democrats sought the ban ahead of the midterm elections.",
-    "why_it_matters": "The case tests the limits of government‑funded political speech and the role of the judiciary in election regulation, both key topics in the US Constitution and courts unit.",
+    "what_happened": "A federal judge refused to issue a long‑term ban on taxpayer‑funded advertisements that promoted partisan messages supporting Donald Trump ahead of the midterms. PBS NewsHour reported the decision on 26 Nov 2026.",
+    "why_it_matters": "The case raises questions about the separation of powers and the limits of government funding for political speech, key topics in the US Constitution and courts unit.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Democrats claim the ads constitute propaganda that distorts the electoral process."
+      "text": "Democrats contend the ads constitute improper use of public money for partisan purposes."
      },
      {
       "label": "Critics argue",
-      "text": "Republicans maintain the ruling protects free speech under the First Amendment."
+      "text": "Republicans argue the decision protects free speech under the First Amendment."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive analysts warn the ruling may entrench incumbent advantages."
      }
     ],
     "key_term": {
      "term": "First Amendment",
-     "definition": "The US constitutional provision protecting freedom of speech and press."
+     "definition": "The part of the US Constitution that protects freedoms of speech, religion, press, assembly and petition."
     },
-    "exam_use": "Use as a case study of judicial review of election‑related government actions in a constitutional essay.",
+    "exam_use": "Use as evidence in an essay evaluating judicial checks on executive actions in US politics.",
     "sources": [
      "12f1ac5eb8b9"
     ]
    },
    {
-    "title": "Democratic wins raise climate policy hopes",
-    "section": "ideas",
-    "topic": "ecologism",
-    "what_happened": "Following strong Democratic performances in nationwide and state elections, environmental groups anticipate new climate legislation. The parties' victories are seen as a catalyst for greener policies.",
-    "why_it_matters": "The story links electoral outcomes to policy change, illustrating ecologism’s emphasis on state intervention to address environmental issues, a core AQA idea.",
-    "perspectives": [
-     {
-      "label": "From the left",
-      "text": "Progressives argue the wins will enable ambitious carbon‑reduction targets."
-     },
-     {
-      "label": "From the right",
-      "text": "Conservatives warn that aggressive climate policies could harm economic growth."
-     }
-    ],
-    "key_term": {
-     "term": "Ecologism",
-     "definition": "A political ideology that prioritises environmental protection and sustainable development."
-    },
-    "exam_use": "Reference in an essay evaluating how ecological ideas influence party platforms and policy making.",
-    "sources": [
-     "31c3dc4a72ec"
-    ]
-   },
-   {
-    "title": "Plaid Cymru launches New Deal petition for Wales",
-    "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Plaid Cymru started a petition demanding a 'New Deal' that would give Wales powers comparable to Scotland's. The move seeks broader devolution of authority.",
-    "why_it_matters": "The petition reflects party strategies to reshape the constitutional arrangement of the UK, relevant to the AQA focus on political parties and devolution.",
+    "title": "Alaska plane forfeiture case reaches Supreme Court",
+    "section": "us",
+    "topic": "us-courts",
+    "what_happened": "The US Supreme Court will hear oral arguments on whether Alaska’s seizure of a pilot’s $95,000 airplane for carrying beer violates the Eighth Amendment’s prohibition of cruel and unusual punishment. SCOTUSblog reported this on 27 Nov 2026.",
+    "why_it_matters": "The case tests the interpretation of constitutional rights against state enforcement actions, linking to the A‑level focus on the US Constitution and the role of the courts.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Plaid Cymru says the deal would enhance democratic representation for Welsh citizens."
+      "text": "State officials say the forfeiture follows established drug‑related asset seizure laws."
      },
      {
       "label": "Critics argue",
-      "text": "Unionist voices contend it could lead to a fragmented UK and weaken central governance."
+      "text": "Civil‑rights groups argue the punishment is disproportionate and infringes on property rights."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservative commentators view the case as an overreach of judicial activism."
      }
     ],
     "key_term": {
-     "term": "Petition",
-     "definition": "A formal request, often signed by many people, urging the government to take action."
+     "term": "Eighth Amendment",
+     "definition": "A provision in the US Constitution that forbids excessive bail, fines, or cruel and unusual punishment."
     },
-    "exam_use": "Use as evidence of how parties mobilise public support to influence constitutional change.",
+    "exam_use": "Reference in a discussion of how the US Supreme Court interprets constitutional protections.",
     "sources": [
-     "e44c7779aa0c"
+     "979538dec733"
+    ]
+   },
+   {
+    "title": "Democrats’ wins could boost climate policies",
+    "section": "ideas",
+    "topic": "ecologism",
+    "what_happened": "Following Democratic victories in the 2026 midterms, environmental groups say the party’s strengthened position may lead to new climate change legislation. PBS NewsHour reported this on 26 Nov 2026.",
+    "why_it_matters": "The story links electoral outcomes to policy change, illustrating how political ideas such as ecologism influence party platforms and legislative agendas, a core A‑level theme.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "Ecologists claim Democratic control will enable stricter emissions targets."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Industry representatives warn that aggressive climate policies could harm the economy."
+     },
+     {
+      "label": "From the left",
+      "text": "Progressive activists see the wins as a chance to push for a Green New Deal."
+     }
+    ],
+    "key_term": {
+     "term": "ecologism",
+     "definition": "A political ideology that prioritises environmental protection and sustainable development."
+    },
+    "exam_use": "Use as a contemporary example when evaluating how political ideas shape policy proposals.",
+    "sources": [
+     "31c3dc4a72ec"
     ]
    }
   ],
   "compare": {
-   "theme": "parties",
-   "uk": "Labour backbenchers are openly challenging the party leadership over an oil project, showing intra‑party dissent within a parliamentary system.",
-   "us": "US Democrats and Republicans are contesting the legality of taxpayer‑funded political ads, reflecting partisan battles in a presidential system.",
-   "insight": "The contrast shows how party conflict manifests differently: UK parties operate within a single‑chamber parliamentary context, while US parties clash through judicial avenues in a separation‑of‑powers framework.",
+   "theme": "elections",
+   "uk": "The Burnham poll shows how public opinion can pressure the executive to call a general election, reflecting the UK’s flexible election timing under the Fixed‑Term Parliaments Act repeal.",
+   "us": "Midterm results determine control of Congress, influencing the timing and focus of future presidential elections, illustrating the US’s fixed election calendar.",
+   "insight": "The contrast highlights the UK’s discretionary election timing versus the US’s rigid electoral schedule, showing different balances of political stability and responsiveness.",
    "sources": [
-    "ae20648e22af",
+    "6e7a8e6d94a5",
     "12f1ac5eb8b9"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "Conservatives argue that limiting government‑funded political advertising protects fiscal responsibility and prevents state overreach, echoing Edmund Burke’s emphasis on tradition and limited government.",
+   "ideology": "ecologism",
+   "text": "Democratic electoral gains are being linked to stronger climate action, echoing ecologist arguments that political power should be used to address environmental crises, a view championed by thinkers like Rachel Carson.",
    "sources": [
-    "12f1ac5eb8b9"
+    "31c3dc4a72ec"
    ]
   },
   "exam_question": {
-   "question": "Assess the extent to which internal party dissent can influence government policy in the UK and the US.",
+   "question": "Assess the extent to which electoral outcomes influence policy change in the UK and the US.",
    "section": "ukgov | us",
-   "tip": "Compare the Labour backbench rebellion over Rosebank with the US court case on pro‑Trump ads, focusing on party structures and the role of the judiciary."
+   "tip": "Compare the UK’s flexible election timing with the US’s fixed midterm cycle, using the Burnham poll and the 2026 US midterm results as evidence."
   }
  },
  "refs": {
-  "ae20648e22af": {
-   "id": "ae20648e22af",
-   "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
-   "link": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcscot",
-   "sourceName": "BBC Scotland",
+  "6e7a8e6d94a5": {
+   "id": "6e7a8e6d94a5",
+   "title": "The Rundown Podcast: New Poll Puts Burnham On Course For Majority",
+   "link": "https://www.politicshome.com/news/article/rundown-new-poll-burnham-majority",
+   "source": "politicshome",
+   "sourceName": "PoliticsHome",
    "lean": "centre",
-   "date": "2026-11-26T16:29:54Z"
+   "date": "2026-11-27T09:10:00Z"
   },
-  "5a1c759a7a46": {
-   "id": "5a1c759a7a46",
-   "title": "Drakeford warns Burnham’s devolution stance could derail Welsh Labour’s recovery",
-   "link": "https://nation.cymru/news/drakeford-warns-burnhams-devolution-stance-could-derail-welsh-labours-recovery/",
+  "9f0f66118793": {
+   "id": "9f0f66118793",
+   "title": "Labour defeats Reform to win Flintshire by-election",
+   "link": "https://nation.cymru/news/labour-defeats-reform-to-win-flintshire-by-election/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-26T20:35:53Z"
+   "date": "2026-11-27T14:50:49Z"
   },
   "12f1ac5eb8b9": {
    "id": "12f1ac5eb8b9",
@@ -182,6 +202,15 @@
    "lean": "centre",
    "date": "2026-11-26T22:20:22Z"
   },
+  "979538dec733": {
+   "id": "979538dec733",
+   "title": "Court to determine if Alaska’s seizure of pilot’s plane for carrying beer violates the Eighth Amendment",
+   "link": "https://www.scotusblog.com/2026/11/court-to-determine-if-alaskas-seizure-of-pilots-plane-for-carrying-beer-violates-the-eighth-amen/",
+   "source": "scotusblog",
+   "sourceName": "SCOTUSblog",
+   "lean": "non-partisan",
+   "date": "2026-11-27T14:30:00Z"
+  },
   "31c3dc4a72ec": {
    "id": "31c3dc4a72ec",
    "title": "How Democrats' election successes could lead to new climate change policies",
@@ -190,15 +219,6 @@
    "sourceName": "PBS NewsHour",
    "lean": "centre",
    "date": "2026-11-26T23:40:45Z"
-  },
-  "e44c7779aa0c": {
-   "id": "e44c7779aa0c",
-   "title": "Plaid Cymru launch petition calling for a New Deal for Wales",
-   "link": "https://nation.cymru/news/plaid-cymru-launch-petition-calling-for-a-new-deal-for-wales/",
-   "source": "nationcymru",
-   "sourceName": "Nation.Cymru",
-   "lean": "centre-left",
-   "date": "2026-11-26T14:57:38Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
