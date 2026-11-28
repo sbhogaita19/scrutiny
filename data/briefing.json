@@ -1,218 +1,188 @@
 {
- "generated_at": "2026-11-27T23:27:08Z",
+ "generated_at": "2026-11-28T14:12:24Z",
  "model": "groq:openai/gpt-oss-120b",
  "briefing": {
-  "headline": "Labour split over Rosebank, Welsh legal fight, US court hears Alaska case",
-  "overview": "The UK government faces internal Labour pressure on the Rosebank oil project while Wales confronts a legal challenge over a speaking ban. In the US, the Supreme Court will hear a case on asset forfeiture under the Eighth Amendment.",
+  "headline": "Devolution tensions, US civil‑rights lawsuit and US midterm shift dominate",
+  "overview": "The UK Government faces criticism over stalled devolution reforms while Wales debates policing powers. In the US, the ACLU challenges the Trump administration’s investigations of online critics, and Democrats celebrate a large congressional majority after the midterms.",
   "stories": [
    {
-    "title": "Labour MPs clash over Rosebank oil decision",
+    "title": "UK Government refuses further devolution to Wales",
     "section": "ukgov",
-    "topic": "pm-cabinet",
-    "what_happened": "Nearly 100 Labour MPs, including ministerial aides, have voiced opposition to Energy Secretary Miatta Fahnbulleh’s pending decision on the Rosebank oil field. Dozens of other Labour MPs warned Prime Minister Andy Burnham not to block the project.",
-    "why_it_matters": "The dispute highlights tensions between the executive’s control of energy policy and parliamentary party discipline, a key issue in the A-level study of the UK constitution and the role of the cabinet. It also shows how intra‑party conflict can affect government stability.",
+    "topic": "devolution",
+    "what_happened": "The UK Government declined to devolve policing and justice powers to Wales, prompting UNISON to call the move a ‘breach of trust’. The union sent a letter to Welsh Secretary Stephen Kinnock outlining its concerns.",
+    "why_it_matters": "Devolution is a key element of the UK constitution, showing how power is shared between Westminster and the nations. The dispute illustrates tensions between central authority and regional autonomy, a core AQA topic.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Proponents say the oil field will boost the economy and energy security."
+      "text": "The government says retaining control ensures consistent standards across the UK."
      },
      {
       "label": "Critics argue",
-      "text": "Opponents warn of environmental damage and a breach of Labour’s climate commitments."
-     },
-     {
-      "label": "From the left",
-      "text": "Left‑leaning commentators stress the need for a green transition over fossil fuel expansion."
-     }
-    ],
-    "key_term": {
-     "term": "Cabinet collective responsibility",
-     "definition": "The principle that all ministers must publicly support government decisions."
-    },
-    "exam_use": "Use as evidence of how cabinet decisions can be contested within a governing party in an essay on executive power.",
-    "sources": [
-     "ae20648e22af",
-     "8080b58cb941"
-    ]
-   },
-   {
-    "title": "Welsh MS faces legal challenge over speaking ban",
-    "section": "ukpol",
-    "topic": "judiciary",
-    "what_happened": "Reform Party MS Joe Martin was ordered to apologise for describing a \"replacement\" of white people and threatened to take legal action against the Senedd. Welsh taxpayers may fund the Senedd’s legal defence if the case proceeds.",
-    "why_it_matters": "The case raises questions about devolution, the limits of free speech in a devolved legislature, and the role of the judiciary in enforcing parliamentary standards—core topics in the AQA syllabus on devolution and the UK constitution.",
-    "perspectives": [
-     {
-      "label": "Supporters argue",
-      "text": "Reform claims the ban infringes on his right to free expression."
-     },
-     {
-      "label": "Critics argue",
-      "text": "Opponents say the language is hate speech and the ban protects minority rights."
+      "text": "Unions and Welsh officials claim the decision undermines the promised devolution settlement."
      },
      {
       "label": "From the right",
-      "text": "Right‑leaning voices warn that such bans could stifle legitimate debate."
+      "text": "Some conservatives view further devolution as unnecessary fragmentation of the state."
      }
     ],
     "key_term": {
-     "term": "Devolution",
+     "term": "devolution",
      "definition": "The statutory transfer of powers from the central UK Parliament to regional bodies."
     },
-    "exam_use": "Cite as a case study of devolution tensions and judicial oversight in an essay on the balance of powers.",
+    "exam_use": "Use as evidence in an essay on the strengths and weaknesses of the UK’s uncodified constitution.",
     "sources": [
-     "ccc81186e93f",
-     "bafd0a5d8a8e"
+     "08d403fd30d9"
     ]
    },
    {
-    "title": "Labour retains Flintshire seat amid Reform challenge",
+    "title": "Labour holds Flintshire council seat against Reform UK",
     "section": "ukpol",
-    "topic": "parties",
-    "what_happened": "Labour candidate Laura Murton won the Flintshire County Council by‑election, defeating Reform UK’s candidate. The result kept the seat under Labour control.",
-    "why_it_matters": "The outcome illustrates party competition at the local level and voter attitudes toward newer parties, linking to AQA topics on political parties and elections.",
+    "topic": "elections",
+    "what_happened": "Labour retained the Mold:Broncoed ward on Flintshire County Council, defeating Reform UK candidate Laura Murton. The result kept Labour in control of the council.",
+    "why_it_matters": "Local elections illustrate party competition and voter behaviour, linking to the AQA focus on elections and party systems. The by‑election shows how smaller parties can challenge major parties at the local level.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Labour sees the win as endorsement of its local policies."
+      "text": "Labour’s win demonstrates continued public support for its policies in Wales."
      },
      {
       "label": "Critics argue",
-      "text": "Reform argues the result shows the need for a stronger anti‑establishment voice."
+      "text": "Reform UK points to the close result as evidence of growing dissatisfaction with mainstream parties."
      },
      {
-      "label": "From the centre",
-      "text": "Analysts note the result reflects stable party loyalties in Wales."
+      "label": "From the left",
+      "text": "Progressive groups see the victory as a chance to push for more social investment locally."
      }
     ],
     "key_term": {
-     "term": "By‑election",
+     "term": "by‑election",
      "definition": "An election held to fill a political office that has become vacant between general elections."
     },
-    "exam_use": "Use to discuss the impact of third parties on the UK party system in an essay on elections.",
+    "exam_use": "Cite when discussing the impact of third‑party challenges on the two‑party system.",
     "sources": [
      "9f0f66118793"
     ]
    },
    {
-    "title": "US Supreme Court to hear Alaska aircraft forfeiture case",
+    "title": "ACLU sues Trump administration over ICE‑critic investigations",
     "section": "us",
     "topic": "us-courts",
-    "what_happened": "The Supreme Court scheduled oral arguments on whether Alaska’s seizure of a pilot’s $95,000 plane for transporting beer violates the Eighth Amendment’s prohibition of excessive fines. The case stems from a forfeiture after the pilot was caught with alcohol.",
-    "why_it_matters": "The case tests the scope of constitutional protections against punitive government actions, a key focus in the AQA study of the US Constitution and the role of the courts.",
+    "what_happened": "The American Civil Liberties Union filed a lawsuit seeking to stop the Trump administration from probing anonymous social‑media users who criticised ICE. The case argues the investigations breach First‑Amendment rights.",
+    "why_it_matters": "The case highlights the role of the US courts in protecting civil liberties, a key point in the AQA syllabus on the US constitution and judicial review.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "The state argues the forfeiture is a legitimate enforcement tool."
+      "text": "The ACLU says the suit defends free speech against government overreach."
      },
      {
       "label": "Critics argue",
-      "text": "Civil‑rights groups claim the penalty is disproportionate and unconstitutional."
+      "text": "The administration claims the investigations are necessary for national security."
      },
      {
       "label": "From the left",
-      "text": "Progressive commentators view the case as part of broader over‑reach by law‑enforcement."
+      "text": "Progressive commentators view the lawsuit as essential to curb authoritarian tendencies."
      }
     ],
     "key_term": {
-     "term": "Eighth Amendment",
-     "definition": "Part of the US Bill of Rights that forbids excessive bail, fines, and cruel and unusual punishment."
+     "term": "judicial review",
+     "definition": "The process by which courts examine the legality of executive actions."
     },
-    "exam_use": "Reference as evidence of judicial review of state actions in an essay on the US courts’ role.",
+    "exam_use": "Use as evidence when evaluating the checks and balances between the US executive and judiciary.",
     "sources": [
-     "979538dec733"
+     "734fe82d3ce8"
     ]
    },
    {
-    "title": "Ranking the top GOP presidential hopefuls",
+    "title": "Democrats secure large House majority after 2026 midterms",
     "section": "us",
     "topic": "us-parties",
-    "what_happened": "The Hill published a ranking of the five leading Republican candidates for the 2028 presidential primary, focusing on those who would continue former President Trump’s legacy. Vice President is highlighted as a front‑runner.",
-    "why_it_matters": "The piece illustrates intra‑party competition and the influence of former presidents on candidate selection, relevant to AQA topics on US parties and elections.",
+    "what_happened": "Democrats won a substantial majority in the House of Representatives in the 2026 midterm elections, exceeding most analysts’ expectations. Observers are debating whether this signals a lasting realignment.",
+    "why_it_matters": "The result illustrates party competition and electoral change, linking to the AQA focus on US parties and elections. It also raises questions about voter realignment theories.",
     "perspectives": [
      {
       "label": "Supporters argue",
-      "text": "Trump allies claim the candidates uphold core Republican values."
+      "text": "Democrats view the win as a mandate for their policy agenda."
      },
      {
       "label": "Critics argue",
-      "text": "Moderates warn the focus on Trump’s legacy could alienate swing voters."
+      "text": "Republicans warn the majority could lead to overreach and partisan grid‑lock."
      },
      {
-      "label": "From the right",
-      "text": "Conservative pundits stress the importance of maintaining the party’s original platform."
+      "label": "From the centre",
+      "text": "Political scientists note the result may reflect temporary reactions to economic conditions."
      }
     ],
     "key_term": {
-     "term": "Primary election",
-     "definition": "An election in which party members select their candidate for the general election."
+     "term": "realignment",
+     "definition": "A significant, lasting shift in the coalition of voters supporting a political party."
     },
-    "exam_use": "Use to discuss party dynamics and candidate selection in a US elections essay.",
+    "exam_use": "Reference when discussing factors that cause shifts in US party dominance.",
     "sources": [
-     "c10edbfe6376"
+     "b31a2269d3f9"
+    ]
+   },
+   {
+    "title": "Greek junior minister resigns amid contracts scandal",
+    "section": "ukgov",
+    "topic": "pm-cabinet",
+    "what_happened": "Vangelis Liakos, a junior minister in Greece, resigned after allegations of irregularities in public contracts. He had been appointed only two weeks earlier following a previous minister’s resignation.",
+    "why_it_matters": "While a foreign case, it offers a comparative example of cabinet accountability, relevant to the AQA study of the UK Prime Minister and Cabinet responsibilities.",
+    "perspectives": [
+     {
+      "label": "Supporters argue",
+      "text": "The swift resignation shows a commitment to ministerial responsibility."
+     },
+     {
+      "label": "Critics argue",
+      "text": "Opponents claim the scandal reflects deeper systemic corruption."
+     },
+     {
+      "label": "From the right",
+      "text": "Conservatives may use the incident to argue for stricter vetting of ministers."
+     }
+    ],
+    "key_term": {
+     "term": "ministerial responsibility",
+     "definition": "The principle that ministers are accountable for their personal conduct and their department’s actions."
+    },
+    "exam_use": "Use as a comparative case when evaluating the UK’s conventions on ministerial accountability.",
+    "sources": [
+     "3620fb5e062d"
     ]
    }
   ],
   "compare": {
    "theme": "elections",
-   "uk": "UK by‑elections like Flintshire show local party competition and can signal national trends, with first‑past‑the‑post determining the winner.",
-   "us": "US primaries involve party members ranking multiple candidates, with delegates allocated proportionally or winner‑takes‑all, shaping the presidential field.",
-   "insight": "The contrast highlights how the UK’s single‑member constituency system produces decisive local outcomes, whereas the US’s multi‑stage primary system emphasizes internal party contests before the general election.",
+   "uk": "Welsh local by‑elections show how smaller parties can challenge major parties in a first‑past‑the‑post system.",
+   "us": "The 2026 US midterms produced a large Democratic majority, illustrating the impact of proportional representation in the House and the role of swing voters.",
+   "insight": "The contrast highlights how electoral systems shape party success and voter behaviour in each country.",
    "sources": [
     "9f0f66118793",
-    "c10edbfe6376"
+    "b31a2269d3f9"
    ]
   },
   "ideas_lens": {
-   "ideology": "conservatism",
-   "text": "The Rosebank debate reflects conservative arguments for economic growth and energy security, echoing Edmund Burke’s emphasis on tradition and pragmatic governance. Critics invoke liberal environmental values, showing the ideological clash within Labour.",
+   "ideology": "liberalism",
+   "text": "The ACLU lawsuit embodies liberalism’s emphasis on individual rights and limited government, echoing John Locke’s ideas about protecting freedom of expression.",
    "sources": [
-    "ae20648e22af",
-    "8080b58cb941"
+    "734fe82d3ce8"
    ]
   },
   "exam_question": {
-   "question": "Evaluate the extent to which internal party disagreements can influence government policy in the UK and the US.",
+   "question": "Assess the extent to which devolution reforms in the UK and electoral outcomes in the US demonstrate the strengths and weaknesses of their respective constitutional arrangements.",
    "section": "ukgov | us",
-   "tip": "Structure your answer by comparing a UK case (e.g., Labour’s Rosebank split) with a US case (e.g., GOP primary dynamics), using specific examples and linking to concepts of party discipline and executive authority."
+   "tip": "Structure your answer by comparing the UK’s uncodified constitution with the US’s written constitution, using the Welsh devolution case and the 2026 US midterm results as evidence."
   }
  },
  "refs": {
-  "ae20648e22af": {
-   "id": "ae20648e22af",
-   "title": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
-   "link": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcscot",
-   "sourceName": "BBC Scotland",
-   "lean": "centre",
-   "date": "2026-11-26T16:29:54Z"
-  },
-  "8080b58cb941": {
-   "id": "8080b58cb941",
-   "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
-   "link": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
-   "source": "guardian",
-   "sourceName": "The Guardian",
-   "lean": "centre-left",
-   "date": "2026-11-27T17:39:10Z"
-  },
-  "ccc81186e93f": {
-   "id": "ccc81186e93f",
-   "title": "Reform's Joe Martin threatens legal challenge after being banned from speaking in Senedd",
-   "link": "https://www.bbc.co.uk/news/articles/crz9d30wklz3o?at_medium=RSS&at_campaign=rss",
-   "source": "bbcwales",
-   "sourceName": "BBC Wales",
-   "lean": "centre",
-   "date": "2026-11-27T15:28:20Z"
-  },
-  "bafd0a5d8a8e": {
-   "id": "bafd0a5d8a8e",
-   "title": "Welsh taxpayers face bill for Senedd’s defence against Reform MS’s legal fight",
-   "link": "https://nation.cymru/news/welsh-taxpayers-face-bill-for-senedds-defence-against-reform-mss-legal-fight/",
+  "08d403fd30d9": {
+   "id": "08d403fd30d9",
+   "title": "Union calls Burnham’s block on more powers for Wales a ‘breach of trust’",
+   "link": "https://nation.cymru/news/union-calls-burnhams-block-on-more-powers-for-wales-a-breach-of-trust/",
    "source": "nationcymru",
    "sourceName": "Nation.Cymru",
    "lean": "centre-left",
-   "date": "2026-11-27T21:01:48Z"
+   "date": "2026-11-28T12:33:16Z"
   },
   "9f0f66118793": {
    "id": "9f0f66118793",
@@ -223,23 +193,32 @@
    "lean": "centre-left",
    "date": "2026-11-27T14:50:49Z"
   },
-  "979538dec733": {
-   "id": "979538dec733",
-   "title": "Court to determine if Alaska’s seizure of pilot’s plane for carrying beer violates the Eighth Amendment",
-   "link": "https://www.scotusblog.com/2026/11/court-to-determine-if-alaskas-seizure-of-pilots-plane-for-carrying-beer-violates-the-eighth-amen/",
-   "source": "scotusblog",
-   "sourceName": "SCOTUSblog",
-   "lean": "non-partisan",
-   "date": "2026-11-27T14:30:00Z"
-  },
-  "c10edbfe6376": {
-   "id": "c10edbfe6376",
-   "title": "Ranking the top 5 GOP candidates for president",
-   "link": "https://thehill.com/homenews/campaign/6243598-gop-presidential-primary-candidates/",
+  "734fe82d3ce8": {
+   "id": "734fe82d3ce8",
+   "title": "ACLU sues Trump administration over investigations into online ICE critics",
+   "link": "https://thehill.com/regulation/court-battles/6245957-aclu-lawsuit-trump-anonymous-users/",
    "source": "thehill",
    "sourceName": "The Hill",
    "lean": "centre",
-   "date": "2026-11-27T11:00:00Z"
+   "date": "2026-11-28T13:38:00Z"
+  },
+  "b31a2269d3f9": {
+   "id": "b31a2269d3f9",
+   "title": "A realignment of US politics? What Democrats’ midterm blowout really means.",
+   "link": "https://www.csmonitor.com/USA/Politics/2026/1128/midterms-realignment-democrats-majority?icid=rss",
+   "source": "csm",
+   "sourceName": "Christian Science Monitor",
+   "lean": "centre",
+   "date": "2026-11-28T10:00:10Z"
+  },
+  "3620fb5e062d": {
+   "id": "3620fb5e062d",
+   "title": "Greek junior minister resigns amid public contracts controversy",
+   "link": "https://www.politico.eu/article/greek-junior-minister-vangelis-liakos-forced-to-resign-over-corruption-allegations/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "source": "politicoeu",
+   "sourceName": "Politico Europe",
+   "lean": "centre",
+   "date": "2026-11-28T13:08:02Z"
   }
  },
  "disclaimer": "AI-written summary of the linked reporting. Always read the original sources."
